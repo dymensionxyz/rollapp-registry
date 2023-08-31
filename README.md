@@ -39,7 +39,7 @@ Please follow the instructions for listing a RollApp:
     │       └── <RollApp-ID>-logo.svg
     ```
 
-5. Export the RollApps configuration JSON file by running `roller config export`. This will return a file that you will open a PR in this repository with. Add this information to the `<RollApp-ID>.json` file created.6. Add your RollApp logo in the `logos` folder. This can be SVG, PNG, or JPG format. Please keep the size of the file to a minimum of approximately 50KB.
+5. Export the RollApps configuration JSON file by running `roller config export`. This will return a file that you will open a PR in this repository with. Add this information to the `<RollApp-ID>.json` file created.6. Add your RollApp logo in the `logos` folder. This can be SVG, PNG, or JPG format. Please keep the size of the file under 50KB.
 
 6. Create a PR to https://github.com/dymensionXYZ/rollapp-registry. For a demonstration of a step-by-step guide to creating a PR please follow the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or watch this helpful [youtube video](https://www.youtube.com/watch?v=a_FLqX3vGR4).
 
