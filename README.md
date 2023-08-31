@@ -24,7 +24,7 @@ Please follow the instructions for listing a RollApp:
     $balance dym1g8sf7w4cz5gtupa6y62h3q6a4gjv37pgefnpt5 <RollApp-ID>
     ```
 
-3. Clone this repo using:
+3. Fork the RollApp-registry this repo into your GitHub account and then clone it using:
 
     ```bash
     git clone https://github.com/<your-github-username>/rollapp-registry
