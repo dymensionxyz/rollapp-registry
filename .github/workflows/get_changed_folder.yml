@@ -1,0 +1,35 @@
+name: Get Changed Folder
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  get_changed_folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Find changed folder
+        id: find_changed_folder
+        run: |
+          # Use git to get the list of changed files
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+
+          # Loop through the changed files to find the folders
+          for file in $changed_files; do
+            # Extract the folder path
+            folder=$(dirname "$file")
+
+            # Print the folder name
+            echo "::set-output name=changed_folder::$folder"
+          done
+
+      - name: Use the changed folder
+        run: |
+          # Access the changed folder from the previous step's output
+          changed_folder="${{ steps.find_changed_folder.outputs.changed_folder }}"
+          echo "Changed folder is: $changed_folder"
