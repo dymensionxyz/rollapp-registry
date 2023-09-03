@@ -12,7 +12,7 @@
     "analytics": false,
     "coinType": 60,
     "ibc": {
-                      "timeout": 172800000,
+      "timeout": 172800000,
       "channel": "channel-0",
       "hubChannel": "channel-198"
     },
