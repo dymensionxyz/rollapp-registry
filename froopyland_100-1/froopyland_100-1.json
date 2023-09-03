@@ -4,8 +4,8 @@
     "rpc": "https://froopyland.rpc.silknodes.io",
     "rest": "https://froopyland.api.silknodes.io",
     "evm": {
+              "rpc": "https://froopyland-json.rpc.silknodes.io",
       "chainId": "0x64",
-      "rpc": "https://froopyland-json.rpc.silknodes.io"
     },
     "explorerUrl": "https://explorer.silknodes.io/dymension",
     "exploreTxUrl": "https://explorer.silknodes.io/dymension/tx/",
