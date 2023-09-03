@@ -12,8 +12,8 @@
     "analytics": false,
     "coinType": 60,
     "ibc": {
+                      "timeout": 172800000,
       "channel": "channel-0",
-              "timeout": 172800000,
       "hubChannel": "channel-198"
     },
     "logo": "/logos/gochain_14325-1.png",
