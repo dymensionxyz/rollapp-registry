@@ -17,7 +17,7 @@ jobs:
         id: find_changed_folder
         run: |
           # Use git to get the list of changed files
-          changed_files=$(git diff --name-only ${{ github.sha }} ${{ github.sha }})
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
           # Loop through the changed files to find the folders
           for file in $changed_files; do
