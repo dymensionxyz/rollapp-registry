@@ -1,6 +1,7 @@
-# RollApp registry
+# RollApp Registry
 
-![RR](https://github.com/dymensionxyz/rollapp-registry/assets/109034310/31dada06-064d-41bc-854c-9181054bf7aa)
+![RR](https://github.com/dymensionxyz/rollapp-registry/assets/109034310/081caab5-01c4-4183-93dc-ae2604a1129f)
+
 
 A registry for RollApps on Froopyland testnet:
 
