@@ -27,7 +27,7 @@ jobs:
             # Extract the folder path
             folder=$(dirname "$file")
           
-            echo "File: ${{ folder }}
+            echo "File: $folder"
 
 
             # Print the folder name
