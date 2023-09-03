@@ -21,13 +21,14 @@ jobs:
           
           echo "GitHub Event Before: ${{ github.event.before }}"
           echo "GitHub SHA: ${{ github.sha }}"
-          echo "Folders: ${{ $changed_files[0] }}
 
           # Loop through the changed files to find the folders
           for file in $changed_files; do
-            echo "File: ${{ $file }}
             # Extract the folder path
             folder=$(dirname "$file")
+          
+            echo "File: ${{ $folder }}
+
 
             # Print the folder name
             echo "::set-output name=changed_folder::$folder"
