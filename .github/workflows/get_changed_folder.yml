@@ -7,11 +7,14 @@ on:
 
 jobs:
   get_changed_folder:
-    runs-on: ubuntu-20.04 # Use Ubuntu 20.04 which comes with Node.js 16
+    runs-on: ubuntu-latest
 
     steps:
       - name: Check out code
         uses: actions/checkout@v2
+
+      - name: Clean workspace
+        run: git clean -ffdx
 
       - name: Find changed folder
         id: find_changed_folder
