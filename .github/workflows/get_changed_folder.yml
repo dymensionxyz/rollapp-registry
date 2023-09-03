@@ -21,6 +21,7 @@ jobs:
           
           echo "GitHub Event Before: ${{ github.event.before }}"
           echo "GitHub SHA: ${{ github.sha }}"
+          echo "$changed_files"
 
           # Loop through the changed files to find the folders
           for file in $changed_files; do
