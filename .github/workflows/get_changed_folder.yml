@@ -16,6 +16,8 @@ jobs:
       - name: Find changed folder
         id: find_changed_folder
         run: |
+          echo "::set-output name=changed_files::$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})"
+
           changed_files=$(git diff --name-only ${{ github.sha }})
           
           
