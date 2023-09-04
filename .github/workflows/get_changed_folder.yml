@@ -44,7 +44,7 @@ jobs:
           
             # Add the directory to the array if it's not already in the array
             if [[ ! " ${changed_folders[@]} " =~ " ${immediate_ancestor} " ]]; then
-              changed_folders+=("immediate_ancestor")
+              changed_folders+=("$immediate_ancestor")
           
               echo 4444
               echo $changed_folders
