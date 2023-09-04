@@ -7,7 +7,7 @@
         "chainId": "0x37f5",
         "rpc": "https://froopyland.dymension.xyz/gochain/evmrpc"
     },
-    "chainName": "Gochain5",
+    "chainName": "Gochain6",
     "type": "RollApp",
     "analytics": false,
     "coinType": 60,
