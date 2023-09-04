@@ -2,11 +2,11 @@
     "da": "Avail",
     "rpc": "https://froopyland.dymension.xyz/jiemie_1616-6/rpc",
     "rest": "https://froopyland.dymension.xyz/jiemie_1616-6/rest",
+    "chainId": "jiemie_1616-6",
     "evm": {
       "chainId": "0x650",
       "rpc": "https://froopyland.dymension.xyz/jiemie_1616-6/evmrpc"
     },
-    "chainId": "jiemie_1616-6",
     "chainName": "PeoplePlus",
     "description": "Born for all, for all for one, for all for one",
     "type": "RollApp",
