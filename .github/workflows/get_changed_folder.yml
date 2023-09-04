@@ -37,7 +37,7 @@ jobs:
             echo $folder
           
             # Get the last part of the parent directory path (the immediate ancestor folder)
-            immediate_ancestor=$(basename "$parent_dir")
+            immediate_ancestor=$(basename "$folder")
           
             echo 333
             echo $immediate_ancestor
