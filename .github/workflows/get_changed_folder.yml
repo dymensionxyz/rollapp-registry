@@ -32,16 +32,12 @@ jobs:
 
             # Get the first part of the directory path (the first folder)
             base_folder=$(echo "$folder" | cut -d'/' -f1)
-          
-            echo "11111-$folder-$base_folder-"
-          
+                    
             # Check if the file being processed is the workflow YAML file, and skip it
             if [[ "$base_folder" == ".github" ]]; then
               continue
             fi
-          
-            echo $base_folder
-          
+                    
             # Add the directory to the array if it's not already in the array
             if [[ ! " ${changed_folders[@]} " =~ " ${base_folder} " ]]; then
               changed_folders+=("$base_folder")
@@ -51,8 +47,12 @@ jobs:
           # Set the output variable with the list of changed folders
           echo "::set-output name=changed_folders::${changed_folders[*]}"
 
-      - name: Use the changed folder
+      - name: Use the changed folders
         run: |
-          # Access the changed folder from the previous step's output
+          # Access the changed folders from the previous step's output
           changed_folders="${{ steps.find_changed_folder.outputs.changed_folders }}"
-          echo "Changed folders is: $changed_folders"
+   
+          # Make an API requests with the extracted folders as query parameters
+          for folder in $changed_folders; do     
+            curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder"          
+          done
