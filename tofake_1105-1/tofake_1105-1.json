@@ -7,8 +7,8 @@
       "chainId": "0x451",
       "rpc": "https://froopyland.dymension.xyz/tofake_1105-1/evmrpc"
     },
-    "type": "RollApp",
     "coinType": 60,
+    "type": "RollApp",
     "ibc": {
       "timeout": 172800000,
       "channel": "channel-2",

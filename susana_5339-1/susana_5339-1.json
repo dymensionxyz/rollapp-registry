@@ -7,8 +7,8 @@
       "chainId": "0x14db",
       "rpc": "https://froopyland.dymension.xyz/susana_5339/evmrpc"
     },
-    "type": "RollApp",
     "coinType": 60,
+    "type": "RollApp",
     "ibc": {
       "timeout": 172800000,
       "channel": "channel-0",

@@ -8,8 +8,8 @@
     },
     "chainName": "TVH Finance",
     "description": "Empower Your Wealth with Decentralized Finance",
-    "type": "RollApp",
     "coinType": 60,
+    "type": "RollApp",
     "ibc": {
       "timeout": 172800000,
       "channel": "channel-0",

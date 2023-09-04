@@ -9,8 +9,8 @@
       "rpc": "https://froopyland.dymension.xyz/vidi_888555888/evmrpc"
     },
     "website": "https://link3.to/vidiweb3blockchain",
-    "type": "RollApp",
     "coinType": 60,
+    "type": "RollApp",
     "ibc": {
       "timeout": 172800000,
       "channel": "channel-0",
