@@ -12,11 +12,14 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: ItzhakBokris/changes-script
 
       - name: Find changed folder
         id: find_changed_folder
         run: |
-          changed_files=$(git diff --name-only ${{ github.event.before }})
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
           
           # Loop through the changed files to find the folders
           for file in $changed_files; do
