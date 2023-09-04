@@ -65,8 +65,16 @@ Please follow the instructions for listing a RollApp:
 
     d. Logo path: `"/logos/<RollApp-ID>-logo.svg"`
 
-9. Create a PR to https://github.com/dymensionXYZ/rollapp-registry. For a demonstration of a step-by-step guide to creating a PR please follow the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or watch this helpful [youtube video](https://www.youtube.com/watch?v=a_FLqX3vGR4).
+9. Add and commit your changes:
 
-10. Pair the RollApp on the Discord channel: [here](https://discord.com/channels/956961633165529098/1140590139022782474) by entering `$pair <RollApp-ID>` (replace `<RollApp-ID>` with your customized RollApp ID).
+```
+git add .
+git commit -m "added RollApp"
+git push -u origin main
+```
+
+10. Create a PR to https://github.com/dymensionXYZ/rollapp-registry. For a demonstration of a step-by-step guide to creating a PR please follow the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or watch this helpful [youtube video](https://www.youtube.com/watch?v=a_FLqX3vGR4).
+
+11. Pair the RollApp on the Discord channel: [here](https://discord.com/channels/956961633165529098/1140590139022782474) by entering `$pair <RollApp-ID>` (replace `<RollApp-ID>` with your customized RollApp ID).
 
     A community moderator will then begin a conversation with you in Discord. Please follow attentively to get the listing process fulfilled quickly. If you have any question please feel free to reach out to the coreteam and community on Discord. We're here for you!
