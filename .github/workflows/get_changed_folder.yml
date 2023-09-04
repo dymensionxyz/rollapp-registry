@@ -16,8 +16,8 @@ jobs:
           fetch-depth: 0
           ref: ItzhakBokris/changes-script
 
-      - name: Fetch changed jsons
-        id: fetch_changed_jsons
+      - name: Upload changed jsons
+        id: upload_changed_jsons
         run: |
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
@@ -38,21 +38,10 @@ jobs:
             # Read the content of the file
             file_content=$(cat "$file")
           
-            # Add the json to the jsons array
-            changed_jsons+=("$file_content")
-          done
-                    
-          # Set the output variable with the list of changed jsons
-          echo "::set-output name=changed_jsons::${changed_jsons[*]}"
-
-      - name: Use the changed jsons
-        run: |
-          echo 1111
-          # Access the changed jsons from the previous step's output
-          changed_jsons="${{ steps.fetch_changed_jsons.outputs.changed_jsons }}"
-
-          # Make an API requests with the extracted jsons as query parameters
-          for json in $changed_jsons; do
+            
+            echo 2222
+   
+            # Make an API post request with the extracted json
             echo "2222-$json"
             curl -X POT -H "Content-type: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
