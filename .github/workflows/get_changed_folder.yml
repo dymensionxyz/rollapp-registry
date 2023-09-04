@@ -47,11 +47,12 @@ jobs:
 
       - name: Use the changed jsons
         run: |
+          echo 1111
           # Access the changed jsons from the previous step's output
           changed_jsons="${{ steps.fetch_changed_jsons.outputs.changed_jsons }}"
 
           # Make an API requests with the extracted jsons as query parameters
           for json in $changed_jsons; do
-            echo $json
+            echo "2222-$json"
             curl -X POT -H "Content-type: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
