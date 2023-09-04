@@ -54,5 +54,5 @@ jobs:
 
           # Make an API requests with the extracted jsons as query parameters
           for json in $changed_jsons; do
-            curl -X GET -H "Content-type: application/json -H "Accept: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            curl -X GET -H "Content-type: application/json" -H "Accept: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
