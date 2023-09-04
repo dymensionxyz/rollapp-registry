@@ -6,7 +6,7 @@
       "chainId": "0x36870",
       "rpc": "https://froopyland.dymension.xyz/linda_223344/evmrpc"
     },
-    "chainName": "MOON",
+    "chainName": "MOON8",
     "type": "RollApp",
     "coinType": 60,
     "ibc": {
