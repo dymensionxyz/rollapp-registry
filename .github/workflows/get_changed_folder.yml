@@ -16,43 +16,46 @@ jobs:
           fetch-depth: 0
           ref: ItzhakBokris/changes-script
 
-      - name: Find changed folder
-        id: find_changed_folder
+      - name: Find changed jsons
+        id: find_changed_jsons
         run: |
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
-          # Initialize an empty array to store unique directory names
-          changed_folders=()
+          # Initialize an empty array to store the changed network jsons
+          changed_jsons=()
   
-          # Loop through the changed files to find the folders
+          # Loop through the changed files to fetch the content
           for file in $changed_files; do
-            # Extract the folder path
-            folder=$(dirname "$file")
-
-            # Get the first part of the directory path (the first folder)
-            base_folder=$(echo "$folder" | cut -d'/' -f1)
-                    
-            # Check if the file being processed is the workflow YAML file, and skip it
-            if [[ "$base_folder" == ".github" ]]; then
+            # Use the file command to check the MIME type
+            mime_type=$(file -b --mime-type "$file")
+  
+            # Check if the MIME type is JSON
+            if [[ ! "$mime_type" == "application/json" ]]; then
               continue
             fi
-                    
-            # Add the directory to the array if it's not already in the array
-            if [[ ! " ${changed_folders[@]} " =~ " ${base_folder} " ]]; then
-              changed_folders+=("$base_folder")
-            fi
+          
+            echo "is JSON"
+            echo $file
+          
+            # Read the content of the file
+            file_content=$(cat "$file")
+            echo $file_content
+
+            changed_jsons+=("$file_content")
           done
           
-          # Set the output variable with the list of changed folders
-          echo "::set-output name=changed_folders::${changed_folders[*]}"
+          echo changed_jsons
+          
+          # Set the output variable with the list of changed jsons
+          echo "::set-output name=changed_jsons::${changed_jsons[*]}"
 
-      - name: Use the changed folders
+      - name: Use the changed jsons
         run: |
-          # Access the changed folders from the previous step's output
-          changed_folders="${{ steps.find_changed_folder.outputs.changed_folders }}"
-   
-          # Make an API requests with the extracted folders as query parameters
-          for folder in $changed_folders; do     
-            seq 1 200 | xargs -n1 -P10 curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder" --connect-timeout 420      
-          done
+#          # Access the changed folders from the previous step's output
+#          changed_folders="${{ steps.find_changed_folder.outputs.changed_folders }}"
+#
+#          # Make an API requests with the extracted folders as query parameters
+#          for folder in $changed_folders; do
+#            seq 1 200 | xargs -n1 -P10 curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder" --connect-timeout 420
+#          done
