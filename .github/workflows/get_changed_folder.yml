@@ -3,7 +3,7 @@ name: Get Changed Folder
 on:
   push:
     branches:
-      - main
+      - ItzhakBokris/changes-script
 
 jobs:
   get_changed_folder:
@@ -16,15 +16,13 @@ jobs:
       - name: Find changed folder
         id: find_changed_folder
         run: |
-          git log
-
-          changed_files=$(git diff --name-only ${{ github.sha }})
+          if [[ -n "${{ github.event.before }}" ]]; then
+            changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+          else
+            # If github.event.before is not available (e.g., on the first commit of a branch), just get the changed files in the current commit
+            changed_files=$(git diff --name-only ${{ github.sha }}^)
+          fi
           
-          
-          echo "GitHub Event Before: ${{ github.event.before }}"
-          echo "GitHub SHA: ${{ github.sha }}"
-          echo "$changed_files"
-
           # Loop through the changed files to find the folders
           for file in $changed_files; do
             # Extract the folder path
