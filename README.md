@@ -9,7 +9,7 @@ This repository is dedicated to the listing process of RollApps on the [Portal](
 
 Please follow the instructions for listing a RollApp:
 
-1. Make sure to have successfully deployed and are running a RollApp instance. All outputs on `Roller Run` screen should show the RollApp running in `active` state.
+1. Make sure to have successfully deployed and are running a RollApp instance. 
 
 2. Fund the Faucet and test the IBC connection by submitting an IBC transfer of your RollApp token to the Dymension Hub faucet with the following command:
 
