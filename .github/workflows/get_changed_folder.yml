@@ -1,4 +1,4 @@
-name: Get Changed Folder
+name: Upload Changed Networks
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - ItzhakBokris/changes-script
 
 jobs:
-  get_changed_folder:
+  upload_changed_networks:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,8 +16,8 @@ jobs:
           fetch-depth: 0
           ref: ItzhakBokris/changes-script
 
-      - name: Find changed jsons
-        id: find_changed_jsons
+      - name: Fetch changed jsons
+        id: fetch_changed_jsons
         run: |
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
@@ -49,10 +49,10 @@ jobs:
 
       - name: Use the changed jsons
         run: |
-#          # Access the changed folders from the previous step's output
-#          changed_folders="${{ steps.find_changed_folder.outputs.changed_folders }}"
-#
-#          # Make an API requests with the extracted folders as query parameters
-#          for folder in $changed_folders; do
-#            seq 1 200 | xargs -n1 -P10 curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder" --connect-timeout 420
-#          done
+          # Access the changed jsons from the previous step's output
+          changed_jsons="${{ steps.fetch_changed_jsons.outputs.changed_jsons }}"
+
+          # Make an API requests with the extracted jsons as query parameters
+          for json in $changed_jsons; do
+            curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?data=$json"
+          done
