@@ -21,10 +21,7 @@ jobs:
         run: |
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
-          
-          echo 111
-          echo $changed_files
-          
+
           # Initialize an empty array to store unique directory names
           changed_folders=()
   
@@ -32,27 +29,20 @@ jobs:
           for file in $changed_files; do
             # Extract the folder path
             folder=$(dirname "$file")
-          
-            echo 2222
-            echo $folder
-          
-            # Get the last part of the parent directory path (the immediate ancestor folder)
-            immediate_ancestor=$(basename "$folder")
+
+            # Get the first part of the directory path (the first folder)
+            base_folder=$(echo "$folder" | cut -d'/' -f2)
           
             # Check if the file being processed is the workflow YAML file, and skip it
-            if [[ "$immediate_ancestor" == "workflows" ]]; then
+            if [[ "$base_folder" == ".github" ]]; then
               continue
             fi
           
-            echo 333
-            echo $immediate_ancestor
+            echo $base_folder
           
             # Add the directory to the array if it's not already in the array
-            if [[ ! " ${changed_folders[@]} " =~ " ${immediate_ancestor} " ]]; then
-              changed_folders+=("$immediate_ancestor")
-          
-              echo 4444
-              echo $changed_folders
+            if [[ ! " ${changed_folders[@]} " =~ " ${base_folder} " ]]; then
+              changed_folders+=("$base_folder")
             fi
           done
           
