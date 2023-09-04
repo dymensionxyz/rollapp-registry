@@ -1,6 +1,6 @@
 {
   "chainId": "froopyland_100-1",
-  "chainName": "Dymension Froopyland24",
+  "chainName": "Dymension Froopyland25",
   "rpc": "https://froopyland.rpc.silknodes.io",
   "rest": "https://froopyland.api.silknodes.io",
   "evm": {
