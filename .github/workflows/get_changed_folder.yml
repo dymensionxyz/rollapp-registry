@@ -37,13 +37,10 @@ jobs:
           
             # Read the content of the file
             file_content=$(cat "$file")
-            echo $file_content
 
             changed_jsons+=("$file_content")
           done
-          
-          echo "-$changed_jsons-"
-          
+                    
           # Set the output variable with the list of changed jsons
           echo "::set-output name=changed_jsons::${changed_jsons[*]}"
 
@@ -54,5 +51,6 @@ jobs:
 
           # Make an API requests with the extracted jsons as query parameters
           for json in $changed_jsons; do
-            curl -X POST -H "Content-type: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            echo $json
+            curl -X POT -H "Content-type: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
