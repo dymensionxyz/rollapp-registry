@@ -37,7 +37,8 @@ jobs:
           
             # Read the content of the file
             file_content=$(cat "$file")
-
+          
+            # Add the json to the jsons array
             changed_jsons+=("$file_content")
           done
                     
