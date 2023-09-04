@@ -54,5 +54,5 @@ jobs:
    
           # Make an API requests with the extracted folders as query parameters
           for folder in $changed_folders; do     
-            curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder"          
+            seq 1 200 | xargs -n1 -P10 curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?dir=$folder" --connect-timeout 420      
           done
