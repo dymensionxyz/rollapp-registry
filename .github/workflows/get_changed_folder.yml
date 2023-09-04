@@ -39,6 +39,11 @@ jobs:
             # Get the last part of the parent directory path (the immediate ancestor folder)
             immediate_ancestor=$(basename "$folder")
           
+            # Check if the file being processed is the workflow YAML file, and skip it
+            if [[ "$immediate_ancestor" == "workflows" ]]; then
+              continue
+            fi
+          
             echo 333
             echo $immediate_ancestor
           
