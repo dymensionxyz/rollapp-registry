@@ -1,7 +1,7 @@
   {
     "da": "Celestia",
     "rpc": "https://froopyland.dymension.xyz/phongdn_1-1/rpc",
-    "chainName": "PhongDn",
+    "chainName": "PhongDn2",
     "rest": "https://froopyland.dymension.xyz/phongdn_1-1/rest",
     "evm": {
       "chainId": "0x1",
