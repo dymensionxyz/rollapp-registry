@@ -43,6 +43,6 @@ jobs:
           
           
             # Make an API post request with the extracted json
-            echo curl -X POT -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
-            curl -X POT -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            echo curl -X POST -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            curl -X POST -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
