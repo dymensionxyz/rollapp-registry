@@ -42,7 +42,7 @@ jobs:
             changed_jsons+=("$file_content")
           done
           
-          echo changed_jsons
+          echo $changed_jsons
           
           # Set the output variable with the list of changed jsons
           echo "::set-output name=changed_jsons::${changed_jsons[*]}"
