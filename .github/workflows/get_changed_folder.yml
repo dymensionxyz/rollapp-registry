@@ -31,7 +31,7 @@ jobs:
             folder=$(dirname "$file")
 
             # Get the first part of the directory path (the first folder)
-            base_folder=$(echo "$folder" | cut -d'/' -f2)
+            base_folder=$(echo "$folder" | cut -d'/' -f1)
           
             echo "11111 - $folder - $base_folder - $(basename $folder)"
           
