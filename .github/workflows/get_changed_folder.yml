@@ -33,6 +33,8 @@ jobs:
             # Get the first part of the directory path (the first folder)
             base_folder=$(echo "$folder" | cut -d'/' -f2)
           
+            echo "11111 - $folder - $base_folder - $(basename $folder)"
+          
             # Check if the file being processed is the workflow YAML file, and skip it
             if [[ "$base_folder" == "workflows" ]]; then
               continue
