@@ -19,22 +19,31 @@ jobs:
       - name: Find changed folder
         id: find_changed_folder
         run: |
+          # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
           
+          # Initialize an empty array to store unique directory names
+          changed_folders=()
+  
           # Loop through the changed files to find the folders
           for file in $changed_files; do
             # Extract the folder path
             folder=$(dirname "$file")
           
-            echo "File: $folder"
-
-
-            # Print the folder name
-            echo "::set-output name=changed_folder::$folder"
+            # Get the last part of the parent directory path (the immediate ancestor folder)
+            immediate_ancestor=$(basename "$parent_dir")
+          
+            # Add the directory to the array if it's not already in the array
+            if [[ ! " ${changed_folders[@]} " =~ " ${immediate_ancestor} " ]]; then
+              changed_folders+=("immediate_ancestor")
+            fi
           done
+          
+          # Set the output variable with the list of changed folders
+          echo "::set-output name=changed_folders::${changed_folders[*]}"
 
       - name: Use the changed folder
         run: |
           # Access the changed folder from the previous step's output
-          changed_folder="${{ steps.find_changed_folder.outputs.changed_folder }}"
-          echo "Changed folder is: $changed_folder"
+          changed_folders="${{ steps.find_changed_folder.outputs.changed_folders }}"
+          echo "Changed folders is: $changed_folders"
