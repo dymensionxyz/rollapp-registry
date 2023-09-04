@@ -4,7 +4,7 @@
     "description": "platform for exploring, creating, and trading NFTs",
     "rest": "https://froopyland.dymension.xyz/gochain/rest",
     "evm": {
-                "chainId": "0x37f5",
+        "chainId": "0x37f5",
         "rpc": "https://froopyland.dymension.xyz/gochain/evmrpc"
     },
     "chainName": "Gochain",

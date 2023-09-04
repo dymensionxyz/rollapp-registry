@@ -1,4 +1,4 @@
-name: Get Changed Folder
+name: Upload Changed Networks
 
 on:
   push:
@@ -6,39 +6,41 @@ on:
       - main
 
 jobs:
-  get_changed_folder:
+  upload_changed_networks:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
 
-      - name: Find changed folder
-        id: find_changed_folder
+      - name: Upload changed jsons
+        id: upload_changed_jsons
         run: |
-          git log
+          # Use git to get the list of changed files
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
-          changed_files=$(git diff --name-only ${{ github.sha }})
-          
-          
-          echo "GitHub Event Before: ${{ github.event.before }}"
-          echo "GitHub SHA: ${{ github.sha }}"
-          echo "$changed_files"
-
-          # Loop through the changed files to find the folders
+          # Initialize an empty array to store the changed network jsons
+          changed_jsons=()
+  
+          # Loop through the changed files to fetch the content
           for file in $changed_files; do
-            # Extract the folder path
-            folder=$(dirname "$file")
+            # Use the file command to check the MIME type
+            mime_type=$(file -b --mime-type "$file")
+  
+            # Check if the MIME type is JSON
+            if [[ ! "$mime_type" == "application/json" ]]; then
+              continue
+            fi
           
-            echo "File: $folder"
-
-
-            # Print the folder name
-            echo "::set-output name=changed_folder::$folder"
+            # Read the content of the file
+            file_content=$(cat "$file")
+          
+            # Parse the JSON data
+            parsed_json=$(echo "$file_content" | jq -c .)
+          
+            # Make an API post request with the extracted json
+            curl -X POST -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
-
-      - name: Use the changed folder
-        run: |
-          # Access the changed folder from the previous step's output
-          changed_folder="${{ steps.find_changed_folder.outputs.changed_folder }}"
-          echo "Changed folder is: $changed_folder"
