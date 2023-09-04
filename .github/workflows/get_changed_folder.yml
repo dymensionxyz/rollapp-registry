@@ -37,9 +37,11 @@ jobs:
           
             # Read the content of the file
             file_content=$(cat "$file")
-            echo $file_content
-
-            changed_jsons+=("$file_content")
+          
+            # Parse the JSON data
+            parsed_json=$(echo "$file_content" | jq -c .
+          
+            changed_jsons+=("$parsed_json")
           done
           
           echo $changed_jsons
