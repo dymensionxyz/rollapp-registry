@@ -15,13 +15,13 @@
       "channel": "channel-0",
       "hubChannel": "channel-2"
     },
-    "logo": "/logos/phongdn_1_1 .png",
+    "logo": "/logos/phongdn_1_1.png",
     "chainId": "phongdn_1-1",
     "currencies": [
       {
         "baseDenom": "uRAX",
         "decimals": 18,
-        "logo": "/logos/phongdn_1_1 .png",
+        "logo": "/logos/phongdn_1_1.png",
         "displayDenom": "RAX",
         "type": "main"
       }
