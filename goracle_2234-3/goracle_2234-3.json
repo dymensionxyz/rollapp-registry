@@ -8,8 +8,8 @@
       "rpc": "https://froopyland.dymension.xyz/goracle_2234-3/evmrpc"
     },
     "description": "Gora-critical insurance of data availability",
-    "type": "RollApp",
     "coinType": 60,
+    "type": "RollApp",
     "ibc": {
       "timeout": 172800000,
       "channel": "channel-0",
