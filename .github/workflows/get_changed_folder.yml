@@ -16,7 +16,7 @@ jobs:
       - name: Find changed folder
         id: find_changed_folder
         run: |
-          echo "git log"
+          echo "${{ git log }}"
 
           changed_files=$(git diff --name-only ${{ github.sha }})
           
