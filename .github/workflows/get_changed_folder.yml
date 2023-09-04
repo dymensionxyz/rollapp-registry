@@ -42,6 +42,6 @@ jobs:
             echo 2222
    
             # Make an API post request with the extracted json
-            echo "2222-$json"
-            curl -X POT -H "Content-type: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            echo "2222-$file_content"
+            curl -X POT -H "Content-type: application/json" -d $file_content "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
