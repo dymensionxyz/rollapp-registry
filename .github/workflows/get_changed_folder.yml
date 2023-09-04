@@ -39,6 +39,6 @@ jobs:
             file_content=$(cat "$file")
           
             # Make an API post request with the extracted json
-            echo curl -X POT -H "Content-type: application/json" -d "$file_content" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
-            curl -X POT -H "Content-type: application/json" -d "$file_content" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            echo curl -X POT -H "Content-type: application/json" -d "'$file_content'" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            curl -X POT -H "Content-type: application/json" -d "'$file_content'" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
