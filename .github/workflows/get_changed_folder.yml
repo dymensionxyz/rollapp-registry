@@ -37,11 +37,9 @@ jobs:
           
             # Read the content of the file
             file_content=$(cat "$file")
-          
-            # Parse the JSON data
-            parsed_json=$(echo "$file_content" | jq -c .
-          
-            changed_jsons+=("$parsed_json")
+            echo $file_content
+
+            changed_jsons+=("$file_content")
           done
           
           echo $changed_jsons
@@ -56,5 +54,5 @@ jobs:
 
           # Make an API requests with the extracted jsons as query parameters
           for json in $changed_jsons; do
-            curl -X GET "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app?data=$json"
+            curl -i GET -H "Accept: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
