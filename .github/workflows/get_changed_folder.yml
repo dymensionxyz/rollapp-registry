@@ -22,6 +22,9 @@ jobs:
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
           
+          echo 111
+          echo $changed_files
+          
           # Initialize an empty array to store unique directory names
           changed_folders=()
   
@@ -30,12 +33,21 @@ jobs:
             # Extract the folder path
             folder=$(dirname "$file")
           
+            echo 2222
+            echo $folder
+          
             # Get the last part of the parent directory path (the immediate ancestor folder)
             immediate_ancestor=$(basename "$parent_dir")
+          
+            echo 333
+            echo $immediate_ancestor
           
             # Add the directory to the array if it's not already in the array
             if [[ ! " ${changed_folders[@]} " =~ " ${immediate_ancestor} " ]]; then
               changed_folders+=("immediate_ancestor")
+          
+              echo 4444
+              echo $changed_folders
             fi
           done
           
