@@ -41,8 +41,6 @@ jobs:
             # Parse the JSON data
             parsed_json=$(echo "$file_content" | jq -c .)
           
-          
             # Make an API post request with the extracted json
-            echo curl -X POST -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
             curl -X POST -H "Content-type: application/json" -d "$parsed_json" "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
