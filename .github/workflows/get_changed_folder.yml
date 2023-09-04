@@ -35,9 +35,6 @@ jobs:
               continue
             fi
           
-            echo "is JSON"
-            echo $file
-          
             # Read the content of the file
             file_content=$(cat "$file")
             echo $file_content
