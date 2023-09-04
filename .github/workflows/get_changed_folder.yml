@@ -24,12 +24,12 @@ jobs:
 
           # Initialize an empty array to store the changed network jsons
           changed_jsons=()
-  
+          
           # Loop through the changed files to fetch the content
           for file in $changed_files; do
             # Use the file command to check the MIME type
             mime_type=$(file -b --mime-type "$file")
-  
+          
             # Check if the MIME type is JSON
             if [[ ! "$mime_type" == "application/json" ]]; then
               continue
@@ -54,5 +54,5 @@ jobs:
 
           # Make an API requests with the extracted jsons as query parameters
           for json in $changed_jsons; do
-            curl -i GET -H "Accept: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+            curl -X GET -H "Content-type: application/json -H "Accept: application/json" -d $json "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
