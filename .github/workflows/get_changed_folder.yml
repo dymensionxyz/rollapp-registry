@@ -34,7 +34,7 @@ jobs:
             base_folder=$(echo "$folder" | cut -d'/' -f2)
           
             # Check if the file being processed is the workflow YAML file, and skip it
-            if [[ "$base_folder" == ".github" ]]; then
+            if [[ "$base_folder" == "workflows" ]]; then
               continue
             fi
           
