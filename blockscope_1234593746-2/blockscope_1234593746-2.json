@@ -1,0 +1,31 @@
+{
+  "chainId": "blockscope_1234593746-2",
+  "chainName": "blockscope_1234593746-2",
+  "rpc": "http://51.159.97.212:26657",
+  "rest": "http://51.159.97.212:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BSN",
+      "baseDenom": "uBSN",
+      "decimals": 18,
+      "logo": "/logos/blockscope_1234593746-2.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/blockscope_1234593746-2.png",
+  "ibc": {
+    "hubChannel": "channel-5277",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x499667d2",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": false
+}
