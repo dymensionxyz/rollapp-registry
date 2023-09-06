@@ -1,8 +1,8 @@
 {
   "chainId": "blockscope_1234593746-2",
-  "chainName": "blockscope_1234593746-2",
-  "rpc": "http://51.159.97.212:26657",
-  "rest": "http://51.159.97.212:1317",
+  "chainName": "Blockscope",
+  "rpc": "https://froopyland.dymension.xyz/blockscope_1234593746-2/rpc",
+  "rest": "https://froopyland.dymension.xyz/blockscope_1234593746-2/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,9 +23,9 @@
   },
   "evm": {
     "chainId": "0x499667d2",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/blockscope_1234593746-2/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "analytics": false
+  "analytics": true
 }
