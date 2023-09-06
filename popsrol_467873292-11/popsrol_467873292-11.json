@@ -1,8 +1,8 @@
 {
   "chainId": "popsrol_467873292-11",
-  "chainName": "popsrol_467873292-11",
-  "rpc": "rol01-dym-t.pops.one:26657",
-  "rest": "rol01-dym-t.pops.one:1317",
+  "chainName": "P-OPS",
+  "rpc": "https://froopyland.dymension.xyz/popsrol_467873292-11/rpc",
+  "rest": " https://froopyland.dymension.xyz/popsrol_467873292-11/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,9 +23,9 @@
   },
   "evm": {
     "chainId": "0x1be32e0c",
-    "rpc": "rol01-dym-t.pops.one:8545"
+    "rpc": " https://froopyland.dymension.xyz/popsrol_467873292-11/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
-  "analytics": false
+  "analytics": true
 }
