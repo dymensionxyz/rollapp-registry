@@ -1,6 +1,6 @@
 {
     "chainId": "wetezrollapp_822-1",
-    "chainName": "wetezrollapp_822-1",
+    "chainName": "Wetez",
     "rpc": "http://65.108.73.124:26657",
     "rest": "http://65.108.73.124:1317",
     "bech32Prefix": "ethm",
