@@ -1,0 +1,31 @@
+{
+    "chainId": "wetezrollapp_822-1",
+    "chainName": "wetezrollapp_822-1",
+    "rpc": "http://65.108.73.124:26657",
+    "rest": "http://65.108.73.124:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "RAX",
+            "baseDenom": "uRAX",
+            "decimals": 18,
+            "logo": "/logos/wetezrollapp_822-1.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/wetezrollapp_822-1.png",
+    "ibc": {
+        "hubChannel": "channel-154",
+        "channel": "channel-3",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x336",
+        "rpc": "http://65.108.73.124:1317"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": false
+}
