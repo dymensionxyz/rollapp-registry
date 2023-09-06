@@ -1,8 +1,8 @@
 {
   "chainId": "qubelabs_8585-1",
-  "chainName": "qubelabs_8585-1",
-  "rpc": "http://57.128.192.23:26657",
-  "rest": "http://57.128.192.23:1317",
+  "chainName": "Qubelabs RollApp",
+  "rpc": "https://froopyland.dymension.xyz/qubelabs_8585-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/qubelabs_8585-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,9 +23,9 @@
   },
   "evm": {
     "chainId": "0x2189",
-    "rpc": "http://57.128.192.23:8545"
+    "rpc": "https://froopyland.dymension.xyz/qubelabs_8585-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "analytics": false
+  "analytics": true
 }
