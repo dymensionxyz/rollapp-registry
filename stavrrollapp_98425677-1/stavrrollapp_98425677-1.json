@@ -1,8 +1,8 @@
 {
   "chainId": "stavrrollapp_98425677-1",
   "chainName": "stavrrollapp_98425677-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://dymension_rpc-rollap.stavr.tech:26657",
+  "rest": "http://dymension_rest-rollap.stavr.tech:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x5dddb4d",
-    "rpc": ""
+    "rpc": "http://dymension_evmrpc-rollap.stavr.tech:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
