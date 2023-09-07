@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x6275b8",
-    "rpc": "https://jrpc-dymroller.nodeist.net:8345"
+    "rpc": "https://jrpc-dymroller.nodeist.net"
   },
   "type": "RollApp",
   "da": "Celestia",
