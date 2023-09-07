@@ -25,8 +25,6 @@ Please follow the instructions for listing a RollApp:
 
 3. Fork the RollApp-registry [repo](https://github.com/dymensionxyz/rollapp-registry) into your GitHub account:
 
-<img class="image--primary" loading="eager" src={require('@site/static/img/fork.png').default} alt="background" />
-
 4. Clone it by running the following command:
 
     ```bash
