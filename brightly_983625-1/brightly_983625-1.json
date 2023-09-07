@@ -1,6 +1,6 @@
 {
   "chainId": "brightly_983625-1",
-  "chainName": "brightly_983625-1",
+  "chainName": "Brightly Stake",
   "rpc": "https://dym.brightlystake.com/",
   "rest": "https://dym.brightlystake.com/rest/",
   "bech32Prefix": "ethm",
