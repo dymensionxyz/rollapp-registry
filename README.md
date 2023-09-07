@@ -60,11 +60,12 @@ Please follow the instructions for listing a RollApp:
     ```
 
 10. Copy paste the JSON output to the `<RollApp-ID>.json` and fill in the following fields:
-    a. RPC: `"http://<your-ip-or-domain>:<port>" (default port 26657)`
-    b. REST: ` "http://<your-ip-or-domain>:<port>" (default port 1317)`
-    c. EVM RPC \*(ONLY FOR EVM ROLLAPPS): `"http://<your-ip-or-domain>:<port>" (default port 8545)`
-    d. Logo path: `"/logos/<RollApp-ID>-logo.svg"`
-    e. chainName: from `<RollApp-ID>`to your RollApp's name as it will appear on the Portal
+
+    - RPC: `"http://<your-ip-or-domain>:<port>" (default port 26657)`
+    - REST: ` "http://<your-ip-or-domain>:<port>" (default port 1317)`
+    - EVM RPC \*(ONLY FOR EVM ROLLAPPS): `"http://<your-ip-or-domain>:<port>" (default port 8545)`
+    - Logo path: `"/logos/<RollApp-ID>-logo.svg"`
+    - chainName: from `<RollApp-ID>`to your RollApp's name as it will appear on the Portal
 
 11. Add and commit your changes:
 
