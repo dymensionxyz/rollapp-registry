@@ -1,10 +1,5 @@
 {
   "chainId": "luckyresearch_1818-8",
-[detached (from session 0)]
-root@DymLee:~# roller config export
-💈 networks.json:
-{
-  "chainId": "luckyresearch_1818-8",
   "chainName": "luckyresearch_1818-8",
   "rpc": "https://froopyland.dymension.xyz/luckyresearch_1818-8/rpc",
   "rest": "https://froopyland.dymension.xyz/luckyresearch_1818-8/rest",
