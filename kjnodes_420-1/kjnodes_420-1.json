@@ -1,0 +1,31 @@
+{
+  "chainId": "kjnodes_420-1",
+  "chainName": "kjnodes",
+  "rpc": "https://rpc.rollapp.kjnodes.com",
+  "rest": "https://api.rollapp.kjnodes.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WEED",
+      "baseDenom": "uWEED",
+      "decimals": 18,
+      "logo": "/logos/kjnodes_420-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/kjnodes_420-1.png",
+  "ibc": {
+    "hubChannel": "channel-5267",
+    "channel": "channel-55",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1a4",
+    "rpc": "https://jsonrpc.rollapp.kjnodes.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}
