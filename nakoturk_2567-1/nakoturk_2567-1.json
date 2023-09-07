@@ -1,8 +1,8 @@
 {
   "chainId": "nakoturk_2567-1",
   "chainName": "nakoturk_2567-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://5.78.85.75:26657",
+  "rest": "http://5.78.85.75:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0xa07",
-    "rpc": ""
+    "rpc": "http://5.78.85.75:1317"
   },
   "type": "RollApp",
   "da": "Celestia",
