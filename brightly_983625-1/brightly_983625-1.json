@@ -2,7 +2,7 @@
   "chainId": "brightly_983625-1",
   "chainName": "brightly_983625-1",
   "rpc": "https://dym.brightlystake.com/",
-  "rest": "https://dym.brightlystake.com/rest",
+  "rest": "https://dym.brightlystake.com/rest/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0xf0249",
-    "rpc": ""
+    "rpc": "https://dym.brightlystake.com/evm/"
   },
   "type": "RollApp",
   "da": "Celestia",
