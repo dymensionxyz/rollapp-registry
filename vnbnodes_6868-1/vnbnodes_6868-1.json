@@ -1,0 +1,31 @@
+{
+  "chainId": "vnbnodes_6868-1",
+  "chainName": "vnbnodes_6868",
+  "rpc": "http://5.75.137.23:26657",
+  "rest": "http://5.75.137.23:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/vnbnodes_6868-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/vnbnodes_6868-1.png",
+  "ibc": {
+    "hubChannel": "channel-5318",
+    "channel": "channel-5",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1ad4",
+    "rpc": "http://5.75.137.23:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}
