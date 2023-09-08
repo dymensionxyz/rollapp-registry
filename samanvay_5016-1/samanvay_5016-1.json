@@ -1,8 +1,8 @@
 {
   "chainId": "samanvay_5016-1",
   "chainName": "Samanvay",
-  "rpc": "https://froopyland.dymension.xyz/samanvay_5016-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/samanvay_5016-1/rest",
+  "rpc": "https://node-rpc.samanvay.pro/",
+  "rest": "https://node-api.samanvay.pro/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x1398",
-    "rpc": "https://froopyland.dymension.xyz/samanvay_5016-1/evmrpc"
+    "rpc": "https://evm-rpc.samanvay.pro/"
   },
   "type": "RollApp",
   "da": "Avail",
