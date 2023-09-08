@@ -1,6 +1,6 @@
 {
   "chainId": "nodestake_6119285-1",
-  "chainName": "nodestake",
+  "chainName": "NodeStake",
   "rpc": "https://rpc-t.dymension.nodestake.top",
   "rest": "https://api-t.dymension.nodestake.top",
   "bech32Prefix": "ethm",
