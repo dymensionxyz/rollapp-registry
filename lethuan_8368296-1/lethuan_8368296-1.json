@@ -1,8 +1,8 @@
 {
   "chainId": "lethuan_8368296-1",
   "chainName": "lethuan_8368296-1",
-  "rpc": "https://dymension.manglocvenha.com:26657",
-  "rest": "https://dymension.manglocvenha.com:1317",
+  "rpc": "http://dymension.manglocvenha.com:26657",
+  "rest": "http://dymension.manglocvenha.com:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x7fb0a8",
-    "rpc": "https://dymension.manglocvenha.com:8545"
+    "rpc": "http://dymension.manglocvenha.com:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
