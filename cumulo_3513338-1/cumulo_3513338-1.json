@@ -1,6 +1,6 @@
 {
   "chainId": "cumulo_3513338-1",
-  "chainName": "cumulo_3513338-1",
+  "chainName": "Roller Front Chain",
   "rpc": "https://rollapp.rpc.cumulo.com.es",
   "rest": "https://rollapp.rest.cumulo.com.es",
   "bech32Prefix": "ethm",
