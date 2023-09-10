@@ -1,6 +1,6 @@
 {
   "da": "Avail",
-  "chainName": "Escan 8545 Testnet",
+  "chainName": "Escan Testnet",
   "rpc": "https://ra-escan.dymscan.live:22222",
   "rest": "https://ra-escan.dymscan.live:1317",
   "evm": {
