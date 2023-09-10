@@ -1,11 +1,11 @@
 {
     "da": "Celestia",
     "chainName": "JOHN-LEGEND",
-    "rpc": "https://froopyland.dymension.xyz/john_2135555/rpc",
-    "rest": "https://froopyland.dymension.xyz/john_2135555/rest",
+    "rpc": "https://froopyland.dymension.xyz/john_5858/rpc",
+    "rest": "https://froopyland.dymension.xyz/john_5858/rest",
     "evm": {
       "chainId": "0x209603",
-      "rpc": "https://froopyland.dymension.xyz/john_2135555/evmrpc"
+      "rpc": "https://froopyland.dymension.xyz/john_5858/evmrpc"
     },
     "coinType": 60,
     "type": "RollApp",
