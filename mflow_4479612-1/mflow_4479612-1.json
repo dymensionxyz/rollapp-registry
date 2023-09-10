@@ -25,7 +25,7 @@
     "chainId": "0x445a7c",
     "rpc": "http://mflvnbnodes.ddns.net:8545"
   },
-  "type": "MFLow-Vnbnodes",
+  "type": "MFLow VNBnode",
   "da": "Celestia",
   "analytics": true
 }
