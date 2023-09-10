@@ -1,6 +1,6 @@
 {
   "chainId": "mflow_4479612-1",
-  "chainName": "mflow_4479612-1",
+  "chainName": "MFLow VNBnode",
   "rpc": "https://froopyland.dymension.xyz/mflow_4479612-1/rpc",
   "rest": "https://froopyland.dymension.xyz/mflow_4479612-1/rest",
   "bech32Prefix": "ethm",
@@ -23,9 +23,9 @@
   },
   "evm": {
     "chainId": "0x445a7c",
-    "rpc": "https://froopyland.dymension.xyz/gochain/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/mflow_4479612-1/evmrpc"
   },
-  "type": "MFLow VNBnode",
+  "type": "RollApp",
   "da": "Celestia",
   "analytics": true
 }
