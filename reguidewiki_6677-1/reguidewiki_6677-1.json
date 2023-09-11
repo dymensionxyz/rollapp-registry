@@ -1,0 +1,32 @@
+{
+    "chainId": "reguidewiki_6677-1",
+    "chainName": "reguidewiki_6677-1",
+    "rpc": "http://5.189.148.54:26657",
+    "rest": "http://5.189.148.54:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "REG",
+        "baseDenom": "uREG",
+        "decimals": 18,
+        "logo": "/logos/reguidewiki_6677-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/reguidewiki_6677-1.png",
+    "ibc": {
+      "hubChannel": "channel-5315",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x1a15",
+      "rpc": "http://5.189.148.54:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true
+  }
+  
