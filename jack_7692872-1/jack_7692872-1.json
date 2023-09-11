@@ -1,0 +1,31 @@
+{
+  "chainId": "jack_7692872-1",
+  "chainName": "Jack",
+  "rpc": "http://51.79.70.118:26657",
+  "rest": "http://51.79.70.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JAK",
+      "baseDenom": "uJAK",
+      "decimals": 18,
+      "logo": "/logos/jack_7692872-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/jack_7692872-1.png",
+  "ibc": {
+    "hubChannel": "channel-5360",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x756248",
+    "rpc": "http://51.79.70.118:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}
