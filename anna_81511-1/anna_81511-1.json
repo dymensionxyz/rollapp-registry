@@ -1,8 +1,8 @@
 {
   "chainId": "anna_81511-1",
   "chainName": "anna_81511-1",
-  "rpc": "http://127.0.0.1:26657",
-  "rest": "http://127.0.0.1:1317",
+  "rpc": "http://103.156.46.192:26657",
+  "rest": "http://103.156.46.192:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x13e67",
-    "rpc": "http://127.0.0.1:8545"
+    "rpc": "http://103.156.46.192:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
