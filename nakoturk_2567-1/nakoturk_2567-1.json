@@ -1,6 +1,6 @@
 {
   "chainId": "nakoturk_2567-1",
-  "chainName": "nakoturk_2567-1",
+  "chainName": "NakoTurk",
   "rpc": "http://5.78.85.75:26657",
   "rest": "http://5.78.85.75:1317",
   "bech32Prefix": "ethm",
