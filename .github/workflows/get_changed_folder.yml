@@ -43,8 +43,8 @@ jobs:
           
             # Make an API post request with the extracted json
             curl -X POST \
-              -H "Content-type: application/json" 
-              -H "Authorization: Bearer ${{ secrets.SAVE_NETWORK_API_KEY }}" 
-              -d "$parsed_json" 
+              -H "Content-type: application/json" \
+              -H "Authorization: Bearer ${{ secrets.SAVE_NETWORK_API_KEY }}" \
+              -d "$parsed_json" \
               "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
