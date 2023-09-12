@@ -1,6 +1,6 @@
 {
     "da": "Avail",
-    "chainName": "SUSA2",
+    "chainName": "SUSA3",
     "rpc": "https://froopyland.dymension.xyz/susana_5339/rpc",
     "rest": "https://froopyland.dymension.xyz/susana_5339/rest",
     "evm": {
