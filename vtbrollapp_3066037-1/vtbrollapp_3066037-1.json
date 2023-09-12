@@ -1,0 +1,31 @@
+{
+  "chainId": "vtbrollapp_3066037-1",
+  "chainName": "VTB-ROLLAPP",
+  "rpc": "86.48.3.66:26657",
+  "rest": "86.48.3.66:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAX",
+      "baseDenom": "uRAX",
+      "decimals": 18,
+      "logo": "/logos/vtbrollapp_3066037-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/vtbrollapp_3066037-1.png",
+  "ibc": {
+    "hubChannel": "channel-5364",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2ec8b5",
+    "rpc": "86.48.3.66:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}
