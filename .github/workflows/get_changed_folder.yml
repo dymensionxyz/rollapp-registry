@@ -18,6 +18,8 @@ jobs:
 
       - name: Upload changed jsons
         id: upload_changed_jsons
+        env:
+          SAVE_NETWORK_API_KEY: ${{ secrets.SAVE_NETWORK_API_KEY }}
         run: |
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
@@ -44,7 +46,7 @@ jobs:
             # Make an API post request with the extracted json
             curl -X POST \
               -H "Content-type: application/json" \
-              -H "Authorization: Bearer ${{ secrets.SAVE_NETWORK_API_KEY }}" \
+              -H "Authorization: Bearer $SAVE_NETWORK_API_KEY" \
               -d "$parsed_json" \
               "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
           done
