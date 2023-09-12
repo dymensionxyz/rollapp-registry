@@ -1,8 +1,8 @@
 {
   "chainId": "nodestake_6119285-1",
   "chainName": "NodeStake",
-  "rpc": "https://rpc-t.dymension.nodestake.top",
-  "rest": "https://api-t.dymension.nodestake.top",
+  "rpc": "https://rpc-t.roll.nodestake.top",
+  "rest": "https://api-t.roll.nodestake.top",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x5d5f75",
-    "rpc": "https://jsonrpc-t.dymension.nodestake.top"
+    "rpc": "https://jsonrpc-t.roll.nodestake.top"
   },
   "type": "RollApp",
   "da": "Celestia",
