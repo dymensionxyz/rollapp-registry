@@ -1,8 +1,8 @@
 {
   "chainId": "mytestnetrunrollapp_3448-1",
   "chainName": "TestNetRun",
-  "rpc": "http://135.181.26.15:26657",
-  "rest": "http://135.181.26.15:1317",
+  "rpc": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0xd78",
-    "rpc": "http://135.181.26.15:8545"
+    "rpc": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
