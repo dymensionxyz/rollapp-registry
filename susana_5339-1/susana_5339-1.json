@@ -26,5 +26,6 @@
       }
     ],
     "bech32Prefix": "ethm",
-    "analytics": true
+    "analytics": true,
+    "rewards": true
   }
