@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x584",
-    "rpc": "http://dym.skywirex.com:8545"
+    "rpc": ""
   },
   "type": "RollApp",
   "da": "Celestia",
