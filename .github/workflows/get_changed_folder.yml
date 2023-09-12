@@ -3,7 +3,7 @@ name: Upload Changed Networks
 on:
   push:
     branches:
-      - main
+      - add-save-network-api-key
 
 jobs:
   upload_changed_networks:
@@ -21,7 +21,11 @@ jobs:
         env:
           SAVE_NETWORK_API_KEY: ${{ secrets.SAVE_NETWORK_API_KEY }}
         run: |
-          echo "$SAVE_NETWORK_API_KEY"
+          echo "----$SAVE_NETWORK_API_KEY"
+          echo "${SAVE_NETWORK_API_KEY:0:1}"
+          echo "1111${{ secrets.SAVE_NETWORK_API_KEY }}"
+          
+          
           # Use git to get the list of changed files
           changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
