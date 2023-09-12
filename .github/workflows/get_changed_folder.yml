@@ -22,7 +22,6 @@ jobs:
           SAVE_NETWORK_API_KEY: ${{ secrets.SAVE_NETWORK_API_KEY }}
         run: |
           echo "----$SAVE_NETWORK_API_KEY"
-          echo "${SAVE_NETWORK_API_KEY:0:1}"
           echo "1111${{ secrets.SAVE_NETWORK_API_KEY }}"
           
           
