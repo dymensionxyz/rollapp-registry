@@ -1,8 +1,8 @@
 {
   "chainId": "vythuyrollapp_1120265-1",
   "chainName": "vythuyrollapp",
-  "rpc": "http://217.76.53.171:26657",
-  "rest": "http://217.76.53.171:1317",
+  "rpc": "https://froopyland.dymension.xyz/vythuyrollapp_1120265-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/vythuyrollapp_1120265-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x111809",
-    "rpc": "http://217.76.53.171:8545"
+    "rpc": "https://froopyland.dymension.xyz/vythuyrollapp_1120265-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
