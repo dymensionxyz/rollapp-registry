@@ -1,7 +1,8 @@
 {
     "chainId": "reguidewiki_6677-1",
-    "chainName": "reguidewiki_6677-1",
+    "chainName": "ReGuide WIKI",
     "rpc": "http://5.189.148.54:26657",
+    "description": "Free building with ReWiki Labs.",
     "rest": "http://5.189.148.54:1317",
     "bech32Prefix": "ethm",
     "currencies": [
@@ -13,6 +14,7 @@
         "type": "main"
       }
     ],
+    "website": "https://reguide.wiki/",
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "logo": "/logos/reguidewiki_6677-1.png",
