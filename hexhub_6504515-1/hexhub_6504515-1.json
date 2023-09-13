@@ -1,6 +1,6 @@
 {
     "chainId": "hexhub_6504515-1",
-    "chainName": "Hexnodes",
+    "chainName": "Hex Hub",
     "rpc": "http://froopyland-evm.hexnodes.co:26657",
     "rest": "http://froopyland-rest.hexnodes.co:1317",
     "bech32Prefix": "ethm",
