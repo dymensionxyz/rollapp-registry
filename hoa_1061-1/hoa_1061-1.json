@@ -1,8 +1,8 @@
 {
   "chainId": "hoa_1061-1",
-  "chainName": "hoa_1061-1",
-  "rpc": "http://194.163.134.192:26657",
-  "rest": "http://194.163.134.192:1317",
+  "chainName": "Hoa",
+  "rpc": "https://froopyland.dymension.xyz/hoa_1061-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/hoa_1061-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x425",
-    "rpc": "http://194.163.134.192:8545"
+    "rpc": "https://froopyland.dymension.xyz/hoa_1061-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
