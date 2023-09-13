@@ -1,5 +1,4 @@
-  networks.json:
-{
+  {
   "chainId": "elessar_1191427-1",
   "chainName": "elessar_1191427-1",
   "rpc": "http://38.242.245.69:26657",
