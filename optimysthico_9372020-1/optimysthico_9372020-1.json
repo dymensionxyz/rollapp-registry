@@ -1,0 +1,33 @@
+{
+  "chainId": "optimysthico_9372020-1",
+  "chainName": "optimysthico_9372020-1",
+  "rpc": "http://149.102.137.76:26657",
+  "rest": "http://149.102.137.76:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OMO",
+      "baseDenom": "uOMO",
+      "decimals": 18,
+      "logo": "/logos/optimysthico_9372020-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/optimysthico_9372020-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5399",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8f0174",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
