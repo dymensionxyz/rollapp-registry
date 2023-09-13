@@ -1,8 +1,8 @@
 {
   "chainId": "godber_9002990-1",
   "chainName": "God",
-  "rpc": "http://146.59.147.142:26657",
-  "rest": "http://146.59.147.142:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/godber_9002990-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/godber_9002990-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x895fee",
-    "rpc": "http://146.59.147.142:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/godber_9002990-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
