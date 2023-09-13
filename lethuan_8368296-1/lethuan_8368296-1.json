@@ -1,8 +1,8 @@
 {
   "chainId": "lethuan_8368296-1",
   "chainName": "LVT_Node",
-  "rpc": "http://dymension.manglocvenha.com:26657",
-  "rest": "http://dymension.manglocvenha.com:1317",
+  "rpc": " https://froopyland.dymension.xyz/lethuan_8368296-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/lethuan_8368296-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x7fb0a8",
-    "rpc": "http://dymension.manglocvenha.com:8545"
+    "rpc": " https://froopyland.dymension.xyz/lethuan_8368296-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
