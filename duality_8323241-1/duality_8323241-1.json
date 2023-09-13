@@ -1,0 +1,33 @@
+{
+  "chainId": "duality_8323241-1",
+  "chainName": "duality",
+  "rpc": "http://95.217.210.52:26657",
+  "rest": "http://95.217.210.52:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dua",
+      "baseDenom": "udua",
+      "decimals": 18,
+      "logo": "/logos/duality_8323241-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/duality_8323241-1.png",
+  "ibc": {
+    "hubChannel": "channel-5390",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f00a9",
+    "rpc": "http://95.217.210.52:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
