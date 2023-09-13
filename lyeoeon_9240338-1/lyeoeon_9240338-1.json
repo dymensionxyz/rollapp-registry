@@ -1,0 +1,33 @@
+{
+  "chainId": "lyeoeon_9240338-1",
+  "chainName": "lyeoeon_9240338-1",
+  "rpc": "http://173.212.214.154:26657",
+  "rest": "http://173.212.214.154:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/lyeoeon_9240338-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/lyeoeon_9240338-1.png",
+  "ibc": {
+    "hubChannel": "channel-5408",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8cff12",
+    "rpc": "http://173.212.214.154:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
