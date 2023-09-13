@@ -1,8 +1,8 @@
 {
   "chainId": "luckyresearch_1818-8",
   "chainName": "luckyresearch_1818-8",
-  "rpc": "http:14.176.251.102:26656",
-  "rest": "http:14.176.251.102:1317",
+  "rpc": "https://froopyland.dymension.xyz/luckyresearch_1818/rpc",
+  "rest": "https://froopyland.dymension.xyz/luckyresearch_1818/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x71a",
-    "rpc": "http:14.176.251.102:8545"
+    "rpc": "https://froopyland.dymension.xyz/luckyresearch_1818/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
