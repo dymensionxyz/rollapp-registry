@@ -27,5 +27,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "analytics": true
+  "analytics": true,
+  "rewards": true,
+  "isValidator": true
 }
