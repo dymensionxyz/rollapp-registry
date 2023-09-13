@@ -1,9 +1,9 @@
 {
     "chainId": "reguidewiki_6677-1",
     "chainName": "ReGuide WIKI",
-    "rpc": "http://5.189.148.54:26657",
+    "rpc": "https://froopyland.dymension.xyz/reguidewiki_6677/rpc",
     "description": "Free building with ReWiki Labs.",
-    "rest": "http://5.189.148.54:1317",
+    "rest": "https://froopyland.dymension.xyz/reguidewiki_6677/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -25,7 +25,7 @@
     },
     "evm": {
       "chainId": "0x1a15",
-      "rpc": "http://5.189.148.54:8545"
+      "rpc": "https://froopyland.dymension.xyz/reguidewiki_6677/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
