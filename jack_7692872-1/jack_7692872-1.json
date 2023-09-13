@@ -1,8 +1,8 @@
 {
   "chainId": "jack_7692872-1",
   "chainName": "Jack",
-  "rpc": "http://51.79.70.118:26657",
-  "rest": "http://51.79.70.118:1317",
+  "rpc": "https://froopyland.dymension.xyz/jack_7692872-1/rpc",
+  "rest": " https://froopyland.dymension.xyz/jack_7692872-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x756248",
-    "rpc": "http://51.79.70.118:8545"
+    "rpc": " https://froopyland.dymension.xyz/jack_7692872-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
