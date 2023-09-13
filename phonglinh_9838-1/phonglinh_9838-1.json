@@ -1,8 +1,8 @@
 {
   "chainId": "phonglinh_9838-1",
-  "chainName": "phonglinh_9838-1",
-  "rpc": "http://45.140.185.248:26657",
-  "rest": "http://45.140.185.248:1317",
+  "chainName": "Phonglinh",
+  "rpc": "https://froopyland.dymension.xyz/2/phonglinh_9838-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/phonglinh_9838-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x266e",
-    "rpc": "http://45.140.185.248:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/phonglinh_9838-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
