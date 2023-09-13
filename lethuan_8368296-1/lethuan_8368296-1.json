@@ -1,6 +1,6 @@
 {
   "chainId": "lethuan_8368296-1",
-  "chainName": "lthuan2011",
+  "chainName": "LVT_Node",
   "rpc": "http://dymension.manglocvenha.com:26657",
   "rest": "http://dymension.manglocvenha.com:1317",
   "bech32Prefix": "ethm",
