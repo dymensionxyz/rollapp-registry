@@ -1,6 +1,6 @@
 {
   "chainId": "ongtrong_3365809-1",
-  "chainName": "ongtrong_3365809-1",
+  "chainName": "OngTrong STRAIVE",
   "rpc": "http://207.180.198.20:26657",
   "rest": "http://207.180.198.20:1317",
   "bech32Prefix": "ethm",
