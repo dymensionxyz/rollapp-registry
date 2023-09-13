@@ -1,6 +1,6 @@
 {
   "chainId": "devil_9934124-1",
-  "chainName": "devil_9934124-1",
+  "chainName": "Devil's World",
   "rpc": "http://194.163.159.85:26657",
   "rest": "http://194.163.159.85:1317",
   "bech32Prefix": "ethm",
