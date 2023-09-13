@@ -1,8 +1,8 @@
 {
     "chainId": "hexhub_6504515-1",
     "chainName": "hexhub_6504515-1",
-    "rpc": "https://froopyland-evm.hexnodes.co",
-    "rest": "https://froopyland-rest.hexnodes.co",
+    "rpc": "http://froopyland-evm.hexnodes.co:26657",
+    "rest": "http://froopyland-evm.hexnodes.co:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
