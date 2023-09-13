@@ -1,8 +1,8 @@
 {
   "chainId": "binh_2094-1",
-  "chainName": "binh_2094-1",
-  "rpc": "http://185.234.69.242:26657",
-  "rest": "http://185.234.69.242:1317",
+  "chainName": "Binh",
+  "rpc": "https://froopyland.dymension.xyz/2binh_2094-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2binh_2094-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x82e",
-    "rpc": "http://185.234.69.242:8545"
+    "rpc": "https://froopyland.dymension.xyz/2binh_2094-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
