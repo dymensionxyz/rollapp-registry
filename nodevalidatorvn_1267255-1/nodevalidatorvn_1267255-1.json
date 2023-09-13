@@ -1,8 +1,8 @@
 {
   "chainId": "nodevalidatorvn_1267255-1",
-  "chainName": "nodevalidatorvn_1267255-1",
-  "rpc": "http://157.230.190.171:26657",
-  "rest": "http://157.230.190.171:1317",
+  "chainName": "Node-Validator-VN",
+  "rpc": "https://froopyland.dymension.xyz/2/nodevalidatorvn_1267255-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/nodevalidatorvn_1267255-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x135637",
-    "rpc": "http://157.230.190.171:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/nodevalidatorvn_1267255-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
