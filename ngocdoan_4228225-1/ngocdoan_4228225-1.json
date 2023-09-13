@@ -1,6 +1,6 @@
 {
   "chainId": "ngocdoan_4228225-1",
-  "chainName": "owlstake",
+  "chainName": "Owlstake NFT Marketplace",
   "rpc": "https://dymrpc.owlstake.com",
   "rest": "https://dymrest.owlstake.com",
   "bech32Prefix": "ethm",
@@ -28,6 +28,6 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "Owl Marketplace",
+  "description": "Owlstake NFT Marketplace",
   "analytics": true
 }
