@@ -1,8 +1,8 @@
 {
   "chainId": "vohoangduy_1326-1",
   "chainName": "vohoangduy_1326-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://109.123.241.31:26657",
+  "rest": "http://109.123.241.31:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x52e",
-    "rpc": ""
+    "rpc": "http://109.123.241.31:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
