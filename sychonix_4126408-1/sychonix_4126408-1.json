@@ -1,8 +1,8 @@
 {
     "chainId": "sychonix_4126408-1",
     "chainName": "Sychonix",
-    "rpc": "",
-    "rest": "",
+    "rpc": "http://146.190.97.66:26657",
+    "rest": "http://146.190.97.66:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
