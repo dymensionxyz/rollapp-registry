@@ -1,8 +1,8 @@
 {
   "chainId": "donald_2226883-1",
   "chainName": "Blue moon",
-  "rpc": "http://51.210.254.29:26657",
-  "rest": "http://51.210.254.29:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/donald_2226883-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/donald_2226883-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x21fac3",
-    "rpc": "http://51.210.254.29:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/donald_2226883-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
