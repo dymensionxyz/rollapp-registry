@@ -1,8 +1,8 @@
 {
   "chainId": "thienlong_8207910-1",
   "chainName": "thienlong",
-  "rpc": "45.67.216.220:26657",
-  "rest": "45.67.216.220:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/thienlong_8207910-1-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/thienlong_8207910-1-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x7d3e26",
-    "rpc": "45.67.216.220:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/thienlong_8207910-1-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
