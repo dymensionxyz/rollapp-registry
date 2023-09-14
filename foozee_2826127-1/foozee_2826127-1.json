@@ -1,0 +1,34 @@
+{
+  "chainId": "foozee_2826127-1",
+  "chainName": "foozee_2826127-1",
+  "rpc": "80.65.211.114:26657",
+  "rest": "80.65.211.114:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FOO",
+      "baseDenom": "uFOO",
+      "decimals": 18,
+      "logo": "/logos/foozee_2826127-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/foozee_2826127-1.png",
+  "ibc": {
+    "hubChannel": "channel-5492",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2b1f8f",
+    "rpc": "80.65.211.114:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
