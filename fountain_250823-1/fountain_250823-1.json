@@ -2,8 +2,8 @@
 {
   "chainId": "fountain_250823-1",
   "chainName": "fountain",
-  "rpc": "62.171.181.61:26657",
-  "rest": "62.171.181.61:1317",
+  "rpc": "http://62.171.181.61:26657",
+  "rest": "http://62.171.181.61:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     { "displayDenom": "FTN",
@@ -21,7 +21,7 @@
     "channel": "channel-0",
     "timeout": 172800000  },
   "evm": {    "chainId": "0x3d3c7",
-    "rpc": "62.171.181.61:8545"  },
+    "rpc": "http://62.171.181.61:8545"  },
   "type": "RollApp",
   "da": "Avail",
   "description": "fountain chain",
