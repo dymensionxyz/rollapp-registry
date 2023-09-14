@@ -1,8 +1,8 @@
 {
   "chainId": "stas_3784662-1",
   "chainName": "Number1",
-  "rpc": "http://51.79.71.15:26657",
-  "rest": "http://51.79.71.15:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/stas_3784662-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/stas_3784662-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x39bfd6",
-    "rpc": "http://51.79.71.15:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/stas_3784662-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
