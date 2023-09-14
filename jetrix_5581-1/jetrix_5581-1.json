@@ -1,0 +1,29 @@
+{
+  "chainId": "jetrix_5581-1",
+  "chainName": "jetrix_5581-1",
+  "rpc": "http://168.119.213.113:26657",
+  "rest": "http://168.119.213.113:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "uJX",
+      "baseDenom": "uuJX",
+      "decimals": 18,
+      "logo": "/logos/jetrix_5581-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 118,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/jetrix_5581-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-250",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
