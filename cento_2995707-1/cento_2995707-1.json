@@ -1,8 +1,8 @@
 {
   "chainId": "cento_2995707-1",
-  "chainName": "cento_2995707-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Cento",
+  "rpc": "http://217.76.61.37:26657",
+  "rest": "http://217.76.61.37:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2db5fb",
-    "rpc": ""
+    "rpc": "http://217.76.61.37:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
