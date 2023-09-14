@@ -1,8 +1,8 @@
 {
   "chainId": "mills_3782268-1",
   "chainName": "Mil",
-  "rpc": "http://51.195.137.5:26657",
-  "rest": "http://51.195.137.5:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/mills_3782268-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/mills_3782268-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x39b67c",
-    "rpc": "http://51.195.137.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/mills_3782268-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
