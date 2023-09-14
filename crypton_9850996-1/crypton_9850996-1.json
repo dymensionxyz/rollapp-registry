@@ -1,6 +1,6 @@
 {
   "chainId": "crypton_9850996-1",
-  "chainName": "crypton_9850996-1",
+  "chainName": "crypton",
   "rpc": "https://rpc.dymension-rollapp.crypton-node.tech",
   "rest": "https://rest.dymension-rollapp.crypton-node.tech",
   "bech32Prefix": "ethm",
