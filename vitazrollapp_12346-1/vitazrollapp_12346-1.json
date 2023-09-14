@@ -1,8 +1,8 @@
 {
   "chainId": "vitazrollapp_12346-1",
   "chainName": "vitaz",
-  "rpc": "http://161.97.172.244:26657",
-  "rest": "http://161.97.172.244:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x303a",
-    "rpc": "http://161.97.172.244:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
