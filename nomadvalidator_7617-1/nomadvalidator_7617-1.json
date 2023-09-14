@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "NomadNode are cool validator ☸️⚛️ NomadNode created for longterm server machine & validating",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
