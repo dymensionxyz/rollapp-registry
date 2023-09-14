@@ -1,8 +1,8 @@
 {
   "chainId": "magicstone_1412-1",
-  "chainName": "magicstone_1412-1",
-  "rpc": "http://dym.skywirex.com:26657",
-  "rest": "http://dym.skywirex.com:1317",
+  "chainName": "Magic Stone",
+  "rpc": "https://froopyland.dymension.xyz/2/magicstone_1412-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/magicstone_1412-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x584",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/2/magicstone_1412-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
