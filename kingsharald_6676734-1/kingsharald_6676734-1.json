@@ -1,0 +1,33 @@
+{
+  "chainId": "kingsharald_6676734-1",
+  "chainName": "kingsharald_6676734-1",
+  "rpc": "http://95.216.190.39:26657/",
+  "rest": "http://95.216.190.39:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KHS",
+      "baseDenom": "uKHS",
+      "decimals": 18,
+      "logo": "/logos/kingsharald_6676734-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/kingsharald_6676734-1.png",
+  "ibc": {
+    "hubChannel": "channel-5480",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x65e0fe",
+    "rpc": "http://95.216.190.39:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
