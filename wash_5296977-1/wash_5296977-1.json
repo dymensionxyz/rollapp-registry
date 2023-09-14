@@ -1,8 +1,8 @@
 {
   "chainId": "wash_5296977-1",
   "chainName": "Wash",
-  "rpc": "http://51.79.68.177:26657",
-  "rest": "http://51.79.68.177:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/wash_5296977-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/wash_5296977-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x50d351",
-    "rpc": "http://51.79.68.177:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/wash_5296977-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
