@@ -1,8 +1,8 @@
 {
   "chainId": "idekubagus_7506128-1",
-  "chainName": "idekubagus_7506128-1",
-  "rpc": "http://158.140.183.130:16657",
-  "rest": "http://158.140.183.130:2317",
+  "chainName": "Idekubagus",
+  "rpc": "https://froopyland.dymension.xyz/2/idekubagus_7506128-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/idekubagus_7506128-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7288d0",
-    "rpc": "http://158.140.183.130:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/idekubagus_7506128-1/evmrpc"
 
   },
   "type": "RollApp",
