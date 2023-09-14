@@ -2,8 +2,8 @@
 {
   "chainId": "kyiv_3845406-1",
   "chainName": "kyiv",
-  "rpc": "https://dymension-rpc-rollap.uden.tech",
-  "rest": "https://dymension-rest-rollap.uden.tech",
+  "rpc": "http://95.217.185.113:26657/",
+  "rest": "http://95.217.185.113:1317/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x3aad1e",
-    "rpc": "https://dymension-jsonrpc-rollap.uden.tech"
+    "rpc": "http://95.217.185.113:8545/"
   },
   "type": "RollApp",
   "da": "Avail",
