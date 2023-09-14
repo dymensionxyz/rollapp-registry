@@ -1,8 +1,8 @@
 {
   "chainId": "lyeoeon_9240338-1",
-  "chainName": "lyeoeon_9240338-1",
-  "rpc": "http://173.212.214.154:26657",
-  "rest": "http://173.212.214.154:1317",
+  "chainName": "Lyeoeon",
+  "rpc": "https://froopyland.dymension.xyz/2/lyeoeon_9240338-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/lyeoeon_9240338-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8cff12",
-    "rpc": "http://173.212.214.154:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/lyeoeon_9240338-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
