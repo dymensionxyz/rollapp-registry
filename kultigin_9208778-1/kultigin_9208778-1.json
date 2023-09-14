@@ -1,0 +1,33 @@
+{
+  "chainId": "kultigin_9208778-1",
+  "chainName": "kultigin_9208778-1",
+  "rpc": "http://173.249.28.139:26657",
+  "rest": "http://173.249.28.139:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KTGN",
+      "baseDenom": "uKTGN",
+      "decimals": 18,
+      "logo": "/logos/kultigin_9208778-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/kultigin_9208778-1.png",
+  "ibc": {
+    "hubChannel": "channel-5445",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8c83ca",
+    "rpc": "http://173.249.28.139:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
