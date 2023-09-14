@@ -1,8 +1,8 @@
 {
   "chainId": "elessar_1191427-1",
-  "chainName": "elessar_1191427-1",
-  "rpc": "http://38.242.245.69:26657",
-  "rest": "http://38.242.245.69:1317",
+  "chainName": "Elessar",
+  "rpc": "https://froopyland.dymension.xyz/2/elessar_1191427-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/elessar_1191427-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x122e03",
-    "rpc": "http://38.242.245.69:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/elessar_1191427-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
