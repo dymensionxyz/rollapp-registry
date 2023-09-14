@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1dc1",
-    "rpc": ""
+    "rpc": "https://evm.dymension.nomadvalidator.com"
   },
   "type": "RollApp",
   "da": "Avail",
