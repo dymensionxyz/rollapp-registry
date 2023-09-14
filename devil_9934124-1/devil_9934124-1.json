@@ -1,8 +1,8 @@
 {
   "chainId": "devil_9934124-1",
   "chainName": "Devil's World",
-  "rpc": "http://194.163.159.85:26657",
-  "rest": "http://194.163.159.85:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/devil_9934124-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/devil_9934124-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x97952c",
-    "rpc": "http://194.163.159.85:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/devil_9934124-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
