@@ -1,8 +1,8 @@
 {
   "chainId": "marsapp_1608860-1",
   "chainName": "MAR_APP",
-  "rpc": "144.91.115.107:26657",
-  "rest": "144.91.115.107:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x188c9c",
-    "rpc": "144.91.115.107:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
