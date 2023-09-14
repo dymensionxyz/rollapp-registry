@@ -21,7 +21,7 @@
     "channel": "channel-0",
     "timeout": 172800000  },
   "evm": {    "chainId": "0x3d3c7",
-    "rpc": ""  },
+    "rpc": "62.171.181.61:8545"  },
   "type": "RollApp",
   "da": "Avail",
   "description": "fountain chain",
