@@ -1,8 +1,8 @@
 {
 "chainId": "larantuka_5166906-1",
-"chainName": "larantuka_5166906-1",
-"rpc": "http://161.35.113.45:26657",
-"rest": "http://161.35.113.45:1317",
+"chainName": "Larantuka",
+"rpc": " https://froopyland.dymension.xyz/2/larantuka_5166906-1/rpc",
+"rest": "https://froopyland.dymension.xyz/2/larantuka_5166906-1/rest",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x4ed73a",
-"rpc": "http://161.35.113.45:8545"
+"rpc": "https://froopyland.dymension.xyz/2/larantuka_5166906-1/evmrpc"
 },
 "type": "RollApp",
 "da": "Avail",
