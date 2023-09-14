@@ -1,0 +1,33 @@
+{
+  "chainId": "futurama_7929531-1",
+  "chainName": "Futurama",
+  "rpc": "http://159.69.200.123:26657",
+  "rest": "http://159.69.200.123:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FTR",
+      "baseDenom": "uFTR",
+      "decimals": 18,
+      "logo": "/logos/futurama_7929531-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/futurama_7929531-1.png",
+  "ibc": {
+    "hubChannel": "channel-5442",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x78febb",
+    "rpc": "http://159.69.200.123:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Good news everyone!",
+  "analytics": true
+}
