@@ -1,8 +1,8 @@
 {
   "chainId": "kol_7186458-1",
   "chainName": "KOL Network",
-  "rpc": "http://51.68.189.173:26657",
-  "rest": "http://51.68.189.173:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/kol_7186458-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/kol_7186458-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x6da81a",
-    "rpc": "http://51.68.189.173:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/kol_7186458-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
