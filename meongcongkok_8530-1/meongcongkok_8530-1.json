@@ -1,8 +1,8 @@
 {
   "chainId": "meongcongkok_8530-1",
   "chainName": "meongcongkok_8530-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://45.14.194.179:26657",
+  "rest": "http://45.14.194.179:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2152",
-    "rpc": ""
+    "rpc": "http://45.14.194.179:8545"
   },
   "type": "RollApp",
   "da": "Avail",
