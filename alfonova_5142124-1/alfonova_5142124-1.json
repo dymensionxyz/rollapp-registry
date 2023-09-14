@@ -1,8 +1,8 @@
 {
   "chainId": "alfonova_5142124-1",
-  "chainName": "alfonova_5142124-1",
-  "rpc": "http://146.190.58.78:26657",
-  "rest": "http://146.190.58.78:1317",
+  "chainName": "Alfonova",
+  "rpc": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4e766c",
-    "rpc": "http://146.190.58.78:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
