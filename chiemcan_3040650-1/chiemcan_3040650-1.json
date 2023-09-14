@@ -1,8 +1,8 @@
 {
   "chainId": "chiemcan_3040650-1",
-  "chainName": "chiemcan_3040650-1",
-  "rpc": "http://91.107.215.141:26657",
-  "rest": "http://91.107.215.141:1317",
+  "chainName": "Chiemcan",
+  "rpc": "https://froopyland.dymension.xyz/2/chiemcan_3040650-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/chiemcan_3040650-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e658a",
-    "rpc": "http://91.107.215.141:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/chiemcan_3040650-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
