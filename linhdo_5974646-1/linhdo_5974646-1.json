@@ -1,8 +1,8 @@
 {
   "chainId": "linhdo_5974646-1",
-  "chainName": "linhdo_5974646-1",
-  "rpc": "http://109.123.243.178:26657",
-  "rest": "http://109.123.243.178:1317",
+  "chainName": "Linhdo",
+  "rpc": "https://froopyland.dymension.xyz/2/linhdo_5974646-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/linhdo_5974646-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5b2a76",
-    "rpc": "http://109.123.243.178:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/linhdo_5974646-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
