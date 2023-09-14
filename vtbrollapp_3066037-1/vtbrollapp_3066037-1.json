@@ -1,8 +1,8 @@
 {
   "chainId": "vtbrollapp_3066037-1",
   "chainName": "VTB-ROLLAPP",
-  "rpc": "86.48.3.66:26657",
-  "rest": "86.48.3.66:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/vtbrollapp_3066037-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/vtbrollapp_3066037-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x2ec8b5",
-    "rpc": "86.48.3.66:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/vtbrollapp_3066037-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
