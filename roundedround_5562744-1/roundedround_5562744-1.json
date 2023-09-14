@@ -1,18 +1,33 @@
-{ "chainId": "roundedround_5562744-1", "chainName": 
-  "roundedround_5562744-1", "rpc": "", "rest": "", "bech32Prefix": 
-  "ethm", "currencies": [
-    { "displayDenom": "DED", "baseDenom": "uDED", "decimals": 18, 
-      "logo": "/logos/roundedround_5562744-1.png", "type": "main"
+{
+  "chainId": "roundedround_5562744-1",
+  "chainName": "roundedround_5562744-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DED",
+      "baseDenom": "uDED",
+      "decimals": 18,
+      "logo": "/logos/roundedround_5562744-1.png",
+      "type": "main"
     }
-  ], "coinType": 60, "faucetUrl": 
-  "https://discord.com/channels/956961633165529098/1125047988247593010", 
-  "website": "", "logo": "/logos/roundedround_5562744-1.png", "ibc": {
-    "hubChannel": "channel-5396", "channel": "channel-0", "timeout": 
-    172800000
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/roundedround_5562744-1.png",
+  "ibc": {
+    "hubChannel": "channel-5396",
+    "channel": "channel-0",
+    "timeout": 172800000
   },
-  "evm": { "chainId": "0x54e178", "rpc": ""
+  "evm": {
+    "chainId": "0x54e178",
+    "rpc": ""
   },
-  "type": "RollApp", "da": "Celestia", "description": "", "analytics": 
-  true
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
 }
-
