@@ -1,0 +1,33 @@
+{
+  "chainId": "wasowskyrollapp_5241-1",
+  "chainName": "WasowskyChain",
+  "rpc": "http://149.102.149.186:26657",
+  "rest": "http://149.102.149.186:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WSW",
+      "baseDenom": "uWSW",
+      "decimals": 18,
+      "logo": "/logos/wasowskyrollapp_5241-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593                                                                                        010",
+  "website": "",
+  "logo": "/logos/wasowskyrollapp_5241-1.png",
+  "ibc": {
+    "hubChannel": "channel-5453",
+    "channel": "channel-3",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1479",
+    "rpc": "http://149.102.149.186:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Fast, Reliable and OH SO SMART!",
+  "analytics": true
+}
