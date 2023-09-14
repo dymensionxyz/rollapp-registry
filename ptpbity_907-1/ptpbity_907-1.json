@@ -1,6 +1,6 @@
 {
     "chainId": "ptpbity_907-1",
-    "chainName": "ptpbity_907-1",
+    "chainName": "ptpbity",
     "rpc": "https://froopyland.dymension.xyz/2/ptpbity_907-1/rpc",
     "rest": "https://froopyland.dymension.xyz/2/ptpbity_907-1/rest",
     "bech32Prefix": "ethm",
