@@ -1,8 +1,8 @@
 {
   "chainId": "noelbond_2755287-1",
   "chainName": "NOEL",
-  "rpc": "http://51.195.201.217:26657",
-  "rest": "http://51.195.201.217:1317",
+  "rpc": "https://froopyland.dymension.xyz/2/noelbond/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/noelbond/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x2a0ad7",
-    "rpc": "http://51.195.201.217:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/noelbond/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
