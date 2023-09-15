@@ -1,8 +1,8 @@
 {
     "chainId": "goracle_9836689-1",
     "chainName": "gora",
-    "rpc": "http://45.67.35.241:26657",
-    "rest": "http://45.67.35.241:1317",
+    "rpc": "https://froopyland.dymension.xyz/3/goracle_9836689-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/3/goracle_9836689-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x961891",
-      "rpc": "http://45.67.35.241:8545"
+      "rpc": "https://froopyland.dymension.xyz/3/goracle_9836689-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
