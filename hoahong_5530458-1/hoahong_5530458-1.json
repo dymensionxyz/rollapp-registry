@@ -1,8 +1,8 @@
 {
   "chainId": "hoahong_5530458-1",
   "chainName": "My Nhan",
-  "rpc": "http://162.19.247.108:26657",
-  "rest": "http://162.19.247.108:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/hoahong_5530458-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/hoahong_5530458-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x54635a",
-    "rpc": "http://162.19.247.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/hoahong_5530458-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
