@@ -1,8 +1,8 @@
 {
   "chainId": "szymcio_4864210-1",
-  "chainName": "szymcio_4864210-1",
-  "rpc": "http://149.102.138.82:26657",
-  "rest": "http://149.102.138.82:1317",
+  "chainName": "Szymcio",
+  "rpc": "https://froopyland.dymension.xyz/3/szymcio_4864210-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/szymcio_4864210-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4a38d2",
-    "rpc": "http://149.102.138.82:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/szymcio_4864210-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
