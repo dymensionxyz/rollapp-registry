@@ -1,7 +1,6 @@
-?? networks.json:
 {
   "chainId": "tranngocnhi_103-1",
-  "chainName": "tranngocnhi_103-1",
+  "chainName": "Tranngocnhi",
   "rpc": "https://froopyland.dymension.xyz/3/tranngocnhi_103-1/rpc",
   "rest": "https://froopyland.dymension.xyz/3/tranngocnhi_103-1/rest",
   "bech32Prefix": "ethm",
