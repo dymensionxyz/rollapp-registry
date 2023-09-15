@@ -1,8 +1,8 @@
 {
   "chainId": "udumbara_1855821-1",
-  "chainName": "udumbara_1855821-1",
-  "rpc": "http://154.26.130.208:26657",
-  "rest": "http://154.26.130.208:1317",
+  "chainName": "Udumbara",
+  "rpc": "https://froopyland.dymension.xyz/3/udumbara_1855821-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/udumbara_1855821-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1c514d",
-    "rpc": "http://154.26.130.208:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/udumbara_1855821-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
