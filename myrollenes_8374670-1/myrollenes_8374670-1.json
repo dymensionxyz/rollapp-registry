@@ -1,6 +1,6 @@
 {
   "chainId": "myrollenes_8374670-1",
-  "chainName": "myrollenes_8374670-1",
+  "chainName": "My Rollenes",
   "rpc": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/rpc",
   "rest": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/rest",
   "bech32Prefix": "ethm",
