@@ -1,8 +1,8 @@
 {
   "chainId": "ebtc_9775846-1",
   "chainName": "EBTC",
-  "rpc": "http://54.37.205.185:26657",
-  "rest": "http://54.37.205.185:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/ebtc_9775846-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/ebtc_9775846-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x952ae6",
-    "rpc": "http://54.37.205.185:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/ebtc_9775846-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
