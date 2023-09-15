@@ -1,8 +1,8 @@
 {
   "chainId": "orochi_88-1",
-  "chainName": "orochi_88-1",
-  "rpc": "http://85.239.242.25:26657",
-  "rest": "http://85.239.242.25:1317",
+  "chainName": "Orochi",
+  "rpc": "https://froopyland.dymension.xyz/2/orochi_88-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/orochi_88-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x58",
-    "rpc": "http://85.239.242.25:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/orochi_88-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
