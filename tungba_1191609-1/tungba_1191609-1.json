@@ -1,8 +1,8 @@
 {
   "chainId": "tungba_1191609-1",
-  "chainName": "tungba_1191609-1",
-  "rpc": "http://161.97.149.114:26657",
-  "rest": "http://161.97.149.114:1317",
+  "chainName": "Tungba",
+  "rpc": "https://froopyland.dymension.xyz/3/tungba_1191609-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/tungba_1191609-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x122eb9",
-    "rpc": "http://161.97.149.114:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/tungba_1191609-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
