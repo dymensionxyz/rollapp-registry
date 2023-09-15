@@ -1,8 +1,8 @@
 {
   "chainId": "poltava_3746287-1",
   "chainName": "gamnerium",
-  "rpc": "http://93.68.208.38:26657",
-  "rest": "http://93.68.208.38:1317",
+  "rpc": "http://93.78.208.38:26657",
+  "rest": "http://93.78.208.38:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3929ef",
-    "rpc": "http://93.68.208.38:8545"
+    "rpc": "http://93.78.208.38:8545"
   },
   "type": "RollApp",
   "da": "Avail",
