@@ -2,8 +2,8 @@
 {
   "chainId": "kyiv_3845406-1",
   "chainName": "kyiv",
-  "rpc": "http://95.217.185.113:26657/",
-  "rest": "http://95.217.185.113:1317/",
+  "rpc": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x3aad1e",
-    "rpc": "http://95.217.185.113:8545/"
+    "rpc": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
