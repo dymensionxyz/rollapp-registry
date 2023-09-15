@@ -1,8 +1,8 @@
 {
   "chainId": "beelzebub_3597580-1",
   "chainName": "beelzebub_3597580-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://65.108.223.87/46657",
+  "rest": "http://65.108.223.87/4617",
   "bech32Prefix": "ethm",
   "currencies": [
     {
