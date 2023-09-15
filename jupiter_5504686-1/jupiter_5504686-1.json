@@ -1,8 +1,8 @@
 {
   "chainId": "jupiter_5504686-1",
   "chainName": "Jupiter",
-  "rpc": "http://144.91.108.253:26657",
-  "rest": "http://144.91.108.253:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/jupiter_5504686-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/jupiter_5504686-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x53feae",
-    "rpc": "http://144.91.108.253:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/jupiter_5504686-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
