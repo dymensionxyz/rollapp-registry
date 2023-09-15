@@ -1,8 +1,8 @@
 {
   "chainId": "kingsharald_6676734-1",
-  "chainName": "kingsharald_6676734-1",
-  "rpc": "http://95.216.190.39:26657/",
-  "rest": "http://95.216.190.39:1317/",
+  "chainName": "Kingsharald",
+  "rpc": "https://froopyland.dymension.xyz/3/kingsharald_6676734-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/kingsharald_6676734-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x65e0fe",
-    "rpc": "http://95.216.190.39:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/kingsharald_6676734-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
