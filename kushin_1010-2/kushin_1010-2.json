@@ -1,9 +1,8 @@
-?? networks.json:
 {
   "chainId": "kushin_1010-2",
-  "chainName": "kushin_1010-2",
-  "rpc": "http://85.239.240.227:26657",
-  "rest": "http://85.239.240.227:1317",
+  "chainName": "Kushin",
+  "rpc": "https://froopyland.dymension.xyz/3/kushin_1010-2/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/kushin_1010-2/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x3f2",
-    "rpc": "http://85.239.240.227:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/kushin_1010-2/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
