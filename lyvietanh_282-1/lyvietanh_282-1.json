@@ -1,9 +1,8 @@
-?? networks.json:
 {
   "chainId": "lyvietanh_282-1",
-  "chainName": "lyvietanh_282-1",
-  "rpc": "http://45.129.183.252:26657",
-  "rest": "http://45.129.183.252:1317",
+  "chainName": "Lyvietanh",
+  "rpc": "https://froopyland.dymension.xyz/3/lyvietanh_282-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/lyvietanh_282-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x11a",
-    "rpc": "http://45.129.183.252:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/lyvietanh_282-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
