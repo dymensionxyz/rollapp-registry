@@ -1,0 +1,33 @@
+{
+    "chainId": "daemon_8575954-1",
+    "chainName": "daemon_8575954-1",
+    "rpc": "http://206.189.150.102:26658",
+    "rest": "http://206.189.150.102:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "DMN",
+        "baseDenom": "uDMN",
+        "decimals": 18,
+        "logo": "/logos/daemon_8575954-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "website": "",
+    "logo": "/logos/daemon_8575954-1.png",
+    "ibc": {
+      "hubChannel": "channel-5513",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x82dbd2",
+      "rpc": "http://206.189.150.102:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "analytics": true
+  }
