@@ -1,8 +1,8 @@
 {
   "chainId": "mmina_1215091-1",
   "chainName": "MMINA",
-  "rpc": "http://51.68.189.1:26657",
-  "rest": "http://51.68.189.1:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/mmina_1215091-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/mmina_1215091-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x128a73",
-    "rpc": "http://51.68.189.1:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/mmina_1215091-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
