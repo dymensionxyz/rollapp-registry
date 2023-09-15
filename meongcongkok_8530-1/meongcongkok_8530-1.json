@@ -1,6 +1,6 @@
 {
   "chainId": "meongcongkok_8530-1",
-  "chainName": "meongcongkok_8530-1",
+  "chainName": "Meongcongkok",
   "rpc": "https://froopyland.dymension.xyz/3/meongcongkok_8530-1/rpc",
   "rest": "https://froopyland.dymension.xyz/3/meongcongkok_8530-1/rest",
   "bech32Prefix": "ethm",
