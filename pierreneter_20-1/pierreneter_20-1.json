@@ -1,8 +1,8 @@
 {
   "chainId": "pierreneter_20-1",
-  "chainName": "pierreneter_20-1",
-  "rpc": "http://d6.pierreneter.com:26657",
-  "rest": "http://d6.pierreneter.com:1317",
+  "chainName": "Pierreneter",
+  "rpc": "https://froopyland.dymension.xyz/3/pierreneter_20-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/pierreneter_20-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x14",
-    "rpc": "http://d6.pierreneter.com:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/pierreneter_20-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
