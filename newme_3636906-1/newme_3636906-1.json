@@ -1,8 +1,8 @@
 {
   "chainId": "newme_3636906-1",
   "chainName": "K1eng",
-  "rpc": "https://dymension-rpc-rollapp.utsa.tech",
-  "rest": "https://dymension-rest-rollapp.utsa.tech",
+  "rpc": "https://dymension-rpc-rollapp.newme.tech",
+  "rest": "https://dymension-rest-rollapp.newme.tech",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x377eaa",
-    "rpc": "https://dymension-jsonrpc-rollapp.utsa.tech"
+    "rpc": "https://dymension-jsonrpc-rollapp.newme.tech"
   },
   "type": "RollApp",
   "da": "Celestia",
