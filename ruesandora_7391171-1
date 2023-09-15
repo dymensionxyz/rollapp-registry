@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "ruesandora_7391171-1",
+  "chainName": "ruesandora_7391171-1",
+  "rpc": "http://ruesandora.xyz:26657/",
+  "rest": "http://ruesandora.xyz:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "rues",
+      "baseDenom": "urues",
+      "decimals": 18,
+      "logo": "/logos/ruesandora_7391171-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/ruesandora_7391171-1.png",
+  "ibc": {
+    "hubChannel": "channel-5507",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x70c7c3",
+    "rpc": "http://ruesandora.xyz:8545/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
