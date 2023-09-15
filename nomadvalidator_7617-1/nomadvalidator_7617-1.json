@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x1dc1",
-    "rpc": ""
+    "rpc": "https://evm.dymension.nomadvalidator.com"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "NomadNode are cool validator ☸️⚛️ NomadNode created for longterm server machine & validating",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
