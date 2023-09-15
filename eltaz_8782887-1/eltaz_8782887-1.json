@@ -1,8 +1,8 @@
 {
   "chainId": "eltaz_8782887-1",
-  "chainName": "eltaz_8782887-1",
-  "rpc": "http://159.69.13.145:26657",
-  "rest": "http://159.69.13.145:1317",
+  "chainName": "Eltaz",
+  "rpc": "https://froopyland.dymension.xyz/3/eltaz_8782887-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/eltaz_8782887-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x860427",
-    "rpc": "http://159.69.13.145:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/eltaz_8782887-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
