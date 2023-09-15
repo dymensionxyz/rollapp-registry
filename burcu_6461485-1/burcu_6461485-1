@@ -2,7 +2,7 @@
 {
   "chainId": "burcu_6461485-1",
   "chainName": "burcu_6461485-1",
-  "rpc": "http://161.97.173.174:26657" ",
+  "rpc": "http://161.97.173.174:26657 ",
   "rest": "http://161.97.173.174:1317 ",
   "bech32Prefix": "ethm",
   "currencies": [
