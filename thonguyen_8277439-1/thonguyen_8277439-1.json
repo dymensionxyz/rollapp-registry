@@ -1,0 +1,33 @@
+{
+  "chainId": "thonguyen_8277439-1",
+  "chainName": "thonguyen",
+  "rpc": "http://95.111.240.120:26657",
+  "rest": "http://95.111.240.120:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NTT",
+      "baseDenom": "uNTT",
+      "decimals": 18,
+      "logo": "/logos/thonguyen_8277439-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/thonguyen_8277439-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5395",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7e4dbf",
+    "rpc": "http://95.111.240.120:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
