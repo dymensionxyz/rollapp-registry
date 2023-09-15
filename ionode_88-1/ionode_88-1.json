@@ -1,8 +1,8 @@
 {
   "chainId": "ionode_88-1",
-  "chainName": "ionode_88-1",
-  "rpc": "http://81.0.219.243:26657",
-  "rest": "http://81.0.219.243:1317",
+  "chainName": "Ionode",
+  "rpc": "https://froopyland.dymension.xyz/2/ionode_88-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/ionode_88-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x58",
-    "rpc": "http://81.0.219.243:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/ionode_88-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
