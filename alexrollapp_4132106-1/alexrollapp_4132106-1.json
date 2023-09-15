@@ -1,8 +1,8 @@
 {
   "chainId": "alexrollapp_4132106-1",
   "chainName": "ALX",
-  "rpc": "161.97.97.132:26657",
-  "rest": "161.97.97.132:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/rpc",
+  "rest": "1https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x3f0d0a",
-    "rpc": "161.97.97.132:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
