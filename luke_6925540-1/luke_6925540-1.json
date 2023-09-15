@@ -1,8 +1,8 @@
 {
   "chainId": "luke_6925540-1",
-  "chainName": "luke_6925540-1",
-  "rpc": "http://45.67.221.246:26657",
-  "rest": "http://45.67.221.246:1317",
+  "chainName": "Luke",
+  "rpc": "https://froopyland.dymension.xyz/3/luke_6925540-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/luke_6925540-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x69ace4",
-    "rpc": "http://45.67.221.246:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/luke_6925540-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
