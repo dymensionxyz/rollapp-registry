@@ -1,8 +1,8 @@
 {
   "chainId": "aprame_9584402-1",
-  "chainName": "aprame_9584402-1",
-  "rpc": "http://65.109.48.247:26657",
-  "rest": "http://65.109.48.247:1317",
+  "chainName": "Aprame",
+  "rpc": "https://froopyland.dymension.xyz/2/aprame_9584402-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/aprame_9584402-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x923f12",
-    "rpc": "http://65.109.48.247:8545"
+    "rpc": "https://froopyland.dymension.xyz/2/aprame_9584402-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
