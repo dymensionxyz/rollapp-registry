@@ -2,8 +2,8 @@
 {
   "chainId": "ruesandora_7391171-1",
   "chainName": "ruesandora_7391171-1",
-  "rpc": "http://ruesandora.xyz:26657/",
-  "rest": "http://ruesandora.xyz:1317/",
+  "rpc": "http://16.171.241.170:26657",
+  "rest": "http://16.171.241.170:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x70c7c3",
-    "rpc": "http://ruesandora.xyz:8545/"
+    "rpc": "http://16.171.241.170:8545"
   },
   "type": "RollApp",
   "da": "Avail",
