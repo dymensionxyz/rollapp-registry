@@ -1,6 +1,6 @@
 {
   "chainId": "dymension_100000000-23",
-  "chainName": "dymension",
+  "chainName": "Coca-Cola",
   "rpc": "https://froopyland.dymension.xyz/3/dymension_100000000-23/rpc",
   "rest": "https://froopyland.dymension.xyz/3/dymension_100000000-23/rest",
   "bech32Prefix": "ethm",
