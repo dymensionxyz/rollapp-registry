@@ -1,0 +1,33 @@
+{
+  "chainId": "zkone_7311516-1",
+  "chainName": "zkone_7311516-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "zkone",
+      "baseDenom": "uzkone",
+      "decimals": 18,
+      "logo": "/logos/zkone_7311516-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/zkone_7311516-1.png",
+  "ibc": {
+    "hubChannel": "channel-5504",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6f909c",
+    "rpc": "https://137.184.42.234:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
