@@ -1,8 +1,8 @@
 {
   "chainId": "vohoangduy_1326-1",
-  "chainName": "vohoangduy_1326-1",
-  "rpc": "http://109.123.241.31:26657",
-  "rest": "http://109.123.241.31:1317",
+  "chainName": "Vohoangduy",
+  "rpc": "https://froopyland.dymension.xyz/3/vohoangduy_1326-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/vohoangduy_1326-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x52e",
-    "rpc": "http://109.123.241.31:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/vohoangduy_1326-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
