@@ -1,8 +1,8 @@
 {
   "chainId": "arn_5838574-1",
-  "chainName": "arn_5838574-1",
-  "rpc": "http://37.27.10.37:26657",
-  "rest": "http://37.27.10.37:1317",
+  "chainName": "Arn",
+  "rpc": "https://froopyland.dymension.xyz/3/arn_5838574-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/arn_5838574-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5916ee",
-    "rpc": "http://37.27.10.37.8545"
+    "rpc": "https://froopyland.dymension.xyz/3/arn_5838574-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
