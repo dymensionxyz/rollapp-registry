@@ -1,0 +1,33 @@
+{
+  "chainId": "myfennarirollapp_9412493-1",
+  "chainName": "Fennari",
+  "rpc": "http://45.147.250.184:26657",
+  "rest": "http://45.147.250.184:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FEN",
+      "baseDenom": "uFEN",
+      "decimals": 18,
+      "logo": "/logos/myfennarirollapp_9412493-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/myfennarirollapp_9412493-1.png",
+  "ibc": {
+    "hubChannel": "channel-5543",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8f9f8d",
+    "rpc": "http://45.147.250.184:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
