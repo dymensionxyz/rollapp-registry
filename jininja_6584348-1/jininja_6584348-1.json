@@ -1,8 +1,8 @@
 {
   "chainId": "jininja_6584348-1",
   "chainName": "jininja_6584348-1",
-  "rpc": "94.177.9.51",
-  "rest": "94.177.9.51",
+  "rpc": "http://94.177.9.51",
+  "rest": "http://94.177.9.51",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x64781c",
-    "rpc": "94.177.9.51"
+    "rpc": "http://94.177.9.51"
   },
   "type": "RollApp",
   "da": "Celestia",
