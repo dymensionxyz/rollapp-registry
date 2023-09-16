@@ -1,0 +1,34 @@
+{
+  "chainId": "mypavlovrollapp_4074758-1",
+  "chainName": "mypavlovrollapp_4074758-1",
+  "rpc": "http://75.119.149.221:26657",
+  "rest": "http://75.119.149.221:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PVL",
+      "baseDenom": "uPVL",
+      "decimals": 18,
+      "logo": "/logos/mypavlovrollapp_4074758-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/mypavlovrollapp_4074758-1.png",
+  "ibc": {
+    "hubChannel": "channel-5572",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3e2d06",
+    "rpc": "http://75.119.149.221.8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
