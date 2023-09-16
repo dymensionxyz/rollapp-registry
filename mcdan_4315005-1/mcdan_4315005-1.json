@@ -1,8 +1,8 @@
 {
   "chainId": "mcdan_4315005-1",
   "chainName": "Luaga rollapp",
-  "rpc": "http://51.38.227.150:26657",
-  "rest": "http://51.38.227.150:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/mcdan_4315005-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/mcdan_4315005-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x41d77d",
-    "rpc": "http://51.38.227.150:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/mcdan_4315005-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
