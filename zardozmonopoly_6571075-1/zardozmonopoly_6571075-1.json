@@ -1,9 +1,9 @@
 
 {
   "chainId": "zardozmonopoly_6571075-1",
-  "chainName": "zardozmonopoly_6571075-1",
-  "rpc": "http://45.151.122.182:26657",
-  "rest": "http://45.151.122.182:1317",
+  "chainName": "Zardozmonopoly",
+  "rpc": "https://froopyland.dymension.xyz/3/zardozmonopoly_6571075-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/zardozmonopoly_6571075-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x644443",
-    "rpc": "http://45.151.122.182:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/zardozmonopoly_6571075-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
