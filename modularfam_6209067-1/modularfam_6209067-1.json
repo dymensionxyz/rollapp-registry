@@ -1,8 +1,8 @@
 {
   "chainId": "modularfam_6209067-1",
   "chainName": "modularfam_6209067-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://157.245.149.36:26657",
+  "rest": "http://157.245.149.36:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5ebe2b",
-    "rpc": ""
+    "rpc": "http://157.245.149.36:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
