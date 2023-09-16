@@ -1,8 +1,8 @@
 {
   "chainId": "dhailong_4816352-1",
   "chainName": "HaiLong",
-  "rpc": "http://dhailongxxx.dssddns.com:26657",
-  "rest": "http://dhailongxxx.dssddns.com:1317",
+  "rpc": "http://dhailong267.ddns.net:26657",
+  "rest": "http://dhailong267.ddns.net:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x497de0",
-    "rpc": "http://dhailongxxx.dssddns.com:8545"
+    "rpc": "http://dhailong267.ddns.net:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
