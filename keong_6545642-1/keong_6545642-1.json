@@ -1,8 +1,8 @@
 {
   "chainId": "keong_6545642-1",
-  "chainName": "keong_6545642-1",
-  "rpc": "http://64.225.108.233:26657",
-  "rest": "http://64.225.108.233:1317",
+  "chainName": "Keong",
+  "rpc": "https://froopyland.dymension.xyz/3/keong_6545642-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/keong_6545642-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x63e0ea",
-    "rpc": "http://64.225.108.233:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/keong_6545642-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
