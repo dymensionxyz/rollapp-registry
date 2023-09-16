@@ -1,8 +1,8 @@
 {
   "chainId": "byfalib_6334-1",
-  "chainName": "byfalib_6334-1",
-  "rpc": "http://38.242.241.41:26657",
-  "rest": "http://38.242.241.41:1317",
+  "chainName": "Byfalib",
+  "rpc": "https://froopyland.dymension.xyz/3/byfalib_6334-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/byfalib_6334-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x18be",
-    "rpc": "http://38.242.241.41:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/byfalib_6334-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
