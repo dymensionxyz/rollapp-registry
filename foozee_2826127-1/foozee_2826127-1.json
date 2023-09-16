@@ -1,8 +1,8 @@
 {
   "chainId": "foozee_2826127-1",
-  "chainName": "foozee_2826127-1",
-  "rpc": "80.65.211.114:26657",
-  "rest": "80.65.211.114:1317",
+  "chainName": "Foozee",
+  "rpc": "https://froopyland.dymension.xyz/3/foozee_2826127-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/foozee_2826127-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2b1f8f",
-    "rpc": "80.65.211.114:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/foozee_2826127-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
