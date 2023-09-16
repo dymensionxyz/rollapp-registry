@@ -8,7 +8,7 @@
     {
       "displayDenom": "qpt",
       "baseDenom": "uqpt",
-      "decimals": 18,
+      "decimals": 18i,
       "logo": "/logos/qpt_6224537-1.jpg",
       "type": "main"
     }
