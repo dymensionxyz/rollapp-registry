@@ -1,8 +1,8 @@
 {
   "chainId": "cimahhn_4402552-1",
   "chainName": "Cimahhn",
-  "rpc": "http://51.38.225.17:26657",
-  "rest": "http://51.38.225.17:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/cimahhn_4402552-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/cimahhn_4402552-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x432d78",
-    "rpc": "http://51.38.225.17:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/cimahhn_4402552-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
