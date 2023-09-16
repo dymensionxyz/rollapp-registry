@@ -1,8 +1,8 @@
 {
   "chainId": "silent_1319141-1",
   "chainName": "silent",
-  "rpc": "http://49.13.83.68:26657",
-  "rest": "http://49.13.83.68:1317",
+  "rpc": "https://froopyland.dymension.xyz/3/silent_1319141-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/silent_1319141-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x1420e5",
-    "rpc": "http://49.13.83.68:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/silent_1319141-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
