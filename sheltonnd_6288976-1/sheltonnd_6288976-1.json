@@ -1,0 +1,33 @@
+{
+  "chainId": "sheltonnd_6288976-1",
+  "chainName": "sheltonnd",
+  "rpc": "http://65.109.226.131:26657",
+  "rest": "http://65.109.226.131:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SHE",
+      "baseDenom": "uSHE",
+      "decimals": 18,
+      "logo": "/logos/sheltonnd_6288976-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/sheltonnd_6288976-1.png",
+  "ibc": {
+    "hubChannel": "channel-5548",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5ff650",
+    "rpc": "http://65.109.226.131:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
