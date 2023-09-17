@@ -1,8 +1,8 @@
 {
   "chainId": "valardohaeris_4091451-1",
-  "chainName": "valardohaeris_4091451-1",
-  "rpc": "http://95.216.217.31:26657",
-  "rest": "http://95.216.217.31:1317",
+  "chainName": "Valardohaeris",
+  "rpc": "https://froopyland.dymension.xyz/4/valardohaeris_4091451-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/valardohaeris_4091451-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e6e3b",
-    "rpc": "http://95.216.217.31:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/valardohaeris_4091451-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
