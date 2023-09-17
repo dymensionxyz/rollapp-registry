@@ -1,22 +1,22 @@
 {
     "chainId": "sychonix_4126408-1",
-    "chainName": "Sychonix",
-    "rpc": "",
-    "rest": "",
+    "chainName": "sychonix_4126408-1",
+    "rpc": "http://146.190.97.66:26657",
+    "rest": "http://146.190.97.66:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
         "displayDenom": "SYNX",
         "baseDenom": "uSYNX",
         "decimals": 18,
-        "logo": "/logos/sychonix.png",
+        "logo": "/logos/sychonix_4126408-1.png",
         "type": "main"
       }
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "website": "",
-    "logo": "/logos/sychonix.png",
+    "logo": "/logos/sychonix_4126408-1.png",
     "ibc": {
       "hubChannel": "channel-5385",
       "channel": "channel-0",
@@ -24,10 +24,10 @@
     },
     "evm": {
       "chainId": "0x3ef6c8",
-      "rpc": ""
+      "rpc": "http://146.190.97.66:8545"
     },
     "type": "RollApp",
     "da": "Avail",
     "description": "",
     "analytics": true
-  } 
+  }
