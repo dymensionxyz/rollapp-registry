@@ -1,8 +1,8 @@
 {
   "chainId": "thisislexar_2256795-1",
-  "chainName": "thisislexar_2256795-1",
-  "rpc": "http://38.242.151.108:26657",
-  "rest": "http://38.242.151.108:1317",
+  "chainName": "Thisislexar",
+  "rpc": "https://froopyland.dymension.xyz/3/thisislexar_2256795-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/thisislexar_2256795-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x226f9b",
-    "rpc": "http://38.242.151.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/3/thisislexar_2256795-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
