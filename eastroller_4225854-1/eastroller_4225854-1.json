@@ -1,22 +1,22 @@
 {
   "chainId": "eastroller_4225854-1",
-  "chainName": "eastroller_4225854-1",
-  "rpc": "http://158.247.244.55:26657",
-  "rest": "http://158.247.244.55:1317",
+  "chainName": "East Roller",
+  "rpc": "https://froopyland.dymension.xyz/4/eastroller_4225854-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/eastroller_4225854-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "LCM",
       "baseDenom": "uLCM",
       "decimals": 18,
-      "logo": "/logos/eastroller_4225854-1.png",
+      "logo": "/logos/eastroller_4225854-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/eastroller_4225854-1.png",
+  "logo": "/logos/eastroller_4225854-1.jpg",
   "ibc": {
     "hubChannel": "channel-5555",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x407b3e",
-    "rpc": "http://158.247.244.55:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/eastroller_4225854-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
