@@ -1,8 +1,8 @@
 {
   "chainId": "rose_6956692-1",
   "chainName": "rose_6956692-1",
-  "rpc": "https://froopy-rollapp-rpc.andromedapool.com",
-  "rest": "https://froopy-rollapp-rpc.andromedapool.com",
+  "rpc": "http://101.32.116.82:26657",
+  "rest": "http://101.32.116.82:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6a2694",
-    "rpc": "https://froopy-rollapp-rpc.andromedapool.com"
+    "rpc": "http://101.32.116.82:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
