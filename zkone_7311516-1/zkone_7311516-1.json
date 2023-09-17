@@ -1,8 +1,8 @@
 {
   "chainId": "zkone_7311516-1",
-  "chainName": "zkone_7311516-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Zkone",
+  "rpc": "https://froopyland.dymension.xyz/4/zkone_7311516-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/zkone_7311516-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6f909c",
-    "rpc": "https://137.184.33.171:8545/"
+    "rpc": "https://froopyland.dymension.xyz/4/zkone_7311516-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
