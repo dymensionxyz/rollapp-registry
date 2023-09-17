@@ -1,8 +1,8 @@
 {
   "chainId": "gwei_4050257-1",
   "chainName": "Gwei",
-  "rpc": "https://froopy-rollapp-rpc.andromedapool.com",
-  "rest": "https://froopy-rollapp-rest.andromedapool.com",
+  "rpc": "http://43.133.62.40:26657",
+  "rest": "http://43.133.62.40:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3dcd51",
-    "rpc": ""
+    "rpc": "http://43.133.62.40:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
