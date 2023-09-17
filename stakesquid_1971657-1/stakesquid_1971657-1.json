@@ -1,8 +1,8 @@
 {
   "chainId": "stakesquid_1971657-1",
   "chainName": "stakesquid_1971657-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://137.184.42.234:26657",
+  "rest": "http://137.184.42.234:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1e15c9",
-    "rpc": ""
+    "rpc": "http://137.184.42.234:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
