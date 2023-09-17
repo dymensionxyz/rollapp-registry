@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "jembutkucing_9748260-1",
+  "chainName": "jembutkucing_9748260-1",
+  "rpc": "http://136.243.105.186:46657",
+  "rest": "http://136.243.105.186:4317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "jembut",
+      "baseDenom": "ujembut",
+      "decimals": 18,
+      "logo": "/logos/jembutkucing_9748260-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jembutkucing_9748260-1.png",
+  "ibc": {
+    "hubChannel": "channel-5394",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x94bf24",
+    "rpc": "http://136.243.105.186:4545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
