@@ -1,8 +1,8 @@
 {
   "chainId": "vnquetoi_7050764-1",
   "chainName": "Que huong",
-  "rpc": "http://65.109.163.243:26657",
-  "rest": "http://65.109.163.243:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/vnquetoi_7050764-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/vnquetoi_7050764-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6b960c",
-    "rpc": "http://65.109.163.243:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/vnquetoi_7050764-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
