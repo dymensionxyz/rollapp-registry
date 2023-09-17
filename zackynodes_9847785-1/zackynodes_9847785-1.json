@@ -1,8 +1,8 @@
 {
 "chainId": "zackynodes_9847785-1",
 "chainName": "zackynodes",
-"rpc": "https://froopyland.dymension.xyz/2/zackynodes_9847785-1/rpc",
-"rest": "https://froopyland.dymension.xyz/2/zackynodes_9847785-1/rest",
+"rpc": "http://146.190.168.180:26657",
+"rest": "http://146.190.168.180:1317",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x9643e9",
-"rpc": "https://froopyland.dymension.xyz/2/zackynodes_9847785-1/evmrpc"
+"rpc": "http://146.190.168.180:8545"
 },
 "type": "RollApp",
 "da": "Avail",
