@@ -31,37 +31,3 @@
   "description": "",
   "analytics": true
 }
-root@vmi1099260:~/rollapp-registry/hlmrollapp_6829592-1# roller config export
-💈 networks.json:
-{
-  "chainId": "hlmrollapp_6829592-1",
-  "chainName": "hlmrollapp_6829592-1",
-  "rpc": "http://85.239.233.65:26657",
-  "rest": "http://85.239.233.65:1317",
-  "bech32Prefix": "ethm",
-  "currencies": [
-    {
-      "displayDenom": "HKC",
-      "baseDenom": "uHKC",
-      "decimals": 18,
-      "logo": "/logos/hlmrollapp_6829592-1.png",
-      "type": "main"
-    }
-  ],
-  "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
-  "logo": "/logos/hlmrollapp_6829592-1.png",
-  "ibc": {
-    "hubChannel": "channel-5625",
-    "channel": "channel-0",
-    "timeout": 172800000
-  },
-  "evm": {
-    "chainId": "0x683618",
-    "rpc": "http://85.239.233.65:8545"
-  },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
