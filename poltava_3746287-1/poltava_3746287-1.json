@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "vitalikbuterinlox",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
