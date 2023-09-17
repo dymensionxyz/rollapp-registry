@@ -1,8 +1,8 @@
 {
   "chainId": "linettedo_2371756-1",
   "chainName": "Line",
-  "rpc": "http://5.75.146.153:26657",
-  "rest": "http://5.75.146.153:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/linettedo_2371756-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/linettedo_2371756-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2430ac",
-    "rpc": "http://5.75.146.153:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/linettedo_2371756-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
