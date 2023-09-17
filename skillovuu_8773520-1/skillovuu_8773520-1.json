@@ -1,8 +1,8 @@
 {
   "chainId": "skillovuu_8773520-1",
   "chainName": "skillovuu",
-  "rpc": "https://froopyland.dymension.xyz/2/skillovuu_8773520-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/2/skillovuu_8773520-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/4/skillovuu_8773520-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/skillovuu_8773520-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x85df90",
-    "rpc": "https://froopyland.dymension.xyz/2/skillovuu_8773520-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/4/skillovuu_8773520-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
