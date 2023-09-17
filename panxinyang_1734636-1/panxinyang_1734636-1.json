@@ -1,8 +1,8 @@
 {
     "chainId": "panxinyang_1734636-1",
-    "chainName": "panxinyang_1734636-1",
-    "rpc": "http://128.140.117.169:26657",
-    "rest": "http://128.140.117.169:1317",
+    "chainName": "Panxinyang",
+    "rpc": "https://froopyland.dymension.xyz/4/panxinyang_1734636-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/4/panxinyang_1734636-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x1a77ec",
-      "rpc": "http://128.140.117.169:8545"
+      "rpc": "https://froopyland.dymension.xyz/4/panxinyang_1734636-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
