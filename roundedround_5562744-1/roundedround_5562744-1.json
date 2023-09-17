@@ -1,8 +1,8 @@
 { 
   "chainId": "roundedround_5562744-1", 
-  "chainName": "roundedround_5562744-1", 
-  "rpc":  "http://185.193.66.10:26657/", 
-  "rest":  "http://185.193.66.10:1317/", 
+  "chainName": "Rounded Round", 
+  "rpc":  "https://froopyland.dymension.xyz/4/roundedround_5562744-1/rpc", 
+  "rest":  "https://froopyland.dymension.xyz/4/roundedround_5562744-1/rest", 
   "bech32Prefix": "ethm", 
   "currencies": [
     { 
@@ -24,7 +24,7 @@
   },
   "evm": { 
            "chainId": "0x54e178", 
-           "rpc": "http://185.193.66.10:8545/"
+           "rpc": "https://froopyland.dymension.xyz/4/roundedround_5562744-1/evmrpc"
   },
     "type": "RollApp", 
     "da": "Celestia", 
