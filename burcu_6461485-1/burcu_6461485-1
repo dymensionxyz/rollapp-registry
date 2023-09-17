@@ -1,9 +1,8 @@
- networks.json:
 {
   "chainId": "burcu_6461485-1",
-  "chainName": "burcu_6461485-1",
-  "rpc": "http://161.97.173.174:26657 ",
-  "rest": "http://161.97.173.174:1317 ",
+  "chainName": "Burcu",
+  "rpc": "https://froopyland.dymension.xyz/4/burcu_6461485-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/burcu_6461485-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x62982d",
-    "rpc": "http://161.97.173.174:8545 "
+    "rpc": "https://froopyland.dymension.xyz/4/burcu_6461485-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
