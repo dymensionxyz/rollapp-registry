@@ -1,6 +1,6 @@
 {
 "chainId": "onepiece_4987759-1",
-"chainName": "onepiece,
+"chainName": "onepiece",
 "rpc": "http://165.227.64.13:26657",
 "rest": "http://165.227.64.13:1317",
 "bech32Prefix": "ethm",
