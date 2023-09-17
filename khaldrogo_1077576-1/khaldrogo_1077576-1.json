@@ -1,8 +1,8 @@
 {
   "chainId": "khaldrogo_1077576-1",
   "chainName": "khaldrogo",
-  "rpc": "http://37.27.17.99:26657",
-  "rest": "http://37.27.17.99:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/khaldrogo_1077576-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/khaldrogo_1077576-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x107148",
-    "rpc": "http://37.27.17.99:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/khaldrogo_1077576-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
