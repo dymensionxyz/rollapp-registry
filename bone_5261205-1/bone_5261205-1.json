@@ -1,0 +1,33 @@
+{
+  "chainId": "bone_5261205-1",
+  "chainName": "bone",
+  "rpc": "http://154.12.247.120:26657",
+  "rest": "http://154.12.247.120:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "bone",
+      "baseDenom": "ubone",
+      "decimals": 18,
+      "logo": "/logos/bone_5261205-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/bone_5261205-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5617",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x504795",
+    "rpc": "http://154.12.247.120:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
