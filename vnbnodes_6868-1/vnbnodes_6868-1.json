@@ -1,6 +1,6 @@
 {
   "chainId": "vnbnodes_6868-1",
-  "chainName": "vnbnodes_6868",
+  "chainName": "VNBnodes",
   "rpc": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/rpc",
   "rest": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/rest",
   "bech32Prefix": "ethm",
