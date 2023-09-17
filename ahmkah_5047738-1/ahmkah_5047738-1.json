@@ -1,8 +1,8 @@
 {
   "chainId": "ahmkah_5047738-1",
-  "chainName": "ahmkah_5047738-1",
-  "rpc": "94.130.179.53:26657",
-  "rest": "94.130.179.53:1317",
+  "chainName": "Ahmkah",
+  "rpc": "https://froopyland.dymension.xyz/4/ahmkah_5047738-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/ahmkah_5047738-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d05ba",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/4/ahmkah_5047738-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
