@@ -1,0 +1,33 @@
+{
+  "chainId": "dhailong_2992965-1",
+  "chainName": "dhailong_2992965-1",
+  "rpc": "http://dhailong267.ddns.net:26657",
+  "rest": "http://dhailong267.ddns.net:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DHL",
+      "baseDenom": "uDHL",
+      "decimals": 18,
+      "logo": "/logos/dhailong_2992965-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/dhailong_2992965-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5622",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2dab45",
+    "rpc": "http://dhailong267.ddns.net:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
