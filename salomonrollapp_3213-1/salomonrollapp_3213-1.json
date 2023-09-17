@@ -1,8 +1,8 @@
 {
   "chainId": "salomonrollapp_3213-1",
-  "chainName": "salomonrollapp_3213-1",
-  "rpc": "http://45.14.194.130:26657",
-  "rest": "http://45.14.194.130:1317",
+  "chainName": "Salomon Rollapp",
+  "rpc": "https://froopyland.dymension.xyz/4/salomonrollapp_3213-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/salomonrollapp_3213-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0xc8d",
-    "rpc": "http://45.14.194.130:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/salomonrollapp_3213-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
