@@ -1,8 +1,8 @@
 {
   "chainId": "sheltonnd_6288976-1",
   "chainName": "sheltonnd",
-  "rpc": "http://65.109.226.131:26657",
-  "rest": "http://65.109.226.131:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/sheltonnd_6288976-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/sheltonnd_6288976-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5ff650",
-    "rpc": "http://65.109.226.131:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/sheltonnd_6288976-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
