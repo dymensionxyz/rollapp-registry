@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "We Love Crypto",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
