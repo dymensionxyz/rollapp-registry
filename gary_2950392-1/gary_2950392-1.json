@@ -1,8 +1,8 @@
 {
   "chainId": "gary_2950392-1",
   "chainName": "gary",
-  "rpc": "http://62.171.156.99:26657",
-  "rest": "http://62.171.156.99:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/gary_2950392-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/gary_2950392-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2d04f8",
-    "rpc": "http://62.171.156.99:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/gary_2950392-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
