@@ -1,8 +1,8 @@
 {
   "chainId": "aykut_6305294-1",
-  "chainName": "aykut_6305294-1",
-  "rpc": "http://65.21.240.194:26657",
-  "rest": "http://65.21.240.194:1317",
+  "chainName": "Aykut",
+  "rpc": "https://froopyland.dymension.xyz/4/logos_3138059-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/aykut_6305294-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x60360e",
-   "rpc": "http://65.21.240.194.8545"
+   "rpc": "https://froopyland.dymension.xyz/4/logos_3138059-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
