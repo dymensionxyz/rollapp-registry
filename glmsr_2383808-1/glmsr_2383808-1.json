@@ -1,9 +1,8 @@
-networks.json:
 {
   "chainId": "glmsr_2383808-1",
-  "chainName": "glmsr_2383808-1",
-  "rpc": "http://62.171.176.118:26657",
-  "rest": "http://62.171.176.118:1317",
+  "chainName": "Glmsr",
+  "rpc": "https://froopyland.dymension.xyz/4/glmsr_2383808-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/glmsr_2383808-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@ networks.json:
   },
   "evm": {
     "chainId": "0x245fc0",
-    "rpc": "http://62.171.176.118.8545"
+    "rpc": "https://froopyland.dymension.xyz/4/glmsr_2383808-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
