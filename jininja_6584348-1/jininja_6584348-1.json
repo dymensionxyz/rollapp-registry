@@ -1,22 +1,22 @@
 {
   "chainId": "jininja_6584348-1",
-  "chainName": "jininja_6584348-1",
-  "rpc": "http://94.177.9.51:26657",
-  "rest": "http://94.177.9.51:1317",
+  "chainName": "Jininja",
+  "rpc": "https://froopyland.dymension.xyz/4/jininja_6584348-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/jininja_6584348-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "JYN",
       "baseDenom": "uJYN",
       "decimals": 18,
-      "logo": "/logos/jininja_6584348-1.png",
+      "logo": "/logos/ninja.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/jininja_6584348-1.png",
+  "logo": "/logos/ninja.png",
   "ibc": {
     "hubChannel": "channel-5527",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x64781c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/4/jininja_6584348-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
