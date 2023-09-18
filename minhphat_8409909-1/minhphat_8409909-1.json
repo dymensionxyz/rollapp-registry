@@ -1,8 +1,8 @@
 {
   "chainId": "minhphat_8409909-1",
-  "chainName": "minhphat_8409909-1",
-  "rpc": "http://31.220.72.135:26657",
-  "rest": "http://31.220.72.135:1317",
+  "chainName": "Minhphat",
+  "rpc": "https://froopyland.dymension.xyz/4/minhphat_8409909-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/minhphat_8409909-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x805335",
-    "rpc": "http://31.220.72.135:26657:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/minhphat_8409909-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
