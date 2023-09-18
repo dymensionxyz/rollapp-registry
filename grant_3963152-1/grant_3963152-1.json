@@ -1,0 +1,33 @@
+{
+  "chainId": "grant_3963152-1",
+  "chainName": "Grant app",
+  "rpc": "http://95.216.158.153:26657",
+  "rest": "http://95.216.158.153:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GRA",
+      "baseDenom": "uGRA",
+      "decimals": 18,
+      "logo": "/logos/grant_3963152-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/grant_3963152-1.png",
+  "ibc": {
+    "hubChannel": "channel-5563",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3c7910",
+    "rpc": "http://95.216.158.153:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
