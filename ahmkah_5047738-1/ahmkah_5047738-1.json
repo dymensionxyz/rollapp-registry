@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "DYMENSION GENESIS NFT",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
