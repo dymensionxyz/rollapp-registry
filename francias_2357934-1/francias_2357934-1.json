@@ -1,8 +1,8 @@
 {
   "chainId": "francias_2357934-1",
   "chainName": "francias",
-  "rpc": "http://45.151.123.188:26657",
-  "rest": "http://45.151.123.188:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/francias_2357934-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/francias_2357934-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x23faae",
-    "rpc": "http://45.151.123.188:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/francias_2357934-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
