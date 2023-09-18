@@ -1,6 +1,6 @@
 {
   "chainId": "jembutkucing_9748260-1",
-  "chainName": "jembutkucing_9748260-1",
+  "chainName": "Jembut Kucing",
   "rpc": "http://136.243.105.186:46657",
   "rest": "http://136.243.105.186:4317",
   "bech32Prefix": "ethm",
