@@ -1,6 +1,6 @@
 {
   "chainId": "ngocdoan_4228225-1",
-  "chainName": "Owlstake NFT Marketplace",
+  "chainName": "Owlstake testnet",
   "rpc": "https://dymrpc.owlstake.com",
   "rest": "https://dymrest.owlstake.com",
   "bech32Prefix": "ethm",
@@ -14,6 +14,7 @@
     }
   ],
   "coinType": 60,
+  "explorerUrl": "https://explorermarket.owlstake.com",
   "faucetUrl": "https://market.owlstake.com",
   "website": "https://market.owlstake.com",
   "logo": "/logos/ngocdoan_4228225-1.svg",
