@@ -1,0 +1,33 @@
+{
+  "chainId": "kafirdym_9398423-1",
+  "chainName": "Kafir Chain",
+  "rpc": "http://207.180.245.65:26657",
+  "rest": "http://207.180.245.65:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KFR",
+      "baseDenom": "uKFR",
+      "decimals": 18,
+      "logo": "/logos/kafirdym_9398423-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "https://twitter.com/Bacchetta0",
+  "logo": "/logos/kafirdym_9398423-1.png",
+  "ibc": {
+    "hubChannel": "channel-5422",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8f6897",
+    "rpc": "http://207.180.245.65:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "RollApps by Kafir",
+  "analytics": true
+}
