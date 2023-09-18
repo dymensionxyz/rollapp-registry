@@ -1,7 +1,7 @@
 💈 networks.json:
 {
   "chainId": "wchen_8105190-1",
-  "chainName": "wchen_8105190-1",
+  "chainName": "Wchen",
   "rpc": "https://127.0.0.1:26657",
   "rest": "https://127.0.0.1:1317",
   "bech32Prefix": "ethm",
