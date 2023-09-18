@@ -1,8 +1,8 @@
 {
   "chainId": "tiger_3022737-1",
-  "chainName": "tiger_3022737-1",
-  "rpc": "http://64.176.55.67:26657",
-  "rest": "http://64.176.55.67:1317",
+  "chainName": "Tiger",
+  "rpc": "https://froopyland.dymension.xyz/4/tiger_3022737-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/tiger_3022737-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e1f91",
-    "rpc": "http://64.176.55.67:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/tiger_3022737-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
