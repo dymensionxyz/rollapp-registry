@@ -1,8 +1,8 @@
 {
   "chainId": "optimysthico_9372020-1",
-  "chainName": "optimysthico_9372020-1",
-  "rpc": "http://149.102.137.76:26657",
-  "rest": "http://149.102.137.76:1317",
+  "chainName": "optimysthico",
+  "rpc": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "optimysthico_9372020-1",
-    "rpc": "http://149.102.137.76:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
