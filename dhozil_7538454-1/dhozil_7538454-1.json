@@ -1,6 +1,6 @@
 {
   "chainId": "dhozil_7538454-1",
-  "chainName": "dhozil_7538454-1",
+  "chainName": "Dhozil",
   "rpc": "http://185.193.17.204:26657",
   "rest": "http://185.193.17.204:1317",
   "bech32Prefix": "ethm",
