@@ -1,0 +1,33 @@
+{
+  "chainId": "ckk_6257761-1",
+  "chainName": "CKK",
+  "rpc": "http://194.233.91.55:26657",
+  "rest": "http://194.233.91.55:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/ckk_6257761-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/ckk_6257761-1.png",
+  "ibc": {
+    "hubChannel": "channel-5547",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5f7c61",
+    "rpc": "http://194.233.91.55:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
