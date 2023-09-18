@@ -1,0 +1,33 @@
+{
+  "chainId": "squarerollapp_3739530-1",
+  "chainName": "squarerollapp_3739530-1",
+  "rpc": "http://143.198.102.217:26657/",
+  "rest": "http://143.198.102.217:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "square",
+      "baseDenom": "usquare",
+      "decimals": 18,
+      "logo": "/logos/squarerollapp_3739530-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/squarerollapp_3739530-1.png",
+  "ibc": {
+    "hubChannel": "channel-5640",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x390f8a",
+    "rpc": "http://143.198.102.217:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
