@@ -1,0 +1,33 @@
+{
+  "chainId": "qubelabs_9010455-1",
+  "chainName": "Qubelabs",
+  "rpc": "http://144.76.105.14:26657",
+  "rest": "http://144.76.105.14:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "QBL",
+      "baseDenom": "uQBL",
+      "decimals": 18,
+      "logo": "/logos/qubelabs_9010455-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/qubelabs_9010455-1.png",
+  "ibc": {
+    "hubChannel": "channel-5629",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x897d17",
+    "rpc": "http://144.76.105.14:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
