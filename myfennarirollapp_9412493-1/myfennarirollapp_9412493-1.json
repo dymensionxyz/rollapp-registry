@@ -1,8 +1,8 @@
 {
   "chainId": "myfennarirollapp_9412493-1",
   "chainName": "Fennari",
-  "rpc": "http://45.147.250.184:26657",
-  "rest": "http://45.147.250.184:1317",
+  "rpc": "https://froopyland.dymension.xyz/4/myfennarirollapp_9412493-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/myfennarirollapp_9412493-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8f9f8d",
-    "rpc": "http://45.147.250.184:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/myfennarirollapp_9412493-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
