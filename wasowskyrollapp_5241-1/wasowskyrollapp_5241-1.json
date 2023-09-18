@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Fast, Reliable and OH SO SMART!",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
