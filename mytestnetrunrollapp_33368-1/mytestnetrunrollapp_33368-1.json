@@ -1,8 +1,8 @@
 {
   "chainId": "mytestnetrunrollapp_33368-1",
-  "chainName": "mytestnetrunrollapp_33368-1",
-  "rpc": "http://5.180.186.25:26857",
-  "rest": "http://5.180.186.25:1317",
+  "chainName": "TCB",
+  "rpc": "https://froopyland.dymension.xyz/4/mytestnetrunrollapp_33368-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/mytestnetrunrollapp_33368-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8258",
-    "rpc": "http://5.180.186.25:8575"
+    "rpc": "https://froopyland.dymension.xyz/4/mytestnetrunrollapp_33368-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
