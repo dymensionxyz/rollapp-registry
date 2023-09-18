@@ -1,22 +1,22 @@
 {
   "chainId": "redwhite_8277135-1",
-  "chainName": "redwhite_8277135-1",
-  "rpc": "http://95.217.235.81:26657",
-  "rest": "http://95.217.235.81:1317",
+  "chainName": "Red-White",
+  "rpc": "https://froopyland.dymension.xyz/4/redwhite_8277135-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/redwhite_8277135-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "rdw",
       "baseDenom": "urdw",
       "decimals": 18,
-      "logo": "/logos/redwhite_8277135-1.png",
+      "logo": "/logos/redwhite_8277135-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/redwhite_8277135-1.png",
+  "logo": "/logos/redwhite_8277135-1.jpg",
   "ibc": {
     "hubChannel": "channel-5476",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7e4c8f",
-    "rpc": "http://95.217.235.81:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/redwhite_8277135-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
