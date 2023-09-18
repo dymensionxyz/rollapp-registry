@@ -29,6 +29,7 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Szymcio Token: Like casino chips for the internet, but you can't accidentally spend them on a late-night pizza",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
 
