@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Your keys, Your coins, Your stakes",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
