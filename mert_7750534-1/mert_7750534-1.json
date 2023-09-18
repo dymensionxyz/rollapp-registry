@@ -1,16 +1,16 @@
 networks.json:
 {
   "chainId": "mert_7750534-1",
-  "chainName": "mert_7750534-1",
-  "rpc": "http://37.27.4.129:26657",
-  "rest": "http://37.27.4.129:1317",
+  "chainName": "Mert",
+  "rpc": "https://froopyland.dymension.xyz/4/mert_7750534-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/mert_7750534-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "TOTA",
       "baseDenom": "uTOTA",
       "decimals": 18,
-      "logo": "/logos/mert_7750534-1.png",
+      "logo": "/logos/mert_7750534-1.jpg",
       "type": "main"
     }
   ],
@@ -25,7 +25,7 @@ networks.json:
   },
   "evm": {
     "chainId": "0x764386",
-    "rpc": "http://37.27.4.129:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/mert_7750534-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
