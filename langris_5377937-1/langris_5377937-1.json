@@ -1,8 +1,8 @@
 {
   "chainId": "langris_5377937-1",
-  "chainName": "langris_5377937-1",
-  "rpc": "http://139.144.123.244:26657/",
-  "rest": "http://139.144.123.244:1317/",
+  "chainName": "Langris",
+  "rpc": "https://froopyland.dymension.xyz/6/langris_5377937-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/langris_5377937-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x520f91",
-    "rpc": "http://139.144.123.244:8545/"
+    "rpc": "https://froopyland.dymension.xyz/6/langris_5377937-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
