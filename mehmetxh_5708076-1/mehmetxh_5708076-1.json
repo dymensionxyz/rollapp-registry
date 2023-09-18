@@ -1,0 +1,33 @@
+{
+  "chainId": "mehmetxh_5708076-1",
+  "chainName": "mehmetxh_5708076-1",
+  "rpc": "http://158.220.80.139:26657",
+  "rest": "http://158.220.80.139:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ROW",
+      "baseDenom": "uROW",
+      "decimals": 18,
+      "logo": "/logos/mehmetxh_5708076-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/mehmetxh_5708076-1.png",
+  "ibc": {
+    "hubChannel": "channel-5615",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x57192c",
+    "rpc": "http://158.220.80.139.8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
