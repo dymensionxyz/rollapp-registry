@@ -1,8 +1,8 @@
 {
   "chainId": "batuakaarcher_2500406-1",
-  "chainName": "batuakaarcher_2500406-1",
-  "rpc": "http://38.242.246.141:26657",
-  "rest": "http://38.242.246.141:1317",
+  "chainName": "Batuakaarcher",
+  "rpc": "https://froopyland.dymension.xyz/4/batuakaarcher_2500406-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/batuakaarcher_2500406-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x262736",
-    "rpc": "http://38.242.246.141:8545"
+    "rpc": "https://froopyland.dymension.xyz/4/batuakaarcher_2500406-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
