@@ -1,0 +1,33 @@
+{
+  "chainId": "dhozil_7538454-1",
+  "chainName": "Dhozil",
+  "rpc": "http://185.193.17.204:26657",
+  "rest": "http://185.193.17.204:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dhozil",
+      "baseDenom": "udhozil",
+      "decimals": 18,
+      "logo": "/logos/dhozil_7538454-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/dhozil_7538454-1.png",
+  "ibc": {
+    "hubChannel": "channel-5595",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x730716",
+    "rpc": "http://185.193.17.204:7070"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
