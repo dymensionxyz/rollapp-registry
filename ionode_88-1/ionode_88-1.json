@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Professional PoS Network Validator, Highly Secured and 24/7 Monitored",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
