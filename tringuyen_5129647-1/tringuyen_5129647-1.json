@@ -1,13 +1,13 @@
 {
-  "chainId": "tringuyen_5129647-1",
+  "chainId": "tringuyen_7012472-1",
   "chainName": "adn79 VNBnode",
   "rpc": "http://202.60.105.146:26657",
   "rest": "http://202.60.105.146:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "DYM",
-      "baseDenom": "uDYM",
+      "displayDenom": "TRI",
+      "baseDenom": "uTRI",
       "decimals": 18,
       "logo": "/logos/tringuyen_5129647-1.jpg",
       "type": "main"
@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/tringuyen_5129647-1.png",
   "ibc": {
-    "hubChannel": "channel-5378",
+    "hubChannel": "channel-5645",
     "channel": "channel-0",
     "timeout": 172800000
   },
