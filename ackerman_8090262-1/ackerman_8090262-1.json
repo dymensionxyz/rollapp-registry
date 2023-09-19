@@ -1,0 +1,33 @@
+{
+  "chainId": "ackerman_8090262-1",
+  "chainName": "ackerman_8090262-1",
+  "rpc": "http://43.130.33.215:26657",
+  "rest": "http://43.130.33.215:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AKM",
+      "baseDenom": "uAKM",
+      "decimals": 18,
+      "logo": "/logos/ackerman_8090262-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/ackerman_8090262-1.png",
+  "ibc": {
+    "hubChannel": "channel-5701",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7b7296",
+    "rpc": "http://43.130.33.215:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
