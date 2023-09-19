@@ -1,8 +1,8 @@
 {
     "chainId": "zionalc_7541620-1",
     "chainName": "zionalc_7541620-1",
-    "rpc": "http://85.239.232.129:26657",
-    "rest": "http://85.239.232.129:1317",
+    "rpc": "https://froopyland.dymension.xyz/5/zionalc_7541620-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/5/zionalc_7541620-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x731374",
-      "rpc": "http://85.239.232.129:8545"
+      "rpc": "https://froopyland.dymension.xyz/5/zionalc_7541620-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
