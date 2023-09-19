@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "GLnetwork for navigating",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }

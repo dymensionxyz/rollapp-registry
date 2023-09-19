@@ -26,5 +26,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "fountain chain",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
