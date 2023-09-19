@@ -1,8 +1,8 @@
 {
   "chainId": "django_5053643-1",
-  "chainName": "django_5053643-1",
-  "rpc": "http://78.187.3.177:26657",
-  "rest": "http://78.187.3.177:1317",
+  "chainName": "Django",
+  "rpc": "https://froopyland.dymension.xyz/5/django_5053643-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/django_5053643-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d1ccb",
-    "rpc": "http://78.187.3.177:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/django_5053643-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
