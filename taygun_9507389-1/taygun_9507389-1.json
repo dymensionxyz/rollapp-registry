@@ -1,8 +1,8 @@
 {
   "chainId": "taygun_9507389-1",
-  "chainName": "taygun_9507389-1",
-  "rpc": "http://207.180.201.38:26657",
-  "rest": "http://207.180.201.38:1317",
+  "chainName": "Taygun",
+  "rpc": "https://froopyland.dymension.xyz/5/taygun_9507389-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/taygun_9507389-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x91123d",
-    "rpc": "http://207.180.201.38.8545"
+    "rpc": "https://froopyland.dymension.xyz/5/taygun_9507389-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
