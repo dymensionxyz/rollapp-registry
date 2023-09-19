@@ -1,8 +1,8 @@
 {
   "chainId": "jian_1229437-1",
-  "chainName": "jian_1229437-1",
-  "rpc": "http://64.176.49.110:26657",
-  "rest": "http://64.176.49.110:1317",
+  "chainName": "Jian",
+  "rpc": "https://froopyland.dymension.xyz/5/jian_1229437-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/jian_1229437-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x12c27d",
-    "rpc": "http://64.176.49.110:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/jian_1229437-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
