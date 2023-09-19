@@ -1,0 +1,33 @@
+{
+  "chainId": "fmusicmc_9337317-1",
+  "chainName": "fmusicmc_9337317-1",
+  "rpc": "https://194.163.175.194:2657",
+  "rest": "https://194.163.175.194:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FMC",
+      "baseDenom": "uFMC",
+      "decimals": 18,
+      "logo": "/logos/fmusicmc_9337317-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/fmusicmc_9337317-1.png",
+  "ibc": {
+    "hubChannel": "channel-5444",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8e79e5",
+    "rpc": "https://194.163.175.194:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
