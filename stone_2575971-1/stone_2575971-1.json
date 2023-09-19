@@ -1,8 +1,8 @@
 {
   "chainId": "stone_2575971-1",
-  "chainName": "stone_2575971-1",
-  "rpc": "http://64.176.52.157:26657",
-  "rest": "http://64.176.52.157:1317",
+  "chainName": "Stone",
+  "rpc": "https://froopyland.dymension.xyz/5/stone_2575971-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/stone_2575971-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x274e63",
-    "rpc": "http://64.176.52.157:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/stone_2575971-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
