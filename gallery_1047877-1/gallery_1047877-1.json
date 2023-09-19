@@ -1,0 +1,35 @@
+{
+    "chainId": "gallery_1047877-1",
+    "chainName": "Gallery",
+    "rpc": "http://65.109.162.175:26657",
+    "rest": "http://65.109.162.175:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ERY",
+        "baseDenom": "uERY",
+        "decimals": 18,
+        "logo": "/logos/gallery_1047877-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "website": "",
+    "logo": "/logos/gallery_1047877-1.png",
+    "ibc": {
+      "hubChannel": "channel-5594",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0xffd45",
+      "rpc": "http://65.109.162.175:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true,
+    "rewards": true
+  }
+  
