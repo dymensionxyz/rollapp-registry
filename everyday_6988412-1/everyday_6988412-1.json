@@ -1,8 +1,8 @@
 {
   "chainId": "everyday_6988412-1",
-  "chainName": "everyday_6988412-1",
-  "rpc": "http://43.133.62.40:26657",
-  "rest": "http://43.133.62.40:1317",
+  "chainName": "Everyday",
+  "rpc": "https://froopyland.dymension.xyz/5/everyday_6988412-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/everyday_6988412-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6aa27c",
-    "rpc": "http://43.133.62.40:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/everyday_6988412-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
