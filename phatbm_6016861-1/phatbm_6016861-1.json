@@ -1,6 +1,6 @@
 {
   "chainId": "phatbm_6016861-1",
-  "chainName": "phatbm_6016861-1",
+  "chainName": "Phatbm",
   "rpc": "https://froopyland.dymension.xyz/5/phatbm_6016861-1/rpc",
   "rest": "https://froopyland.dymension.xyz/5/phatbm_6016861-1/rest",
   "bech32Prefix": "ethm",
