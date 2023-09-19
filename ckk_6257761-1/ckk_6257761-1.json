@@ -1,8 +1,8 @@
 {
   "chainId": "ckk_6257761-1",
   "chainName": "CKK",
-  "rpc": "http://194.233.91.55:26657",
-  "rest": "http://194.233.91.55:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/ckk_6257761-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/ckk_6257761-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5f7c61",
-    "rpc": "http://194.233.91.55:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/ckk_6257761-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
