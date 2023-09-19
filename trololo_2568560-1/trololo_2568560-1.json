@@ -1,8 +1,8 @@
 {
   "chainId": "trololo_2568560-1",
   "chainName": "Trololo",
-  "rpc": "http://154.12.237.160:26657",
-  "rest": "http://154.12.237.160:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/trololo_2568560-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/trololo_2568560-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x273170",
-    "rpc": "http://154.12.237.160:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/trololo_2568560-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
