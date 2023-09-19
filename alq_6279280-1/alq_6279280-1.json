@@ -1,6 +1,6 @@
 {
     "chainId": "alq_6279280-1",
-    "chainName": "alq",
+    "chainName": "alq_6279280-1",
     "rpc": "http://64.176.49.216:26657",
     "rest": "http://64.176.49.216:1317",
     "bech32Prefix": "ethm",
@@ -22,7 +22,7 @@
       "timeout": 172800000
     },
     "evm": {
-      "chainId": "alq_6279280-1",
+      "chainId": "0x629280",
       "rpc": "http://64.176.49.216:8545"
     },
     "type": "RollApp",
