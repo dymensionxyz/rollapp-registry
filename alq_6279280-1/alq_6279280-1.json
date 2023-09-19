@@ -6,8 +6,8 @@
     "bech32Prefix": "ethm",
     "currencies": [
       {
-        "displayDenom": "pool",
-        "baseDenom": "upool",
+        "displayDenom": "dym",
+        "baseDenom": "udym",
         "decimals": 18,
         "logo": "/logos/alq_6279280-1.png",
         "type": "main"
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "alq_6279280-1",
-      "rpc": "http://64.176.49.216:26657"
+      "rpc": "http://64.176.49.216:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
