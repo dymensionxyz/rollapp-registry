@@ -1,8 +1,8 @@
 {
   "chainId": "nghia_4805928-1",
   "chainName": "Nghia Thomas",
-  "rpc": "http://188.34.187.81:26657",
-  "rest": "http://188.34.187.81:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/nghia_4805928-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/nghia_4805928-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x495528",
-    "rpc": "http://188.34.187.81:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/nghia_4805928-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
