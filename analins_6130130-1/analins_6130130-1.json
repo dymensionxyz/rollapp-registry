@@ -1,8 +1,8 @@
 {
   "chainId": "analins_6130130-1",
   "chainName": "analins",
-  "rpc": "http:38.242.213.140:26657",
-  "rest": "http:38.242.213.140:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/analins_6130130-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/analins_6130130-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d89d2",
-    "rpc": "http:38.242.213.140:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/analins_6130130-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
