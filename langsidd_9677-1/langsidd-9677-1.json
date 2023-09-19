@@ -1,8 +1,8 @@
 {
   "chainId": "langsidd_9677-1",
-  "chainName": "langsidd_9677-1",
-  "rpc": "http://146.190.154.187:26657",
-  "rest": "http://146.190.154.187:1317",
+  "chainName": "Langsidd",
+  "rpc": "https://froopyland.dymension.xyz/5/langsidd_9677-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/langsidd_9677-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25cd",
-    "rpc": "http://146.190.154.187:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/langsidd_9677-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
