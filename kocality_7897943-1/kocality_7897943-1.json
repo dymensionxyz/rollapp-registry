@@ -1,8 +1,8 @@
 {
   "chainId": "kocality_7897943-1",
-  "chainName": "kocality_7897943-1",
-  "rpc": "http://95.217.132.163:26657",
-  "rest": "http://95.217.132.163:1317",
+  "chainName": "Kocality",
+  "rpc": "https://froopyland.dymension.xyz/5/kocality_7897943-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/kocality_7897943-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x788357",
-    "rpc": "http://95.217.132.163:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/kocality_7897943-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
