@@ -1,8 +1,8 @@
 {
   "chainId": "ukrainec_1836454-1",
   "chainName": "UKRAPP",
-  "rpc": "http://185.197.194.12:26657",
-  "rest": "http://185.197.194.12:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1c05a6",
-    "rpc": "http://185.197.194.12:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
