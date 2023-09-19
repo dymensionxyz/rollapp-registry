@@ -1,8 +1,8 @@
 {
   "chainId": "jembutkucing_9748260-1",
   "chainName": "Jembut Kucing",
-  "rpc": "http://136.243.105.186:46657",
-  "rest": "http://136.243.105.186:4317",
+  "rpc": "https://froopyland.dymension.xyz/5/jembutkucing_9748260-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/jembutkucing_9748260-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x94bf24",
-    "rpc": "http://136.243.105.186:4545"
+    "rpc": "https://froopyland.dymension.xyz/5/jembutkucing_9748260-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
