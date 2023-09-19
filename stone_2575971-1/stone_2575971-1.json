@@ -1,0 +1,33 @@
+{
+  "chainId": "stone_2575971-1",
+  "chainName": "stone_2575971-1",
+  "rpc": "http://64.176.52.157:26657",
+  "rest": "http://64.176.52.157:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STONE",
+      "baseDenom": "uSTONE",
+      "decimals": 18,
+      "logo": "/logos/stone_2575971-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/stone_2575971-1.png",
+  "ibc": {
+    "hubChannel": "channel-5666",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x274e63",
+    "rpc": "http://64.176.52.157:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Mr Stone",
+  "analytics": true
+}
