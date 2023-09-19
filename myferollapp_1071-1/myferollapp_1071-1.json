@@ -1,8 +1,8 @@
 {
   "chainId": "myferollapp_1071-1",
-  "chainName": "myferollapp_1071-1",
-  "rpc": "http://194.113.67.34:26657",
-  "rest": "http://194.113.67.34:1317",
+  "chainName": "Myferollapp",
+  "rpc": "https://froopyland.dymension.xyz/5/myferollapp_1071-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/myferollapp_1071-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x42f",
-    "rpc": "http://194.113.67.34:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/myferollapp_1071-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
