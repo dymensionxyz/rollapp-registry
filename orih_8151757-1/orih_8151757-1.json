@@ -1,0 +1,33 @@
+{
+  "chainId": "orih_8151757-1",
+  "chainName": "orih_8151757-1",
+  "rpc": " http://45.83.104.95:26657",
+  "rest": "http://45.83.104.95:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "rax",
+      "baseDenom": "urax",
+      "decimals": 18,
+      "logo": "/logos/orih_8151757-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/orih_8151757-1.png",
+  "ibc": {
+    "hubChannel": "channel-5642",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7c62cd",
+    "rpc": "http://45.83.104.95:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
