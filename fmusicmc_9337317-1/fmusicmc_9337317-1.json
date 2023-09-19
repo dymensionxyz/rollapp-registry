@@ -1,7 +1,7 @@
 {
   "chainId": "fmusicmc_9337317-1",
   "chainName": "fmusicmc_9337317-1",
-  "rpc": "https://194.163.175.194:2657",
+  "rpc": "https://194.163.175.194:26657",
   "rest": "https://194.163.175.194:1317",
   "bech32Prefix": "ethm",
   "currencies": [
