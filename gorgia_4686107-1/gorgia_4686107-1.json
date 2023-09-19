@@ -26,8 +26,8 @@
     "chainId": "0x47811b",
     "rpc": "https://froopyland.dymension.xyz/4/gorgia_4686107-1/evmrpc"
   },
-  "type": "RollApp",
   "da": "Celestia",
+  "type": "RollApp",
   "description": "",
   "analytics": true
 }
