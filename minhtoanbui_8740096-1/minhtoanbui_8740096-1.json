@@ -1,8 +1,8 @@
 {
   "chainId": "minhtoanbui_8740096-1",
-  "chainName": "minhtoanbui_8740096-1",
-  "rpc": "http://45.134.226.48:26657",
-  "rest": "http://45.134.226.48:1317",
+  "chainName": "Minhtoanbui",
+  "rpc": "https://froopyland.dymension.xyz/5/minhtoanbui_8740096-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/minhtoanbui_8740096-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x855d00",
-    "rpc": "http://45.134.226.48:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/minhtoanbui_8740096-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
