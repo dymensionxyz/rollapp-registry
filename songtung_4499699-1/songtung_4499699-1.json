@@ -1,8 +1,8 @@
 {
   "chainId": "songtung_4499699-1",
   "chainName": "Son Tung MTP",
-  "rpc": "http://95.217.214.89:26657",
-  "rest": "http://95.217.214.89:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/songtung_4499699-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/songtung_4499699-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44a8f3",
-    "rpc": "http://95.217.214.89:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/songtung_4499699-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
