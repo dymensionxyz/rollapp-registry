@@ -1,8 +1,8 @@
 {
   "chainId": "gulced_8330778-1",
-  "chainName": "gulced_8330778-1",
-  "rpc": "http://173.249.40.104:26657",
-  "rest": "http://173.249.40.104:1317",
+  "chainName": "Gulced",
+  "rpc": "https://froopyland.dymension.xyz/5/gulced_8330778-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/gulced_8330778-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f1e1a",
-    "rpc": "http://173.249.40.104.8545"
+    "rpc": "https://froopyland.dymension.xyz/5/gulced_8330778-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
