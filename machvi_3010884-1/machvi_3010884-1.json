@@ -1,5 +1,35 @@
-"rpc": "http://65.109.237.52:26657"
+💈 networks.json:
+{
+  "chainId": "machvi_3010884-1",
+  "chainName": "machvi_3010884-1",
+  "rpc": "http://65.109.237.52:26657",
+  "rest": "http://65.109.237.52:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "machvi",
+      "baseDenom": "umachvi",
+      "decimals": 18,
+      "logo": "/logos/machvi_3010884-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/machvi_3010884-1.png",
+  "ibc": {
+    "hubChannel": "channel-5697",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2df144",
+    "rpc": "http://65.109.237.52.8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
 
-"rest": "http://65.109.237.52:1317"
-
-"rpc": "http://65.109.237.52.8545"
