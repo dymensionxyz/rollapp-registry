@@ -210,3 +210,6 @@ tail -n 100 -f $HOME/.roller/relayer/relayer.log
 ```
 
 ### check new blocks produced
+```bash
+curl http://localhost:26657/status | jq
+```
