@@ -30,5 +30,5 @@
   "analytics": true,
   "rewards": true,
   "isValidator": true,
-  "active": false
+  "active": true
 }
