@@ -1,8 +1,8 @@
 {
   "chainId": "stephensyy_5959220-1",
   "chainName": "Step",
-  "rpc": "http://164.68.107.70:26657",
-  "rest": "http://164.68.107.70:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5aee34",
-    "rpc": "http://164.68.107.70:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
