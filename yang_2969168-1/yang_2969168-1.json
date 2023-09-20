@@ -1,0 +1,32 @@
+{
+    "chainId": "yang_2969168-1",
+    "chainName": "yang_2969168-1",
+    "rpc": "http://173.212.217.133:26657",
+    "rest": "http://173.212.217.133:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "YZZ",
+        "baseDenom": "uYZZ",
+        "decimals": 18,
+        "logo": "/logos/yang_2969168-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/yang_2969168-1.png",
+    "ibc": {
+      "hubChannel": "channel-5718",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x2d4e50",
+      "rpc": "http://173.212.217.133:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }
