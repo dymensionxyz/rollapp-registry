@@ -1,8 +1,8 @@
 {
     "chainId": "gallery_1047877-1",
     "chainName": "Gallery",
-    "rpc": "http://65.109.162.175:26657",
-    "rest": "http://65.109.162.175:1317",
+    "rpc": "https://froopyland.dymension.xyz/5/gallery_1047877-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/5/gallery_1047877-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0xffd45",
-      "rpc": "http://65.109.162.175:8545"
+      "rpc": "https://froopyland.dymension.xyz/5/gallery_1047877-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
