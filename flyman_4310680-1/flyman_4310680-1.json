@@ -1,8 +1,8 @@
 {
   "chainId": "flyman_4310680-1",
-  "chainName": "flyman_4310680-1",
-  "rpc": "http://43.156.14.227:26657",
-  "rest": "http://43.156.14.227:1317",
+  "chainName": "Flyman",
+  "rpc": "https://froopyland.dymension.xyz/5/flyman_4310680-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/flyman_4310680-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x41c698",
-    "rpc": "http://43.156.14.227:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/flyman_4310680-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
