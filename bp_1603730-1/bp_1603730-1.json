@@ -1,8 +1,8 @@
 {
   "chainId": "bp_1603730-1",
   "chainName": "BacPhuong",
-  "rpc": "http://161.97.116.40:26657",
-  "rest": "http://161.97.116.40:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/bp_1603730-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/bp_1603730-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x187892",
-    "rpc": "http://161.97.116.40:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/bp_1603730-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
