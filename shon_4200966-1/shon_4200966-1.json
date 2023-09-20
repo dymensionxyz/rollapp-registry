@@ -1,8 +1,8 @@
 {
   "chainId": "shon_4200966-1",
   "chainName": "Shon",
-  "rpc": "http://31.220.77.173:26657",
-  "rest": "http://31.220.77.173:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/shon_4200966-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/shon_4200966-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x401a06",
-    "rpc": "http://31.220.77.173:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/shon_4200966-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
