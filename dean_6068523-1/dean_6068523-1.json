@@ -1,8 +1,8 @@
 {
   "chainId": "dean_6068523-1",
   "chainName": "Vingroup",
-  "rpc": "http://217.76.53.34:26657",
-  "rest": "http://217.76.53.34:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/dean_6068523-1/rest",
+  "rest": "https://froopyland.dymension.xyz/6/dean_6068523-1/rpc",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5c992b",
-    "rpc": "http://217.76.53.34:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/dean_6068523-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
