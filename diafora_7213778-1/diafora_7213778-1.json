@@ -1,8 +1,8 @@
 {
   "chainId": "diafora_7213778-1",
   "chainName": "Diafora",
-  "rpc": "http://65.109.89.147:46657",
-  "rest": "http://65.109.89.147:4317",
+  "rpc": "https://froopyland.dymension.xyz/5/diafora_7213778-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/diafora_7213778-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e12d2",
-    "rpc": "http://65.109.89.147:4545"
+    "rpc": "https://froopyland.dymension.xyz/5/diafora_7213778-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
