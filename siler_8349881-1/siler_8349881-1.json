@@ -1,8 +1,8 @@
 {
   "chainId": "siler_8349881-1",
-  "chainName": "siler_8349881-1",
-  "rpc": "http://149.28.134.101:26657",
-  "rest": "http://149.28.134.101:1317",
+  "chainName": "Siler",
+  "rpc": "https://froopyland.dymension.xyz/6/siler_8349881-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/siler_8349881-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f68b9",
-    "rpc": "http://149.28.134.101:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/siler_8349881-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
