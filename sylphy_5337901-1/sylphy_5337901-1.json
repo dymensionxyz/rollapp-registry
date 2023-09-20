@@ -1,8 +1,8 @@
 {
   "chainId": "sylphy_5337901-1",
-  "chainName": "sylphy_5337901-1",
-  "rpc": "http://137.184.44.152:26657",
-  "rest": "http://137.184.44.152:1317",
+  "chainName": "Sylphy",
+  "rpc": "https://froopyland.dymension.xyz/5/sylphy_5337901-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/sylphy_5337901-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x51732d",
-    "rpc": "http://137.184.44.152:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/sylphy_5337901-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
