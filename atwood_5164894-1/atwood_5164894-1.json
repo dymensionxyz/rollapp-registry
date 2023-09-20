@@ -1,8 +1,8 @@
 {
   "chainId": "atwood_5164894-1",
-  "chainName": "atwood_5164894-1",
-  "rpc": "http://43.128.102.89:26657",
-  "rest": "http://43.128.102.89:1317",
+  "chainName": "Atwood",
+  "rpc": "https://froopyland.dymension.xyz/5/atwood_5164894-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/atwood_5164894-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4ecf5e",
-    "rpc": "http://43.128.102.89:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/atwood_5164894-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
