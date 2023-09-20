@@ -1,8 +1,8 @@
 {
   "chainId": "euata_6417124-1",
   "chainName": "Pisa",
-  "rpc": "http://31.220.77.184:26657",
-  "rest": "http://31.220.77.184:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/euata_6417124-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/euata_6417124-1/rpc",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x61eae4",
-    "rpc": "http://31.220.77.184:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/euata_6417124-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
