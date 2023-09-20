@@ -1,8 +1,8 @@
 {
   "chainId": "diana_9120525-1",
-  "chainName": "diana_9120525-1",
-  "rpc": "http://43.153.50.253:26657",
-  "rest": "http://43.153.50.253:1317",
+  "chainName": "Diana",
+  "rpc": "https://froopyland.dymension.xyz/6/diana_9120525-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/diana_9120525-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8b2b0d",
-    "rpc": "http://43.153.50.253:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/diana_9120525-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
