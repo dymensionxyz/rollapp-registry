@@ -1,8 +1,8 @@
 {
   "chainId": "yooshi_1217923-1",
-  "chainName": "yooshi_1217923-1",
-  "rpc": "http://64.176.44.197:26657",
-  "rest": "http://64.176.44.197:1317",
+  "chainName": "Yooshi",
+  "rpc": "https://froopyland.dymension.xyz/5/yooshi_1217923-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/yooshi_1217923-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x129583",
-    "rpc": "http://64.176.44.197:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/yooshi_1217923-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
