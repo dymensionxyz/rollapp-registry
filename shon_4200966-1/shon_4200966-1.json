@@ -1,0 +1,33 @@
+{
+  "chainId": "shon_4200966-1",
+  "chainName": "Shon",
+  "rpc": "http://31.220.77.173:26657",
+  "rest": "http://31.220.77.173:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SHON",
+      "baseDenom": "uSHON",
+      "decimals": 18,
+      "logo": "/logos/shon_4200966-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/shon_4200966-1.png",
+  "ibc": {
+    "hubChannel": "channel-5719",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x401a06",
+    "rpc": "http://31.220.77.173:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
