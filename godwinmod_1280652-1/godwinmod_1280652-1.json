@@ -1,8 +1,8 @@
 {
   "chainId": "godwinmod_1280652-1",
   "chainName": "FLC",
-  "rpc": "http://161.97.117.104:26657",
-  "rest": "http://161.97.117.104:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/godwinmod_1280652-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/godwinmod_1280652-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x138a8c",
-    "rpc": "http://161.97.117.104:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/godwinmod_1280652-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
