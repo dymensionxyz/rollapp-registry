@@ -1,8 +1,8 @@
 {
   "chainId": "truongiang_4646519-1",
   "chainName": "NinhBinh",
-  "rpc": "http://164.68.109.5:26657",
-  "rest": "http://164.68.109.5:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/truongiang_4646519-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/truongiang_4646519-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x46e677",
-    "rpc": "http://164.68.109.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/truongiang_4646519-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
