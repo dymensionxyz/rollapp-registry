@@ -1,5 +1,5 @@
-DYMENSION | rollapp resync
-
+#DYMENSION | rollapp resync
+![RR](https://github.com/dymensionxyz/rollapp-registry/assets/109034310/081caab5-01c4-4183-93dc-ae2604a1129f)
 ### LINKS
 
 ```
@@ -13,7 +13,7 @@ https://fl.dymscan.live/
 https://dymension.explorers.guru/
 ```
 
-## 1. Backup roller keys and configs on the OLD SERVER
+ 1. Backup roller keys and configs on the OLD SERVER
 
 ```bash
 # stop services
@@ -46,7 +46,7 @@ cd _tar
 $(which python3) -m http.server 8150
 ```
 
-## 2. Prepare NEW server
+2. Prepare NEW server
 
 ### install roller binaries
 
