@@ -1,8 +1,8 @@
 {
   "chainId": "mypavlovrollapp_4074758-1",
-  "chainName": "mypavlovrollapp_4074758-1",
-  "rpc": "http://75.119.149.221:26657",
-  "rest": "http://75.119.149.221:1317",
+  "chainName": "Mypavlovrollapp",
+  "rpc": "https://froopyland.dymension.xyz/5/mypavlovrollapp_4074758-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/mypavlovrollapp_4074758-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e2d06",
-    "rpc": "http://75.119.149.221.8545"
+    "rpc": "https://froopyland.dymension.xyz/5/mypavlovrollapp_4074758-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
