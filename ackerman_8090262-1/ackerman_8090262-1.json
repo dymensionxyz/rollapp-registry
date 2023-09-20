@@ -1,8 +1,8 @@
 {
   "chainId": "ackerman_8090262-1",
-  "chainName": "ackerman_8090262-1",
-  "rpc": "http://43.130.33.215:26657",
-  "rest": "http://43.130.33.215:1317",
+  "chainName": "Ackerman",
+  "rpc": "https://froopyland.dymension.xyz/5/ackerman_8090262-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/ackerman_8090262-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7b7296",
-    "rpc": "http://43.130.33.215:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/ackerman_8090262-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
