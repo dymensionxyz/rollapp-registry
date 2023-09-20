@@ -1,8 +1,8 @@
 {
   "chainId": "jim_4997397-1",
   "chainName": "JIM",
-  "rpc": "http://144.91.75.3:26657",
-  "rest": "http://144.91.75.3:1317",
+  "rpc": "https://froopyland.dymension.xyz/5/jim_4997397-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/jim_4997397-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4c4115",
-    "rpc": "http://144.91.75.3:8545"
+    "rpc": "https://froopyland.dymension.xyz/5/jim_4997397-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
