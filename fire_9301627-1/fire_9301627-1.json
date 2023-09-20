@@ -1,0 +1,33 @@
+{
+  "chainId": "fire_9301627-1",
+  "chainName": "fire_9301627-1",
+  "rpc": "http://64.176.46.24:26657",
+  "rest": "http://64.176.46.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FIRE",
+      "baseDenom": "uFIRE",
+      "decimals": 18,
+      "logo": "/logos/fire_9301627-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/fire_9301627-1.png",
+  "ibc": {
+    "hubChannel": "channel-5728",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8dee7b",
+    "rpc": "http://64.176.46.24:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Fire in the hole",
+  "analytics": true
+}
