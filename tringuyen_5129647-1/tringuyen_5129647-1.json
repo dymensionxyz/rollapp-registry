@@ -1,5 +1,5 @@
 {
-  "chainId": "tringuyen_5129647-1",
+  "chainId": "tringuyen_7012472-1",
   "chainName": "adn79 VNBnode",
   "rpc": "https://froopyland.dymension.xyz/4/tringuyen_7012472-1/rpc",
   "rest": "https://froopyland.dymension.xyz/4/tringuyen_7012472-1/rest",
@@ -30,5 +30,5 @@
   "da": "Celestia",
   "description": "",
   "analytics": true,
-  "active": false
+  
 }
