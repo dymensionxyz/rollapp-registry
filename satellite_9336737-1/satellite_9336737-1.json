@@ -28,8 +28,6 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "rewards": true,
-  "isValidator": true,
   "description": "",
   "analytics": true
 }
