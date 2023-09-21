@@ -1,15 +1,15 @@
 {
   "chainId": "bestbitcoin_8650973-1",
   "chainName": "BestBitcoin",
-  "rpc": "http://13.232.0.242:26657",
-  "rest": "http://13.232.0.242:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/bestbitcoin_8650973-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/bestbitcoin_8650973-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "BBTC",
       "baseDenom": "uBBTC",
       "decimals": 18,
-      "logo": "/logos/bestbitcoin_8650973-1.png",
+      "logo": "/logos/bestbitcoin_8650973-1.jpg",
       "type": "main"
     }
   ],
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8400dd",
-    "rpc": "http://13.232.0.242:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/bestbitcoin_8650973-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
