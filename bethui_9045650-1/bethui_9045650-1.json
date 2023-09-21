@@ -1,8 +1,8 @@
 {
   "chainId": "bethui_9045650-1",
   "chainName": "BeAI",
-  "rpc": "http://164.68.111.134:26657",
-  "rest": "http://164.68.111.134:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/bethui_9045650-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/bethui_9045650-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8a0692",
-    "rpc": "http://164.68.111.134:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/bethui_9045650-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
