@@ -1,0 +1,33 @@
+{
+  "chainId": "gokean_4997912-1",
+  "chainName": "gokean",
+  "rpc": "173.212.238.31:26657",
+  "rest": "173.212.238.31:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GKN",
+      "baseDenom": "uGKN",
+      "decimals": 18,
+      "logo": "/logos/gokean_4997912-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/gokean_4997912-1.png",
+  "ibc": {
+    "hubChannel": "channel-5698",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4c4318",
+    "rpc": "173.212.238.31:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
