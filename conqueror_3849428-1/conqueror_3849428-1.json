@@ -1,8 +1,8 @@
 {
   "chainId": "conqueror_3849428-1",
   "chainName": "Conqueror",
-  "rpc": "http://65.109.129.56:26657",
-  "rest": "http://65.109.129.56:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/conqueror_3849428-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/conqueror_3849428-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3abcd4",
-    "rpc": "http://65.109.129.56:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/conqueror_3849428-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
