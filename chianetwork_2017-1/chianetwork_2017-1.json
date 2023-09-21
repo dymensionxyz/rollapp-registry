@@ -1,0 +1,34 @@
+{
+  "chainId": "chianetwork_2017-1",
+  "chainName": "Chia Network",
+  "rpc": "https://froopyland.dymension.xyz/6/chianetwork_2017-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/chianetwork_2017-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "XCH",
+      "baseDenom": "uXCH",
+      "decimals": 18,
+      "logo": "/logos/chianetwork_2017-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "https://www.chia.net/",
+  "logo": "/logos/chianetwork_2017-1.png",
+  "ibc": {
+    "hubChannel": "channel-5487",
+    "channel": "channel-10",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7e1",
+    "rpc": "https://froopyland.dymension.xyz/6/chianetwork_2017-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Hi, we’re Chia. We’ve architected a better technology from the ground up, solving the challenges of conventional blockchains to enable widespread use",
+  "analytics": true
+}
+
