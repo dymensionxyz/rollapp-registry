@@ -1,8 +1,8 @@
 {
   "chainId": "minakjinggo_3200290-1",
   "chainName": "minakjinggo",
-  "rpc": "http://139.144.124.27:26657",
-  "rest": "http://139.144.124.27:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/minakjinggo_3200290-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/minakjinggo_3200290-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x30d522",
-    "rpc": "http://139.144.124.27:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/minakjinggo_3200290-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
