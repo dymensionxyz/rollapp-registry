@@ -1,8 +1,8 @@
 {
   "chainId": "klvn_3569406-1",
-  "chainName": "klvn_3569406-1",
-  "rpc": "165.232.152.158:26657",
-  "rest": "165.232.152.158:1317",
+  "chainName": "Klvn",
+  "rpc": "https://froopyland.dymension.xyz/6/klvn_3569406-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/klvn_3569406-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3676fe",
-    "rpc": "165.232.152.158:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/klvn_3569406-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
