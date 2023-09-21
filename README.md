@@ -65,7 +65,12 @@ Please follow the instructions for listing a RollApp:
     - REST: ` "http://<your-ip-or-domain>:<port>" (default port 1317)`
     - EVM RPC \*(ONLY FOR EVM ROLLAPPS): `"http://<your-ip-or-domain>:<port>" (default port 8545)`
     - Logo path: `"/logos/<RollApp-ID>-logo.svg"`
+      
+    Optinal fields:
     - chainName: from `<RollApp-ID>`to your RollApp's name as it will appear on the Portal
+    - description: add `"<Your RollApp description>",` to be displayed on the portal
+    - website: add `"<your-RollApp's-url>",` to be displayed on the portal
+
 
 11. Add and commit your changes:
 
