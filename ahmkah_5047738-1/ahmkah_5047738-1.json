@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d05ba",
-    "rpc": "https://froopyland.dymension.xyz/4/ahmkah_5047738-1/evmrpc"
+    "rpc": "http://94.130.179.53:8545/"
   },
   "type": "RollApp",
   "da": "Celestia",
