@@ -14,7 +14,7 @@
       }
     ],
     "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
     "logo": "/logos/kananrollapp_3503398-1.jpg",
     "ibc": {
@@ -30,5 +30,5 @@
     "da": "Celestia",
     "description": "",
     "analytics": true,
-    "rewards" true
+    "rewards": true
   }

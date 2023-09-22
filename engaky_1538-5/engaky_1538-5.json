@@ -3,7 +3,7 @@
     "chainName": "ENG",
     "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/rpc",
     "rest": "https://froopyland.dymension.xyz/3/engaky_1538-5/rest",
-    
+
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -15,7 +15,7 @@
       }
     ],
     "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "https://x.com/engakyildiz",
     "logo": "/logos/engaky_1538-5.jpg",
     "ibc": {
@@ -25,7 +25,7 @@
     },
     "evm": {
       "chainId": "0x602",
-      "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/evmrpc",
+      "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",

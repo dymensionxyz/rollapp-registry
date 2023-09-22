@@ -1,0 +1,33 @@
+{
+  "chainId": "jim_4997397-1",
+  "chainName": "JIM",
+  "rpc": "https://froopyland.dymension.xyz/5/jim_4997397-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/jim_4997397-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JIM",
+      "baseDenom": "uJIM",
+      "decimals": 18,
+      "logo": "/logos/jim_4997397-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jim_4997397-1.png",
+  "ibc": {
+    "hubChannel": "channel-5670",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4c4115",
+    "rpc": "https://froopyland.dymension.xyz/5/jim_4997397-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
