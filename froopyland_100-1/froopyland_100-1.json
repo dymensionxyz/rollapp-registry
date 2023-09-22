@@ -1,7 +1,7 @@
 {
   "chainId": "froopyland_100-1",
   "chainName": "Dymension Froopyland",
-  "rpc": "https://dymension-testnet.rpc.kjnodes.com",
+  "rpc": "https://dymension-testnet-rpc.validatrium.club",
   "rest": "https://dymension-testnet.api.kjnodes.com",
   "evm": {
     "chainId": "0x64",
