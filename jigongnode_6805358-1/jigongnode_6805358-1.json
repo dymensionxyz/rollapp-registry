@@ -1,14 +1,33 @@
-{ "chainId": "jigongnode_6805358-1", "chainName": "Jigongnode", "rpc": "http://62.171.188.111:46657", 
-  "rest": "http://62.171.188.111:4317", "bech32Prefix": "ethm", "currencies": [
-    { "displayDenom": "JIGO", "baseDenom": "uJIGO", "decimals": 18, "logo": 
-      "/logos/jigongnode_6805358-1.png", "type": "main"
+{
+  "chainId": "jigongnode_6805358-1",
+  "chainName": "Jigong",
+  "rpc": "http://62.171.188.111:46657",
+  "rest": "http://62.171.188.111:4317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JIGO",
+      "baseDenom": "uJIGO",
+      "decimals": 18,
+      "logo": "/logos/jigongnode_6805358-1.png",
+      "type": "main"
     }
-  ], "coinType": 60, "faucetUrl": 
-  "https://discord.com/channels/956961633165529098/1125047988247593010", "website": "", 
-  "logo": "/logos/jigongnode_6805358-1.png", "ibc": {
-    "hubChannel": "channel-5552", "channel": "channel-0", "timeout": 172800000
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/jigongnode_6805358-1.png",
+  "ibc": {
+    "hubChannel": "channel-5552",
+    "channel": "channel-0",
+    "timeout": 172800000
   },
-  "evm": { "chainId": "0x67d76e", "rpc": "http://62.171.188.111:4545"
+  "evm": {
+    "chainId": "0x67d76e",
+    "rpc": "http://62.171.188.111:4545"
   },
-  "type": "RollApp", "da": "Celestia", "description": "JIGONGNODE DYMENSION ROLLAPP", "analytics": true
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "JIGONGNODE X DYMENSION ROLLAPP NFT",
+  "analytics": true
 }
