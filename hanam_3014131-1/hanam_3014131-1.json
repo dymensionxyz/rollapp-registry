@@ -1,0 +1,33 @@
+{
+  "chainId": "hanam_3014131-1",
+  "chainName": "HaNam",
+  "rpc": "http://84.54.23.244:26657",
+  "rest": "http://84.54.23.244:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HAN",
+      "baseDenom": "uHAN",
+      "decimals": 18,
+      "logo": "/logos/hanam_3014131-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/hanam_3014131-1.png",
+  "ibc": {
+    "hubChannel": "channel-5750",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2dfdf3",
+    "rpc": "http://84.54.23.244:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
