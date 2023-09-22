@@ -1,8 +1,8 @@
 {
   "chainId": "gokean_4997912-1",
   "chainName": "gokean",
-  "rpc": "173.212.238.31:26657",
-  "rest": "173.212.238.31:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/gokean_4997912-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/gokean_4997912-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4c4318",
-    "rpc": "173.212.238.31:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/gokean_4997912-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
