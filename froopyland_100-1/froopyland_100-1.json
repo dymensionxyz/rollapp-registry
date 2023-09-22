@@ -1,8 +1,8 @@
 {
   "chainId": "froopyland_100-1",
   "chainName": "Dymension Froopyland",
-  "rpc": "https://froopyland.rpc.silknodes.io",
-  "rest": "https://froopyland.api.silknodes.io",
+  "rpc": "https://dymension-testnet.rpc.kjnodes.com",
+  "rest": "https://dymension-testnet.api.kjnodes.com",
   "evm": {
     "chainId": "0x64",
     "rpc": "https://froopyland-json.rpc.silknodes.io"
