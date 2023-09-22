@@ -1,8 +1,8 @@
 {
     "chainId": "zhen_7072215-1",
-    "chainName": "zhen_7072215-1",
-    "rpc": "http://5.189.172.140:26657",
-    "rest": "http://5.189.172.140:1317",
+    "chainName": "Zhen",
+    "rpc": "https://froopyland.dymension.xyz/6/zhen_7072215-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/6/zhen_7072215-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x6be9d7",
-      "rpc": "http://5.189.172.140:8545"
+      "rpc": "https://froopyland.dymension.xyz/6/zhen_7072215-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
