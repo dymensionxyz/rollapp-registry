@@ -2,8 +2,8 @@
 {
   "chainId": "canduesed_7042481-1",
   "chainName": "CanduesED",
-  "rpc": "http://185.249.225.121:26657",
-  "rest": "http://185.249.225.121:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/canduesed_7042481-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/canduesed_7042481-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x6b75b1",
-    "rpc": "http://185.249.225.121:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/canduesed_7042481-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
