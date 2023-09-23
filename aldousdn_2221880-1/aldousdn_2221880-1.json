@@ -1,8 +1,8 @@
 {
   "chainId": "aldousdn_2221880-1",
   "chainName": "Dimond hand",
-  "rpc": "http://62.171.133.194:26657",
-  "rest": "http://62.171.133.194:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/aldousdn_2221880-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/aldousdn_2221880-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x21e738",
-    "rpc": "http://62.171.133.194:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/aldousdn_2221880-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
