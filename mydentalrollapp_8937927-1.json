@@ -1,0 +1,33 @@
+{
+  "chainId": "mydentalrollapp_8937927-1",
+  "chainName": "mydentalrollapp_8937927-1",
+  "rpc": "80.65.211.208",
+  "rest": "80.65.211.208",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dnt",
+      "baseDenom": "udnt",
+      "decimals": 18,
+      "logo": "/logos/mydentalrollapp_8937927-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/mydentalrollapp_8937927-1.png",
+  "ibc": {
+    "hubChannel": "channel-5838",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8861c7",
+    "rpc": "80.65.211.208"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
