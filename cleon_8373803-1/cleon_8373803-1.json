@@ -1,8 +1,8 @@
 {
   "chainId": "cleon_8373803-1",
   "chainName": "Cleon",
-  "rpc": "http://162.55.190.175:26657",
-  "rest": "http://162.55.190.175:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/cleon_8373803-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/cleon_8373803-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7fc62b",
-    "rpc": "http://162.55.190.175:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/cleon_8373803-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
