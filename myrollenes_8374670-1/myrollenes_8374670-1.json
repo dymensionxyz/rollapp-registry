@@ -1,0 +1,34 @@
+{
+  "chainId": "myrollenes_8374670-1",
+  "chainName": "My Rollenes",
+  "rpc": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAP",
+      "baseDenom": "uRAP",
+      "decimals": 18,
+      "logo": "/logos/myrollenes_8374670-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/myrollenes_8374670-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-5376",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7fc98e",
+    "rpc": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "diana_9120525-1",
+  "chainName": "Diana",
+  "rpc": "https://froopyland.dymension.xyz/6/diana_9120525-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/diana_9120525-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DNA",
+      "baseDenom": "uDNA",
+      "decimals": 18,
+      "logo": "/logos/diana_9120525-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/diana_9120525-1.png",
+  "ibc": {
+    "hubChannel": "channel-5703",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8b2b0d",
+    "rpc": "https://froopyland.dymension.xyz/6/diana_9120525-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
