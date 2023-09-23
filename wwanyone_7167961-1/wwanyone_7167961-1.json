@@ -1,8 +1,8 @@
 {
   "chainId": "wwanyone_7167961-1",
-  "chainName": "wwanyone_7167961-1",
-  "rpc": "http://5.75.133.80:26657",
-  "rest": "http://5.75.133.80:1317",
+  "chainName": "Wwanyone",
+  "rpc": "https://froopyland.dymension.xyz/7/wwanyone_7167961-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/wwanyone_7167961-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6d5fd9",
-    "rpc": "http://5.75.133.80:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/wwanyone_7167961-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
