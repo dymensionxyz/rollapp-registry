@@ -1,8 +1,8 @@
 {
   "chainId": "tuncayt_1530066-1",
   "chainName": "TuncayT",
-  "rpc": "http://207.154.223.134:26657",
-  "rest": "http://207.154.223.134:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/tuncayt_1530066-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/tuncayt_1530066-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1758d2",
-    "rpc": "http://207.154.223.134:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/tuncayt_1530066-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
