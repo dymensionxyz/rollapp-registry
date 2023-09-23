@@ -1,8 +1,8 @@
 {
   "chainId": "vnzoom_1822790-1",
   "chainName": "VnZoom",
-  "rpc": "http://128.140.120.216:26657",
-  "rest": "http://128.140.120.216:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/vnzoom_1822790-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/vnzoom_1822790-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1bd046",
-    "rpc": "http://128.140.120.216:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/vnzoom_1822790-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
