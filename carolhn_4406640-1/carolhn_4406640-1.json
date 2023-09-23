@@ -1,8 +1,8 @@
 {
   "chainId": "carolhn_4406640-1",
   "chainName": "Carol",
-  "rpc": "http://45.67.216.120:26657",
-  "rest": "http://45.67.216.120:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x433d70",
-    "rpc": "http://45.67.216.120:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
