@@ -1,8 +1,8 @@
 {
   "chainId": "blacktokyo_1298830-1",
   "chainName": "blacktokyo",
-  "rpc": "95.217.233.41:26657",
-  "rest": "95.217.233.41:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/blacktokyo_1298830-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/blacktokyo_1298830-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x13d18e",
-    "rpc": "http://95.217.233.41:26657:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/blacktokyo_1298830-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
