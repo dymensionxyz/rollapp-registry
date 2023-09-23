@@ -1,8 +1,8 @@
 {
   "chainId": "aviaonerollapp_2683399-1",
   "chainName": "AVIAONE",
-  "rpc": "https://rpc.froopyland-100-1.dymension.aviaone.com",
-  "rest": "https://api.froopyland-100-1.dymension.aviaone.com",
+  "rpc": "https://rpc.rollapp.dymension.aviaone.com",
+  "rest": "https://api.rollapp.dymension.aviaone.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x28f207",
-    "rpc": "https://jsonrpc.froopyland-100-1.dymension.aviaone.com"
+    "rpc": "https://jsonrpc.rollapp.dymension.aviaone.com"
   },
   "type": "RollApp",
   "da": "Celestia",
