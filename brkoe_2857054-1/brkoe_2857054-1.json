@@ -1,0 +1,33 @@
+{
+"chainId": "brkoe_2857054-1",
+"chainName": "brkoe_2857054-1",
+"rpc": "http://173.212.220.220:26657",
+"rest": "http://173.212.220.220:1317",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "bkbb",
+"baseDenom": "ubkbb",
+"decimals": 18,
+"logo": "/logos/brkoe_2857054-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+"website": "",
+"logo": "/logos/brkoe_2857054-1.png",
+"ibc": {
+"hubChannel": "channel-5835",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x2b985e",
+"rpc": ""
+},
+"type": "RollApp",
+"da": "Celestia",
+"description": "",
+"analytics": true
+}
