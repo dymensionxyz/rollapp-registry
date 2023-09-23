@@ -1,8 +1,8 @@
 {
     "chainId": "athena_5894524-1",
-    "chainName": "athena_5894524-1",
-    "rpc": "http://31.220.79.248:26657",
-    "rest": "http://31.220.79.248:1317",
+    "chainName": "Athena",
+    "rpc": "https://froopyland.dymension.xyz/7/athena_5894524-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/7/athena_5894524-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x59f17c",
-      "rpc": "http://31.220.79.248:8545"
+      "rpc": "https://froopyland.dymension.xyz/7/athena_5894524-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
