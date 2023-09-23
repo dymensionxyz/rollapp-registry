@@ -1,8 +1,8 @@
 {
   "chainId": "hanam_3014131-1",
   "chainName": "HaNam",
-  "rpc": "http://84.54.23.244:26657",
-  "rest": "http://84.54.23.244:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/hanam_3014131-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/hanam_3014131-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2dfdf3",
-    "rpc": "http://84.54.23.244:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/hanam_3014131-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
