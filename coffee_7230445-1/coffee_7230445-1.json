@@ -1,8 +1,8 @@
 {
     "chainId": "coffee_7230445-1",
-    "chainName": "coffee_7230445-1",
-    "rpc": "http://173.212.235.141:26657",
-    "rest": "http://173.212.235.141:1317",
+    "chainName": "Coffee",
+    "rpc": "https://froopyland.dymension.xyz/7/coffee_7230445-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/7/coffee_7230445-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x6e53ed",
-      "rpc": "http://173.212.235.141:8545"
+      "rpc": "https://froopyland.dymension.xyz/7/coffee_7230445-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
