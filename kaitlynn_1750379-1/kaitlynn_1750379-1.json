@@ -1,8 +1,8 @@
 {
   "chainId": "kaitlynn_1750379-1",
   "chainName": "Koi",
-  "rpc": "http://78.47.203.144:26657",
-  "rest": "http://78.47.203.144:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/kaitlynn_1750379-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/kaitlynn_1750379-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1ab56b",
-    "rpc": "http://78.47.203.144:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/kaitlynn_1750379-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
