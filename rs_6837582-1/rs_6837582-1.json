@@ -2,8 +2,8 @@
 {
   "chainId": "rs_6837582-1",
   "chainName": "RSS",
-  "rpc": "http://75.119.131.59:26657",
-  "rest": "http://75.119.131.59:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/rs_6837582-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/rs_6837582-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x68554e",
-    "rpc": "http://75.119.131.59:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/rs_6837582-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
