@@ -1,8 +1,8 @@
 {
   "chainId": "fire_9301627-1",
-  "chainName": "fire_9301627-1",
-  "rpc": "http://64.176.46.24:26657",
-  "rest": "http://64.176.46.24:1317",
+  "chainName": "Fire",
+  "rpc": "https://froopyland.dymension.xyz/7/fire_9301627-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/fire_9301627-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8dee7b",
-    "rpc": "http://64.176.46.24:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/fire_9301627-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
