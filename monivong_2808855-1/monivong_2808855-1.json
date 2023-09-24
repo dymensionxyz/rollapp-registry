@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x2adc17",
-    "rpc": "http://<your-ip-or-domain>:<port>" (default port 8545)
+    "rpc": "http://185.177.116.36:8545" (default port 8545)
   },
   "type": "RollApp",
   "da": "Avail",
