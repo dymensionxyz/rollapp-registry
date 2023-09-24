@@ -1,0 +1,33 @@
+{
+  "chainId": "luci_7549497-1",
+  "chainName": "Matrix chain",
+  "rpc": "http://95.216.158.229:26657",
+  "rest": "http://95.216.158.229:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LUCI",
+      "baseDenom": "uLUCI",
+      "decimals": 18,
+      "logo": "/logos/luci_7549497-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/luci_7549497-1.png",
+  "ibc": {
+    "hubChannel": "channel-5833",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x733239",
+    "rpc": "http://95.216.158.229:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
