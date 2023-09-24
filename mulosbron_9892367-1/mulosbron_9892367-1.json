@@ -1,6 +1,6 @@
 {
   "chainId": "mulosbron_9892367-1",
-  "chainName": "mulosbron_9892367-1",
+  "chainName": "Mulosbron",
   "rpc": "http://5.189.180.231:26657",
   "rest": "http://5.189.180.231:1317",
   "bech32Prefix": "ethm",
