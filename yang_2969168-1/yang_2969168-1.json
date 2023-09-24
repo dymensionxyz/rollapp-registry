@@ -1,8 +1,8 @@
 {
     "chainId": "yang_2969168-1",
-    "chainName": "yang_2969168-1",
-    "rpc": "http://173.212.217.133:26657",
-    "rest": "http://173.212.217.133:1317",
+    "chainName": "Yang",
+    "rpc": "https://froopyland.dymension.xyz/6/yang_2969168-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/6/yang_2969168-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x2d4e50",
-      "rpc": "http://173.212.217.133:8545"
+      "rpc": "https://froopyland.dymension.xyz/6/yang_2969168-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
