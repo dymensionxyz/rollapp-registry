@@ -1,0 +1,33 @@
+{
+  "chainId": "asdas_1155050-1",
+  "chainName": "asdas_1155050-1",
+  "rpc": "http://135.181.251.2:26657"
+  "rest": "http://135.181.251.2:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ASD",
+      "baseDenom": "uASD",
+      "decimals": 18,
+      "logo": "/logos/asdas_1155050-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/asdas_1155050-1.png",
+  "ibc": {
+    "hubChannel": "channel-5841",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x119fea",
+    "rpc": "http://135.181.251.2:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
