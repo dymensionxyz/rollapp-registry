@@ -1,0 +1,33 @@
+{
+  "chainId": "denise_5077919-1",
+  "chainName": "Denise rollapp",
+  "rpc": "https://froopyland.dymension.xyz/7/denise_5077919-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/denise_5077919-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DENI",
+      "baseDenom": "uDENI",
+      "decimals": 18,
+      "logo": "/logos/denise_5077919-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/denise_5077919-1.png",
+  "ibc": {
+    "hubChannel": "channel-5806",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4d7b9f",
+    "rpc": "https://froopyland.dymension.xyz/7/denise_5077919-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

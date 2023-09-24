@@ -1,0 +1,33 @@
+{
+  "chainId": "glang_7361296-1",
+  "chainName": "Glang",
+  "rpc": "https://froopyland.dymension.xyz/7/glang_7361296-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/glang_7361296-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GLG",
+      "baseDenom": "uGLG",
+      "decimals": 18,
+      "logo": "/logos/glang_7361296-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "⁠https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/glang_7361296-1.png",
+  "ibc": {
+    "hubChannel": "channel-5753",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x705310",
+    "rpc": "hhttps://froopyland.dymension.xyz/7/glang_7361296-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

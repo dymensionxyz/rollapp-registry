@@ -9,14 +9,14 @@
       "displayDenom": "XOMI",
       "baseDenom": "uXOMI",
       "decimals": 18,
-      "logo": "/logos/blacktokyo_1298830-1.png",
+      "logo": "/logos/blacktokyo-min.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/blacktokyo_1298830-1.png",
+  "logo": "/logos/blacktokyo-min.png",
   "ibc": {
     "hubChannel": "channel-5638",
     "channel": "channel-0",
