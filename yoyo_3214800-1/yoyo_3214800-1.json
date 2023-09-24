@@ -1,8 +1,8 @@
 {
     "chainId": "yoyo_3214800-1",
-    "chainName": "yoyo_3214800-1",
-    "rpc": "http://173.212.245.11:26657",
-    "rest": "http://173.212.245.11:1317",
+    "chainName": "Yoyo",
+    "rpc": "https://froopyland.dymension.xyz/7/yoyo_3214800-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/7/yoyo_3214800-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x310dd0",
-      "rpc": "http://173.212.245.11:8545"
+      "rpc": "https://froopyland.dymension.xyz/7/yoyo_3214800-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
