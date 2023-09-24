@@ -1,8 +1,8 @@
 {
   "chainId": "bharramicky_7594008-1",
   "chainName": "Bharra",
-  "rpc": "http://5.75.179.74:26657",
-  "rest": "http://5.75.179.74:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/bharramicky_7594008-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/bharramicky_7594008-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x73e018",
-    "rpc": "http://5.75.179.74:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/bharramicky_7594008-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
