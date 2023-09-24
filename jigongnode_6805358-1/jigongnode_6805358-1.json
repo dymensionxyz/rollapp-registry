@@ -1,8 +1,8 @@
 {
   "chainId": "jigongnode_6805358-1",
   "chainName": "Jigong",
-  "rpc": "http://62.171.188.111:46657",
-  "rest": "http://62.171.188.111:4317",
+  "rpc": "https://froopyland.dymension.xyz/6/jigongnode_6805358-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/jigongnode_6805358-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x67d76e",
-    "rpc": "http://62.171.188.111:4545"
+    "rpc": "https://froopyland.dymension.xyz/6/jigongnode_6805358-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
