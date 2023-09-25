@@ -1,0 +1,33 @@
+{
+  "chainId": "dpon_6705669-1",
+  "chainName": "dp bridge",
+  "rpc": "http://149.102.139.161:26657",
+  "rest": "http:/149.102.139.161:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DPN",
+      "baseDenom": "uDPN",
+      "decimals": 18,
+      "logo": "/logos/dpon_6705669-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/dpon_6705669-1.png",
+  "ibc": {
+    "hubChannel": "channel-5700",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x665205",
+    "rpc": "http://149.102.139.161:8545/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
