@@ -1,0 +1,33 @@
+{
+  "chainId": "weakhand_9503507-1",
+  "chainName": "weakhand",
+  "rpc": "http://161.97.88.59:26657/",
+  "rest": "http://161.97.88.59:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WKHD",
+      "baseDenom": "uWKHD",
+      "decimals": 18,
+      "logo": "/logos/weakhand_9503507-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/weakhand_9503507-1.png",
+  "ibc": {
+    "hubChannel": "channel-5485",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x910313",
+    "rpc": "http://161.97.88.59:8545/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
