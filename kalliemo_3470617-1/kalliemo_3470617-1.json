@@ -1,8 +1,8 @@
 {
   "chainId": "kalliemo_3470617-1",
   "chainName": "Taixiu",
-  "rpc": "http://135.181.94.255:26657",
-  "rest": "http://135.181.94.255:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/kalliemo_3470617-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/kalliemo_3470617-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x34f519",
-    "rpc": "http://135.181.94.255:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/kalliemo_3470617-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
