@@ -1,8 +1,8 @@
 {
   "chainId": "krause_6678279-1",
   "chainName": "City boy",
-  "rpc": "http://65.109.162.188:26657",
-  "rest": "http://65.109.162.188:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/krause_6678279-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/krause_6678279-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x65e707",
-    "rpc": "http://65.109.162.188:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/krause_6678279-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
