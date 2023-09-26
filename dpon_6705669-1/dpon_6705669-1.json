@@ -1,8 +1,8 @@
 {
   "chainId": "dpon_6705669-1",
   "chainName": "dp bridge",
-  "rpc": "http://149.102.139.161:26657",
-  "rest": "http:/149.102.139.161:1317",
+  "rpc": "https://froopyland.dymension.xyz/7/dpon_6705669-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/dpon_6705669-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x665205",
-    "rpc": "http://149.102.139.161:8545/"
+    "rpc": "https://froopyland.dymension.xyz/7/dpon_6705669-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
