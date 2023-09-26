@@ -1,8 +1,8 @@
 {
   "chainId": "asdas_1155050-1",
-  "chainName": "asdas_1155050-1",
-  "rpc": "http://135.181.251.2:26657"
-  "rest": "http://135.181.251.2:1317",
+  "chainName": "asdas",
+  "rpc": "https://froopyland.dymension.xyz/6/asdas_1155050-1-a/rpc"
+  "rest": "https://froopyland.dymension.xyz/6/asdas_1155050-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x119fea",
-    "rpc": "http://135.181.251.2:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/asdas_1155050-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
