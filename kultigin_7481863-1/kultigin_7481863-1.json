@@ -1,8 +1,8 @@
 {
   "chainId": "kultigin_7481863-1",
-  "chainName": "kultigin_7481863-1",
-  "rpc": "http://65.109.49.253:26657",
-  "rest": "http://65.109.49.253:1317",
+  "chainName": "Kultigin",
+  "rpc": "https://froopyland.dymension.xyz/7/kultigin_7481863-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/kultigin_7481863-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x722a07",
-    "rpc": "http://65.109.49.253:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/kultigin_7481863-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
