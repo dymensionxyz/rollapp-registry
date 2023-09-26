@@ -1,8 +1,8 @@
 {
   "chainId": "exodus_3220944-1",
   "chainName": "Exodus",
-  "rpc": "http://85.239.231.0:26657",
-  "rest": "http://85.239.231.0:1317",
+  "rpc": "https://froopyland.dymension.xyz/6/exodus_3220944-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/exodus_3220944-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3125d0",
-    "rpc": "http://85.239.231.0:8545"
+    "rpc": "https://froopyland.dymension.xyz/6/exodus_3220944-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
