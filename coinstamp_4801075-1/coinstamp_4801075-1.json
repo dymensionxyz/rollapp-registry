@@ -1,8 +1,8 @@
 {
   "chainId": "coinstamp_4801075-1",
-  "chainName": "coinstamp_4801075-1",
-  "rpc": "http://65.109.163.248:26657",
-  "rest": "http://65.109.163.248:1317",
+  "chainName": "Coin Stamp",
+  "rpc": "https://froopyland.dymension.xyz/7/coinstamp_4801075-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/coinstamp_4801075-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x494233",
-    "rpc": "http://65.109.163.248:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/coinstamp_4801075-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
