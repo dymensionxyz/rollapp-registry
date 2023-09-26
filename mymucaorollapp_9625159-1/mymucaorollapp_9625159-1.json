@@ -1,7 +1,7 @@
   "chainId": "mymucaorollapp_9625159-1",
-  "chainName": "mymucaorollapp_9625159-1",
-  "rpc": "http://45.155.159.138:26657",
-  "rest": "http://45.155.159.138:1317",
+  "chainName": "Mymucaorollapp",
+  "rpc": "https://froopyland.dymension.xyz/7/mymucaorollapp_9625159-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/mymucaorollapp_9625159-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x92de47",
-    "rpc": "http://45.155.159.138:8545"
+    "rpc": "https://froopyland.dymension.xyz/7/mymucaorollapp_9625159-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
