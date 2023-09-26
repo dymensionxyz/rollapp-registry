@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "dymensionlover_1201-1",
+  "chainName": "DYMENSIONLOVER",
+  "rpc": "http://185.211.5.171: 26657",
+  "rest": "http://185.211.5.171: 1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MONEY",
+      "baseDenom": "uMONEY",
+      "decimals": 18,
+      "logo": "/logos/dymensionlover_1201-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/dymensionlover_1201-1.png",
+  "ibc": {
+    "hubChannel": "channel-5926",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4b1",
+    "rpc": "http://185.211.5.171:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
