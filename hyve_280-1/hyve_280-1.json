@@ -1,8 +1,8 @@
 {
   "chainId": "hyve_280-1",
   "chainName": "hyve_280-1",
-  "rpc": "https://rpcd.hyveblockchain.com:443",
-  "rest": "https://apid.hyveblockchain.com:443",
+  "rpc": "https://rpcd.hyveblockchain.com",
+  "rest": "https://apid.hyveblockchain.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x118",
-    "rpc": "https://evmd.hyveblockchain.com:443"
+    "rpc": "https://evmd.hyveblockchain.com"
   },
   "type": "RollApp",
   "da": "Celestia",
