@@ -27,7 +27,7 @@
     "rpc": "https://evmd.hyveblockchain.com"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
 }
