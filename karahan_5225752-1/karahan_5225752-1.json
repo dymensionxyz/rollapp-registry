@@ -1,8 +1,8 @@
 {
   "chainId": "karahan_5225752-1",
   "chainName": "LaGazzaLadra",
-  "rpc": "http://5.161.213.36:26657",
-  "rest": "http://5.161.213.36:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/karahan_5225752-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/karahan_5225752-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4fbd18",
-    "rpc": "http://5.161.213.36:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/karahan_5225752-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
