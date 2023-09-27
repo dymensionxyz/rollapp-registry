@@ -1,8 +1,8 @@
 {
   "chainId": "sorag_4980761-1",
-  "chainName": "sorag rollapp",
-  "rpc": "http://31.32.232.78:26657",
-  "rest": "http://31.32.232.78:1317",
+  "chainName": "Sorag RollApp",
+  "rpc": "https://froopyland.dymension.xyz/8/sorag_4980761-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/sorag_4980761-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4c0019",
-    "rpc": "http://31.32.232.78:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/sorag_4980761-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
