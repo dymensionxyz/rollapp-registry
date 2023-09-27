@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "dymensionlover_1201-1",
   "chainName": "DYMENSIONLOVER",
-  "rpc": "http://185.211.5.171: 26657",
-  "rest": "http://185.211.5.171: 1317",
+  "rpc": "https://froopyland.dymension.xyz/8/dymensionlover_1201-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/dymensionlover_1201-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4b1",
-    "rpc": "http://185.211.5.171:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/dymensionlover_1201-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
