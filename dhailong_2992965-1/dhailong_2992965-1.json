@@ -1,8 +1,8 @@
 {
   "chainId": "dhailong_2992965-1",
-  "chainName": "dhailong_2992965-1",
-  "rpc": "http://dhailong267.ddns.net:26657",
-  "rest": "http://dhailong267.ddns.net:1317",
+  "chainName": "Dhailong",
+  "rpc": "https://froopyland.dymension.xyz/8/dhailong_2992965-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/dhailong_2992965-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2dab45",
-    "rpc": "http://dhailong267.ddns.net:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/dhailong_2992965-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
