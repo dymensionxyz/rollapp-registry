@@ -1,8 +1,8 @@
 {
   "chainId": "blustack_23823-2",
   "chainName": "blustack",
-  "rpc": "https://109.123.248.163:26657",
-  "rest": "https://109.123.248.163:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x5d0f",
-    "rpc": "https://109.123.248.163:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
