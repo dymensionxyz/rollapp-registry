@@ -1,8 +1,8 @@
 {
   "chainId": "cmdexe_7182178-1",
-  "chainName": "cmdexe_7182178-1",
-  "rpc": "http://65.21.62.139:26657",
-  "rest": "http://65.21.62.139:1317",
+  "chainName": "Cmdexe",
+  "rpc": "https://froopyland.dymension.xyz/8/cmdexe_7182178-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/cmdexe_7182178-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6d9762",
-    "rpc": "http://65.21.62.139:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/cmdexe_7182178-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
