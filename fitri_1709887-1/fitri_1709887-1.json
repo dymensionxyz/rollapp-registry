@@ -1,0 +1,33 @@
+{
+  "chainId": "fitri_1709887-1",
+  "chainName": "fitri_1709887-1",
+  "rpc": "167.86.82.238:26657",
+  "rest": "167.86.82.238:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FTR",
+      "baseDenom": "uFTR",
+      "decimals": 18,
+      "logo": "/logos/fitri_1709887-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/fitri_1709887-1.png",
+  "ibc": {
+    "hubChannel": "channel-5899",
+    "channel": "channel-11",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1a173f",
+    "rpc": "167.86.82.238:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
