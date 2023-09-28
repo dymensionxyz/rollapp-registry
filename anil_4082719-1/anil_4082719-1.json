@@ -1,8 +1,8 @@
 {
   "chainId": "anil_4082719-1",
   "chainName": "Anil",
-  "rpc": "http://95.217.222.234:26657",
-  "rest": "http://95.217.222.234:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/anil_4082719-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/anil_4082719-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e4c1f",
-    "rpc": "http://95.217.222.234:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/anil_4082719-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
