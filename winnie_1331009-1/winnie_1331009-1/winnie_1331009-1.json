@@ -1,8 +1,8 @@
 {
   "chainId": "winnie_1331009-1",
   "chainName": "winnie",
-  "rpc": "https://dymension-rpc-rollap.puh.tech/",
-  "rest": "https://dymension-rest-rollap.puh.tech/",
+  "rpc": "https://froopyland.dymension.xyz/8/winnie_1331009-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/winnie_1331009-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x144f41",
-    "rpc": "https://dymension-evmrpc-rollap.puh.tech/"
+    "rpc": "https://froopyland.dymension.xyz/8/winnie_1331009-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
