@@ -1,8 +1,8 @@
 {
   "chainId": "poltava_3746287-1",
   "chainName": "gamnerium",
-  "rpc": "https://froopyland.dymension.xyz/3/poltava_3746287-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/3/poltava_3746287-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/3/poltava_3746287-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/poltava_3746287-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3929ef",
-    "rpc": "https://froopyland.dymension.xyz/3/poltava_3746287-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/3/poltava_3746287-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
