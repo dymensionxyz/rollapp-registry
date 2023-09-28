@@ -1,8 +1,8 @@
 {
   "chainId": "bojack_2329066-1",
   "chainName": "BoJack",
-  "rpc": "http://173.249.54.240:26657/",
-  "rest": "http://173.249.54.240:1317/",
+  "rpc": "https://froopyland.dymension.xyz/8/bojack_2329066-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/bojack_2329066-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2389ea",
-    "rpc": "http://173.249.54.240:8545/"
+    "rpc": "https://froopyland.dymension.xyz/8/bojack_2329066-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
