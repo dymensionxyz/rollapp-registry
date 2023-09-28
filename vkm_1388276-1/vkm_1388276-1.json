@@ -1,8 +1,8 @@
 {
   "chainId": "vkm_1388276-1",
   "chainName": "VKM",
-  "rpc": "http://65.108.159.163:26657",
-  "rest": "http://65.108.159.163:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/vkm_1388276-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/vkm_1388276-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x152ef4",
-    "rpc": "http://65.108.159.163:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/vkm_1388276-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
