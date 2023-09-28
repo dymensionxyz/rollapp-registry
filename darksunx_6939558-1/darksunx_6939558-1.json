@@ -1,8 +1,8 @@
 {
   "chainId": "darksunx_6939558-1",
-  "chainName": "darksunx_6939558-1",
-  "rpc": "http://161.97.143.62:26657",
-  "rest": "http://161.97.143.62:26657:1317",
+  "chainName": "Darksunx",
+  "rpc": "https://froopyland.dymension.xyz/8/darksunx_6939558-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/darksunx_6939558-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x69e3a6",
-    "rpc": "http://161.97.143.62:26657:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/darksunx_6939558-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
