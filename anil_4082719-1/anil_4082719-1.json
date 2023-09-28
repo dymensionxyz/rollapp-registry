@@ -1,0 +1,33 @@
+{
+  "chainId": "anil_4082719-1",
+  "chainName": "Anil",
+  "rpc": "http://95.217.222.234:26657",
+  "rest": "http://95.217.222.234:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ANL",
+      "baseDenom": "uANL",
+      "decimals": 18,
+      "logo": "/logos/anil_4082719-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/anil_4082719-1.png",
+  "ibc": {
+    "hubChannel": "channel-5940",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3e4c1f",
+    "rpc": "http://95.217.222.234:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
