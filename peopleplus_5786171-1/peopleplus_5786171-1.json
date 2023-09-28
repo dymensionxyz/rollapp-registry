@@ -1,7 +1,7 @@
 {
   "chainId": "peopleplus_5786171-1",
   "chainName": "PeoplePlus",
-  "rpc": "https://https://froopyland.dymension.xyz/8/peopleplus_5786171-1/rpc",
+  "rpc": "https://froopyland.dymension.xyz/8/peopleplus_5786171-1/rpc",
   "rest": "https://froopyland.dymension.xyz/8/peopleplus_5786171-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
