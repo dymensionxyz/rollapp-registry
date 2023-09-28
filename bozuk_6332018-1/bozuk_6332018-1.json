@@ -1,8 +1,8 @@
 {
   "chainId": "bozuk_6332018-1",
   "chainName": "Bozuk",
-  "rpc": "http://94.130.76.143:26657",
-  "rest": "http://94.130.76.143:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/bozuk_6332018-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/bozuk_6332018-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x609e72",
-    "rpc": "http://94.130.76.143:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/bozuk_6332018-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
