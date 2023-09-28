@@ -1,8 +1,8 @@
 {
   "chainId": "peopleplus_5786171-1",
   "chainName": "PeoplePlus",
-  "rpc": "https://13.127.142.156:26657",
-  "rest": "https://13.127.142.156:1317",
+  "rpc": "https://https://froopyland.dymension.xyz/8/peopleplus_5786171-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/peopleplus_5786171-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x584a3b",
-    "rpc": "https://13.127.142.156:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/peopleplus_5786171-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
