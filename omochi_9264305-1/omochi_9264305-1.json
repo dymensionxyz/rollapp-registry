@@ -1,8 +1,8 @@
 {
     "chainId": "omochi_9264305-1",
-    "chainName": “omochi_9264305-1",
-    "rpc": "https://froopy-rollapp-rpc.hoshi.com",
-    "rest": "https://froopy-rollapp-rest.omochi.com",
+    "chainName": “silknodes",
+    "rpc": "https://froopyland.api.silknodes.io/",
+    "rest": "https://froopy-rollapp-rest.silknodes.com",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -31,3 +31,4 @@
     "rewards": true,
     "isValidator": true
   }
+
