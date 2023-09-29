@@ -1,12 +1,12 @@
 {
     "chainId": "omochi_9264305-1",
-    "chainName": “omochi",
+    "chainName": “mooch",
     "rpc": "https://froopy-rollapp-rpc.hoshi.com",
     "rest": "https://froopy-rollapp-rest.omochi.com",
     "bech32Prefix": "ethm",
     "currencies": [
       {
-        "displayDenom": “omc",
+        "displayDenom": “OMC",
         "baseDenom": "uomc",
         "decimals": 18,
         "logo": "/logos/omochi_9264305-1.png",
