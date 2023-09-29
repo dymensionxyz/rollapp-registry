@@ -1,7 +1,7 @@
 {
     "chainId": "omochi_9264305-1",
-    "chainName": "Omochi",
-    "rpc": "https://froopyland.api.silknodes.io/",
+   "chainName": "omochi_9264305-1",
+    "rpc": "https://froopyland.rpc.silknodes.com",
     "rest": "https://froopy-rollapp-rest.silknodes.com",
     "bech32Prefix": "ethm",
     "currencies": [
@@ -14,20 +14,21 @@
       }
     ],
     "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "logo": "/logos/omochi_9264305-1.png",
     "ibc": {
-      "hubChannel": "channel-5372",
+      "hubChannel": "channel-5965",
       "channel": "channel-0",
       "timeout": 172800000
     },
     "evm": {
-      "chainId": "0x5b06402D6",
+      "chainId": "0x8d5cb1",
       "rpc": "https://froopy-rollapp-jsonrpc.omochi.com"
     },
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
 
 
 
