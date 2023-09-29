@@ -1,8 +1,8 @@
 {
   "chainId": "diafora_7213778-1",
   "chainName": "Diafora",
-  "rpc": "http://144.76.218.21:46657",
-  "rest": "http://144.76.218.21:4317",
+  "rpc": "http://144.76.218.21:26657",
+  "rest": "http://144.76.218.21:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e12d2",
-    "rpc": "http://144.76.218.21:4545"
+    "rpc": "http://144.76.218.21:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
