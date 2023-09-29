@@ -1,12 +1,12 @@
 {
     "chainId": "omochi_9264305-1",
-    "chainName": “silknodes",
+    "chainName": “Silk_Nodes",
     "rpc": "https://froopyland.api.silknodes.io/",
     "rest": "https://froopy-rollapp-rest.silknodes.com",
     "bech32Prefix": "ethm",
     "currencies": [
       {
-        "displayDenom": “OMC",
+        "displayDenom": “omc",
         "baseDenom": "uomc",
         "decimals": 18,
         "logo": "/logos/omochi_9264305-1.png",
@@ -28,6 +28,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
   
 
 
