@@ -1,6 +1,6 @@
 {
     "chainId": "omochi_9264305-1",
-    "chainName": “Silk_Nodes",
+    "chainName": “omochi",
     "rpc": "https://froopyland.api.silknodes.io/",
     "rest": "https://froopy-rollapp-rest.silknodes.com",
     "bech32Prefix": "ethm",
@@ -28,6 +28,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
 
   
 
