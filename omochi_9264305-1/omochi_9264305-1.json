@@ -6,7 +6,7 @@
     "bech32Prefix": "ethm",
     "currencies": [
       {
-        "displayDenom": “omc",
+         "displayDenom": "OMC",
         "baseDenom": "uomc",
         "decimals": 18,
         "logo": "/logos/omochi_9264305-1.png",
@@ -28,6 +28,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
 
 
 
