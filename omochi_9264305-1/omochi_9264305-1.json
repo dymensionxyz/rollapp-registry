@@ -1,8 +1,8 @@
 {
     "chainId": "omochi_9264305-1",
    "chainName": "omochi_9264305-1",
-    "rpc": "https://froopyland.rpc.silknodes.com",
-    "rest": "https://froopy-rollapp-rest.silknodes.com",
+    "rpc": "https://froopyland.rpc.silknodes.io:443",
+    "rest": "https://froopyland.rest.silknodes.io:443",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x8d5cb1",
-      "rpc": "https://froopy-rollapp-jsonrpc.omochi.com"
+      "rpc": "https://froopyland.rpc.silknodes.io:443"
     },
     "type": "RollApp",
     "da": "Celestia",
