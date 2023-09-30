@@ -1,8 +1,8 @@
 {
     "chainId": "omochi_9264305-1",
    "chainName": "omochi_9264305-1",
-    "rpc": "https://froopyland.rpc.silknodes.io:443",
-    "rest": "https://froopyland.rest.silknodes.io:443",
+   "rpc": "https://froopyland.dymension.xyz/8/omochi_9264305-1/rpc",
+   "rest": "https://froopyland.dymension.xyz/8/omochi_9264305-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -28,6 +28,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
 
 
 
