@@ -1,8 +1,8 @@
 {
   "chainId": "gaban_6127911-1",
   "chainName": "gaban_6127911-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://137.184.229.46/26657",
+  "rest": "http://137.184.229.46/1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d8127",
-    "rpc": ""
+    "rpc": "http://137.184.229.46/8545"
   },
   "type": "RollApp",
   "da": "Celestia",
