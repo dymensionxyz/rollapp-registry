@@ -1,8 +1,8 @@
 {
     "chainId": "omochi_9264305-1",
    "chainName": "omochi_9264305-1",
-   "rpc": "http://222.12.200.200:26657",
-   "rest": "https://222.12.200.200:1317",
+   "rpc": "http://192.168.01:26657",
+   "rest": "https://192.168.01:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -28,6 +28,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "analytics": true,
+
 
 
 
