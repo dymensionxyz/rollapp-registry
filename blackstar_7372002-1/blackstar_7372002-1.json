@@ -1,8 +1,8 @@
 {
   "chainId": "blackstar_7372002-1",
   "chainName": "Blackstar",
-  "rpc": "http://185.215.180.177:26657",
-  "rest": "http://185.215.180.177:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/blackstar_7372002-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/blackstar_7372002-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x707ce2",
-    "rpc": "http://185.215.180.177:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/blackstar_7372002-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
