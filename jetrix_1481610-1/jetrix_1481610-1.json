@@ -1,8 +1,8 @@
 {
   "chainId": "jetrix_1481610-1",
-  "chainName": "jetrix_1481610-1",
-  "rpc": "http://168.119.213.113:26657",
-  "rest": "http://168.119.213.113:1317",
+  "chainName": "Jetrix",
+  "rpc": "https://froopyland.dymension.xyz/8/jetrix_1481610-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/jetrix_1481610-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x169b8a",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/8/jetrix_1481610-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
