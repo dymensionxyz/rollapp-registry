@@ -1,8 +1,8 @@
 {
   "chainId": "gaban_6127911-1",
-  "chainName": "gaban_6127911-1",
-  "rpc": "http://137.184.229.46/26657",
-  "rest": "http://137.184.229.46/1317",
+  "chainName": "Gaban",
+  "rpc": "https://froopyland.dymension.xyz/8/gaban_6127911-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/gaban_6127911-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d8127",
-    "rpc": "http://137.184.229.46/8545"
+    "rpc": "https://froopyland.dymension.xyz/8/gaban_6127911-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
