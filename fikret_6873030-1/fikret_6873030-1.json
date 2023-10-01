@@ -1,8 +1,8 @@
 {
   "chainId": "fikret_6873030-1",
   "chainName": "Fikret",
-  "rpc": "http://159.69.117.135:26657",
-  "rest": "http://159.69.117.135:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/fikret_6873030-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/fikret_6873030-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x68dfc6",
-    "rpc": "http://159.69.117.135:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/fikret_6873030-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
