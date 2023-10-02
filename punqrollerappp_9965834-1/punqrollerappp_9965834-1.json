@@ -1,8 +1,8 @@
 {
     "chainId": "punqrollerappp_9965834-1",
     "chainName": "punqroller",
-    "rpc": "http://65.108.129.239:26657",
-    "rest": "http://65.108.129.239:1317",
+    "rpc": "https://froopyland.dymension.xyz/8/punqrollerappp_9965834-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/8/punqrollerappp_9965834-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x98110a",
-      "rpc": "http://65.108.129.239:8545"
+      "rpc": "https://froopyland.dymension.xyz/8/punqrollerappp_9965834-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
