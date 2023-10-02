@@ -1,8 +1,8 @@
 {
   "chainId": "sicardii_1748361-1",
   "chainName": "SİCARDİ",
-  "rpc": "http://164.68.116.194:26657",
-  "rest": "http://164.68.116.194:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1aad89",
-    "rpc": "http://164.68.116.194:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
