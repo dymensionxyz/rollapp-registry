@@ -1,8 +1,8 @@
 {
   "chainId": "shezaan_5562436-1",
   "chainName": "shezaan",
-  "rpc": "95.216.191.188:26657",
-  "rest": "95.216.191.188:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x54e044",
-    "rpc": "http://95.217.233.41:26657:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
