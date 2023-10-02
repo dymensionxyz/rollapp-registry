@@ -1,8 +1,8 @@
 {
     "chainId": "manila_4282284-1",
     "chainName": "Manila",
-    "rpc": "http://206.116.75.69:26657",
-    "rest": "http://206.116.75.69:1317",
+    "rpc": "https://froopyland.dymension.xyz/8/manila_4282284-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/8/manila_4282284-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,11 +24,12 @@
     },
     "evm": {
       "chainId": "0x4157ac",
-      "rpc": "http://206.116.75.69:8545"
+      "rpc": "https://froopyland.dymension.xyz/8/manila_4282284-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
     "description": "Home of all Filipino apps",
-    "analytics": true
+    "analytics": true,
+    "isValidator": true
   }
   
