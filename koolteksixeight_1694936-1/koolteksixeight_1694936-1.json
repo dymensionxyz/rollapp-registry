@@ -1,8 +1,8 @@
 {
   "chainId": "koolteksixeight_1694936-1",
   "chainName": "kooltek68",
-  "rpc": "75.119.151.115:36657",
-  "rest": "75.119.151.115:1317",
+  "rpc": "dym.kooltek68.com/rollapp/endpoints/rpc",
+  "rest": "dym.kooltek68.com/rollapp/endpoints/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19dcd8",
-    "rpc": "75.119.151.115:18545"
+    "rpc": "dym.kooltek68.com/rollapp/endpoints/rpc_evm"
   },
   "type": "RollApp",
   "da": "Celestia",
