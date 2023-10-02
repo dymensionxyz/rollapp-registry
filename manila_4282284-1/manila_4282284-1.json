@@ -1,7 +1,7 @@
 {
     "chainId": "manila_4282284-1",
     "chainName": "Manila",
-    "rpc": "http://206.116.75.69:26688",
+    "rpc": "http://206.116.75.69:26657",
     "rest": "http://206.116.75.69:1317",
     "bech32Prefix": "ethm",
     "currencies": [
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x4157ac",
-      "rpc": "http://206.116.75.69:8555"
+      "rpc": "http://206.116.75.69:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
