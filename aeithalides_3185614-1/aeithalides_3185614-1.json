@@ -1,8 +1,8 @@
 {
     "chainId": "aeithalides_3185614-1",
-    "chainName": "aeithalides_3185614-1",
-    "rpc": "http://65.109.233.8:26657",
-    "rest": "http://65.109.233.8:1317",
+    "chainName": "Aeithalides",
+    "rpc": "https://froopyland.dymension.xyz/9/aeithalides_3185614-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/9/aeithalides_3185614-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x309bce",
-      "rpc": "http://65.109.233.8:8545"
+      "rpc": "https://froopyland.dymension.xyz/9/aeithalides_3185614-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
