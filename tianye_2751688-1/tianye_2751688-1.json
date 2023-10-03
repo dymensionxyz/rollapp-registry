@@ -1,8 +1,8 @@
 {
     "chainId": "tianye_2751688-1",
-    "chainName": "tianye_2751688-1",
-    "rpc": "http://161.97.147.138:26657",
-    "rest": "http://161.97.147.138:1317",
+    "chainName": "Tianye",
+    "rpc": "https://froopyland.dymension.xyz/9/tianye_2751688-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/9/tianye_2751688-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x29fcc8",
-      "rpc": "http://161.97.147.138:8545"
+      "rpc": "https://froopyland.dymension.xyz/9/tianye_2751688-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
