@@ -30,5 +30,5 @@
   "da": "Avail",
   "description": "From the people, To the people, For the people!",
   "analytics": true,
-  "rewards": false
+  "rewards": true
 }
