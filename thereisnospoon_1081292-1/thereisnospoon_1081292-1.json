@@ -1,8 +1,8 @@
 {
   "chainId": "thereisnospoon_1081292-1",
-  "chainName": "thereisnospoon_1081292-1",
-  "rpc": "http://95.217.21.195:26657",
-  "rest": "http://95.217.21.195:1317",
+  "chainName": "Thereisnospoon",
+  "rpc": "https://froopyland.dymension.xyz/9/thereisnospoon_1081292-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/thereisnospoon_1081292-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x107fcc",
-    "rpc": "http://95.217.21.195:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/thereisnospoon_1081292-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
