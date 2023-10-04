@@ -1,6 +1,6 @@
 {
   "chainId": "mflow_9590711-1",
-  "chainName": "MFLow-VNBnode",
+  "chainName": "MFLow VNBnode",
   "rpc": "http://mflvnbnodes.ddns.net:26657",
   "rest": "http://mflvnbnodes.ddns.net:1317",
   "bech32Prefix": "ethm",
