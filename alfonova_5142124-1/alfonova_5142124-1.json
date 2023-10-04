@@ -1,8 +1,8 @@
 {
   "chainId": "alfonova_5142124-1",
   "chainName": "alfonova_5142124-1",
-  "rpc": "http://146.190.58.78:26657",
-  "rest": "http://146.190.58.78:1317",
+  "rpc": "http://146.190.136.55:26657",
+  "rest": "http://146.190.136.55:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4e766c",
-    "rpc": "http://146.190.58.78:8545"
+    "rpc": "http://146.190.136.55:8545"
   },
   "type": "RollApp",
   "da": "Avail",
