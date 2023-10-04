@@ -1,7 +1,7 @@
 {
   "chainId": "apwon_7620042-1",
   "chainName": "apwon_7620042-1",
-  "rpc": "http://684.46.248.131:26657",
+  "rpc": "http://84.46.248.131:26657",
   "rest": "http://84.46.248.131:1317",
   "bech32Prefix": "ethm",
   "currencies": [
