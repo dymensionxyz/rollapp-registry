@@ -1,1 +1,33 @@
-{"\ufeff{\n\u2006 \u2006 \"chainId\": \"svserden_6184578-1\",\n\u2006 \u2006 \"chainName\": \u201ckagerosa\u201d,\n\u2006 \u2006 \"rpc\": \"http://188.34.185.248:26657/\",\n\u2006 \u2006 \"rest\": \"http://188.34.185.248:1317/\",\n\u2006 \u2006 \"bech32Prefix\": \"ethm\",\n\u2006 \u2006 \"currencies\": [\n\u2006 \u2006 \u2006 \u2006 {\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"displayDenom\": \"PRN\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"baseDenom\": \"uPRN\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"decimals\": 18,\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"logo\": \"/logos/svserden_6184578-1.png\",\n\u2006 \u2006 \u2006 \u2006 \u2006 \u2006 \"type\": \"main\"\n\u2006 \u2006 \u2006 \u2006 }\n\u2006 \u2006 ],\n\u2006 \u2006 \"coinType\": 60,\n\u2006 \u2006 \"faucetUrl\": \"https://discord.com/channels/956961633165529098/1125047988247593010\",\n\u2006 \u2006 \"website\": \"\",\n\u2006 \u2006 \"logo\": \"/logos/svserden_6184578-1.png\",\n\u2006 \u2006 \"ibc\": {\n\u2006 \u2006 \u2006 \u2006 \"hubChannel\": \"channel-6120\",\n\u2006 \u2006 \u2006 \u2006 \"channel\": \"channel-0\",\n\u2006 \u2006 \u2006 \u2006 \"timeout\": 172800000\n\u2006 \u2006 },\n\u2006 \u2006 \"evm\": {\n\u2006 \u2006 \u2006 \u2006 \"chainId\": \"0x5e5e82\",\n\u2006 \u2006 \u2006 \u2006 \"rpc\": \"http://188.34.185.248:8545/\"\n\u2006 \u2006 },\n\u2006 \u2006 \"type\": \"RollApp\",\n\u2006 \u2006 \"da\": \"Celestia\",\n\u2006 \u2006 \"description\": \"\",\n\u2006 \u2006 \"analytics\": true\n}": null}
+{
+  "chainId": "svserden_6184578-1",
+  "chainName": “kagerosa,
+  "rpc": "http://188.34.185.248:26657/",
+  "rest": "http://188.34.185.248:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PRN",
+      "baseDenom": "uPRN",
+      "decimals": 18,
+      "logo": "/logos/svserden_6184578-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/svserden_6184578-1.png",
+  "ibc": {
+    "hubChannel": "channel-6120",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5e5e82",
+    "rpc": "http://188.34.185.248:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
