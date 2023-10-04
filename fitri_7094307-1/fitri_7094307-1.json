@@ -1,8 +1,8 @@
 {
   "chainId": "fitri_7094307-1",
-  "chainName": "fitri_7094307-1",
-  "rpc": "http://167.86.82.238:26657",
-  "rest": "http://167.86.82.238:1317",
+  "chainName": "Fitri",
+  "rpc": "https://froopyland.dymension.xyz/9/fitri_7094307-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/fitri_7094307-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6c4023",
-    "rpc": "http://167.86.82.238:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/fitri_7094307-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
