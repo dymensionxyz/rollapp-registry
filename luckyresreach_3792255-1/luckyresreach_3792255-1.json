@@ -1,8 +1,8 @@
 {
   "chainId": "luckyresreach_3792255-1",
-  "chainName": "luckyresreach_3792255-1",
-  "rpc": "157.245.48.242:26657",
-  "rest": "157.245.48.242:1317",
+  "chainName": "Luckyresreach",
+  "rpc": "https://froopyland.dymension.xyz/9/luckyresreach_3792255-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/luckyresreach_3792255-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x39dd7f",
-    "rpc": "157.245.48.242:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/luckyresreach_3792255-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
