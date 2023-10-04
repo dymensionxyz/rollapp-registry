@@ -1,6 +1,6 @@
 {
   "chainId": "svserden_6184578-1",
-  "chainName": “kagerosa,
+  "chainName": “kagerosa“,
   "rpc": "http://188.34.185.248:26657/",
   "rest": "http://188.34.185.248:1317/",
   "bech32Prefix": "ethm",
