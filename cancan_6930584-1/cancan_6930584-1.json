@@ -1,9 +1,8 @@
-
 {
   "chainId": "cancan_6930584-1",
-  "chainName": "cancan_6930584-1",
-  "rpc": "http://65.21.155.61:26657",
-  "rest": "http://65.21.155.61:1317",
+  "chainName": "Cancan",
+  "rpc": "https://froopyland.dymension.xyz/9/cancan_6930584-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/cancan_6930584-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x69c098",
-    "rpc": "http://65.21.155.61:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/cancan_6930584-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
