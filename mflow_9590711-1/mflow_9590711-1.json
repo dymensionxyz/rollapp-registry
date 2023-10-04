@@ -1,8 +1,8 @@
 {
   "chainId": "mflow_9590711-1",
   "chainName": "MFLow-VNBnode",
-  "rpc": "http://mflow.tech:26657",
-  "rest": "http://mflow.tech:1317",
+  "rpc": "http://mflvnbnodes.ddns.net:26657",
+  "rest": "http://mflvnbnodes.ddns.net:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x9257b7",
-    "rpc": "http://mflow.tech:8545"
+    "rpc": "http://mflvnbnodes.ddns.net:8545"
   },
   "type": "RollApp",
   "da": "Avail",
