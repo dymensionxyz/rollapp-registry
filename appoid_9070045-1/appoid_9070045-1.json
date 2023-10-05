@@ -1,0 +1,33 @@
+{
+  "chainId": "appoid_9070045-1",
+  "chainName": "appoid_9070045-1",
+  "rpc": "http://217.76.50.74:26657",
+  "rest": "http://217.76.50.74:1317", 
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "apid",
+      "baseDenom": "uapid",
+      "decimals": 18,
+      "logo": "/logos/appoid_9070045-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/appoid_9070045-1.png",
+  "ibc": {
+    "hubChannel": "channel-6161",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8a65dd",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
