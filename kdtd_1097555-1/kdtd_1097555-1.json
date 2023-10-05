@@ -1,9 +1,9 @@
 💈 networks.json:
 {
   "chainId": "kdtd_1097955-1",
-  "chainName": "kdtd_1097955-1",
-  "rpc": "http://86.48.3.2:26657",
-  "rest": "http://86.48.3.2:1317",
+  "chainName": "Kdtd",
+  "rpc": "https://froopyland.dymension.xyz/9/kdtd_1097955-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/kdtd_1097955-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x10c0e3",
-    "rpc": "http://86.48.3.2:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/kdtd_1097955-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
