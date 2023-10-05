@@ -1,8 +1,8 @@
 {
   "chainId": "catsinthecups_3444095-1",
   "chainName": "catsinthecups",
-  "rpc": "http://130.185.118.71:26657",
-  "rest": "http://130.185.118.71:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x348d7f",
-    "rpc": "http://130.185.118.71:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
