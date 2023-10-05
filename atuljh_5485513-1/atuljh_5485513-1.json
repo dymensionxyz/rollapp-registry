@@ -1,8 +1,8 @@
 {
   "chainId": "atuljh_5485513-1",
   "chainName": "atuljh",
-  "rpc": "http://167.86.125.203:26657",
-  "rest": "http://167.86.125.203:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/atuljh_5485513-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/atuljh_5485513-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x53b3c9",
-    "rpc": "http://167.86.125.203:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/atuljh_5485513-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
