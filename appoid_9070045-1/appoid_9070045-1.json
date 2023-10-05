@@ -1,8 +1,8 @@
 {
   "chainId": "appoid_9070045-1",
-  "chainName": "appoid_9070045-1",
-  "rpc": "http://217.76.50.74:26657",
-  "rest": "http://217.76.50.74:1317", 
+  "chainName": "Appoid",
+  "rpc": "https://froopyland.dymension.xyz/9/appoid_9070045-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/appoid_9070045-1/rest", 
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8a65dd",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/9/appoid_9070045-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
