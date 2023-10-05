@@ -1,8 +1,8 @@
 {
   "chainId": "validatrium_2833344-1",
   "chainName": "validatrium_btc",
-  "rpc": "https://rpc-dymension.testnet.validatrium.club/",
-  "rest": "https://api-dymension.testnet.validatrium.club/",
+  "rpc": "https://rpc-dymension-rollap.testnet.validatrium.club",
+  "rest": "https://api-dymension-rollap.testnet.validatrium.club",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2b3bc0",
-    "rpc": "https://jsonrpc-dymension.testnet.validatrium.club/"
+    "rpc": "https://jsonrpc-dymension-rollap.testnet.validatrium.club"
   },
   "type": "RollApp",
   "da": "Avail",
