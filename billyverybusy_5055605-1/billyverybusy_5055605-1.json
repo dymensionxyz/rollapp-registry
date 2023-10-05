@@ -1,8 +1,8 @@
 {
   "chainId": "billyverybusy_5055605-1",
   "chainName": "Billy Busy",
-  "rpc": "http://95.111.232.41:26657" (default port 26657),
-  "rest": "http://95.111.232.41:1317" (default port 1317),
+  "rpc": "http://95.111.232.41:26657",
+  "rest": "http://95.111.232.41:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d2475",
-    "rpc": "95.111.232.41:8545" (default port 8545)
+    "rpc": "95.111.232.41:8545"
   },
   "type": "RollApp",
   "da": "Avail",
