@@ -1,8 +1,8 @@
 {
   "chainId": "zeycan_3437501-1",
-  "chainName": "zeycan_3437501-1",
-  "rpc": "http://80.65.211.208:26657",
-  "rest": "http://80.65.211.208:1317",
+  "chainName": "Zeycan",
+  "rpc": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3473bd",
-    "rpc": "http://80.65.211.208:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
