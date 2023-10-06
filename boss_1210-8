@@ -1,0 +1,32 @@
+{
+  "chainId": "boss_1210-8",
+  "chainName": "boss_1210-8",
+  "rpc": "http://192.53.165.190:26657",
+  "rest": "http://192.53.165.190:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BOSS",
+      "baseDenom": "uBOSS",
+      "decimals": 18,
+      "logo": "/logos/boss.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/boss.png",
+  "ibc": {
+    "hubChannel": "channel-5155",
+    "channel": "channel-90",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x16034e",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
