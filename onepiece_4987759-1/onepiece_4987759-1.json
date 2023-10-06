@@ -1,8 +1,8 @@
 {
 "chainId": "onepiece_4987759-1",
 "chainName": "onepiece",
-"rpc": "https://froopyland.dymension.xyz/4/onepiece_4987759-1/rpc",
-"rest": "https://froopyland.dymension.xyz/4/onepiece_4987759-1/rest",
+"rpc": "http://134.122.120.154:26657",
+"rest": "http://134.122.120.154:1317",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x4c1b6f",
-"rpc": "https://froopyland.dymension.xyz/4/onepiece_4987759-1/evmrpc"
+"rpc": "http://134.122.120.154:8545"
 },
 "type": "RollApp",
 "da": "Avail",
