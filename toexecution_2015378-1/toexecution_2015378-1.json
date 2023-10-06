@@ -6,7 +6,7 @@
 "bech32Prefix": "ethm",
 "currencies": [
 {
-"displayDenom": "tct"
+"displayDenom": "tct",
 "baseDenom": "utct",
  "decimals": 18,
 "logo": "/logos/toexecution_2015378-1.PNG.png",
