@@ -19,7 +19,7 @@
   "logo": "/logos/boss.png", 
   "ibc": { 
     "hubChannel": "channel-5155", 
-    "channel": "channel-90", 
+    "channel": "channel-0", 
     "timeout": 172800000 
   }, 
   "evm": { 
