@@ -1,8 +1,8 @@
 {
   "chainId": "tacromi_1681031-1",
-  "chainName": "tacromi_1681031-1",
-  "rpc": "31.220.77.58:26657",
-  "rest": "31.220.77.58:1317",
+  "chainName": "Tacromi",
+  "rpc": "https://froopyland.dymension.xyz/9/tacromi_1681031-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/tacromi_1681031-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19a687",
-    "rpc": "31.220.77.58:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/tacromi_1681031-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
