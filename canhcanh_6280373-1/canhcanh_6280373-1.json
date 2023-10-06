@@ -1,0 +1,33 @@
+{
+  "chainId": "canhcanh_6280373-1",
+  "chainName": "canhcanh_6280373-1",
+  "rpc": "http://94.130.106.104:26657",
+  "rest": "http://94.130.106.104:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NTC",
+      "baseDenom": "uNTC",
+      "decimals": 18,
+      "logo": "/logos/canhcanh_6280373-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/canhcanh_6280373-1.png",
+  "ibc": {
+    "hubChannel": "channel-6130",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5fd4b5",
+    "rpc": "http://94.130.106.104:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
