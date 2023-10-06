@@ -1,0 +1,33 @@
+{
+  "chainId": "tacromi_1681031-1",
+  "chainName": "tacromi_1681031-1",
+  "rpc": "31.220.77.58:26657",
+  "rest": "31.220.77.58:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TCM",
+      "baseDenom": "uTCM",
+      "decimals": 18,
+      "logo": "/logos/tacromi_1681031-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tacromi_1681031-1.png",
+  "ibc": {
+    "hubChannel": "channel-6146",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19a687",
+    "rpc": "31.220.77.58:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
