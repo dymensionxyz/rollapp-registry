@@ -1,8 +1,8 @@
 {
   "chainId": "nodeaddict_5161565-1",
   "chainName": "nodeADDICT",
-  "rpc": "http://65.108.231.238:26657",
-  "rest": "http://65.108.231.238:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/nodeaddict_5161565-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/nodeaddict_5161565-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4ec25d",
-    "rpc": "http://65.108.231.238:1317"
+    "rpc": "https://froopyland.dymension.xyz/9/nodeaddict_5161565-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
