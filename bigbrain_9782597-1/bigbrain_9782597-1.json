@@ -1,8 +1,8 @@
 {
   "chainId": "bigbrain_9782597-1",
   "chainName": "Bigbrain by Stress Capital",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/9/bigbrain_9782597-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/bigbrain_9782597-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x954545",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/9/bigbrain_9782597-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
