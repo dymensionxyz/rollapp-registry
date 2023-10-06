@@ -1,0 +1,33 @@
+{
+"chainId": "aoodo_4930131-1",
+"chainName": "Aoodo",
+"rpc": "https://froopyland.dymension.xyz/9/aoodo_4930131-1/rpc",
+"rest": "https://froopyland.dymension.xyz/9/aoodo_4930131-1/rest",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "dobo",
+"baseDenom": "udobo",
+"decimals": 18,
+"logo": "/logos/aoodo_4930131-1.jpg",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "",
+"logo": "/logos/aoodo_4930131-1.jpg",
+"ibc": {
+"hubChannel": "channel-6128",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x4b3a53",
+"rpc": "https://froopyland.dymension.xyz/9/aoodo_4930131-1/evmrpc"
+},
+"type": "RollApp",
+"da": "Avail",
+"description": "",
+"analytics": true
+}
