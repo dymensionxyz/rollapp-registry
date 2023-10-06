@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x76c3a2",
-    "rpc": ""
+    "rpc": "http://38.242.238.146:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "",
+  "description": "MAHOF",
   "analytics": true
 }
