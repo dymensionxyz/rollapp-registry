@@ -1,0 +1,20 @@
+[0;1;32m●[0m relayer.service - Roller relayer service
+     Loaded: loaded (/etc/systemd/system/relayer.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Fri 2023-10-06 19:01:26 CEST; 1h 57min ago
+   Main PID: 14139 (roller)
+      Tasks: 33 (limit: 36043)
+     Memory: 52.8M
+     CGroup: /system.slice/relayer.service
+             ├─14139 /usr/local/bin/roller relayer start
+             ├─29154 /usr/local/bin/roller_bins/rly tx relay-packets rollapp-hub channel-6236 --home /root/.roller/relayer
+             └─29167 /usr/local/bin/roller_bins/rly tx relay-acks rollapp-hub channel-6236 --home /root/.roller/relayer
+
+Oct 06 19:01:26 vmi865993.contaboserver.net systemd[1]: Started Roller relayer service.
+Oct 06 19:01:27 vmi865993.contaboserver.net roller[14139]: 💈 Establishing IBC transfer channel
+Oct 06 19:01:27 vmi865993.contaboserver.net roller[14139]: 💈 Creating clients...
+Oct 06 19:01:29 vmi865993.contaboserver.net roller[14139]: 💈 Waiting for block creation...
+Oct 06 19:02:00 vmi865993.contaboserver.net roller[14139]: 💈 Waiting for the rollapp height on the hub to be greater than initial height, initial height: 112, current height: 112
+Oct 06 19:02:30 vmi865993.contaboserver.net roller[14139]: 💈 Waiting for the rollapp height on the hub to be greater than initial height, initial height: 112, current height: 112
+Oct 06 19:03:01 vmi865993.contaboserver.net roller[14139]: 💈 Creating connection...
+Oct 06 19:06:24 vmi865993.contaboserver.net roller[14139]: 💈 Creating channel...
+Oct 06 19:11:26 vmi865993.contaboserver.net roller[14139]: 💈 Validating channel established...
