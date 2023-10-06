@@ -1,8 +1,8 @@
 {
   "chainId": "jglp_4951725-1",
-  "chainName": "jglp_4951725-1",
-  "rpc": "185.188.249.208:26657",
-  "rest": "185.188.249.208:1317",
+  "chainName": "Jglp",
+  "rpc": "https://froopyland.dymension.xyz/9/jglp_4951725-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/jglp_4951725-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4b8ead",
-    "rpc": "185.188.249.208:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/jglp_4951725-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
