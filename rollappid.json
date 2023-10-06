@@ -1,0 +1,33 @@
+{
+  "chainId": "lilyqt_9236979-1",
+  "chainName": "lilyqt_9236979-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LLY",
+      "baseDenom": "uLLY",
+      "decimals": 18,
+      "logo": "/logos/lilyqt_9236979-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lilyqt_9236979-1.png",
+  "ibc": {
+    "hubChannel": "channel-6188",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8cf1f3",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
