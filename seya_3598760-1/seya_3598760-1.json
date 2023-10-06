@@ -1,8 +1,8 @@
 {
   "chainId": "seya_3598760-1",
   "chainName": "seya ROLLAPP",
-  "rpc": "185.188.249.209:26657",
-  "rest": "185.188.249.209:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/seya_3598760-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/seya_3598760-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x36e9a8",
-    "rpc": "185.188.249.209:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/seya_3598760-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
