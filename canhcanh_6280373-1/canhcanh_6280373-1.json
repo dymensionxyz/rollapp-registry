@@ -1,8 +1,8 @@
 {
   "chainId": "canhcanh_6280373-1",
-  "chainName": "canhcanh_6280373-1",
-  "rpc": "http://94.130.106.104:26657",
-  "rest": "http://94.130.106.104:1317",
+  "chainName": "Canhcanh",
+  "rpc": "https://froopyland.dymension.xyz/9/canhcanh_6280373-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/canhcanh_6280373-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5fd4b5",
-    "rpc": "http://94.130.106.104:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/canhcanh_6280373-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
