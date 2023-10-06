@@ -1,8 +1,8 @@
 {
 "chainId": "gojo_9415667-1",
 "chainName": "gojo",
-"rpc": "https://froopyland.dymension.xyz/3/gojosatoru_1799751-1/rpc",
-"rest": "https://froopyland.dymension.xyz/3/gojosatoru_1799751-1/rest",
+"rpc": "http://143.110.153.141:26657",
+"rest": "http://143.110.153.141:1317",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,11 +24,10 @@
 },
 "evm": {
 "chainId": "0x8fabf3",
-"rpc": "https://froopyland.dymension.xyz/3/gojosatoru_1799751-1/evmrpc"
+"rpc": "http://143.110.153.141:8545"
 },
 "type": "RollApp",
 "da": "Avail",
 "description": "",
-"analytics": true,
-"rewards": true
+"analytics": true
 }
