@@ -1,8 +1,8 @@
 {
   "chainId": "anuoa_2671958-1",
-  "chainName": "anuoa_2671958-1",
-  "rpc": "http://161.97.73.25:26657",
-  "rest": "http://161.97.73.25:1317",
+  "chainName": "Anuoa",
+  "rpc": "https://froopyland.dymension.xyz/9/anuoa_2671958-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/anuoa_2671958-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x28c556",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/9/anuoa_2671958-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
