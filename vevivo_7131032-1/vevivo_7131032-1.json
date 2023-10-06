@@ -1,0 +1,33 @@
+{
+  "chainId": "vevivo_7131032-1",
+  "chainName": "Vevivo",
+  "rpc": "https://froopyland.dymension.xyz/9/vevivo_7131032-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/vevivo_7131032-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "vevivo",
+      "baseDenom": "uvevivo",
+      "decimals": 18,
+      "logo": "/logos/vevivo_7131032-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/vevivo_7131032-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5578",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6ccf98",
+    "rpc": "https://froopyland.dymension.xyz/9/vevivo_7131032-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
