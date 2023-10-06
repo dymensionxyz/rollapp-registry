@@ -1,8 +1,8 @@
 {
     "chainId": "manila_4282284-1",
     "chainName": "Manila",
-    "rpc": "http://23.16.144.171:26657",
-    "rest": "http://23.16.144.171:1317",
+    "rpc": "http://nerf.xyz:26657",
+    "rest": "http://nerf.xyz:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,11 +24,12 @@
     },
     "evm": {
       "chainId": "0x4157ac",
-      "rpc": "http://23.16.144.171:8545"
+      "rpc": "http://nerf.xyz:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
     "description": "Home of all Filipino apps",
-    "analytics": true
+    "analytics": true,
+    "isValidator": true
   }
   
