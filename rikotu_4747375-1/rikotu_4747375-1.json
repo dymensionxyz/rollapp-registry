@@ -1,0 +1,33 @@
+{
+  "chainId": "rikotu_4747375-1",
+  "chainName": "rikotu ROLLAPP land",
+  "rpc": "31.220.77.59:26657 ",
+  "rest": "31.220.77.59:1317 ",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RIKT",
+      "baseDenom": "uRIKT",
+      "decimals": 18,
+      "logo": "/logos/rikotu_4747375-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rikotu_4747375-1.png",
+  "ibc": {
+    "hubChannel": "channel-6197",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x48706f",
+    "rpc": "31.220.77.59:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
