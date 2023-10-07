@@ -1,7 +1,7 @@
 {
   "chainId": "istanbul_1977374-1",
   "chainName": "jayjay",
-  "rpc": "http://65.108.2.41:46657",
+  "rpc": "http://65.108.2.41:26657",
   "rest": "http://65.108.2.41:1317",
   "bech32Prefix": "ethm",
   "currencies": [
