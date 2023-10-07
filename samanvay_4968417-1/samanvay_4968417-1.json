@@ -1,6 +1,6 @@
 {
   "chainId": "samanvay_4968417-1",
-  "chainName": "samanvay_4968417-1",
+  "chainName": "Samanvay",
   "rpc": "https://node-rpc.samanvay.pro/",
   "rest": "https://node-api.samanvay.pro/",
   "bech32Prefix": "ethm",
