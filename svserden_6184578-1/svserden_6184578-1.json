@@ -1,8 +1,8 @@
 
   "chainId": "svserden_6184578-1",
   "chainName": "kagerosa",
-  "rpc": "http://188.34.185.248:26657/",
-  "rest": "http://188.34.185.248:1317/",
+  "rpc": "https://froopyland.dymension.xyz/10/svserden_6184578-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/svserden_6184578-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5e5e82",
-    "rpc": "http://188.34.185.248:8545/"
+    "rpc": "https://froopyland.dymension.xyz/10/svserden_6184578-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
