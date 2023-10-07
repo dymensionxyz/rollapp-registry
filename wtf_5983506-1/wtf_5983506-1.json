@@ -1,6 +1,6 @@
 {
     "chainId": "wtf_5983506-1",
-    "chainName": "wtf_5983506-1",
+    "chainName": "WTF?",
     "rpc": "http://89.117.57.84:26657",
     "rest": "http://89.117.57.84:1317",
     "bech32Prefix": "ethm",
