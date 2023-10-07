@@ -1,0 +1,33 @@
+{
+  "chainId": "secard_8857706-1",
+  "chainName": "secard_8857706-1",
+  "rpc": "http://89.233.108.118:26657",
+  "rest": "http://89.233.108.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "scard",
+      "baseDenom": "uscard",
+      "decimals": 18,
+      "logo": "/logos/secard_8857706-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "www.secardnode.com",
+  "logo": "/logos/secard_8857706-1.png",
+  "ibc": {
+    "hubChannel": "channel-6254",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x87286a",
+    "rpc": "http://89.233.108.118:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "SECARD",
+  "analytics": true
+}
