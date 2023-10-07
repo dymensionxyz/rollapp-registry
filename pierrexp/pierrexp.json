@@ -1,11 +1,8 @@
-vim $ROLLAPP_ID.json
-
-💈 networks.json:
 {
   "chainId": "pierrexp_1158229-1",
   "chainName": "pierrexp",
-  "rpc": "https://38.242.205.20:26657",
-  "rest": "https://38.242.205.20:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/pierrexp_1158229-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/pierrexp_1158229-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -27,11 +24,10 @@ vim $ROLLAPP_ID.json
   },
   "evm": {
     "chainId": "0x11ac55",
-    "rpc": "https://38.242.205.20:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/pierrexp_1158229-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
   "analytics": true
 }
-
