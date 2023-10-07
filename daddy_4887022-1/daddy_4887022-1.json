@@ -1,8 +1,8 @@
 {
   "chainId": "daddy_4887022-1",
   "chainName": "daddy",
-  "rpc": "http://86.48.5.252:26657",
-  "rest": "http://86.48.5.252:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/daddy_4887022-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/daddy_4887022-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4a91ee",
-    "rpc": "http://86.48.5.252:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/daddy_4887022-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
