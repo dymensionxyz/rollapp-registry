@@ -1,7 +1,7 @@
 {
   "chainId": "xnodeer_6129316-1",
   "chainName": "xnodeer_6129316-1",
-  "rpc": "",
+  "rpc": "http://34.134.27.175:8545",
   "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d86a4",
-    "rpc": ""
+    "rpc": "http://34.134.27.175:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
