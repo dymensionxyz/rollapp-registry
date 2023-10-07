@@ -1,8 +1,8 @@
 {
   "chainId": "moonsun_8404544-1",
   "chainName": "moonsun_8404544-1",
-  "rpc": "http://sunucu-ipniz:26657",
-  "rest": "http://sunucu-ipniz:1317",
+  "rpc": "167.235.234.18:26657",
+  "rest": "167.235.234.18:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x803e40",
-    "rpc": "http://sunucu-ipniz:8545"
+    "rpc": "167.235.234.18:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
