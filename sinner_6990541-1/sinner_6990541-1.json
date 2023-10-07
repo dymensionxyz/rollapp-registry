@@ -1,4 +1,3 @@
-💈 networks.json:
 {
   "chainId": "sinner_6990541-1",
   "chainName": "sinner",
@@ -10,14 +9,14 @@
       "displayDenom": "DYM",
       "baseDenom": "uDYM",
       "decimals": 18,
-      "logo": "/logos/sinner_6990541-1.png",
+      "logo": "/logos/sinner_6990541-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/sinner_6990541-1.png",
+  "logo": "/logos/sinner_6990541-1.jpg",
   "ibc": {
     "hubChannel": "channel-6131",
     "channel": "channel-0",
