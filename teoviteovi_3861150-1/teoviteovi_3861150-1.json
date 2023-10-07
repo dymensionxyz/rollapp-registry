@@ -1,0 +1,33 @@
+{
+  "chainId": "teoviteovi_3861150-1",
+  "chainName": "teoviteovi_3861150-1",
+  "rpc": "http://teoteo.ddns.net:26657",
+  "rest": "http://teoteo.ddns.net:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TeoVi",
+      "baseDenom": "uTeoVi",
+      "decimals": 18,
+      "logo": "/logos/teoviteovi_3861150-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://teoviteovi.com",
+  "logo": "/logos/teoviteovi_3861150-1.png",
+  "ibc": {
+    "hubChannel": "channel-6264",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3aea9e",
+    "rpc": "http://teoteo.ddns.net:8646"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "My Roller APP of Teo & Vi Happy",
+  "analytics": true
+}
