@@ -1,8 +1,8 @@
 {
   "chainId": "largowinchrollup_7771031-1",
   "chainName": "Banania",
-  "rpc": "http://65.21.4.238:26657",
-  "rest": "http://65.21.4.238:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/largowinchrollup_7771031-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/largowinchrollup_7771031-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x769397",
-    "rpc": "http://65.21.4.238:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/largowinchrollup_7771031-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
