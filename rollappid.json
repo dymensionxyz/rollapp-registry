@@ -1,8 +1,8 @@
 {
   "chainId": "lilyqt_9236979-1",
   "chainName": "lilyqt_9236979-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "178.79.177.208:26657",
+  "rest": "178.79.177.208:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8cf1f3",
-    "rpc": ""
+    "rpc": "178.79.177.208:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
