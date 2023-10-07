@@ -1,8 +1,8 @@
 {
   "chainId": "willybusy_5598998-1",
   "chainName": "Willy Busy",
-  "rpc": "http://95.111.232.41:26657",
-  "rest": "http://95.111.232.41:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/willybusy_5598998-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/willybusy_5598998-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x556f16",
-    "rpc": "http://95.111.232.41:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/willybusy_5598998-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
