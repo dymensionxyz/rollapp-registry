@@ -1,6 +1,6 @@
 {
     "chainId": "wtf_5983506-1",
-    "chainName": "wtf_5983506-1",
+    "chainName": "WTF?",
     "rpc": "http://89.117.57.84:26657",
     "rest": "http://89.117.57.84:1317",
     "bech32Prefix": "ethm",
@@ -16,7 +16,7 @@
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
-    "logo": "/logos/wtf_5983506-1.png",
+    "logo": "/logos/wtf(1).jpg",
     "ibc": {
       "hubChannel": "channel-6199",
       "channel": "channel-0",
