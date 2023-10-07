@@ -1,6 +1,3 @@
-vim $ROLLAPP_ID.json
-
-💈 networks.json:
 {
   "chainId": "pierrexp_1158229-1",
   "chainName": "pierrexp",
