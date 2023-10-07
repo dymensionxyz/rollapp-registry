@@ -1,8 +1,8 @@
 {
   "chainId": "schnne_9535227-1",
   "chainName": "schnne",
-  "rpc": "http://38.242.233.14:26657",
-  "rest": "http://38.242.233.14:1317",
+  "rpc": "https://froopyland.dymension.xyz/9/schnne_9535227-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/schnne_9535227-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x917efb",
-    "rpc": "http://38.242.233.14:8545"
+    "rpc": "https://froopyland.dymension.xyz/9/schnne_9535227-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
