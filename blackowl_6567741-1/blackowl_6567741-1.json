@@ -2,7 +2,7 @@
   "chainId": "blackowl_6567741-1",
   "chainName": "Blackowl",
   "rpc": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/rest"
+  "rest": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
