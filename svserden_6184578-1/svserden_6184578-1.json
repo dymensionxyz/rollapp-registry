@@ -1,0 +1,33 @@
+{
+  "chainId": "svserden_6184578-1",
+  "chainName": "kagerosa",
+  "rpc": "https://froopyland.dymension.xyz/10/svserden_6184578-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/svserden_6184578-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PRN",
+      "baseDenom": "uPRN",
+      "decimals": 18,
+      "logo": "/logos/svserden_6184578-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/svserden_6184578-1.png",
+  "ibc": {
+    "hubChannel": "channel-6120",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5e5e82",
+    "rpc": "https://froopyland.dymension.xyz/10/svserden_6184578-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,8 +1,8 @@
 {
     "chainId": "manila_4282284-1",
     "chainName": "Manila",
-    "rpc": "https://froopyland.dymension.xyz/8/manila_4282284-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/8/manila_4282284-1/rest",
+    "rpc": "http://nerf.xyz:26657",
+    "rest": "http://nerf.xyz:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x4157ac",
-      "rpc": "https://froopyland.dymension.xyz/8/manila_4282284-1/evmrpc"
+      "rpc": "http://nerf.xyz:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
