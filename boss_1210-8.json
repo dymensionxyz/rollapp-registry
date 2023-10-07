@@ -1,32 +1,32 @@
-{ 
-  "chainId": "boss_1210-8", 
-  "chainName": "boss_1210-8", 
-  "rpc": "http://192.53.165.190:26657", 
-  "rest": "http://192.53.165.190:1317", 
-  "bech32Prefix": "ethm", 
-  "currencies": [ 
-    { 
-      "displayDenom": "BOSS", 
-      "baseDenom": "uBOSS", 
-      "decimals": 18, 
-      "logo": "/logos/boss.jpg", 
-      "type": "main" 
-    } 
-  ], 
-  "coinType": 60, 
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022", 
-  "website": "", 
-  "logo": "/logos/boss.png", 
-  "ibc": { 
-    "hubChannel": "channel-5155", 
-    "channel": "channel-0", 
-    "timeout": 172800000 
-  }, 
-  "evm": { 
-    "chainId": "0x16034e", 
-    "rpc": "192.53.165.190:8545", 
-  }, 
-  "type": "RollApp", 
-  "da": "Celestia", 
-  "description": "", 
+{
+  "chainId": "bosscrypto_9442250-1",
+  "chainName": "bosscrypto_9442250-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "boss",
+      "baseDenom": "uboss",
+      "decimals": 18,
+      "logo": "/logos/bosscrypto_9442250-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bosscrypto_9442250-1.png",
+  "ibc": {
+    "hubChannel": "channel-6235",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "9442250",
+    "rpc": "http://192.53.165.190:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
   "analytics": true
