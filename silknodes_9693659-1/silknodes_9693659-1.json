@@ -1,6 +1,6 @@
 {
   "chainId": "silknodes_9693659-1",
-  "chainName": "silknodes_9693659-1",
+  "chainName": "Silknodes",
   "rpc": "https://rollapp.rpc.silknodes.io/",
   "rest": "https://rollapp.api.silknodes.io/",
   "bech32Prefix": "ethm",
