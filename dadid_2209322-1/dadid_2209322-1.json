@@ -1,8 +1,8 @@
 {
   "chainId": "dadid_2209322-1",
   "chainName": "DADID",
-  "rpc": "http://103.156.46.192:26657",
-  "rest": "http://103.156.46.192:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/dadid_2209322-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/dadid_2209322-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x21b62a",
-    "rpc": "http://103.156.46.192:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/dadid_2209322-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
