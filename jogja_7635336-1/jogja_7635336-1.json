@@ -1,8 +1,8 @@
 {
   "chainId": "jogja_7635336-1",
-  "chainName": "jogja_7635336-1",
-  "rpc": "http://178.63.229.25:8545/",
-  "rest": "http://178.63.229.25:8545/",
+  "chainName": "Jogja",
+  "rpc": "https://froopyland.dymension.xyz/10/jogja_7635336-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/jogja_7635336-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x748188",
-    "rpc": "http://178.63.229.25:8545/"
+    "rpc": "https://froopyland.dymension.xyz/10/jogja_7635336-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
