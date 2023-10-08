@@ -1,8 +1,8 @@
 {
   "chainId": "cryptogod_1141440-1",
-  "chainName": "cryptogod_1141440-1",
-  "rpc": "https://185.185.83.248:26657",
-  "rest": "https://185.185.83.248:1317",
+  "chainName": "Cryptogod",
+  "rpc": "https://froopyland.dymension.xyz/10/cryptogod_1141440-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/cryptogod_1141440-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x116ac0",
-    "rpc": "https://185.185.83.248:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/cryptogod_1141440-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
