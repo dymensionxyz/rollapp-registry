@@ -1,8 +1,8 @@
 {
   "chainId": "ferinode_2375653-1",
-  "chainName": "ferinode_2375653-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Ferinode",
+  "rpc": "https://froopyland.dymension.xyz/11/ferinode_2375653-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/ferinode_2375653-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x243fe5",
-    "rpc": "http://137.184.146.75:8485/"
+    "rpc": "https://froopyland.dymension.xyz/11/ferinode_2375653-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
