@@ -1,7 +1,7 @@
 ?? networks.json:
 {
   "chainId": "sawa_2196145-1",
-  "chainName": "sawa_2196145-1",
+  "chainName": "Demon RollApp Chain",
   "rpc": "http://167.235.148.204:26657",
   "rest": "http://167.235.148.204:1317",
   "bech32Prefix": "ethm",
