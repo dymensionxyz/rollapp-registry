@@ -2,8 +2,8 @@
 {
   "chainId": "rues_2215298-1",
   "chainName": "rues_2215298-1",
-  "rpc": "http://5.161.89.65:26657/",
-  "rest": "http://5.161.89.65:1317/",
+  "rpc": "https://froopyland.dymension.xyz/11/rues_2215298-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/rues_2215298-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x21cd82",
-    "rpc": "http://5.161.89.65:8545/"
+    "rpc": "https://froopyland.dymension.xyz/11/rues_2215298-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
