@@ -1,8 +1,8 @@
 {
   "chainId": "portal_3104494-1",
   "chainName": "Portal",
-  "rpc": "http://75.119.150.65:26657",
-  "rest": "http://75.119.150.65:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/portal_3104494-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/portal_3104494-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2f5eee",
-    "rpc": "http://75.119.150.65:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/portal_3104494-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
