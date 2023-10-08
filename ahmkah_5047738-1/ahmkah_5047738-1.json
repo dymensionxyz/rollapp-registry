@@ -1,6 +1,6 @@
 {
   "chainId": "ahmkah_5047738-1",
-  "chainName": "ahmkah_5047738-1",
+  "chainName": "Ahmkah",
   "rpc": "http://94.130.179.53:26657",
   "rest": "http://94.130.179.53:1317",
   "bech32Prefix": "ethm",
