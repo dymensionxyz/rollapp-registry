@@ -1,8 +1,8 @@
 {
   "chainId": "oadoo_2268284-1",
-  "chainName": "oadoo_2268284-1",
-  "rpc": "http://89.116.28.138:26657",
-  "rest": "http://89.116.28.138:1317",
+  "chainName": "Oadoo",
+  "rpc": "https://froopyland.dymension.xyz/10/oadoo_2268284-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/oadoo_2268284-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x229c7c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/10/oadoo_2268284-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
