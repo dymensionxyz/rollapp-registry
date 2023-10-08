@@ -1,8 +1,8 @@
 {
   "chainId": "bluepanda_3097760-1",
   "chainName": "bluepanda",
-  "rpc": "https://froopyland.dymension.xyz/5/bluepanda_3097760-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/5/bluepanda_3097760-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/10/bluepanda_3097760-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/bluepanda_3097760-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2f44a0",
-    "rpc": "https://froopyland.dymension.xyz/5/bluepanda_3097760-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/10/bluepanda_3097760-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
