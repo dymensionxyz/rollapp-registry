@@ -1,8 +1,8 @@
 {
   "chainId": "pathrocknetwork_22100-1",
   "chainName": "Pathrocknetwork",
-  "rpc": "http://176.9.58.5:26657",
-  "rest": "http://176.9.58.5:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/pathrocknetwork_22100-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/pathrocknetwork_22100-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x5654",
-    "rpc": "http://176.9.58.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/pathrocknetwork_22100-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "isValidator": true
 }
