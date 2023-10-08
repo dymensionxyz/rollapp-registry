@@ -1,8 +1,8 @@
 {
   "chainId": "krota_1273955-1",
   "chainName": "krota rollapp",
-  "rpc": "31.220.77.60:26657",
-  "rest": "31.220.77.60:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/krota_1273955-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/krota_1273955-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x137063",
-    "rpc": "31.220.77.60:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/krota_1273955-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
