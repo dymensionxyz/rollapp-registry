@@ -1,8 +1,8 @@
 {
   "chainId": "monkey_5842858-1",
   "chainName": "monkey",
-  "rpc": "https://froopyland.dymension.xyz/3/monkey_5842858-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/3/monkey_5842858-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/10/monkey_5842858-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/monkey_5842858-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5927aa",
-    "rpc": "https://froopyland.dymension.xyz/3/monkey_5842858-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/10/monkey_5842858-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
