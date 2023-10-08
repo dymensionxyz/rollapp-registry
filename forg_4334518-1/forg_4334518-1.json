@@ -1,8 +1,8 @@
 {
   "chainId": "forg_4334518-1",
   "chainName": "ForgFi",
-  "rpc": "http://161.97.146.60:26657",
-  "rest": "http://161.97.146.60:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/forg_4334518-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/forg_4334518-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4223b6",
-    "rpc": "http://161.97.146.60:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/forg_4334518-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
