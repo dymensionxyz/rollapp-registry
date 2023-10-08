@@ -1,8 +1,8 @@
 {
   "chainId": "comeonandy_5579498-1",
   "chainName": "comeonandy",
-  "rpc": "https://froopyland.dymension.xyz/5/comeonandy_5579498-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/5/comeonandy_5579498-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/10/comeonandy_5579498-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/comeonandy_5579498-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5522ea",
-    "rpc": "https://froopyland.dymension.xyz/5/comeonandy_5579498-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/10/comeonandy_5579498-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
