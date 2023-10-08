@@ -1,0 +1,33 @@
+{
+  "chainId": "erda_3442089-1",
+  "chainName": "erda_3442089-1",
+  "rpc": "http://38.242.157.126:26657",
+  "rest": "http://38.242.157.126:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ERA",
+      "baseDenom": "uERA",
+      "decimals": 18,
+      "logo": "/logos/erda_3442089-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/erda_3442089-1.png",
+  "ibc": {
+    "hubChannel": "channel-6252",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3485a9",
+    "rpc": "http://38.242.157.126.8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
