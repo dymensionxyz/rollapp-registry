@@ -1,8 +1,8 @@
 {
   "chainId": "ahmkah_5047738-1",
   "chainName": "Ahmkah",
-  "rpc": "http://94.130.179.53:26657",
-  "rest": "http://94.130.179.53:1317",
+  "rpc": "https://94.130.179.53:26657",
+  "rest": "https://94.130.179.53:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d05ba",
-    "rpc": "http://94.130.179.53:8545"
+    "rpc": "https://94.130.179.53:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
