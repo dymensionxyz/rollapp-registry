@@ -1,0 +1,33 @@
+{
+  "chainId": "podshiva_5624058-1",
+  "chainName": "Podshiva",
+  "rpc": "https://froopyland.dymension.xyz/10/podshiva_5624058-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/podshiva_5624058-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "POD",
+      "baseDenom": "uPOD",
+      "decimals": 18,
+      "logo": "/logos/podshiva_5624058-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/podshiva_5624058-1.png",
+  "ibc": {
+    "hubChannel": "channel-6268",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x55d0fa",
+    "rpc": "https://froopyland.dymension.xyz/10/podshiva_5624058-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
