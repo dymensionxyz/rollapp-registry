@@ -1,8 +1,8 @@
 {
   "chainId": "dencuan_6235627-1",
-  "chainName": "dencuan_6235627-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Dencuan",
+  "rpc": "https://froopyland.dymension.xyz/10/dencuan_6235627-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/dencuan_6235627-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5f25eb",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/10/dencuan_6235627-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
