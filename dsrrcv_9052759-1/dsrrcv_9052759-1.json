@@ -1,0 +1,33 @@
+{
+  "chainId": "dsrrcv_9052759-1",
+  "chainName": "dsrrcv",
+  "rpc": "http://161.97.143.8:26657",
+  "rest": "http://161.97.143.8:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "rcv",
+      "baseDenom": "urcv",
+      "decimals": 18,
+      "logo": "/logos/dsrrcv_9052759-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dsrrcv_9052759-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6227",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8a2257",
+    "rpc": "http://161.97.143.8:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
