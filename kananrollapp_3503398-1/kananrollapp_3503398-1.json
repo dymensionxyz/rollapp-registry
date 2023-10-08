@@ -9,14 +9,14 @@
         "displayDenom": "LOL",
         "baseDenom": "uLOL",
         "decimals": 18,
-        "logo": "/logos/kananrollapp_3503398-1.png",
+        "logo": "/logos/kananrollapp_3503398-1.jpg",
         "type": "main"
       }
     ],
+    "website": "https://twitter.com/sananmammadov99",
     "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-    "website": "",
-    "logo": "/logos/kananrollapp_3503398-1.png",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "logo": "/logos/kananrollapp_3503398-1.jpg",
     "ibc": {
       "hubChannel": "channel-5464",
       "channel": "channel-0",
@@ -29,5 +29,6 @@
     "type": "RollApp",
     "da": "Celestia",
     "description": "",
-    "analytics": true
+    "analytics": true,
+    "rewards": true
   }

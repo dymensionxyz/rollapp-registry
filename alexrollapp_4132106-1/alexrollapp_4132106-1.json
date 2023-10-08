@@ -1,0 +1,32 @@
+{
+  "chainId": "alexrollapp_4132106-1",
+  "chainName": "ALX",
+  "rpc": "https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/rpc",
+  "rest": "1https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ALX",
+      "baseDenom": "uALX",
+      "decimals": 18,
+      "logo": "/logos/alexrollapp_4132106-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/alexrollapp_4132106-1.png",
+  "ibc": {
+    "hubChannel": "channel-5367",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3f0d0a",
+    "rpc": "https://froopyland.dymension.xyz/3/alexrollapp_4132106-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true
+}
