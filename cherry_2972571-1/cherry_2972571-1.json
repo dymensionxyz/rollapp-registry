@@ -1,0 +1,33 @@
+💈 networks.json:
+{
+  "chainId": "cherry_2972571-1",
+  "chainName": "Cherry's Test RollApp",
+  "rpc": "http://194.163.161.157:26657",
+  "rest": "http://194.163.161.157:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "cherry",
+      "baseDenom": "ucherry",
+      "decimals": 18,
+      "logo": "/logos/cherry_2972571-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/cherry_2972571-1.png",
+  "ibc": {
+    "hubChannel": "channel-6310",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2d5b9b",
+    "rpc": "http://194.163.161.157:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "This is a test RollApp used for development, please keep your funds safe and use it at your own risk.",
+  "analytics": true
+}
