@@ -1,8 +1,8 @@
 {
   "chainId": "ayanyu_1442638-1",
-  "chainName": "ayanyu_1442638-1",
-  "rpc": "http://62.171.129.81:26657",
-  "rest": "http://62.171.129.81:1317",
+  "chainName": "Ayanyu",
+  "rpc": "https://froopyland.dymension.xyz/10/ayanyu_1442638-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/ayanyu_1442638-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x16034e",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/10/ayanyu_1442638-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
