@@ -1,8 +1,8 @@
 {
   "chainId": "linksgarden_5732112-1",
   "chainName": "linksgarden",
-  "rpc": "173.249.6.184:26657",
-  "rest": "173.249.6.184:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/linksgarden_5732112-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/linksgarden_5732112-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x577710",
-    "rpc": "173.249.6.184:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/linksgarden_5732112-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
