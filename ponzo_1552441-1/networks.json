@@ -1,0 +1,33 @@
+{
+  "chainId": "ponzo_1552441-1",
+  "chainName": "ponzo_1552441-1",
+  "rpc": "http://207.180.245.89:26657/",
+  "rest": "http://207.180.245.89:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PON",
+      "baseDenom": "uPON",
+      "decimals": 18,
+      "logo": "/logos/ponzo_1552441-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ponzo_1552441-1.png",
+  "ibc": {
+    "hubChannel": "channel-6316",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17b039",
+    "rpc": "http://207.180.245.895:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
