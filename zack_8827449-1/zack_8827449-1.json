@@ -1,8 +1,8 @@
 {
   "chainId": "zack_8827449-1",
   "chainName": "zack",
-  "rpc": "http://213.136.91.30:26657",
-  "rest": "http://213.136.91.30:1317",
+  "rpc": "https://froopyland.dymension.xyz/10/zack_8827449-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/zack_8827449-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x86b239",
-    "rpc": "http://213.136.91.30:8545"
+    "rpc": "https://froopyland.dymension.xyz/10/zack_8827449-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
