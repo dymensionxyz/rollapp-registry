@@ -1,0 +1,33 @@
+{
+  "chainId": "chrisrollapp_6130637-1",
+  "chainName": "chrisrollapp_6130637-1",
+  "rpc": "http://5.189.158.77:26657",
+  "rest": "http://5.189.158.77:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "crp",
+      "baseDenom": "ucrp",
+      "decimals": 18,
+      "logo": "/logos/chrisrollapp_6130637-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chrisrollapp_6130637-1.png",
+  "ibc": {
+    "hubChannel": "channel-6307",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d8bcd",
+    "rpc": "http://5.189.158.77:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "🐍chrisrollapp_6130637-1",
+  "analytics": true
+}
