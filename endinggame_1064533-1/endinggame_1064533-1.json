@@ -1,0 +1,32 @@
+{
+  "chainId": "endinggame_1064533-1",
+  "chainName": "The End Game",
+  "rpc": "http://173.212.209.187:26657",
+  "rest": "http://173.212.209.187:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "edg",
+      "baseDenom": "uedg",
+      "decimals": 18,
+      "logo": "/logos/endinggame_1064533-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/endinggame_1064533-1.png",
+  "ibc": {
+    "hubChannel": "channel-6317",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x103e55",
+    "rpc": "http://173.212.209.187:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "RollApp will end the blockchain game",
+  "analytics": true
+}
