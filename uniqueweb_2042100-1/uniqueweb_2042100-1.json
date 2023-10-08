@@ -1,8 +1,8 @@
 {
   "chainId": "uniqueweb_2042100-1",
   "chainName": "uniqueweb",
-  "rpc": "https://froopyland.dymension.xyz/uniqueweb_2042100-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/uniqueweb_2042100-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/10/uniqueweb_2042100-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/uniqueweb_2042100-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1f28f4",
-    "rpc": "https://froopyland.dymension.xyz/uniqueweb_2042100-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/10/uniqueweb_2042100-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
