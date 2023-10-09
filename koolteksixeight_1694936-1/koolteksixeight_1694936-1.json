@@ -30,5 +30,5 @@
   "da": "Celestia",
   "description": "Data-to-earn is the next revolutionary movement in the human history. Join us when you can.",
   "analytics": true,
-  "isValidator": true
+  "validator": true
 }
