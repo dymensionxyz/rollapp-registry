@@ -1,0 +1,33 @@
+{
+  "chainId": "extokyo_5128447-1",
+  "chainName": "extokyo",
+  "rpc": "172.233.235.70:26657",
+  "rest": "172.233.235.70:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "XTK",
+      "baseDenom": "uXTK",
+      "decimals": 18,
+      "logo": "/logos/extokyo_5128447-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/extokyo_5128447-1.png",
+  "ibc": {
+    "hubChannel": "channel-6292",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4e40ff",
+    "rpc": "172.233.235.70:84"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
