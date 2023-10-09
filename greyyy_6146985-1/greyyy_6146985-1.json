@@ -1,8 +1,8 @@
 {
   "chainId": "greyyy_6146985-1",
-  "chainName": "greyyy_6146985-1",
-  "rpc": "https://45.94.58.99:26657",
-  "rest": "https://45.94.58.99:1317",
+  "chainName": "Greyyy",
+  "rpc": "https://froopyland.dymension.xyz/11/greyyy_6146985-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/greyyy_6146985-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5dcba9",
-    "rpc": "https://45.94.58.99:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/greyyy_6146985-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
