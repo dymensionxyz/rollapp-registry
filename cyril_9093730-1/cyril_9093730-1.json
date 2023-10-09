@@ -1,9 +1,8 @@
-í ½í²ˆ networks.json:
 {
   "chainId": "cyril_9093730-1",
-  "chainName": "cyril_9093730-1",
-  "rpc": "http://34.42.134.4:26657",
-  "rest": "http://34.42.134.4:1317",
+  "chainName": "Cyril",
+  "rpc": "https://froopyland.dymension.xyz/11/cyril_9093730-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/cyril_9093730-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8ac262",
-    "rpc": "http://34.42.134.4:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/cyril_9093730-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
