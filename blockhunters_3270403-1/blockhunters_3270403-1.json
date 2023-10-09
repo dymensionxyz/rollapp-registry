@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "The BlockHunters RollApp",
-  "analytics": true
+  "analytics": true,
+  "isValidator": true
 }
