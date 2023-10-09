@@ -1,0 +1,33 @@
+{
+  "chainId": "nexoor_6844986-1",
+  "chainName": "NEXOOR",
+  "rpc": "https://froopyland.dymension.xyz/7/nexoor_6844986-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/nexoor_6844986-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NXR",
+      "baseDenom": "uNXR",
+      "decimals": 18,
+      "logo": "/logos/nexoor_6844986-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/nexoor_6844986-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-5514",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x68723a",
+    "rpc": "https://froopyland.dymension.xyz/7/nexoor_6844986-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

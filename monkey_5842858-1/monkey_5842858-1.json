@@ -1,0 +1,33 @@
+{
+  "chainId": "monkey_5842858-1",
+  "chainName": "monkey",
+  "rpc": "https://froopyland.dymension.xyz/10/monkey_5842858-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/monkey_5842858-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mon",
+      "baseDenom": "umon",
+      "decimals": 18,
+      "logo": "/logos/monkey_5842858-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/monkey_5842858-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6032",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5927aa",
+    "rpc": "https://froopyland.dymension.xyz/10/monkey_5842858-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

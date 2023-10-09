@@ -1,0 +1,33 @@
+{
+  "chainId": "kpony_8164793-1",
+  "chainName": "kpony",
+  "rpc": "https://froopyland.dymension.xyz/9/kpony_8164793-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/kpony_8164793-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "pony",
+      "baseDenom": "upony",
+      "decimals": 18,
+      "logo": "/logos/kpony_8164793-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kpony_8164793-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6218",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7c95b9",
+    "rpc": "https://froopyland.dymension.xyz/9/kpony_8164793-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

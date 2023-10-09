@@ -1,0 +1,33 @@
+{
+  "chainId": "augustine_7670520-1",
+  "chainName": "Augustine",
+  "rpc": "https://froopyland.dymension.xyz/5/augustine_7670520-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/augustine_7670520-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ATE",
+      "baseDenom": "uATE",
+      "decimals": 18,
+      "logo": "/logos/augustine_7670520-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/augustine_7670520-1.png",
+  "ibc": {
+    "hubChannel": "channel-5693",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x750af8",
+    "rpc": "https://froopyland.dymension.xyz/5/augustine_7670520-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
