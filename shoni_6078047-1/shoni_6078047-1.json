@@ -1,8 +1,8 @@
 {
   "chainId": "shoni_6078047-1",
-  "chainName": "shoni_6078047-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Shoni",
+  "rpc": "https://froopyland.dymension.xyz/11/shoni_6078047-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/shoni_6078047-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5cbe5f",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/11/shoni_6078047-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
