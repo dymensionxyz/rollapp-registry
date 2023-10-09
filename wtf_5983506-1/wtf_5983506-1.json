@@ -1,8 +1,8 @@
 {
     "chainId": "wtf_5983506-1",
     "chainName": "WTF?",
-    "rpc": "http://89.117.57.84:26657",
-    "rest": "http://89.117.57.84:1317",
+    "rpc": "https://froopyland.dymension.xyz/11/wtf_5983506-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/11/wtf_5983506-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x5b4d12",
-      "rpc": "http://89.117.57.84:8545"
+      "rpc": "https://froopyland.dymension.xyz/11/wtf_5983506-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
