@@ -1,8 +1,8 @@
 {
   "chainId": "mc_2675275-1",
   "chainName": "MCApp",
-  "rpc": "http://5.189.185.240:26657",
-  "rest": "http://5.189.185.240:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/mc_2675275-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/mc_2675275-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x28d24b",
-    "rpc": "http://5.189.185.240:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/mc_2675275-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
