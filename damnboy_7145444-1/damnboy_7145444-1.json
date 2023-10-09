@@ -1,8 +1,8 @@
 {
     "chainId": "damnboy_7145444-1",
     "chainName": "damnboy_7145444-1",
-    "rpc": "http://178.63.229.27:26657/",
-    "rest": "http://178.63.229.27:1317/",
+    "rpc": "https://froopyland.dymension.xyz/11/damnboy_7145444-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/11/damnboy_7145444-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x6d07e4",
-      "rpc": "http://178.63.229.27:8545/"
+      "rpc": "https://froopyland.dymension.xyz/11/damnboy_7145444-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
