@@ -1,8 +1,8 @@
 {
   "chainId": "smile_4003887-1", 
   "chainName": "huahua",
-  "rpc": "http://129.226.144.89:26657",
-  "rest": "http://129.226.144.89:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/smile_4003887-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/smile_4003887-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3d182f",
-    "rpc": "http://129.226.144.89:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/smile_4003887-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
