@@ -1,8 +1,8 @@
 {
   "chainId": "ymtbb_5115046-1", 
   "chainName": "ymtbb",
-  "rpc": "http://49.51.182.148:26657",
-  "rest": "http://49.51.182.148:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/ymtbb_5115046-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/ymtbb_5115046-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4e0ca6",
-    "rpc": "http://49.51.182.148:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/ymtbb_5115046-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
