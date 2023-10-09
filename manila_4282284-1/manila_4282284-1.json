@@ -30,6 +30,6 @@
     "da": "Celestia",
     "description": "Home of all Filipino apps",
     "analytics": true,
-    "isValidator": true
+    "validator": true
   }
   
