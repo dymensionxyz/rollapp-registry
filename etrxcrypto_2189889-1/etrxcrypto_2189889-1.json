@@ -1,8 +1,8 @@
 {
   "chainId": "etrxcrypto_2189889-1",
-  "chainName": "etrxcrypto_2189889-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Etrxcrypto",
+  "rpc": "https://froopyland.dymension.xyz/11/etrxcrypto_2189889-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/etrxcrypto_2189889-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x216a41",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/11/etrxcrypto_2189889-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
