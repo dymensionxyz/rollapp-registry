@@ -1,0 +1,33 @@
+{
+  "chainId": "valentain_8467302-1",
+  "chainName": "Valentain",
+  "rpc": "http://65.21.104.168:26657",
+  "rest": "http://65.21.104.168:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "VLTN",
+      "baseDenom": "uVLTN",
+      "decimals": 18,
+      "logo": "/logos/valentain_8467302-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/valentain_8467302-1.png",
+  "ibc": {
+    "hubChannel": "channel-6369",
+    "channel": "channel-4",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x813366",
+    "rpc": "http://65.21.104.168:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
