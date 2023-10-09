@@ -1,8 +1,8 @@
 {
   "chainId": "endinggame_1064533-1",
   "chainName": "The End Game",
-  "rpc": "http://173.212.209.187:26657",
-  "rest": "http://173.212.209.187:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/endinggame_1064533-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/endinggame_1064533-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x103e55",
-    "rpc": "http://173.212.209.187:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/endinggame_1064533-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
