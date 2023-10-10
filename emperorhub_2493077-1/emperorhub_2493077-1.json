@@ -1,0 +1,33 @@
+{
+  "chainId": "emperorhub_2493077-1",
+  "chainName": "Emperor Hub",
+  "rpc": "https://rpc.rollapp.nodex.one",
+  "rest": "https://rest.rollapp.nodex.one",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EMH",
+      "baseDenom": "uEMH",
+      "decimals": 18,
+      "logo": "/logos/emperorhub_2493077-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/emperorhub_2493077-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5417",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x260a95",
+    "rpc": "https://jsonrpc.rollapp.nodex.one"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "NodeX Emperor is your reliable Proof-of-Stake validator in the Cosmos universe.",
+  "analytics": true,
+  "rewards": true
+}

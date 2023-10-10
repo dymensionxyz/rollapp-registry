@@ -31,6 +31,6 @@
   "description": "A fair, community focused validator pioneering the Web3 ecosystem.",
   "analytics": true,
   "rewards": true,
-  "isValidator": true,
+  "validator": true,
   "active": true
 }
