@@ -1,0 +1,33 @@
+{
+  "chainId": "robsberry_2614405-1",
+  "chainName": "Robsberry",
+  "rpc": "http://85.10.197.4:26657",
+  "rest": "http://85.10.197.4:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "Berry",
+      "baseDenom": "uBerry",
+      "decimals": 18,
+      "logo": "/logos/robsberry_2614405-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/robsberry_2614405-1.png",
+  "ibc": {
+    "hubChannel": "channel-6365",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x27e485",
+    "rpc": "http://85.10.197.4:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
