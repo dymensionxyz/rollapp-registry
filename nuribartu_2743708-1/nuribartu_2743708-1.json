@@ -1,5 +1,3 @@
-root@vmi1437249:~/rollapp-registry/nuribartu_2743708-1# roller config export
-💈 networks.json:
 {
   "chainId": "nuribartu_2743708-1",
   "chainName": "nuribartu_2743708-1",
