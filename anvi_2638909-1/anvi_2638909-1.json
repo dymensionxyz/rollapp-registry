@@ -1,8 +1,8 @@
 {
   "chainId": "anvi_2638909-1",
   "chainName": "anvi",
-  "rpc": "http://65.21.91.160:27656",
-  "rest": "http://65.21.91.160:2316",
+  "rpc": "http://65.21.91.160:26657",
+  "rest": "http://65.21.91.160:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x28443d",
-    "rpc": "http://65.21.91.160:8115"
+    "rpc": "http://65.21.91.160:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
