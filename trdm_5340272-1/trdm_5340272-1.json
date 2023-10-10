@@ -1,8 +1,8 @@
 {
   "chainId": "trdm_5340272-1",
   "chainName": "tRDM",
-  "rpc": "https://froopyland.dymension.xyz/3/trdm_5340272-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/3/trdm_5340272-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/11/trdm_5340272-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/trdm_5340272-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x517c70",
-    "rpc": "https://froopyland.dymension.xyz/3/trdm_5340272-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/11/trdm_5340272-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
