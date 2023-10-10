@@ -9,14 +9,14 @@
       "displayDenom": "BTR",
       "baseDenom": "uBTR",
       "decimals": 18,
-      "logo": "/logos/bootstraprollapp_9294242-1.png",
+      "logo": "/logos/bootstraprollapp_9294242-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "bootstrap.lol",
-  "logo": "/logos/bootstraprollapp_9294242-1.png",
+  "logo": "/logos/bootstraprollapp_9294242-1.jpg",
   "ibc": {
     "hubChannel": "channel-6324",
     "channel": "channel-0",
