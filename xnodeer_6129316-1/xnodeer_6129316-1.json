@@ -1,8 +1,8 @@
 {
   "chainId": "xnodeer_6129316-1",
   "chainName": "xnodeer_6129316-1",
-  "rpc": "http://34.134.27.175:8545",
-  "rest": "http://34.134.27.175:8546",
+  "rpc": "http://34.134.27.175:26657",
+  "rest": "http://34.134.27.175:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
