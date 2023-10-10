@@ -1,8 +1,8 @@
 {
 "chainId": "ariyaka_9603696-1",
 "chainName": "ariyaka",
-"rpc": "https://173.249.56.133:26657",
-"rest": "https://173.249.56.133:1317",
+"rpc": "https://froopyland.dymension.xyz/11/ariyaka_9603696-1/rpc",
+"rest": "https://froopyland.dymension.xyz/11/ariyaka_9603696-1/rest",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x928a70",
-"rpc": "https://173.249.56.133:8545"
+"rpc": "https://froopyland.dymension.xyz/11/ariyaka_9603696-1/evmrpc"
 },
 "type": "RollApp",
 "da": "Celestia",
