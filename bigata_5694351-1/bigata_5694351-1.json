@@ -1,8 +1,8 @@
 {
   "chainId": "bigata_5694351-1",
   "chainName": "bigata rollapp",
-  "rpc": "31.220.77.61:26657",
-  "rest": "31.220.77.61:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/bigata_5694351-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/bigata_5694351-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x56e38f",
-    "rpc": "31.220.77.61:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/bigata_5694351-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
