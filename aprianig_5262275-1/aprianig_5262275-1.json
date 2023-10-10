@@ -1,0 +1,33 @@
+{
+  "chainId": "aprianig_5262275-1",
+  "chainName": "Aprianig",
+  "rpc": "https://froopyland.dymension.xyz/10/aprianig_5262275-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/aprianig_5262275-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NIG",
+      "baseDenom": "uNIG",
+      "decimals": 18,
+      "logo": "/logos/aprianig_5262275-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aprianig_5262275-1.png",
+  "ibc": {
+    "hubChannel": "channel-6170",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x504bc3",
+    "rpc": "https://froopyland.dymension.xyz/10/aprianig_5262275-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "$NIG Token Free For All!",
+  "analytics": true
+}
