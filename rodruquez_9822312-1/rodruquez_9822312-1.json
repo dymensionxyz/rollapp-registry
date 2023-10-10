@@ -1,0 +1,33 @@
+{
+  "chainId": "rodruquez_9822312-1",
+  "chainName": "rodruquez",
+  "rpc": "http://75.119.128.254:26657",
+  "rest": "http://75.119.128.254:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ROD",
+      "baseDenom": "uROD",
+      "decimals": 18,
+      "logo": "/logos/rodruquez_9822312-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rodruquez_9822312-1.png",
+  "ibc": {
+    "hubChannel": "channel-6323",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x95e068",
+    "rpc": "http://75.119.128.254:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
