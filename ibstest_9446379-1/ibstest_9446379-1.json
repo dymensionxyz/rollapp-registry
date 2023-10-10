@@ -1,6 +1,6 @@
 {
   "chainId": "ibstest_9446379-1",
-  "chainName": "ibstest_9446379-1",
+  "chainName": "Ibstest",
   "rpc": "https://rollapp-rpc.ibs.team",
   "rest": "https://rollapp-api.ibs.team",
   "bech32Prefix": "ethm",
