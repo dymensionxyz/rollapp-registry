@@ -1,8 +1,8 @@
 {
   "chainId": "alicia_6456130-1",
-  "chainName": "alicia_6456130-1",
-  "rpc": "https://194.163.149.10:26657",
-  "rest": "https://194.163.149.10:1317",
+  "chainName": "Alicia",
+  "rpc": "https://froopyland.dymension.xyz/11/alicia_6456130-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/alicia_6456130-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x628342",
-    "rpc": "https://194.163.149.10:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/alicia_6456130-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
