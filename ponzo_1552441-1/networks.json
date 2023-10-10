@@ -1,8 +1,8 @@
 {
   "chainId": "ponzo_1552441-1",
-  "chainName": "ponzo_1552441-1",
-  "rpc": "http://207.180.245.89:26657/",
-  "rest": "http://207.180.245.89:1317/",
+  "chainName": "Ponzo",
+  "rpc": "https://froopyland.dymension.xyz/11/ponzo_1552441-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/ponzo_1552441-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x17b039",
-    "rpc": "http://207.180.245.89:8545/"
+    "rpc": "https://froopyland.dymension.xyz/11/ponzo_1552441-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
