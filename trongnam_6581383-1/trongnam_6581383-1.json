@@ -1,8 +1,8 @@
 {
   "chainId": "trongnam_6581383-1",
-  "chainName": "trongnam_6581383-1",
-  "rpc": "http://78.47.58.18:26657",
-  "rest": "http://78.47.58.18:1317",
+  "chainName": "Trongnam",
+  "rpc": "https://froopyland.dymension.xyz/11/trongnam_6581383-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/trongnam_6581383-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x646c87",
-    "rpc": "http://78.47.58.18:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/trongnam_6581383-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
