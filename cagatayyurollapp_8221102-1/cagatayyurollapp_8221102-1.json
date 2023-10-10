@@ -1,8 +1,8 @@
 {
   "chainId": "cagatayyurollapp_8221102-1",
-  "chainName": "cagatayyurollapp_8221102-1",
-  "rpc": "http://49.12.4.158:26657",
-  "rest": "http://49.12.4.158:1317",
+  "chainName": "Cagatayyurollapp",
+  "rpc": "https://froopyland.dymension.xyz/11/cagatayyurollapp_8221102-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/cagatayyurollapp_8221102-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7d71ae",
-    "rpc": "http://49.12.4.158:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/cagatayyurollapp_8221102-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
