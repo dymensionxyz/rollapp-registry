@@ -1,8 +1,8 @@
 {
   "chainId": "tailnode_9283475-1",
   "chainName": "tailnode_9283475-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://139.59.214.96:26657",
+  "rest": "http://139.59.214.96:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
