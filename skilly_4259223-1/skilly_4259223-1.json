@@ -1,8 +1,8 @@
 {
   "chainId": "skilly_4259223-1",
-  "chainName": "skilly_4259223-1",
-  "rpc": "https://65.108.93.155:26657",
-  "rest": "https://65.108.93.155:1317",
+  "chainName": "Skilly",
+  "rpc": "https://froopyland.dymension.xyz/11/skilly_4259223-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/skilly_4259223-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x40fd97",
-    "rpc": "https://65.108.93.155:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/skilly_4259223-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
