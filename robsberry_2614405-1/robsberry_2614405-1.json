@@ -1,8 +1,8 @@
 {
   "chainId": "robsberry_2614405-1",
   "chainName": "Robsberry",
-  "rpc": "http://85.10.197.4:26657",
-  "rest": "http://85.10.197.4:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/robsberry_2614405-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/robsberry_2614405-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x27e485",
-    "rpc": "http://85.10.197.4:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/robsberry_2614405-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
