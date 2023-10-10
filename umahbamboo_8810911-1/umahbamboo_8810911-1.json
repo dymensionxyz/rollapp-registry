@@ -1,0 +1,33 @@
+{
+"chainId": "umahbamboo_8810911-1",
+"chainName": "umahbamboo",
+"rpc": "https://194.163.134.137:26657",
+"rest": "https://194.163.134.137:1317",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "umah",
+"baseDenom": "uumah",
+"decimals": 18,
+"logo": "/logos/umahbamboo_8810911-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "",
+"logo": "/logos/umahbamboo_8810911-1.png",
+"ibc": {
+"hubChannel": "channel-6384",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x86719f",
+"rpc": "https://194.163.134.137:8545"
+},
+"type": "RollApp",
+"da": "Celestia",
+"description": "",
+"analytics": true
+}
