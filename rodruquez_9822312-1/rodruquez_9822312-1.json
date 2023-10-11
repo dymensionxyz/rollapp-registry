@@ -1,8 +1,8 @@
 {
   "chainId": "rodruquez_9822312-1",
   "chainName": "rodruquez",
-  "rpc": "http://75.119.128.254:26657",
-  "rest": "http://75.119.128.254:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/rodruquez_9822312-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/rodruquez_9822312-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x95e068",
-    "rpc": "http://75.119.128.254:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/rodruquez_9822312-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
