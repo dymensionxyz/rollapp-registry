@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
+  "validator": true,
   "analytics": true
 }
