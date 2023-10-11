@@ -1,0 +1,33 @@
+{
+  "chainId": "kiyo_6422891-1",
+  "chainName": "kiyo",
+  "rpc": "http://194.180.176.22:26657",
+  "rest": "http://194.180.176.22:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KIYO",
+      "baseDenom": "uKIYO",
+      "decimals": 18,
+      "logo": "/logos/kiyo_6422891-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/kiyo_crypt",
+  "logo": "/logos/kiyo_6422891-1.png",
+  "ibc": {
+    "hubChannel": "channel-6419",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x62016b",
+    "rpc": "http://194.180.176.22:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "I am a developer and admin of KudasaiJp, the largest crypto community in Japan",
+  "analytics": true
+}
