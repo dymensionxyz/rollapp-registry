@@ -1,4 +1,4 @@
-{{
+{
   "chainId": "indonode_4078023-1",
   "chainName": "Indonode",
   "rpc": "https://froopyland.dymension.xyz/12/indonode_4078023-1/rpc",
@@ -30,4 +30,4 @@
   "da": "Celestia",
   "description": "",
   "analytics": true
-}}
+}
