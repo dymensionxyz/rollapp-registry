@@ -29,6 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "🐍chrisrollapp_6130637-1",
-  "analytics": true,
-  "rewards": false
+  "analytics": true
+  
 }
