@@ -1,8 +1,8 @@
 {
   "chainId": "creeptocat_5475643-1",
   "chainName": "CreeptoCat",
-  "rpc": "http://95.216.65.177:26657",
-  "rest": "http://95.216.65.177:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/creeptocat_5475643-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/creeptocat_5475643-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x538d3b",
-    "rpc": "http://95.216.65.177:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/creeptocat_5475643-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
