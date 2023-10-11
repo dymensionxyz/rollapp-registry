@@ -1,22 +1,22 @@
 {
-  "chainId": "kiyo_6422891-1",
+  "chainId": "c",
   "chainName": "kiyo",
-  "rpc": "http://194.180.176.22:26657",
-  "rest": "http://194.180.176.22:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rpc, ",
+  "rest": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rest, ",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "KIYO",
       "baseDenom": "uKIYO",
       "decimals": 18,
-      "logo": "/logos/kiyo_6422891-1.png",
+      "logo": "/logos/kiyo_6422891-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "https://twitter.com/kiyo_crypt",
-  "logo": "/logos/kiyo_6422891-1.png",
+  "logo": "/logos/kiyo_6422891-1.jpg",
   "ibc": {
     "hubChannel": "channel-6419",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x62016b",
-    "rpc": "http://194.180.176.22:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
