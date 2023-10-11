@@ -1,0 +1,33 @@
+{
+  "chainId": "anyvalidrollapp_7686179-1",
+  "chainName": "RollApp by AnyValid",
+  "rpc": "http://136.243.55.237:26657",
+  "rest": "http://136.243.55.237:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ANY",
+      "baseDenom": "uANY",
+      "decimals": 18,
+      "logo": "/logos/anyvalidrollapp_7686179-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/anyvalidrollapp_7686179-1.png",
+  "ibc": {
+    "hubChannel": "channel-6428",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x754823",
+    "rpc": "http://136.243.55.237:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
