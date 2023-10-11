@@ -1,0 +1,33 @@
+{
+  "chainId": "huahua_1458881-1",
+  "chainName": "huahua",
+  "rpc": "https://froopyland.dymension.xyz/10/huahua_1458881-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/huahua_1458881-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "hua",
+      "baseDenom": "uhua",
+      "decimals": 18,
+      "logo": "/logos/huahua_1458881-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/huahua_1458881-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6229",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1642c1",
+    "rpc": "https://froopyland.dymension.xyz/10/huahua_1458881-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

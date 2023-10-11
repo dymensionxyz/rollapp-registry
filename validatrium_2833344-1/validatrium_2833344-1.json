@@ -30,6 +30,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true,
-  "isValidator": true
+  "validator": true
 }
 
