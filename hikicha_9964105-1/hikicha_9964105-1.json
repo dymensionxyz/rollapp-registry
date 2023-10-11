@@ -1,22 +1,22 @@
 {
   "chainId": "hikicha_9964105-1",
   "chainName": "Hikicha",
-  "rpc": "http://95.216.204.75:26657",
-  "rest": "http://95.216.204.75:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/hikicha_9964105-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/hikicha_9964105-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "hiki",
       "baseDenom": "uhiki",
       "decimals": 18,
-      "logo": "/logos/hikicha_9964105-1.png",
+      "logo": "/logos/hikicha_9964105-1.PNG",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/hikicha_9964105-1.png",
+  "logo": "/logos/hikicha_9964105-1.PNG",
   "ibc": {
     "hubChannel": "channel-6391",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x980a49",
-    "rpc": "http://95.216.204.75:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/hikicha_9964105-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
