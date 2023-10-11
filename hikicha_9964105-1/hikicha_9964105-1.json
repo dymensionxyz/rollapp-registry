@@ -1,0 +1,33 @@
+{
+  "chainId": "hikicha_9964105-1",
+  "chainName": "Hikicha",
+  "rpc": "http://95.216.204.75:26657",
+  "rest": "http://95.216.204.75:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "hiki",
+      "baseDenom": "uhiki",
+      "decimals": 18,
+      "logo": "/logos/hikicha_9964105-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "?Dymension????froopyland-faucet",
+  "website": "",
+  "logo": "/logos/hikicha_9964105-1.png",
+  "ibc": {
+    "hubChannel": "channel-6391",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x980a49",
+    "rpc": "http://95.216.204.75:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
