@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Effortless staking with institutional standards",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
