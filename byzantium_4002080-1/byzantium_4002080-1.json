@@ -1,8 +1,8 @@
 {
   "chainId": "byzantium_4002080-1",
-  "chainName": "byzantium_4002080-1",
-  "rpc": "http://64.226.106.79:8545/",
-  "rest": "http://64.226.106.79:1317/",
+  "chainName": "Byzantium",
+  "rpc": "https://froopyland.dymension.xyz/12/byzantium_4002080-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/byzantium_4002080-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3d1120",
-    "rpc": "http://64.226.106.79:8545/"
+    "rpc": "https://froopyland.dymension.xyz/12/byzantium_4002080-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
