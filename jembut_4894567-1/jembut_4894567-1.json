@@ -1,22 +1,22 @@
 {
   "chainId": "jembut_4894567-1",
-  "chainName": "Jembut",
-  "rpc": "https://froopyland.dymension.xyz/8/jembut_4894567-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/jembut_4894567-1/rest",
+  "chainName": "jembut_4894567-1",
+  "rpc": "",
+  "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "JMB",
       "baseDenom": "uJMB",
       "decimals": 18,
-      "logo": "/logos/jembut_4894567-1.jpg",
+      "logo": "/logos/jembut_4894567-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/jembut_4894567-1.jpg",
+  "logo": "/logos/jembut_4894567-1.png",
   "ibc": {
     "hubChannel": "channel-5977",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4aaf67",
-    "rpc": "https://froopyland.dymension.xyz/8/jembut_4894567-1/evmrpc"
+    "rpc": ""
   },
   "type": "RollApp",
   "da": "Celestia",
