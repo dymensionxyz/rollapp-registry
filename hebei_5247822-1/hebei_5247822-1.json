@@ -1,8 +1,8 @@
 {
   "chainId": "hebei_5247822-1",
-  "chainName": "hebei_5247822-1",
-  "rpc": "http://65.109.160.26:26657",
-  "rest": "http://65.109.160.26:1317",
+  "chainName": "Hebei",
+  "rpc": "https://froopyland.dymension.xyz/12/hebei_5247822-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/hebei_5247822-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x50134e",
-    "rpc": "http://65.109.160.26:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/hebei_5247822-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
