@@ -1,6 +1,6 @@
 {
   "chainId": "hikicha_9964105-1",
-  "chainName": "hikicha_9964105-1",
+  "chainName": "Hikicha",
   "rpc": "http://95.216.204.75:26657",
   "rest": "http://95.216.204.75:1317",
   "bech32Prefix": "ethm",
