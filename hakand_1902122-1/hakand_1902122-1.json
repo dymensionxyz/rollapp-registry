@@ -1,8 +1,8 @@
 {
   "chainId": "hakand_1902122-1",
-  "chainName": "hakand_1902122-1",
-  "rpc": "http://49.13.5.207:26657",
-  "rest": "http://49.13.5.207:1317",
+  "chainName": "hakand",
+  "rpc": "https://froopyland.dymension.xyz/12/hakand_1902122-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/hakand_1902122-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -16,7 +16,7 @@
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/hakand_1902122-1.png",
+  "logo": "/logos/hakand_1902122-1.jpg",
   "ibc": {
     "hubChannel": "channel-6424",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1d062a",
-    "rpc": "http://49.13.5.207:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/hakand_1902122-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
