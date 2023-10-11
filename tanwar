@@ -1,0 +1,23 @@
+chainId	"tanwar_6592079-1"
+chainName	"tanwar"
+rpc	"https://rollappevm-26657-tanwar.bk7bbm.oss-acorn.io"
+rest	"https://rollappevm-1317-tanwar.bk7bbm.oss-acorn.io"
+bech32Prefix	"ethm"
+currencies	
+0	
+decimals	18
+logo	"C:\Users\91783\Dropbox\My PC (LAPTOP-5PGMOT56)\Downloads"
+type	"main"
+coinType	60
+logo	"C:\Users\91783\Dropbox\My PC (LAPTOP-5PGMOT56)\Downloads"
+ibc	
+hubChannel	""
+timeout	172800000
+channel	"channel-0"
+evm	
+chainId	"0x64964f"
+rpc	"https://rollappevm-8545-tanwar.bk7bbm.oss-acorn.io"
+type	"RollApp"
+da	"celestia"
+analytics	true
+rewards	true
