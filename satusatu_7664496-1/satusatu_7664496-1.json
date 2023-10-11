@@ -1,8 +1,8 @@
 {
 "chainId": "satusatu_7664496-1",
 "chainName": "satusatu",
-"rpc": "https://194.163.140.211:26657",
-"rest": "https://194.163.140.211:1317",
+"rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rpc",
+"rest": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rest",
 "bech32Prefix": "ethm",
 "currencies": [
 {
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x74f370",
-"rpc": "https://194.163.140.211:8545"
+"rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/evmrpc"
 },
 "type": "RollApp",
 "da": "Celestia",
