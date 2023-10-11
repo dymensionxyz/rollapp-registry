@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "I am a developer and admin of KudasaiJp, the largest crypto community in Japan",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
