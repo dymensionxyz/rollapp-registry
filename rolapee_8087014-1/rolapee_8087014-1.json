@@ -1,8 +1,8 @@
 {
   "chainId": "rolapee_8087014-1",
-  "chainName": "rolapee_8087014-1",
-  "rpc": "http://65.109.53.60:26657",
-  "rest": "http://65.109.53.60:1317",
+  "chainName": "Rolapee",
+  "rpc": "https://froopyland.dymension.xyz/11/rolapee_8087014-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/rolapee_8087014-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7b65e6",
-    "rpc": "http://65.109.53.60:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/rolapee_8087014-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
