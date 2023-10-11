@@ -1,8 +1,8 @@
 {
   "chainId": "wallchain_2211622-1",
-  "chainName": "wallchain_2211622-1",
-  "rpc": "http://5.78.77.39:26657",
-  "rest": "http://5.78.77.39:1317",
+  "chainName": "Wallchain",
+  "rpc": "https://froopyland.dymension.xyz/12/wallchain_2211622-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/wallchain_2211622-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x21bf26",
-    "rpc": "http://5.78.77.39:1317"
+    "rpc": "https://froopyland.dymension.xyz/12/wallchain_2211622-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
