@@ -1,8 +1,8 @@
 {
   "chainId": "byzantium_4002080-1",
   "chainName": "byzantium_4002080-1",
-  "rpc": "http://172.104.235.82:8545/",
-  "rest": "http://172.104.235.82:1317/",
+  "rpc": "http://64.226.106.79:8545/",
+  "rest": "http://64.226.106.79:1317/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3d1120",
-    "rpc": "http://172.104.235.82:8545/"
+    "rpc": "http://64.226.106.79:8545/"
   },
   "type": "RollApp",
   "da": "Celestia",
