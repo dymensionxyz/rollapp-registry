@@ -1,8 +1,8 @@
 {
   "chainId": "indonode_4078023-1",
   "chainName": "Indonode",
-  "rpc": "https://froopyland.dymension.xyz/12/indonode_4078023-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/indonode_4078023-1/rest",
+  "rpc": "http://rpc.roller.indonode.net/",
+  "rest": "http://api.roller.indonode.net/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e39c7",
-    "rpc": "{ “rpc”:https://froopyland.dymension.xyz/12/indonode_4078023-1/evmrpc"
+    "rpc": "http://jsonrpc.roller.indonode.net/"
   },
   "type": "RollApp",
   "da": "Celestia",
