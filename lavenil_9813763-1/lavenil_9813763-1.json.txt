@@ -1,0 +1,33 @@
+{
+  "chainId": "lavenil_9813763-1",
+  "chainName": "lavenil_9813763-1",
+  "rpc": "188.166.18.243",
+  "rest": "188.166.18.243",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lvn",
+      "baseDenom": "ulvn",
+      "decimals": 18,
+      "logo": "/logos/lavenil_9813763-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lavenil_9813763-1.png",
+  "ibc": {
+    "hubChannel": "channel-6422",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x95bf03",
+    "rpc": "188.166.18.243"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
