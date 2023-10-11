@@ -1,6 +1,6 @@
 {
   "chainId": "anyvalidrollapp_7686179-1",
-  "chainName": "RollApp by AnyValid",
+  "chainName": "RollApp by AnyValid2",
   "rpc": "https://froopyland.dymension.xyz/12/anyvalidrollapp_7686179-1/rpc",
   "rest": "https://froopyland.dymension.xyz/12/anyvalidrollapp_7686179-1/rest",
   "bech32Prefix": "ethm",
