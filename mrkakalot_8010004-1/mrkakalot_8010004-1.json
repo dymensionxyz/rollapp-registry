@@ -1,8 +1,8 @@
 {
   "chainId": "mrkakalot_8010004-1",
-  "chainName": "mrkakalot_8010004-1",
-  "rpc": "https://dungdn.ddns.net:26657",
-  "rest": "https://dungdn.ddns.net:1317",
+  "chainName": "Mrkakalot",
+  "rpc": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7a3914",
-    "rpc": "https://dungdn.ddns.net:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
