@@ -1,8 +1,8 @@
 {
   "chainId": "heatheryolo_9104969-1",
   "chainName": "HeatherYolo",
-  "rpc": "http://159.69.72.247:29657",
-  "rest": "http://159.69.72.247:29317",
+  "rpc": "http://159.69.72.247:26657",
+  "rest": "http://159.69.72.247:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8aee49",
-    "rpc": "http://159.69.72.247:28525"
+    "rpc": "http://159.69.72.247:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
