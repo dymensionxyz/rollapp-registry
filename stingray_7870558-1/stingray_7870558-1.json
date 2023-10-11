@@ -1,8 +1,8 @@
 {
   "chainId": "stingray_7870558-1",
   "chainName": "stingray",
-  "rpc": "http://167.235.240.135:26657",
-  "rest": "http://167.235.240.135:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/stingray_7870558-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/stingray_7870558-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x78185e",
-    "rpc": "http://167.235.240.135:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/stingray_7870558-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
