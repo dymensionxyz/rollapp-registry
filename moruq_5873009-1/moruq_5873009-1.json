@@ -1,8 +1,8 @@
 {
   "chainId": "moruq_5873009-1",
   "chainName": "Moruq",
-  "rpc": "http://84.46.252.60:26657",
-  "rest": "http://84.46.252.60:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/moruq_5873009-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/moruq_5873009-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x599d71",
-    "rpc": "http://84.46.252.60:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/moruq_5873009-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
