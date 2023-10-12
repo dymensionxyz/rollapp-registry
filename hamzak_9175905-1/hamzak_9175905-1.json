@@ -2,7 +2,7 @@
   "chainId": "hamzak_9175905-1",
   "chainName": "Hamzak",
   "rpc": "http://23.88.70.109:26657",
-  "rest": "http://23.88.70.109:22317",
+  "rest": "http://23.88.70.109:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c0361",
-    "rpc": "http://23.88.70.109:22545"
+    "rpc": "http://23.88.70.109:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
