@@ -1,8 +1,8 @@
 {
   "chainId": "cyber_6303799-1",
   "chainName": "cyberg",
-  "rpc": "http://51.89.232.234:26657",
-  "rest": "http://51.89.232.234:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/cyber_6303799-1/rpc7",
+  "rest": "https://froopyland.dymension.xyz/13/cyber_6303799-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x603037",
-    "rpc": "http://51.89.232.234:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/cyber_6303799-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
