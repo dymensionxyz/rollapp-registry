@@ -1,8 +1,8 @@
 {
   "chainId": "jake_9467738-1",
-  "chainName": "jake_9467738-1",
-  "rpc": "https://173.249.10.223:26657",
-  "rest": "https://173.249.10.223:1317",
+  "chainName": "Jake",
+  "rpc": "https://froopyland.dymension.xyz/13/jake_9467738-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/jake_9467738-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x90775a",
-    "rpc": "https://173.249.10.223:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/jake_9467738-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
