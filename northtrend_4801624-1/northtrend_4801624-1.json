@@ -1,8 +1,8 @@
 {
   "chainId": "northtrend_4801624-1",
   "chainName": "northtrend",
-  "rpc": "http://65.108.199.62:26657",
-  "rest": "http://65.108.199.62:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/northtrend_4801624-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/northtrend_4801624-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x494458",
-    "rpc": "http://65.108.199.62:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/northtrend_4801624-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
