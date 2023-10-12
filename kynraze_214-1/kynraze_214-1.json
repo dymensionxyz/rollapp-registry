@@ -1,6 +1,6 @@
 {
   "chainId": "kynraze_214-1",
-  "chainName": "kynraze_214-1",
+  "chainName": "Kynraze",
   "rpc": "https://kyn-rpc.kynraze.com",
   "rest": "https://kyn-api.kynraze.com",
   "bech32Prefix": "ethm",
