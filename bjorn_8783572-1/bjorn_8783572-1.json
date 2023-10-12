@@ -1,0 +1,19 @@
+{ "chainId": "bjorn_8783572-1", "chainName": "bjorn_8783572-1", 
+  "rpc": "http://78.141.201.43:26657", "rest": 
+  "http://78.141.201.43:1317", "bech32Prefix": "ethm", 
+  "currencies": [
+    { "displayDenom": "bjn", "baseDenom": "ubjn", "decimals": 18, 
+      "logo": "/logos/bjorn_8783572-1.png", "type": "main"
+    }
+  ], "coinType": 60, "faucetUrl": 
+  "https://discord.com/channels/956961633165529098/1143231362468434022", 
+  "website": "", "logo": "/logos/bjorn_8783572-1.png", "ibc": {
+    "hubChannel": "channel-6478", "channel": "channel-0", 
+    "timeout": 172800000
+  },
+  "evm": { "chainId": "0x8606d4", "rpc": 
+    "http://78.141.201.43:8545"
+  },
+  "type": "RollApp", "da": "Celestia", "description": "", 
+  "analytics": true
+}
