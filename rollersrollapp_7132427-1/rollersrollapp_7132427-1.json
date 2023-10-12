@@ -1,0 +1,46 @@
+{\rtf1\ansi\ansicpg1254\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "chainId": "rollersrollapp_7132427-1",\
+  "chainName": \'93Alisr\'94,\
+  
+\f1 "rpc": "http://136.244.109.142:26657"
+\f0 ,\
+  
+\f1 "rest": "http://136.244.109.142:1317"
+\f0 ,\
+  "bech32Prefix": "ethm",\
+  "currencies": [\
+    \{\
+      "displayDenom": "RLDM",\
+      "baseDenom": "uRLDM",\
+      "decimals": 18,\
+      "logo": "/logos/rollersrollapp_7132427-1.png",\
+      "type": "main"\
+    \}\
+  ],\
+  "coinType": 60,\
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",\
+  "website": "",\
+  "logo": "/logos/rollersrollapp_7132427-1.png",\
+  "ibc": \{\
+    "hubChannel": "channel-6398",\
+    "channel": "channel-0",\
+    "timeout": 172800000\
+  \},\
+  "evm": \{\
+    "chainId": "0x6cd50b",\
+    
+\f1 "rpc": "http://136.244.109.142:8545"
+\f0 \
+  \},\
+  "type": "RollApp",\
+  "da": "Celestia",\
+  "description": "",\
+  "analytics": true\
+\}}
