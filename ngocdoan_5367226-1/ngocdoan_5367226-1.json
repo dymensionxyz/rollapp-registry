@@ -19,12 +19,12 @@
   "website": "https://market.owlstake.com",
   "logo": "/logos/ngocdoan_5367226-1.svg",
   "ibc": {
-    "hubChannel": "channel-5392",
+    "hubChannel": "channel-6485",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x408481",
+    "chainId": "0x51e5ba",
     "rpc": "https://dymevmrpc.owlstake.com"
   },
   "type": "RollApp",
