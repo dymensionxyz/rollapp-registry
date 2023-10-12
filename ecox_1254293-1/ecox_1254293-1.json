@@ -1,0 +1,33 @@
+{
+  "chainId": "ecox_1254293-1",
+  "chainName": "ecox_1254293-1",
+  "rpc": "http://184.174.33.28:26657",
+  "rest": "http://184.174.33.28:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ECX",
+      "baseDenom": "uECX",
+      "decimals": 18,
+      "logo": "/logos/ecox_1254293-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ecox_1254293-1.png",
+  "ibc": {
+    "hubChannel": "channel-6453",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x132395",
+    "rpc": "http://184.174.33.28:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
