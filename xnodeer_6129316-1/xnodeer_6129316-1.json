@@ -1,8 +1,8 @@
 {
   "chainId": "xnodeer_6129316-1",
   "chainName": "xnodeer",
-  "rpc": "http://34.134.27.175:26657",
-  "rest": "http://34.134.27.175:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/xnodeer_6129316-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/xnodeer_6129316-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d86a4",
-    "rpc": "http://34.134.27.175:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/xnodeer_6129316-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
