@@ -1,8 +1,8 @@
 {
   "chainId": "acmilan_3082207-1",
-  "chainName": "acmilan",
-  "rpc": "http://159.89.232.17:26657",
-  "rest": "http://159.89.232.17:1317",
+  "chainName": "AC Milan",
+  "rpc": "https://froopyland.dymension.xyz/12/acmilan_3082207-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/acmilan_3082207-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2f07df",
-    "rpc": "http://159.89.232.17:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/acmilan_3082207-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
