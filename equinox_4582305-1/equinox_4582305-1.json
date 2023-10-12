@@ -1,6 +1,6 @@
 {
   "chainId": "equinox_4582305-1",
-  "chainName": "equinox_4582305-1",
+  "chainName": "Equinox",
   "rpc": "https://froopyland.dymension.xyz/12/equinox_4582305-1/rpc",
   "rest": "https://froopyland.dymension.xyz/12/equinox_4582305-1/rest",
   "bech32Prefix": "ethm",
