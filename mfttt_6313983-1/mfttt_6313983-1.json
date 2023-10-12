@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "mfttt_6313983-1",
   "chainName": "mfttt11",
-  "rpc": "159.69.249.171:26657",
-  "rest": "159.69.249.171:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/mfttt_6313983-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/mfttt_6313983-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6057ff",
-    "rpc": "159.69.249.171:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/mfttt_6313983-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
