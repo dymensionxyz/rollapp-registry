@@ -1,8 +1,8 @@
 {
   "chainId": "hamzak_9175905-1",
   "chainName": "Hamzak",
-  "rpc": "http://23.88.70.109:26657",
-  "rest": "http://23.88.70.109:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/hamzak_9175905-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/hamzak_9175905-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c0361",
-    "rpc": "http://23.88.70.109:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/hamzak_9175905-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
