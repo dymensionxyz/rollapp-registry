@@ -1,6 +1,6 @@
 {
   "chainId": "diorapp_5889785-1",
-  "chainName": "diorapp_5889785-1",
+  "chainName": "diorapp",
   "rpc": "http://185.202.236.181:26657",
   "rest": "http://185.202.236.181:1317",
   "bech32Prefix": "ethm",
