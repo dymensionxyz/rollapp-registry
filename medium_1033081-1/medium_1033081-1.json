@@ -1,0 +1,33 @@
+{
+  "chainId": "medium_1033081-1",
+  "chainName": "medium network",
+  "rpc": "http://144.76.195.75:26657",
+  "rest": "http://144.76.195.75:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "med",
+      "baseDenom": "umed",
+      "decimals": 18,
+      "logo": "/logos/medium_1033081-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://github.com/mediumwe11",
+  "logo": "/logos/medium_1033081-1.png",
+  "ibc": {
+    "hubChannel": "channel-6458",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0xfc379",
+    "rpc": "http://144.76.195.75:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
