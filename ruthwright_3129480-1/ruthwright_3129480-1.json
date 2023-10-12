@@ -1,8 +1,8 @@
 {
   "chainId": "ruthwright_3129480-1",
   "chainName": "RuthWright",
-  "rpc": "http://195.201.175.107:26657",
-  "rest": "http://195.201.175.107:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/ruthwright_3129480-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/ruthwright_3129480-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2fc088",
-    "rpc": "http://195.201.175.107:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/ruthwright_3129480-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
