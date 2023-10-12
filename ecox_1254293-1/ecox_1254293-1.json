@@ -1,8 +1,8 @@
 {
   "chainId": "ecox_1254293-1",
-  "chainName": "ecox_1254293-1",
-  "rpc": "http://184.174.33.28:26657",
-  "rest": "http://184.174.33.28:1317",
+  "chainName": "Ecox",
+  "rpc": "https://froopyland.dymension.xyz/13/ecox_1254293-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/ecox_1254293-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x132395",
-    "rpc": "http://184.174.33.28:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/ecox_1254293-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
