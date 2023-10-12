@@ -1,8 +1,8 @@
 {
   "chainId": "benjamin_3701302-1",
   "chainName": "Roller With Ben",
-  "rpc": "http://167.172.185.75:26657/",
-  "rest": "http://167.172.185.75:1317/",
+  "rpc": "https://froopyland.dymension.xyz/12/benjamin_3701302-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/benjamin_3701302-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x387a36",
-    "rpc": "http://167.172.185.75:8545/"
+    "rpc": "https://froopyland.dymension.xyz/12/benjamin_3701302-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
