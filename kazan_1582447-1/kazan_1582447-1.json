@@ -1,8 +1,8 @@
 {
   "chainId": "kazan_1582447-1",
   "chainName": "kazandiran",
-  "rpc": "http://93.177.103.207:26657",
-  "rest": "http://93.177.103.207:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/kazan_1582447-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/kazan_1582447-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x18256f",
-    "rpc": "http://93.177.103.207:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/kazan_1582447-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
