@@ -1,8 +1,8 @@
 {
   "chainId": "jembut_4894567-1",
   "chainName": "Jembut",
-  "rpc": "https://froopyland.dymension.xyz/8/jembut_4894567-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/jembut_4894567-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/12/jembut_4894567-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/jembut_4894567-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4aaf67",
-    "rpc": "https://froopyland.dymension.xyz/8/jembut_4894567-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/12/jembut_4894567-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",

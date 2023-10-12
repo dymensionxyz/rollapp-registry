@@ -1,8 +1,8 @@
 {
   "chainId": "restake_2135345-1",
   "chainName": "Restake",
-  "rpc": "http://restake-dymension-test-rollapp-0.machine.restake.tech:26657",
-  "rest": "http://restake-dymension-test-rollapp-0.machine.restake.tech:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/restake_2135345-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/restake_2135345-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x209531",
-    "rpc": "http://restake-dymension-test-rollapp-0.machine.restake.tech:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/restake_2135345-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
