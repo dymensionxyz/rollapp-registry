@@ -1,5 +1,5 @@
 { "chainId": "gopysingh_7113370-1", "chainName": 
-  "gopysingh_7113370-1", "rpc": "http://192.248.162.199:26657", "rest": "http://192.248.162.199:1317", "bech32Prefix": 
+  "gopysingh_7113370-1", "rpc": "https://froopyland.dymension.xyz/12/gopysingh_7113370-1/rpc", "rest": "https://froopyland.dymension.xyz/12/gopysingh_7113370-1/rest", "bech32Prefix": 
   "ethm", "currencies": [
     { "displayDenom": "gyh", "baseDenom": "ugyh", "decimals": 18, 
       "logo": "/logos/gopysingh_7113370-1.png", "type": "main"
@@ -11,7 +11,7 @@
     "hubChannel": "channel-6153", "channel": "channel-1", 
     "timeout": 172800000
   },
-  "evm": { "chainId": "0x6c8a9a", "rpc": "http://192.248.162.199:8545"
+  "evm": { "chainId": "0x6c8a9a", "rpc": "https://froopyland.dymension.xyz/12/gopysingh_7113370-1/evmrpc"
   },
   "type": "RollApp", "da": "Celestia", "description": "", 
   "analytics": true
