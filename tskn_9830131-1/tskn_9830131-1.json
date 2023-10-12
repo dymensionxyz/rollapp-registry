@@ -1,0 +1,33 @@
+{
+  "chainId": "tskn_9830131-1",
+  "chainName": "tskn_9830131-1",
+  "rpc": "http://37.27.18.125:26657",
+  "rest": "http://37.27.18.125:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tskn",
+      "baseDenom": "utskn",
+      "decimals": 18,
+      "logo": "/logos/tskn_9830131-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tskn_9830131-1.png",
+  "ibc": {
+    "hubChannel": "channel-6450",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x95fef3",
+    "rpc": "http://37.27.18.125:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
