@@ -1,6 +1,6 @@
 {
   "chainId": "straivevn_8414392-1",
-  "chainName": "straiveVietNam",
+  "chainName": "straiveVietNam1",
   "rpc": "http://ongtrongxyz.ddns.net:26657",
   "rest": "http://ongtrongxyz.ddns.net:1317",
   "bech32Prefix": "ethm",
