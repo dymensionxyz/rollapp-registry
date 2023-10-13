@@ -1,0 +1,33 @@
+{
+  "chainId": "airdropforall_6200560-1",
+  "chainName": "AirdropForAll",
+  "rpc": "http://95.216.217.29:26657",
+  "rest": "http://95.216.217.29:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AFA",
+      "baseDenom": "uAFA",
+      "decimals": 18,
+      "logo": "/logos/airdropforall_6200560-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/airdropforall_6200560-1.png",
+  "ibc": {
+    "hubChannel": "channel-6488",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5e9cf0",
+    "rpc": "http://95.216.217.29:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
