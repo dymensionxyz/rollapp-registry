@@ -1,15 +1,15 @@
 {
   "chainId": "esrabayram_8749633-1",
-  "chainName": "esrabayram_8749633-1",
-  "rpc": "http://84.46.246.13:26657",
-  "rest": "http://84.46.246.13:1317",
+  "chainName": "esrabayram",
+  "rpc": "https://froopyland.dymension.xyz/13/esrabayram_8749633-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/esrabayram_8749633-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "esra",
       "baseDenom": "uesra",
       "decimals": 18,
-      "logo": "/logos/esrabayram_8749633-1.png",
+      "logo": "/logos/esrabayram_8749633-1.jpg",
       "type": "main"
     }
   ],
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x858241",
-    "rpc": "http://84.46.246.13:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/esrabayram_8749633-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
