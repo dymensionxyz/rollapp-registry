@@ -1,6 +1,6 @@
-{ "chainId": "bjorn_8783572-1", "chainName": "bjorn_8783572-1", 
-  "rpc": "http://78.141.201.43:26657", "rest": 
-  "http://78.141.201.43:1317", "bech32Prefix": "ethm", 
+{ "chainId": "bjorn_8783572-1", "chainName": "Bjorn", 
+  "rpc": "https://froopyland.dymension.xyz/13/bjorn_8783572-1/rpc", "rest": 
+  "https://froopyland.dymension.xyz/13/bjorn_8783572-1/rest", "bech32Prefix": "ethm", 
   "currencies": [
     { "displayDenom": "bjn", "baseDenom": "ubjn", "decimals": 18, 
       "logo": "/logos/bjorn_8783572-1.png", "type": "main"
@@ -12,7 +12,7 @@
     "timeout": 172800000
   },
   "evm": { "chainId": "0x8606d4", "rpc": 
-    "http://78.141.201.43:8545"
+    "https://froopyland.dymension.xyz/13/bjorn_8783572-1/evmrpc"
   },
   "type": "RollApp", "da": "Celestia", "description": "", 
   "analytics": true
