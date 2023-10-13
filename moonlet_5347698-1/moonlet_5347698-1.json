@@ -1,7 +1,7 @@
 {
   "chainId": "moonlet_5347698-1",
   "chainName": "Moonlet",
-  "rpc": "http://95.217.113.104:16657",
+  "rpc": "http://95.217.113.104:26657",
   "rest": "http://95.217.113.104:1317",
   "bech32Prefix": "ethm",
   "currencies": [
