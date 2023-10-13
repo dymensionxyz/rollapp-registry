@@ -1,6 +1,6 @@
 {
   "chainId": "tiaozhange_8909696-1",
-  "chainName": "tiaozhange_8909696-1",
+  "chainName": "tiaozhange",
   "rpc": "http://43.134.106.134:26657",
   "rest": "http://43.134.106.134:1317",
   "bech32Prefix": "ethm",
