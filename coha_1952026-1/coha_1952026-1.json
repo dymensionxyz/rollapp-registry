@@ -1,8 +1,8 @@
 {
   "chainId": "coha_1952026-1",
   "chainName": "COHA_AMB",
-  "rpc": "http://178.128.63.116:26657",
-  "rest": "http://178.128.63.116:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/coha_1952026-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/coha_1952026-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1dc91a",
-    "rpc": "http://178.128.63.116:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/coha_1952026-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
