@@ -1,8 +1,8 @@
 {
     "chainId": "tailai_3224488-1",
     "chainName": "tailaiRoll",
-    "rpc": "37.27.5.137:26657",
-    "rest": "37.27.5.137:1317",
+    "rpc": "https://froopyland.dymension.xyz/13/tailai_3224488-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/tailai_3224488-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x343215",
-      "rpc": "37.27.5.137:8545"
+      "rpc": "https://froopyland.dymension.xyz/13/tailai_3224488-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
