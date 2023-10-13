@@ -1,8 +1,8 @@
 {
   "chainId": "vlad_7409637-1",
   "chainName": "Vladcrypto",
-  "rpc": "http://65.109.92.9:26657/",
-  "rest": "http://65.109.92.9:1317/",
+  "rpc": "https://froopyland.dymension.xyz/13/vlad_7409637-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/vlad_7409637-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x710fe5",
-    "rpc": "http://65.109.92.9:8545/"
+    "rpc": "https://froopyland.dymension.xyz/13/vlad_7409637-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
