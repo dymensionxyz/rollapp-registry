@@ -1,0 +1,34 @@
+{
+  "chainId": "blockhunters_3270403-1",
+  "chainName": "Blockhunters",
+  "rpc": "https://froopyland.dymension.xyz/11/blockhunters_3270403-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/blockhunters_3270403-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BHX",
+      "baseDenom": "uBHX",
+      "decimals": 18,
+      "logo": "/logos/blockhunters_3270403-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://blockhunters.org",
+  "logo": "/logos/blockhunters_3270403-1.png",
+  "ibc": {
+    "hubChannel": "channel-6215",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x31e703",
+    "rpc": "https://froopyland.dymension.xyz/11/blockhunters_3270403-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "The BlockHunters RollApp",
+  "analytics": true,
+  "validator": true
+}
