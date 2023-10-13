@@ -1,8 +1,8 @@
 {
   "chainId": "beijing_5780906-1",
-  "chainName": "beijing_5780906-1",
-  "rpc": "http:/ /49.13.51.18:26657",
-  "rest": "http:/ /49.13.51.18:1317",
+  "chainName": "beijing",
+  "rpc": "https://froopyland.dymension.xyz/13/beijing_5780906-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/beijing_5780906-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5835aa",
-    "rpc": "http:/ /49.13.51.18:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/beijing_5780906-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
