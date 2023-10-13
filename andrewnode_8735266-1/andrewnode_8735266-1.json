@@ -1,8 +1,8 @@
 {
   "chainId": "andrewnode_8735266-1",
   "chainName": "andrewNode",
-  "rpc": "http://135.181.253.11:26657",
-  "rest": "http://135.181.253.11:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/andrewnode_8735266-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/andrewnode_8735266-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x854a22",
-    "rpc": "http://135.181.253.11:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/andrewnode_8735266-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
