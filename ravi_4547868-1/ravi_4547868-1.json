@@ -1,0 +1,19 @@
+{ "chainId": "ravi_4547868-1", "chainName": "ravi_4547868-1", 
+  "rpc": "http://192.248.168.227:26657", "rest": 
+  "http://192.248.168.227:1317", "bech32Prefix": "ethm", 
+  "currencies": [
+    { "displayDenom": "rav", "baseDenom": "urav", "decimals": 18, 
+      "logo": "/logos/ravi_4547868-1.png", "type": "main"
+    }
+  ], "coinType": 60, "faucetUrl": 
+  "https://discord.com/channels/956961633165529098/1143231362468434022", 
+  "website": "", "logo": "/logos/ravi_4547868-1.png", "ibc": {
+    "hubChannel": "channel-6533", "channel": "channel-0", 
+    "timeout": 172800000
+  },
+  "evm": { "chainId": "0x45651c", "rpc": 
+    "http://192.248.168.227:8545"
+  },
+  "type": "RollApp", "da": "Celestia", "description": "", 
+  "analytics": true
+}
