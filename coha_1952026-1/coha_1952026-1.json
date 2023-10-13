@@ -1,30 +1,30 @@
 {
-  "chainId": "coha_3144900-1",
+  "chainId": "coha_1952026-1",
   "chainName": "COHA_AMB",
-  "rpc": "http://128.199.135.203:26657",
-  "rest": "http://128.199.135.203:1317",
+  "rpc": "http://178.128.63.116:26657",
+  "rest": "http://178.128.63.116:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "DYM",
-      "baseDenom": "uDYM",
+      "displayDenom": "COH",
+      "baseDenom": "uCOH",
       "decimals": 18,
-      "logo": "/logos/coha_3144900-1.png",
+      "logo": "/logos/coha_1952026-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "https://linktr.ee/coha05_",
-  "logo": "/logos/coha_3144900-1.png",
+  "logo": "/logos/coha_1952026-1.png",
   "ibc": {
-    "hubChannel": "channel-6510",
+    "hubChannel": "channel-6523",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x2ffcc4",
-    "rpc": "http://128.199.135.203:8545"
+    "chainId": "0x1dc91a",
+    "rpc": "http://178.128.63.116:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
