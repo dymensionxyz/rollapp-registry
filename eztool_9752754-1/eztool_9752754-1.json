@@ -1,0 +1,33 @@
+{
+  "chainId": "eztool_9752754-1",
+  "chainName": "EZTool",
+  "rpc": "http://43.134.24.89:26657",
+  "rest": "http://43.134.24.89:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EZL",
+      "baseDenom": "uEZL",
+      "decimals": 18,
+      "logo": "/logos/eztool_9752754-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/eztool_9752754-1.png",
+  "ibc": {
+    "hubChannel": "channel-6503",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x94d0b2",
+    "rpc": "http://43.134.24.89:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
