@@ -1,8 +1,8 @@
 {
   "chainId": "airdropforall_6200560-1",
   "chainName": "AirdropForAll",
-  "rpc": "http://95.216.217.29:26657",
-  "rest": "http://95.216.217.29:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/airdropforall_6200560-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/airdropforall_6200560-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5e9cf0",
-    "rpc": "http://95.216.217.29:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/airdropforall_6200560-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
