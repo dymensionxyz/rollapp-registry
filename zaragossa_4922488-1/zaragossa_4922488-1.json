@@ -1,8 +1,8 @@
 {
   "chainId": "zaragossa_4922488-1",
   "chainName": "zaragossa",
-  "rpc": "http://135.181.38.57:26657",
-  "rest": "http://135.181.38.57:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/zaragossa_4922488-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/zaragossa_4922488-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4b1c78",
-    "rpc": "http://135.181.38.57:26657"
+    "rpc": "https://froopyland.dymension.xyz/13/zaragossa_4922488-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
