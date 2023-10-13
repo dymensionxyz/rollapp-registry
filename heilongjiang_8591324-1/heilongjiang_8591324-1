@@ -1,8 +1,8 @@
 {
   "chainId": "heilongjiang_8591324-1",
   "chainName": "heilongjiang_8591324-1",
-  "rpc": "https://65.108.156.94:26657",
-  "rest": "https://65.108.156.94:1317",
+  "rpc": "http://65.108.156.94:26657"
+  "rest": "http://65.108.156.94:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8317dc",
-    "rpc": "https://65.108.156.94:8545"
+    "rpc": "http://65.108.156.94:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
