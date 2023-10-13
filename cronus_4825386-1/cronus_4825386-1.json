@@ -1,8 +1,8 @@
 {
   "chainId": "cronus_4825386-1",
   "chainName": "CRONUS",
-  "rpc": "http://135.181.215.212:26657",
-  "rest": "http://135.181.215.212:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/cronus_4825386-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/cronus_4825386-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x49a12a",
-    "rpc": "http://135.181.215.212:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/cronus_4825386-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
