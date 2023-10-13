@@ -1,8 +1,8 @@
 {
   "chainId": "asht_2446192-1",
   "chainName": "ashtray",
-  "rpc": "https://froopyland.dymension.xyz/12/asht_2446192-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/asht_2446192-1/rest",
+  "rpc": "http://95.216.208.125:26657",
+  "rest": "http://95.216.208.125:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x255370",
-    "rpc": "https://froopyland.dymension.xyz/12/asht_2446192-1/evmrpc"
+    "rpc": "http://95.216.208.125:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
