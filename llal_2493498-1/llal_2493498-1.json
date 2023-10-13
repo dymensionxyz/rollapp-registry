@@ -1,22 +1,22 @@
 {
   "chainId": "llal_2493498-1",
-  "chainName": "llal_2493498-1",
-  "rpc": "http://5.75.151.5:26657",
-  "rest": "http://5.75.151.5:1317",
+  "chainName": "llal",
+  "rpc": "https://froopyland.dymension.xyz/13/llal_2493498-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/llal_2493498-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "lla",
       "baseDenom": "ulla",
       "decimals": 18,
-      "logo": "/logos/llal_2493498-1.png",
+      "logo": "/logos/llal_2493498-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/llal_2493498-1.png",
+  "logo": "/logos/llal_2493498-1.jpg",
   "ibc": {
     "hubChannel": "channel-6536",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x260c3a",
-    "rpc": "http://5.75.151.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/llal_2493498-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
