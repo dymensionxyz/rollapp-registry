@@ -1,8 +1,8 @@
 {
   "chainId": "kaeru_2484915-1",
-  "chainName": "kaeru_2484915-1",
-  "rpc": "http://155.133.7.134:26657",
-  "rest": "http://155.133.7.134:1317",
+  "chainName": "kaeru",
+  "rpc": "https://froopyland.dymension.xyz/13/kaeru_2484915-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/kaeru_2484915-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,18 +24,10 @@
   },
   "evm": {
     "chainId": "0x25eab3",
-    "rpc": "http://155.133.7.134:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/kaeru_2484915-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
   "analytics": true
 }
-
-
-
-
-
-  
-
-
