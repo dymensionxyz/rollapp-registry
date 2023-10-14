@@ -1,8 +1,8 @@
 {
   "chainId": "mushi_4443145-1",
   "chainName": "Mushi GameCenter",
-  "rpc": "https://dymrpc.xuanphuctech.com/",
-  "rest": "https://dymrest.xuanphuctech.com/",
+  "rpc": "https://dymrpc.xuanphuctech.com",
+  "rest": "https://dymrest.xuanphuctech.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
