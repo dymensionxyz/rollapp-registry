@@ -1,7 +1,7 @@
 {
   "chainId": "arkham_9193196-1",
   "chainName": "Arkham",
-  "rpc": ""http://207.180.251.85:26657,
+  "rpc": "http://207.180.251.85:26657",
   "rest": "http://207.180.251.85:1317",
   "bech32Prefix": "ethm",
   "currencies": [
