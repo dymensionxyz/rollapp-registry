@@ -1,7 +1,7 @@
 💈 networks.json:
 {
   "chainId": "htonka_6087140-1",
-  "chainName": "htonka_6087140-1",
+  "chainName": "htonka",
   "rpc": "http://65.21.253.157:26657",
   "rest": "http://65.21.253.157:1317",
   "bech32Prefix": "ethm",
