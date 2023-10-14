@@ -1,8 +1,8 @@
 {
     "chainId": "keien_8931533-1",
-    "chainName": "keien_8931533-1",
-    "rpc": "http://128.140.109.155:26657",
-    "rest": "http://128.140.109.155:1317",
+    "chainName": "keien",
+    "rpc": "https://froopyland.dymension.xyz/13/keien_8931533-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/keien_8931533-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x8848cd",
-      "rpc": ""
+      "rpc": "https://froopyland.dymension.xyz/13/keien_8931533-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
