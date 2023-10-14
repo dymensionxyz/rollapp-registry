@@ -1,8 +1,8 @@
 {
     "chainId": "laikou_8365739-1",
     "chainName": "laikouRoll",
-    "rpc": "65.21.106.237:26657",
-    "rest": "65.21.106.237:1317",
+    "rpc": "https://froopyland.dymension.xyz/13/laikou_8365739-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/laikou_8365739-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -23,7 +23,7 @@
     },
     "evm": {
       "chainId": "0x343215",
-      "rpc": "65.21.106.237:8545"
+      "rpc": "https://froopyland.dymension.xyz/13/laikou_8365739-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
