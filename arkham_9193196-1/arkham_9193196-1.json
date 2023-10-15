@@ -1,8 +1,8 @@
 {
   "chainId": "arkham_9193196-1",
   "chainName": "Arkham",
-  "rpc": "http://207.180.251.85:26657",
-  "rest": "http://207.180.251.85:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/arkham_9193196-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/arkham_9193196-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c46ec",
-    "rpc": "http://207.180.251.85:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/arkham_9193196-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
