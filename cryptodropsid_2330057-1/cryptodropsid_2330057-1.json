@@ -1,8 +1,8 @@
 {
   "chainId": "cryptodropsid_2330057-1",
   "chainName": "cryptodropsid",
-  "rpc": "https://froopyland.dymension.xyz/cryptodropsid_2330057-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/cryptodropsid_2330057-1/rest",
+  "rpc": "http://24.199.106.18:26657",
+  "rest": "http://24.199.106.18:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x238dc9",
-    "rpc": "https://froopyland.dymension.xyz/cryptodropsid_2330057-1/evmrpc"
+    "rpc": "http://24.199.106.18:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
