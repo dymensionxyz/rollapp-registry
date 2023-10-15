@@ -1,8 +1,8 @@
 {
   "chainId": "vendetta_1644149-1",
-  "chainName": "vendetta_1644149-1",
-  "rpc": "http://165.22.230.20:26657",
-  "rest": "http://165.22.230.20:1317",
+  "chainName": "Vendetta",
+  "rpc": "https://froopyland.dymension.xyz/14/vendetta_1644149-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/vendetta_1644149-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x191675",
-    "rpc": "http://165.22.230.20:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/vendetta_1644149-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
