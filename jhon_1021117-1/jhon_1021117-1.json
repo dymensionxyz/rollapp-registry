@@ -1,8 +1,8 @@
 {
     "chainId": "jhon_1021117-1",
     "chainName": "jhon",
-    "rpc": "http://66.42.62.245:26657",
-    "rest": "http://66.42.62.245:1317",
+    "rpc": "https://froopyland.dymension.xyz/13/jhon_1021117-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/jhon_1021117-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0xf94bd",
-        "rpc": "http://66.42.62.245:8545"
+        "rpc": "https://froopyland.dymension.xyz/13/jhon_1021117-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
