@@ -9,7 +9,7 @@
       "displayDenom": "MUI",
       "baseDenom": "uMUI",
       "decimals": 18,
-      "logo": "/logos/mushi_4443145-1.png",
+      "logo": "/logos/mushi_4443145-1.jpg",
       "type": "main"
     }
   ],
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x43cc09",
-    "rpc": "https://dymevmrpc.xuanphuctech.com/"
+    "rpc": "https://dymevmrpc.xuanphuctech.com"
   },
   "type": "RollApp",
   "da": "Celestia",
