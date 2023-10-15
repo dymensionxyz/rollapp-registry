@@ -1,8 +1,8 @@
 {
     "chainId": "megumii_8422430-1",
     "chainName": "megumii",
-    "rpc": "https://rpc.megumii.click/",
-    "rest": "https://rest.megumii.click/",
+    "rpc": "https://rpc.megumii.click",
+    "rest": "https://rest.megumii.click",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x80841e",
-      "rpc": "https://evm.megumii.click/"
+      "rpc": "https://evm.megumii.click"
     },
     "type": "RollApp",
     "da": "Celestia",
