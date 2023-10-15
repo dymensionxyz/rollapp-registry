@@ -1,7 +1,7 @@
 {
   "chainId": "cryptodropsid_2330057-1",
   "chainName": "cryptodropsid",
-  "rpc": "http://24.199.106:26657",
+  "rpc": "http://24.199.106.18:26657",
   "rest": "http://24.199.106.18:1317",
   "bech32Prefix": "ethm",
   "currencies": [
