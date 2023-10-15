@@ -9,14 +9,14 @@
       "displayDenom": "ndr",
       "baseDenom": "undr",
       "decimals": 18,
-      "logo": "/logos/nodder_8357480-1.png",
+      "logo": "/logos/nodder_8357480-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/nodder_8357480-1.png",
+  "logo": "/logos/nodder_8357480-1.jpg",
   "ibc": {
     "hubChannel": "channel-6359",
     "channel": "channel-0",
