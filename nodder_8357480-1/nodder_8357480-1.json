@@ -1,8 +1,8 @@
 {
   "chainId": "nodder_8357480-1",
-  "chainName": "nodder_8357480-1",
-  "rpc": "http://195.201.7.47:26657",
-  "rest": "http://195.201.7.47:1317",
+  "chainName": "Nodder",
+  "rpc": "https://froopyland.dymension.xyz/14/nodder_8357480-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/nodder_8357480-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f8668",
-    "rpc": "http://195.201.7.47.8545"
+    "rpc": "https://froopyland.dymension.xyz/14/nodder_8357480-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
