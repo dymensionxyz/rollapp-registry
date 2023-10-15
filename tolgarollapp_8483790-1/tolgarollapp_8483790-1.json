@@ -1,8 +1,8 @@
 {
   "chainId": "tolgarollapp_8483790-1",
-  "chainName": "tolgarollapp_8483790-1",
-  "rpc": "http://65.109.171.184:26657",
-  "rest": "http://65.109.171.184:1317",
+  "chainName": "tolgarollapp",
+  "rpc": "https://froopyland.dymension.xyz/13/tolgarollapp_8483790-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/tolgarollapp_8483790-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8173ce",
-    "rpc": "http://65.109.171.184:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/tolgarollapp_8483790-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
