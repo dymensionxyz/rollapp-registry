@@ -1,8 +1,8 @@
 {
   "chainId": "erda_3442089-1",
   "chainName": "erda_3442089-1",
-  "rpc": "http://38.242.157.126:26657",
-  "rest": "http://38.242.157.126:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/erda_3442089-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/erda_3442089-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3485a9",
-    "rpc": "http://38.242.157.126.8545"
+    "rpc": "https://froopyland.dymension.xyz/14/erda_3442089-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
