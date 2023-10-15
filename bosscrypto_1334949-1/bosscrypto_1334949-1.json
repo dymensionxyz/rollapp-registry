@@ -1,8 +1,8 @@
 {
   "chainId": "bosscrypto_1334949-1",
-  "chainName": "bosscrypto_1334949-1",
-  "rpc": "https://134.209.248.205:26657",
-  "rest": "https://134.209.248.205:1317",
+  "chainName": "bosscrypto",
+  "rpc": "https://froopyland.dymension.xyz/13/bosscrypto_1334949-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/bosscrypto_1334949-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x145ea5",
-    "rpc": "https://134.209.248.205:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/bosscrypto_1334949-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
