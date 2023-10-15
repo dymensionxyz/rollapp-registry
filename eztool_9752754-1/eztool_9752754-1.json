@@ -1,8 +1,8 @@
 {
   "chainId": "eztool_9752754-1",
   "chainName": "EZTool",
-  "rpc": "http://43.134.24.89:26657",
-  "rest": "http://43.134.24.89:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/eztool_9752754-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/eztool_9752754-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x94d0b2",
-    "rpc": "http://43.134.24.89:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/eztool_9752754-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
