@@ -1,8 +1,8 @@
 {
     "chainId": "myfatihsrollapp_7853251-1",
-    "chainName": "myfatihsrollapp_7853251-1",
-    "rpc": "http://161.97.168.195:26657",
-    "rest": "http://161.97.168.195:1317",
+    "chainName": "myfatihsrollapp",
+    "rpc": "https://froopyland.dymension.xyz/14/myfatihsrollapp_7853251-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/14/myfatihsrollapp_7853251-1-a/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x77d4c3",
-      "rpc": ""
+      "rpc": "https://froopyland.dymension.xyz/14/myfatihsrollapp_7853251-1-a/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
