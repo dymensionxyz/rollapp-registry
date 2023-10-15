@@ -1,8 +1,8 @@
 {
 "chainId": "zupernetwork_5698655-1",
 "chainName": “ZuperNetwork",
-"rpc": "http://161.97.152.43:8545:26657”,
-"rest": "http://161.97.152.43:8545:1317”,
+"rpc": "http://161.97.152.43:26657”,
+"rest": "http://161.97.152.43:1317”,
 "bech32Prefix": "ethm",
 "currencies": [
 {
