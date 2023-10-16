@@ -1,8 +1,8 @@
 {
   "chainId": "portakaltestrunrollapp_1512630-1",
   "chainName": "portakaltestrunrollapp_1512630-1",
-  "rpc": "http://34.78.183.107:26657",
-  "rest": "http://34.78.183.107:1317",
+  "rpc": "http://104.155.95.105:26657",
+  "rest": "http://104.155.95.105:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1714b6",
-    "rpc": "http://34.78.183.107:8545"
+    "rpc": "http://104.155.95.105:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
