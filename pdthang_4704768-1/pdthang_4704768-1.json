@@ -1,8 +1,8 @@
 {
   "chainId": "pdthang_4704768-1",
   "chainName": "PDThang",
-  "rpc": "http://118.69.46.16:26657",
-  "rest": "http://118.69.46.16:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/pdthang_4704768-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/pdthang_4704768-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x47ca00",
-    "rpc": "http://118.69.46.16:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/pdthang_4704768-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
