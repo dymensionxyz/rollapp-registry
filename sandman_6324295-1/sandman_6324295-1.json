@@ -1,0 +1,33 @@
+{
+  "chainId": "sandman_6324295-1",
+  "chainName": "sandman",
+  "rpc": "http://144.76.138.156:26657",
+  "rest": "http://144.76.138.156:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SND",
+      "baseDenom": "uSND",
+      "decimals": 18,
+      "logo": "/logos/sandman_6324295-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sandman_6324295-1.png",
+  "ibc": {
+    "hubChannel": "channel-6589",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x608047",
+    "rpc": "http://144.76.138.156:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
