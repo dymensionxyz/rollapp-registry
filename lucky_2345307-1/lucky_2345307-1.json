@@ -1,8 +1,8 @@
 {
   "chainId": "lucky_2345307-1",
   "chainName": "Lucky",
-  "rpc": "http://5.189.182.162:26657",
-  "rest": "http://5.189.182.162:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/lucky_2345307-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/lucky_2345307-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x23c95b",
-    "rpc": "http://5.189.182.162:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/lucky_2345307-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
