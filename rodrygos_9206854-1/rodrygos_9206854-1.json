@@ -1,22 +1,22 @@
 {
   "chainId": "rodrygos_9206854-1",
   "chainName": "Rodrygos21",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://194.36.209.93:26657/",
+  "rest": "http://194.36.209.93:1317/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "RODY",
       "baseDenom": "uRODY",
       "decimals": 18,
-      "logo": "/logos/rodrygos_9206854-1.png",
+      "logo": "/logos/rodrygos_9206854-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/rodrygos_9206854-1.png",
+  "logo": "/logos/rodrygos_9206854-1.jpg",
   "ibc": {
     "hubChannel": "channel-6550",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c7c46",
-    "rpc": ""
+    "rpc": "http://194.36.209.93:8545/"
   },
   "type": "RollApp",
   "da": "Celestia",
