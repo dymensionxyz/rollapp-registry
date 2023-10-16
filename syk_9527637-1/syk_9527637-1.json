@@ -1,6 +1,6 @@
 {
     "chainId": "syk_9527637-1",
-    "chainName": "syk_9527637-1",
+    "chainName": "syk",
     "rpc": "https://froopyland.dymension.xyz/14/syk_9527637-1/rpc",
     "rest": "https://froopyland.dymension.xyz/14/syk_9527637-1/rest",
     "bech32Prefix": "ethm",
