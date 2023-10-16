@@ -1,8 +1,8 @@
 {
   "chainId": "utkububa_6461015-1",
-  "chainName": "utkububa_6461015-1",
-  "rpc": "http://159.223.225.184:26657",
-  "rest": "http://159.223.225.184:1317",
+  "chainName": "utkububa",
+  "rpc": "https://froopyland.dymension.xyz/14/utkububa_6461015-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/utkububa_6461015-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x629657",
-    "rpc": "http://159.223.225.184:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/utkububa_6461015-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
