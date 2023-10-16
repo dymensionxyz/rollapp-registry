@@ -1,8 +1,8 @@
 {
     "chainId": "syk_9527637-1",
     "chainName": "syk_9527637-1",
-    "rpc": "http://128.140.109.207:26657",
-    "rest": "http://128.140.109.207:1317",
+    "rpc": "https://froopyland.dymension.xyz/14/syk_9527637-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/14/syk_9527637-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x916155",
-      "rpc": "http://128.140.109.207:8545"
+      "rpc": "https://froopyland.dymension.xyz/14/syk_9527637-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
