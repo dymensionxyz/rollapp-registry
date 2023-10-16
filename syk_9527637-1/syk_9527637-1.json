@@ -1,0 +1,33 @@
+{
+    "chainId": "syk_9527637-1",
+    "chainName": "syk_9527637-1",
+    "rpc": "http://128.140.109.207:26657",
+    "rest": "http://128.140.109.207:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "btc",
+        "baseDenom": "ubtc",
+        "decimals": 18,
+        "logo": "/logos/syk_9527637-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/syk_9527637-1.png",
+    "ibc": {
+      "hubChannel": "channel-6545",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x916155",
+      "rpc": "http://128.140.109.207:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "hello world!",
+    "analytics": true
+  }
