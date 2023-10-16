@@ -1,8 +1,8 @@
 {
   "chainId": "ace_5736254-1",
-  "chainName": "ace_5736254-1",
-  "rpc": "http://161.97.107.208:26657",
-  "rest": "http://161.97.107.208:1317",
+  "chainName": "Ace",
+  "rpc": "https://froopyland.dymension.xyz/14/ace_5736254-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/ace_5736254-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x57873e",
-    "rpc": "http://161.97.107.208:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/ace_5736254-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
