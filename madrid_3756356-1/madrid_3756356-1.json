@@ -1,8 +1,8 @@
 {
   "chainId": "madrid_3756356-1",
-  "chainName": "madrid_3756356-1",
-  "rpc": "http://137.184.60.125:26657",
-  "rest": "http://137.184.60.125:1317",
+  "chainName": "Madrid",
+  "rpc": "https://froopyland.dymension.xyz/14/madrid_3756356-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/madrid_3756356-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x395144",
-    "rpc": "http://137.184.60.125:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/madrid_3756356-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
