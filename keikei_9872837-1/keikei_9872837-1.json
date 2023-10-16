@@ -1,0 +1,33 @@
+{
+    "chainId": "keikei_9872837-1",
+    "chainName": "keikei_9872837-1",
+    "rpc": "http://128.140.109.99:26657",
+    "rest": "http://128.140.109.99:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "eth",
+        "baseDenom": "ueth",
+        "decimals": 18,
+        "logo": "/logos/keikei_9872837-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/keikei_9872837-1.png",
+    "ibc": {
+      "hubChannel": "channel-6546",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x96a5c5",
+      "rpc": "http://128.140.109.99:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
