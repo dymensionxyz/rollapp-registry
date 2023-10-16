@@ -1,8 +1,8 @@
 {
   "chainId": "inter_2861223-1",
   "chainName": "inter",
-  "rpc": "http://137.184.146.100:26657",
-  "rest": "rpc": "http://137.184.146.100:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/inter_2861223-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/inter_2861223-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2ba8a7",
-    "rpc": "rpc": "http://137.184.146.100:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/inter_2861223-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
