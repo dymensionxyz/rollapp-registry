@@ -1,0 +1,33 @@
+{
+  "chainId": "rodrygos_9206854-1",
+  "chainName": "Rodrygos21",
+  "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RODY",
+      "baseDenom": "uRODY",
+      "decimals": 18,
+      "logo": "/logos/rodrygos_9206854-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rodrygos_9206854-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6550",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8c7c46",
+    "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rest"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
