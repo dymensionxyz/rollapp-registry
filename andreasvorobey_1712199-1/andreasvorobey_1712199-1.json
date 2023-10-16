@@ -1,8 +1,8 @@
 {
   "chainId": "andreasvorobey_1712199-1",
   "chainName": "AndreasVorobey",
-  "rpc": "http://95.217.104.49:26657",
-  "rest": "http://95.217.104.49:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/andreasvorobey_1712199-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/andreasvorobey_1712199-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1a2047",
-    "rpc": "http://95.217.104.49:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/andreasvorobey_1712199-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
