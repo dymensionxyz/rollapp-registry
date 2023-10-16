@@ -1,8 +1,8 @@
 {
   "chainId": "rodrygos_9206854-1",
   "chainName": "Rodrygos21",
-  "rpc": "http://194.36.209.93:26657/",
-  "rest": "http://194.36.209.93:1317/",
+  "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c7c46",
-    "rpc": "http://194.36.209.93:8545/"
+    "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rest"
   },
   "type": "RollApp",
   "da": "Celestia",
