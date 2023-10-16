@@ -1,8 +1,8 @@
 {
   "chainId": "tungstepn_3180871-1",
-  "chainName": "tungstepn_3180871-1",
-  "rpc": "http://113.161.121.228:26657",
-  "rest": "http://113.161.121.228:1317",
+  "chainName": "tungstepn",
+  "rpc": "https://froopyland.dymension.xyz/14/tungstepn_3180871-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/tungstepn_3180871-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x308947",
-    "rpc": "http://113.161.121.228:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/tungstepn_3180871-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
