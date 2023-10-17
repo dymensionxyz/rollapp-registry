@@ -1,8 +1,8 @@
 {
   "chainId": "todayornever_8803817-1",
-  "chainName": "todayornever_8803817-1",
-  "rpc": "http://178.128.230.120:26657",
-  "rest": "http://178.128.230.120:1317",
+  "chainName": "todayornever",
+  "rpc": "https://froopyland.dymension.xyz/14/todayornever_8803817-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/todayornever_8803817-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8655e9",
-    "rpc": "http://178.128.230.120:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/todayornever_8803817-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
