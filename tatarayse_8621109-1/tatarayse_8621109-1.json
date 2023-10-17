@@ -1,8 +1,8 @@
 {
   "chainId": "tatarayse_8621109-1",
-  "chainName": "tatarayse_8621109-1",
-  "rpc": "http://178.128.230.246:26657",
-  "rest": "http://178.128.230.246:1317",
+  "chainName": "tatarayse",
+  "rpc": "https://froopyland.dymension.xyz/14/tatarayse_8621109-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/tatarayse_8621109-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x838c35",
-    "rpc": "http://178.128.230.246:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/tatarayse_8621109-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
