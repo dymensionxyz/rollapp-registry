@@ -1,0 +1,33 @@
+{
+  "chainId": "patric_9482126-1",
+  "chainName": "patric_9482126-1",
+  "rpc": "http://165.22.230.229:26657",
+  "rest": "http://165.22.230.229:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "pat",
+      "baseDenom": "upat",
+      "decimals": 18,
+      "logo": "/logos/patric_9482126-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/patric_9482126-1.png",
+  "ibc": {
+    "hubChannel": "channel-6399",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x90af8e",
+    "rpc": "http://165.22.230.229:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
