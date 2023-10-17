@@ -1,0 +1,33 @@
+{
+  "chainId": "isodayi_6057880-1",
+  "chainName": "isodayi_6057880-1",
+  "rpc": "http://173.212.242.175:26657",
+  "rest": "http://173.212.242.175:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "iso",
+      "baseDenom": "uiso",
+      "decimals": 18,
+      "logo": "/logos/isodayi_6057880-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/isodayi_6057880-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5764",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5c6f98",
+    "rpc": "http://173.212.242.175:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
