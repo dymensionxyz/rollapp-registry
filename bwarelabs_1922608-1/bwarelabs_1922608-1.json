@@ -1,8 +1,8 @@
 {
   "chainId": "bwarelabs_1922608-1",
   "chainName": "Bware Labs",
-  "rpc": "http://142.132.132.164:36657",
-  "rest": "http://142.132.132.164:31317",
+  "rpc": "https://dym-rollapp-rpc.bwarelabs.com",
+  "rest": "https://dym-rollapp-rest.bwarelabs.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1d5630",
-    "rpc": "http://142.132.132.164:9545"
+    "rpc": "https://dym-rollapp-evm.bwarelabs.com"
   },
   "type": "RollApp",
   "da": "Celestia",
