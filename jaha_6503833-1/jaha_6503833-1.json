@@ -1,0 +1,33 @@
+{
+  "chainId": "jaha_6503833-1",
+  "chainName": "Jaha",
+  "rpc": "http://77.246.108.17:26657",
+  "rest": "http://77.246.108.17:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ujaha",
+      "baseDenom": "uujaha",
+      "decimals": 18,
+      "logo": "/logos/jaha_6503833-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jaha_6503833-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6608",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x633d99",
+    "rpc": "http://77.246.108.17:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
