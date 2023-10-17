@@ -1,0 +1,33 @@
+{
+  "chainId": "detective_7548613-1",
+  "chainName": "detective_7548613-1",
+  "rpc": "http://165.22.230.254:26657",
+  "rest": "http://165.22.230.254:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dec",
+      "baseDenom": "udec",
+      "decimals": 18,
+      "logo": "/logos/detective_7548613-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/detective_7548613-1.png",
+  "ibc": {
+    "hubChannel": "channel-6403",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x732ec5",
+    "rpc": "http://165.22.230.254:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
