@@ -1,0 +1,33 @@
+{
+    "chainId": "tutu_5568761-1",
+    "chainName": "tutu_5568761-1",
+    "rpc": "http://128.140.110.220:26657",
+    "rest": "http://128.140.110.220:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "TIA",
+        "baseDenom": "uTIA",
+        "decimals": 18,
+        "logo": "/logos/tutu_5568761-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/tutu_5568761-1.png",
+    "ibc": {
+      "hubChannel": "channel-6586",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x54f8f9",
+      "rpc": "http://128.140.110.220:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
