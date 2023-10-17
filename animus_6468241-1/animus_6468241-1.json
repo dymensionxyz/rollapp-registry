@@ -1,8 +1,8 @@
 {
   "chainId": "animus_6468241-1",
   "chainName": "Animus",
-  "rpc": "http://82.208.22.54:26657",
-  "rest": "http://82.208.22.54:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/animus_6468241-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/animus_6468241-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x62b291",
-    "rpc": "http://82.208.22.54:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/animus_6468241-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
