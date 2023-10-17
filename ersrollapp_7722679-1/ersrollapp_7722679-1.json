@@ -1,0 +1,33 @@
+networks.json:
+{
+  "chainId": "ersrollapp_7722679-1",
+  "chainName": "ersrollapp_7722679-1",
+  "rpc": "http://34.23.151.196:1317",
+  "rest": "http://34.23.151.196:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tnr",
+      "baseDenom": "utnr",
+      "decimals": 18,
+      "logo": "/logos/ersrollapp_7722679-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ersrollapp_7722679-1.png",
+  "ibc": {
+    "hubChannel": "channel-6601",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x75d6b7",
+    "rpc": "http://34.23.151.196:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
