@@ -1,8 +1,8 @@
 {
   "chainId": "jamesbond_5113796-1",
   "chainName": "jamesbond_5113796-1",
-  "rpc": "https://froopyland.dymension.xyz/12/jamesbond_5113796-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/jamesbond_5113796-1/rest",
+  "rpc": "14.248.82.171:26657",
+  "rest": "14.248.82.171:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
