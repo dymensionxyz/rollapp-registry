@@ -1,8 +1,8 @@
 {
   "chainId": "mymucaorollapp_9625159-1",
   "chainName": "Mucahit",
-  "rpc": "http://188.166.176.53:26657",
-  "rest": "http://188.166.176.53:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/mymucaorollapp_9625159-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/mymucaorollapp_9625159-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x92de47",
-    "rpc": "http://188.166.176.53:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/mymucaorollapp_9625159-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
