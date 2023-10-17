@@ -1,8 +1,8 @@
 {
   "chainId": "devilmaycry_2827710-1",
   "chainName": "Devil May Cry",
-  "rpc": "http://185.202.223.117:26657",
-  "rest": "http://185.202.223.117:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/devilmaycry_2827710-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/devilmaycry_2827710-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2b25be",
-    "rpc": "http://185.202.223.117:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/devilmaycry_2827710-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
