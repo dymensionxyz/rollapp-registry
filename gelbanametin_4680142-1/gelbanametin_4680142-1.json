@@ -1,8 +1,8 @@
 {
   "chainId": "gelbanametin_4680142-1",
-  "chainName": "gelbanametin_4680142-1",
-  "rpc": "http://178.128.230.150:26657",
-  "rest": "http://178.128.230.150:1317",
+  "chainName": "gelbanametin",
+  "rpc": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4769ce",
-    "rpc": "http://178.128.230.150:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
