@@ -1,8 +1,8 @@
 {
   "chainId": "mevsim_1060736-1",
-  "chainName": "mevsim_1060736-1",
-  "rpc": "http://85.239.233.40:26657",
-  "rest": "http://85.239.233.40:1317",
+  "chainName": "Mevsim",
+  "rpc": "https://froopyland.dymension.xyz/14/mevsim_1060736-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/mevsim_1060736-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x102f80",
-    "rpc": "http://85.239.233.40:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/mevsim_1060736-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
