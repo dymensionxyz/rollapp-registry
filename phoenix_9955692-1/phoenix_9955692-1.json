@@ -1,8 +1,8 @@
 {
   "chainId": "phoenix_9955692-1",
   "chainName": "Phoenix",
-  "rpc": "http://95.111.225.213:26657",
-  "rest": "http://95.111.225.213:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/phoenix_9955692-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/phoenix_9955692-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x97e96c",
-    "rpc": "http://95.111.225.213:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/phoenix_9955692-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
