@@ -1,6 +1,6 @@
 {
     "chainId": "swissstakingevm_2904573-1",
-    "chainName": "swissstakingevm_2904573-1",
+    "chainName": "Swissstakingevm",
     "rpc": "http://dymension-testnet.swiss-staking.ch:26657",
     "rest": "http://dymension-testnet.swiss-staking.ch:1317",
     "bech32Prefix": "ethm",
@@ -29,6 +29,7 @@
     "type": "RollApp",
     "da": "Celestia",
     "description": "LFGGG",
-    "analytics": true
+    "analytics": true,
+    "validator": true
   }
   
