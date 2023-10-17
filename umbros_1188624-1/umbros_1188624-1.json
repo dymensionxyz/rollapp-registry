@@ -1,22 +1,22 @@
 {
   "chainId": "umbros_1188624-1",
   "chainName": "Umbros",
-  "rpc": "http://185.185.82.57:26657",
-  "rest": "http://185.185.82.57:1317",
+  "rpc": "https://froopyland.dymension.xyz/14/umbros_1188624-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/umbros_1188624-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "UMB",
       "baseDenom": "uUMB",
       "decimals": 18,
-      "logo": "/logos/umbros_1188624-1.png",
+      "logo": "/logos/umbros_1188624-1.svg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/umbros_1188624-1.png",
+  "logo": "/logos/umbros_1188624-1.svg",
   "ibc": {
     "hubChannel": "channel-6610",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x122310",
-    "rpc": "http://185.185.82.57:8545"
+    "rpc": "https://froopyland.dymension.xyz/14/umbros_1188624-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
