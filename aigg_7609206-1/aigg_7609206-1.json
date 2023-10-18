@@ -1,8 +1,8 @@
 {
     "chainId": "aigg_7609206-1",
-    "chainName": "aigg_7609206-1",
-    "rpc": "http://91.107.227.152:26657",
-    "rest": "http://91.107.227.152:1317",
+    "chainName": "Aigg",
+    "rpc": "https://froopyland.dymension.xyz/15/aigg_7609206-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/15/aigg_7609206-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x741b76",
-      "rpc": "http://91.107.227.152:8545"
+      "rpc": "https://froopyland.dymension.xyz/15/aigg_7609206-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
