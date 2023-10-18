@@ -1,8 +1,8 @@
 {
   "chainId": "noderra_3833563-1",
-  "chainName": "noderra_3833563-1",
-  "rpc": "http://165.22.238.0:26657",
-  "rest": "http://165.22.238.0:1317",
+  "chainName": "noderra",
+  "rpc": "https://froopyland.dymension.xyz/15/noderra_3833563-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/noderra_3833563-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3a7edb",
-    "rpc": "http://165.22.238.0:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/noderra_3833563-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
