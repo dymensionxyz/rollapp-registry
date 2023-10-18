@@ -1,8 +1,8 @@
 {
     "chainId": "swissstakingevm_2904573-1",
-    "chainName": "Swissstakingevm",
-    "rpc": "http://dymension-testnet.swiss-staking.ch:26657",
-    "rest": "http://dymension-testnet.swiss-staking.ch:1317",
+    "chainName": "Swiss Staking AG",
+    "rpc": "https://dymension-testnet.swiss-staking.ch/rpc",
+    "rest": "https://dymension-testnet.swiss-staking.ch/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x2c51fd",
-      "rpc": "http://dymension-testnet.swiss-staking.ch:8545"
+      "rpc": "https://dymension-testnet.swiss-staking.ch/eth"
     },
     "type": "RollApp",
     "da": "Celestia",
