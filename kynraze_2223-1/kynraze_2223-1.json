@@ -1,0 +1,37 @@
+{
+    "da": "Avail",
+    "rpc": "https://froopyland.dymension.xyz/kynraze_2223-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/kynraze_2223-1/rest",
+    "evm": {
+      "chainId": "0x8af",
+      "rpc": "https://froopyland.dymension.xyz/kynraze_2223-1/evmrpc"
+    },
+    "chainName": "Kynraze",
+    "description": "Discover a new way to enhance your digital experience. Our platform offers a unique blend of features that cater to various needs. Our goal is to provide an all-in-one solution. Experience the future of convenience.",
+    "type": "RollApp",
+    "coinType": 60,
+    "explorerUrl": "https://testnet.kynraze.com/kynraze",
+    "exploreTxUrl": "https://testnet.kynraze.com/kynraze/tx/",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://kynraze.com",
+    "ibc": {
+      "timeout": 172800000,
+      "channel": "channel-5",
+      "hubChannel": "channel-536"
+    },
+    "logo": "/logos/kynraze_2223-1.png",
+    "chainId": "kynraze_2223-1",
+    "currencies": [
+      {
+        "baseDenom": "uKYN",
+        "decimals": 18,
+        "logo": "/logos/kynraze_2223-1.png",
+        "displayDenom": "KYN",
+        "type": "main"
+      }
+    ],
+    "bech32Prefix": "ethm",
+    "rewards": true,
+    "analytics": true,
+    "active": false
+  }
