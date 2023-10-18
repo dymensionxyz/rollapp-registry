@@ -1,0 +1,5 @@
+"rpc": "http://IP-ADRES:26657"
+
+"rest": "http://IP-ADRES:1317"
+
+"rpc": "http://IP-ADRES.8545"
