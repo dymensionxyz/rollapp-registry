@@ -1,8 +1,8 @@
 {
   "chainId": "detective_7548613-1",
   "chainName": "detective_7548613-1",
-  "rpc": "http://165.22.230.254:26657",
-  "rest": "http://165.22.230.254:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/detective_7548613-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/detective_7548613-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x732ec5",
-    "rpc": "http://165.22.230.254:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/detective_7548613-1/rest"
   },
   "type": "RollApp",
   "da": "Celestia",
