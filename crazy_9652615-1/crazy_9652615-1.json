@@ -1,8 +1,8 @@
 {
   "chainId": "crazy_9652615-1",
   "chainName": "Crazy",
-  "rpc": "https://froopyland.dymension.xyz/4/crazy_9652615-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/4/crazy_9652615-1/rest",
+  "rpc": "http://47.243.255.30:26657",
+  "rest": "http://47.243.255.30:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x934987",
-    "rpc": "https://froopyland.dymension.xyz/4/crazy_9652615-1/evmrpc"
+    "rpc": "http://47.243.255.30:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
