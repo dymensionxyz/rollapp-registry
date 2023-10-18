@@ -1,8 +1,8 @@
 {
     "chainId": "tutu_5568761-1",
-    "chainName": "tutu_5568761-1",
-    "rpc": "http://128.140.110.220:26657",
-    "rest": "http://128.140.110.220:1317",
+    "chainName": "Tutu",
+    "rpc": "https://froopyland.dymension.xyz/15/tutu_5568761-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/15/tutu_5568761-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x54f8f9",
-      "rpc": "http://128.140.110.220:8545"
+      "rpc": "https://froopyland.dymension.xyz/15/tutu_5568761-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
