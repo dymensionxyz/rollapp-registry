@@ -1,8 +1,8 @@
 {
   "chainId": "sweetapple_6163979-1",
   "chainName": "sweetapple_6163979-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://159.203.16.216:26657",
+  "rest": "http://159.203.16.216:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5e0e0b",
-    "rpc": ""
+    "rpc": "http://159.203.16.216:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
