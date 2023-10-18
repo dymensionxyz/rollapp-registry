@@ -1,8 +1,8 @@
 {
   "chainId": "sweetapple_6163979-1",
-  "chainName": "sweetapple_6163979-1",
-  "rpc": "http://159.203.16.216:26657",
-  "rest": "http://159.203.16.216:1317",
+  "chainName": "sweetapple",
+  "rpc": "https://froopyland.dymension.xyz/15/sweetapple_6163979-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/sweetapple_6163979-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5e0e0b",
-    "rpc": "http://159.203.16.216:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/sweetapple_6163979-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
