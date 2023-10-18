@@ -1,8 +1,8 @@
 {
     "chainId": "aisyk_1537220-1",
-    "chainName": "aisyk_1537220-1",
-    "rpc": "http://128.140.110.221:26657",
-    "rest": "http://128.140.110.221:1317",
+    "chainName": "Aisyk",
+    "rpc": "https://froopyland.dymension.xyz/15/aisyk_1537220-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/15/aisyk_1537220-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x1774c4",
-      "rpc": "http://128.140.110.221:8545"
+      "rpc": "https://froopyland.dymension.xyz/15/aisyk_1537220-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
