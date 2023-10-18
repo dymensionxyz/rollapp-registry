@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "taurusrollapp_2484522-1",
-  "chainName": "taurusrollapp_2484522-1",
-  "rpc": "http://65.21.191.76:26657",
-  "rest": "http://65.21.191.76:1317",
+  "chainName": "taurusrollapp",
+  "rpc": "https://froopyland.dymension.xyz/15/taurusrollapp_2484522-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/taurusrollapp_2484522-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25e92a",
-    "rpc": "http://65.21.191.76:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/taurusrollapp_2484522-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
