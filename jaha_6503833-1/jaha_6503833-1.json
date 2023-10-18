@@ -1,8 +1,8 @@
 {
   "chainId": "jaha_6503833-1",
   "chainName": "Jaha",
-  "rpc": "http://77.246.108.17:26657",
-  "rest": "http://77.246.108.17:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/jaha_6503833-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/jaha_6503833-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x633d99",
-    "rpc": "http://77.246.108.17:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/jaha_6503833-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
