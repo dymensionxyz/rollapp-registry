@@ -1,8 +1,8 @@
 {
   "chainId": "soma_9222030-1",
   "chainName": "Soma",
-  "rpc": "http://185.209.28.64:26657",
-  "rest": "http://185.209.28.64:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/soma_9222030-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/soma_9222030-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8cb78e",
-    "rpc": "http://185.209.28.64:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/soma_9222030-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
