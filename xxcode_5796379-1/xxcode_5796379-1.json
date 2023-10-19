@@ -1,15 +1,15 @@
 {
   "chainId": "xxcode_5796379-1",
   "chainName": "xxcode_5796379-1",
-  "rpc": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/rest",
+  "rpc": "http://139.59.123.82:26657",
+  "rest": "http://139.59.123.82:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "xxc",
       "baseDenom": "uxxc",
       "decimals": 18,
-      "logo": "/logos/xxcode_5796379-1.png",
+      "logo": "/logos/logos.jpeg",
       "type": "main"
     }
   ],
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x58721b",
-    "rpc": "https://froopyland.dymension.xyz/2/alfonova_5142124-1/evmrpc"
+    "rpc": "http://139.59.123.82:26657"
   },
   "type": "RollApp",
   "da": "Celestia",
