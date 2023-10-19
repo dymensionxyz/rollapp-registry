@@ -1,8 +1,8 @@
 {
   "chainId": "muckbaby_7678745-1",
-  "chainName": "muckbaby_7678745-1",
-  "rpc": "http://178.128.238.50:26657",
-  "rest": "http://178.128.238.50:1317",
+  "chainName": "muckbaby",
+  "rpc": "https://froopyland.dymension.xyz/15/muckbaby_7678745-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/muckbaby_7678745-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x752b19",
-    "rpc": "http://178.128.238.50:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/muckbaby_7678745-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
