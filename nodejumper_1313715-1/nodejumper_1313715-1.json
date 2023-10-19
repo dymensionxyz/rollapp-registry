@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x140bb3",
-    "rpc": "https://rollapp-emv.nodejumper.io"
+    "rpc": "https://rollapp-evm.nodejumper.io"
   },
   "type": "RollApp",
   "da": "Celestia",
