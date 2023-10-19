@@ -1,8 +1,8 @@
 {
   "chainId": "amazing_4113393-1",
-  "chainName": "amazing_4113393-1",
-  "rpc": "http://178.128.230.136:26657",
-  "rest": "http://178.128.230.136:1317",
+  "chainName": "amazing",
+  "rpc": "https://froopyland.dymension.xyz/15/amazing_4113393-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/amazing_4113393-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3ec3f1",
-    "rpc": "http://178.128.230.136:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/amazing_4113393-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
