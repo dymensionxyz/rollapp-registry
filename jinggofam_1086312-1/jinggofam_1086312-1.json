@@ -1,0 +1,33 @@
+{
+  "chainId": "jinggofam_1086312-1",
+  "chainName": "jinggofam_1086312-1",
+  "rpc": "http://165.22.249.66:26657",
+  "rest": "http://165.22.249.66:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "jfam",
+      "baseDenom": "ujfam",
+      "decimals": 18,
+      "logo": "/logos/jinggofam_1086312-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jinggofam_1086312-1.png",
+  "ibc": {
+    "hubChannel": "channel-6643",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x109368",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
