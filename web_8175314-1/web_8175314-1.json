@@ -1,0 +1,33 @@
+{
+  "chainId": "web_8175314-1",
+  "chainName": "web34ever",
+  "rpc": "http://dymension-rpc.web3validator.info:28457",
+  "rest": "http://dymension-rest.web3validator.info:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "web",
+      "baseDenom": "uweb",
+      "decimals": 18,
+      "logo": "/logos/web_8175314-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/web_8175314-1.png",
+  "ibc": {
+    "hubChannel": "channel-6635",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7cbed2",
+    "rpc": "http://dymension-json-rpc.web3validator.info:8845"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
