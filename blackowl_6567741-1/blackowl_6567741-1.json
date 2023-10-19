@@ -1,8 +1,8 @@
 {
   "chainId": "blackowl_6567741-1",
-  "chainName": "BlackOwl",
-  "rpc": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/rest",
+  "chainName": "blackowl_6567741-1",
+  "rpc": "http://5.180.81.225:26657",
+  "rest": "http://5.180.81.225:1317"
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x64373d",
-    "rpc": "https://froopyland.dymension.xyz/10/blackowl_6567741-1/evmrpc"
+    "rpc": "http://5.180.81.225:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
