@@ -1,8 +1,8 @@
 {
   "chainId": "logos_3138059-1",
   "chainName": "LOGOSNODOS",
-  "rpc": "http://194.147.58.132:26657",
-  "rest": "http://194.147.58.132:1317",
+  "rpc": "http://67.205.142.93:26657",
+  "rest": "http://67.205.142.93:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2fe20b",
-    "rpc": "http://194.147.58.132:8545"
+    "rpc": "http://67.205.142.93:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
