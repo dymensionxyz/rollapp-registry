@@ -29,5 +29,6 @@
   "da": "Celestia",
   "description": "Rollapp from silent validator, have fun",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "validator": true
 }

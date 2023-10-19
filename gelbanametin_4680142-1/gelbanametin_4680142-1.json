@@ -1,0 +1,33 @@
+{
+  "chainId": "gelbanametin_4680142-1",
+  "chainName": "gelbanametin",
+  "rpc": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "glm",
+      "baseDenom": "uglm",
+      "decimals": 18,
+      "logo": "/logos/gelbanametin_4680142-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/gelbanametin_4680142-1.png",
+  "ibc": {
+    "hubChannel": "channel-6599",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4769ce",
+    "rpc": "https://froopyland.dymension.xyz/14/gelbanametin_4680142-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
