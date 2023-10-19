@@ -1,8 +1,8 @@
 {
   "chainId": "logos_3138059-1",
   "chainName": "LOGOSNODOS",
-  "rpc": "https://froopyland.dymension.xyz/4/logos_3138059-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/4/logos_3138059-1/rest",
+  "rpc": "http://194.147.58.132:26657",
+  "rest": "http://194.147.58.132:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2fe20b",
-    "rpc": "https://froopyland.dymension.xyz/4/logos_3138059-1/evmrpc"
+    "rpc": "http://194.147.58.132:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
