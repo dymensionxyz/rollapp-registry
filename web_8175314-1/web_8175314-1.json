@@ -1,8 +1,8 @@
 {
   "chainId": "web_8175314-1",
   "chainName": "web34ever",
-  "rpc": "http://dymension-rpc.web3validator.info:28457",
-  "rest": "http://dymension-rest.web3validator.info:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/web_8175314-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/web_8175314-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7cbed2",
-    "rpc": "http://dymension-json-rpc.web3validator.info:8845"
+    "rpc": "https://froopyland.dymension.xyz/15/web_8175314-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
