@@ -6,8 +6,8 @@
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "blw",
-      "baseDenom": "ublw",
+      "displayDenom": "BLW",
+      "baseDenom": "uBLW",
       "decimals": 18,
       "logo": "/logos/blackowl_6567741-1.png",
       "type": "main"
