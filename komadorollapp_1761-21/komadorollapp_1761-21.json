@@ -1,8 +1,8 @@
 {
   "chainId": "komadorollapp_1761-21",
   "chainName": "Komado RollApp",
-  "rpc": "http://65.21.241.100:26657",
-  "rest": "http://65.21.241.100:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/komadorollapp_1761-21/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/komadorollapp_1761-21/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e1",
-    "rpc": "http://65.21.241.100:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/komadorollapp_1761-21/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
