@@ -1,8 +1,8 @@
 {
   "chainId": "freeeman_5902605-1",
   "chainName": "Freeeman",
-  "rpc": "http://88.210.6.142:26657",
-  "rest": "http://88.210.6.142:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/freeeman_5902605-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/freeeman_5902605-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5a110d",
-    "rpc": "http://88.210.6.142:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/freeeman_5902605-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
