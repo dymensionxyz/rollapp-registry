@@ -1,8 +1,8 @@
 {
   "chainId": "ghe_2524960-1",
-  "chainName": "ghe_2524960-1",
-  "rpc": "http://104.248.154.5:26657",
-  "rest": "http://104.248.154.5:1317",
+  "chainName": "Ghe",
+  "rpc": "https://froopyland.dymension.xyz/15/ghe_2524960-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/ghe_2524960-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x268720",
-    "rpc": "http://104.248.154.5:8548"
+    "rpc": "https://froopyland.dymension.xyz/15/ghe_2524960-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
