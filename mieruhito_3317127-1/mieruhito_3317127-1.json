@@ -1,0 +1,32 @@
+{
+  "chainId": "mieruhito_3317127-1",
+  "chainName": "Mieruhito RollApp",
+  "rpc": "http://159.223.218.242:26657",
+  "rest": "http://159.223.218.242:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MTO",
+      "baseDenom": "uMTO",
+      "decimals": 18,
+      "logo": "/logos/mieruhito_3317127-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://twitter.com/0xRamaa",
+  "logo": "/logos/mieruhito_3317127-1.png",
+  "ibc": {
+    "hubChannel": "channel-6669",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x329d87",
+    "rpc": "http://159.223.218.242:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "analytics": true
+}
