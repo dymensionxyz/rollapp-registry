@@ -1,8 +1,8 @@
 {
   "chainId": "honeztwo_3056708-1",
-  "chainName": "honeztwo_3056708-1",
-  "rpc": "http://159.203.18.103:26657/",
-  "rest": "http://159.203.18.103:1317/",
+  "chainName": "Honeztwo",
+  "rpc": "https://froopyland.dymension.xyz/15/honeztwo_3056708-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/honeztwo_3056708-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2ea444",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/15/honeztwo_3056708-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
