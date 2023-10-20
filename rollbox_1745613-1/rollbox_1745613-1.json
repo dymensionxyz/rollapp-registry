@@ -1,8 +1,8 @@
 {
   "chainId": "rollbox_1745613-1",
   "chainName": "Rollbox",
-  "rpc": "http://65.108.83.105:26657",
-  "rest": "http://65.108.83.105:1317",
+  "rpc": "https://froopyland.dymension.xyz/15/rollbox_1745613-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/rollbox_1745613-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1aa2cd",
-    "rpc": "http://65.108.83.105:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/rollbox_1745613-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
