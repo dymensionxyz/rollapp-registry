@@ -1,6 +1,6 @@
 {
   "chainId": "markcn_5627206-1",
-  "chainName": "markcn_5627206-1",
+  "chainName": "markcn",
   "rpc": "http://85.10.199.157:26657",
   "rest": "http://85.10.199.157:1317",
   "bech32Prefix": "ethm",
