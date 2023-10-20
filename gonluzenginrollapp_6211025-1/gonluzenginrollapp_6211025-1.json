@@ -1,8 +1,8 @@
 {
   "chainId": "gonluzenginrollapp_6211025-1",
-  "chainName": "gonluzenginrollapp_6211025-1",
-  "rpc": "http://149.102.131.176:26657",
-  "rest": "http://149.102.131.176:1317",
+  "chainName": "Gonluzenginrollapp",
+  "rpc": "https://froopyland.dymension.xyz/15/gonluzenginrollapp_6211025-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/gonluzenginrollapp_6211025-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5ec5d1",
-    "rpc": "http://149.102.131.176:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/gonluzenginrollapp_6211025-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
