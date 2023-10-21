@@ -1,22 +1,22 @@
 {
   "chainId": "loemrzva_9215981-1",
-  "chainName": "loemrzva_9215981-1",
-  "rpc": "http://95.217.22.241:26657",
-  "rest": "http://95.217.22.241:1317",
+  "chainName": "loemrzva",
+  "rpc": "https://froopyland.dymension.xyz/15/loemrzva_9215981-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/loemrzva_9215981-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "LOE",
       "baseDenom": "uLOE",
       "decimals": 18,
-      "logo": "/logos/loemrzva_9215981-1.png",
+      "logo": "/logos/loemrzva_9215981-1.jpeg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "http://95.217.22.241:8545",
-  "logo": "/logos/loemrzva_9215981-1.png",
+  "website": "",
+  "logo": "/logos/loemrzva_9215981-1.jpeg",
   "ibc": {
     "hubChannel": "channel-6713",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c9fed",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/15/loemrzva_9215981-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
