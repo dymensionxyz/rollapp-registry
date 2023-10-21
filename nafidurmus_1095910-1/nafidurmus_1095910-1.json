@@ -1,8 +1,8 @@
 {
     "chainId": "nafidurmus_1095910-1",
-    "chainName": "nafidurmus_1095910-1",
-    "rpc": "https://froopyland.dymension.xyz/nafidurmus_1095910-1/",
-    "rest": "https://froopyland.dymension.xyz/nafidurmus_1095910-1/",
+    "chainName": "nafidurmus",
+    "rpc": "https://froopyland.dymension.xyz/15/nafidurmus_1095910-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/15/nafidurmus_1095910-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x10b8e6",
-      "rpc": "https://froopyland.dymension.xyz/3/nafidurmus_1095910-1/evmrpc"
+      "rpc": "https://froopyland.dymension.xyz/15/nafidurmus_1095910-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
