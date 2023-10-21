@@ -9,14 +9,14 @@
       "displayDenom": "fkh",
       "baseDenom": "ufkh",
       "decimals": 18,
-      "logo": "/logos/fakehamster_5348456-1.png",
+      "logo": "/logos/photo_2023-10-21_15-27-03.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/fakehamster_5348456-1.png",
+  "logo": "/logos/photo_2023-10-21_15-27-03.jpg",
   "ibc": {
     "hubChannel": "channel-6703",
     "channel": "channel-0",
