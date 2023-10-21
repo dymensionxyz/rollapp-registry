@@ -1,8 +1,8 @@
 {
   "chainId": "fakehamster_5348456-1",
-  "chainName": "fakehamster_5348456-1",
-  "rpc": "http://167.172.90.117:26657",
-  "rest": "http://167.172.90.117:1317",
+  "chainName": "fakehamster",
+  "rpc": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x519c68",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
