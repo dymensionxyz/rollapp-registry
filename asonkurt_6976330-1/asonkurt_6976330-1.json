@@ -1,8 +1,8 @@
 {
   "chainId": "asonkurt_6976330-1",
-  "chainName": "asonkurt_6976330-1",
-  "rpc": "http://164.68.97.15:26657",
-  "rest": "http://164.68.97.15:1317",
+  "chainName": "Asonkurt",
+  "rpc": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6a734a",
-    "rpc": "http://164.68.97.15:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
