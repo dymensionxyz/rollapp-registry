@@ -1,6 +1,6 @@
 {
   "chainId": "jarvis_2259102-1",
-  "chainName": "jarvis_2259102-1",
+  "chainName": "Jarvis",
   "rpc": "http://157.245.60.246:26657/",
   "rest": "http://157.245.60.246:1317/",
   "bech32Prefix": "ethm",
