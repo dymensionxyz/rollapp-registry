@@ -1,8 +1,8 @@
 {
   "chainId": "ninja_8360548-1",
-  "chainName": "ninja_8360548-1",
-  "rpc": "http://185.139.228.192:26657",
-  "rest": "http://185.139.228.192:1317",
+  "chainName": "Ninja",
+  "rpc": "https://froopyland.dymension.xyz/15/ninja_8360548-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/ninja_8360548-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f9264",
-    "rpc": "http://185.139.228.192:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/ninja_8360548-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
