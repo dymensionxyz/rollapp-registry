@@ -1,8 +1,8 @@
 {
   "chainId": "thxuh_5069837-1",
-  "chainName": "thxuh_5069837-1",
-  "rpc": "http://65.21.110.105:266575",
-  "rest": "http://65.21.110.105:1317",
+  "chainName": "thxuh",
+  "rpc": "https://froopyland.dymension.xyz/15/thxuh_5069837-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/thxuh_5069837-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d5c0d",
-    "rpc": "http://65.21.110.105:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/thxuh_5069837-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
