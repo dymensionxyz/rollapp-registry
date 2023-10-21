@@ -1,8 +1,8 @@
 {
   "chainId": "dimazzz_7539320-1",
-  "chainName": "dimazzz_7539320-1",
-  "rpc": "https://194.113.210.171:26657",
-  "rest": "https://194.113.210.171:1317",
+  "chainName": "Dimazzz",
+  "rpc": "https://froopyland.dymension.xyz/15/dimazzz_7539320-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/dimazzz_7539320-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x730a78",
-    "rpc": "https://194.113.210.171:8545"
+    "rpc": "https://froopyland.dymension.xyz/15/dimazzz_7539320-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
