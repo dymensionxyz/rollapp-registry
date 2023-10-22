@@ -1,5 +1,5 @@
-{ "chainId": "betrix_8685976-1", "chainName": "betrix_8685976-1", "rpc": "", "rest": 
-  "", "bech32Prefix": "ethm", "currencies": [
+{ "chainId": "betrix_8685976-1", "chainName": "betrix_8685976-1", "rpc": "173.212.215.122:26657", "rest": 
+  "173.212.215.122:1317", "bech32Prefix": "ethm", "currencies": [
     { "displayDenom": "BTX", "baseDenom": "uBTX", "decimals": 18, "logo": 
       "/logos/betrix_8685976-1.png", "type": "main"
     }
@@ -8,7 +8,7 @@
   "logo": "/logos/betrix_8685976-1.png", "ibc": {
     "hubChannel": "channel-6723", "channel": "channel-0", "timeout": 172800000
   },
-  "evm": { "chainId": "0x848998", "rpc": ""
+  "evm": { "chainId": "0x848998", "rpc": "173.212.215.122:26657"
   },
   "type": "RollApp", "da": "Celestia", "description": "",
   "analytics": true
