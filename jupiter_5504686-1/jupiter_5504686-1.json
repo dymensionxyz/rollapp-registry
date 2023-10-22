@@ -32,5 +32,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "active": false
 }
