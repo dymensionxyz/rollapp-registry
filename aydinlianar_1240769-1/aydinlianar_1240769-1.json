@@ -1,8 +1,8 @@
 {
   "chainId": "aydinlianar_1240769-1",
   "chainName": "aydinlianar_1240769-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://135.181.251.247:26657",
+  "rest": "http://135.181.251.247:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x12eec1",
-    "rpc": ""
+    "rpc": "http://135.181.251.247:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
