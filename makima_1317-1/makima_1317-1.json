@@ -21,8 +21,8 @@
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "logo": "/logos/makima_1317-1.png",
     "ibc": {
-      "hubChannel": "channel-5346",
-      "channel": "channel-49",
+      "hubChannel": "channel-2725",
+      "channel": "channel-1",
       "timeout": 172800000
     },
     "evm": {
