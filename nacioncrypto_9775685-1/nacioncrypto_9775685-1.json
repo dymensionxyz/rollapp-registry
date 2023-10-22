@@ -1,8 +1,8 @@
 {
   "chainId": "nacioncrypto_9775685-1",
   "chainName": "Nacioncrypto - Parceros",
-  "rpc": "5.161.187.226:26657",
-  "rest": "5.161.187.226:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/nacioncrypto_9775685-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/nacioncrypto_9775685-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x952a45",
-    "rpc": "5.161.187.226:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/nacioncrypto_9775685-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
