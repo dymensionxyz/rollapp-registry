@@ -1,8 +1,8 @@
 {
   "chainId": "jacoboita_3475158-1",
-  "chainName": "jacoboita_3475158-1",
-  "rpc": "49.12.189.29:26657",
-  "rest": "49.12.189.29:1317",
+  "chainName": "Jacoboita",
+  "rpc": "https://froopyland.dymension.xyz/16/jacoboita_3475158-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/jacoboita_3475158-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3506d6",
-    "rpc": "49.12.189.29:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/jacoboita_3475158-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
