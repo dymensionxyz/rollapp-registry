@@ -33,4 +33,5 @@
   "description": "",
   "analytics": true,
   "rewards": true,
+  "active": true
 }
