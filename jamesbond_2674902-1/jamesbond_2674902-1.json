@@ -1,8 +1,8 @@
 {
   "chainId": "jamesbond_2674902-1",
-  "chainName": "jamesbond_2674902-1",
-  "rpc": "45.76.205.6:26657",
-  "rest": "45.76.205.6:1317",
+  "chainName": "Jamesbond",
+  "rpc": "https://froopyland.dymension.xyz/16/jamesbond_2674902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/jamesbond_2674902-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x28d0d6",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/16/jamesbond_2674902-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
