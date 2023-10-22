@@ -1,8 +1,8 @@
 {
   "chainId": "hisiri_9147095-1",
   "chainName": "hisiri_9147095-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopy-rollapp-rpc.hisiri.com",
+  "rest": "https://froopy-rollapp-rest.hisiri.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8b92d7",
-    "rpc": ""
+    "rpc": "https://froopy-rollapp-jsonrpc.hisiri.com"
   },
   "type": "RollApp",
   "da": "Celestia",
