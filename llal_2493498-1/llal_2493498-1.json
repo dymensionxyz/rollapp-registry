@@ -1,0 +1,33 @@
+{
+  "chainId": "llal_2493498-1",
+  "chainName": "llal",
+  "rpc": "https://froopyland.dymension.xyz/13/llal_2493498-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/llal_2493498-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lla",
+      "baseDenom": "ulla",
+      "decimals": 18,
+      "logo": "/logos/dio-brando-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dio-brando-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6536",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x260c3a",
+    "rpc": "https://froopyland.dymension.xyz/13/llal_2493498-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

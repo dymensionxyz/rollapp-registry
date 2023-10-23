@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
+  "website": "https://coinhunters-dym.vercel.app/",
   "logo": "/logos/coinhunterstrrollap_9084503-1.png",
   "ibc": {
     "hubChannel": "channel-5446",

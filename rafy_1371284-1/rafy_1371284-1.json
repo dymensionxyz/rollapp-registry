@@ -1,0 +1,34 @@
+{
+  "chainId": "rafy_1371284-1",
+  "chainName": "Rafy",
+  "rpc": "https://froopyland.dymension.xyz/11/rafy_1371284-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/rafy_1371284-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAF",
+      "baseDenom": "uRAF",
+      "decimals": 18,
+      "logo": "/logos/rafy_1371284-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rafy_1371284-1.png",
+  "ibc": {
+    "hubChannel": "channel-6176",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x14ec94",
+    "rpc": "https://froopyland.dymension.xyz/11/rafy_1371284-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "active": false
+}
