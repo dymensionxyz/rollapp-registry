@@ -1,8 +1,8 @@
 {
   "chainId": "slowyn_6232773-1",
-  "chainName": "slowyn_6232773-1",
-  "rpc": "http://143.198.85.37:26657",
-  "rest": "http://143.198.85.37:1317",
+  "chainName": "Slowyn",
+  "rpc": "https://froopyland.dymension.xyz/16/slowyn_6232773-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/slowyn_6232773-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5f1ac5",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/16/slowyn_6232773-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
