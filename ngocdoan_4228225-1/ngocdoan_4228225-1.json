@@ -31,5 +31,6 @@
   "da": "Celestia",
   "description": "Owlstake NFT Marketplace",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "active": false
 }

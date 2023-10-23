@@ -32,5 +32,6 @@
     ],
     "bech32Prefix": "ethm",
     "rewards": true,
-    "analytics": true    
+    "analytics": true,
+    "active": false
   }
