@@ -1,8 +1,8 @@
 {
     "chainId": "yeksin_4868625-1",
     "chainName": "Yeksin",
-    "rpc": "http://95.216.142.115:26657",
-    "rest": "http://95.216.142.115:1317",
+    "rpc": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x4a4a11",
-      "rpc": "http://95.216.142.115:8545"
+      "rpc": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
