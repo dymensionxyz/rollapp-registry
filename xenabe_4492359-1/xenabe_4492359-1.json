@@ -1,6 +1,6 @@
 {
   "chainId": "xenabe_4492359-1",
-  "chainName": "xenabe_4492359-1",
+  "chainName": "Xenabe RollApp",
   "rpc": "http://81.200.154.242:26657",
   "rest": "http://81.200.154.242:1317",
   "bech32Prefix": "ethm",
