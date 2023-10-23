@@ -1,8 +1,8 @@
 {
   "chainId": "mubarekt_2939717-1",
   "chainName": "Mubarekt",
-  "rpc": "http://65.108.51.223:26657",
-  "rest": "http://65.108.51.223:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/mubarekt_2939717-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/mubarekt_2939717-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2cdb45",
-    "rpc": "http://65.108.51.223:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/mubarekt_2939717-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
