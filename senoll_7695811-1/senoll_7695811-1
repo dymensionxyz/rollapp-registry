@@ -1,8 +1,8 @@
 {
   "chainId": "senoll_7695811-1",
   "chainName": "senoll_7695811-1",
-  "rpc": "https://froopyland.dymension.xyz/senoll_7695811-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/senoll_7695811-1/rest",
+  "rpc": "http://159.69.177.205:26657",
+  "rest": "http://159.69.177.205:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x756dc3",
-    "rpc": ""
+    "rpc": "http://159.69.177.205:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
