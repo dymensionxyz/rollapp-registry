@@ -1,8 +1,8 @@
 {
   "chainId": "provalidator_6744419-1",
-  "chainName": "provalidator_6744419-1",
-  "rpc": "https://froopyland.dymension.xyz/14/provalidator_6744419-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/14/provalidator_6744419-1/rest",
+  "chainName": "Provalidator",
+  "rpc": "https://froopyland.dymension.xyz/16/provalidator_6744419-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/provalidator_6744419-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x66e963",
-    "rpc": "https://froopyland.dymension.xyz/14/provalidator_6744419-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/16/provalidator_6744419-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "Supporting Blockchain Infrastructure",
-  "analytics": true
+  "analytics": true,
+ "validator": true
 }
