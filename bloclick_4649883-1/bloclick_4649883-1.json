@@ -1,0 +1,33 @@
+{
+  "chainId": "bloclick_4649883-1",
+  "chainName": "BloClick",
+  "rpc": "http://65.21.74.228:26657",
+  "rest": "http://65.21.74.228:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "block",
+      "baseDenom": "ublock",
+      "decimals": 18,
+      "logo": "/logos/bloclick_4649883-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bloclick_4649883-1.png",
+  "ibc": {
+    "hubChannel": "channel-6527",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x46f39b",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "BloClick RollApp sample",
+  "analytics": true
+}
