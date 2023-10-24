@@ -1,8 +1,8 @@
 {
   "chainId": "markcn_5627206-1",
   "chainName": "markcn",
-  "rpc": "http://85.10.199.157:26657",
-  "rest": "http://85.10.199.157:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/markcn_5627206-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/markcn_5627206-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x55dd46",
-    "rpc": "http://85.10.199.157:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/markcn_5627206-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
