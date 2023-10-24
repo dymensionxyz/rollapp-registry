@@ -1,8 +1,8 @@
 {
   "chainId": "goldentor_3055875-1",
   "chainName": "GOLDENTOR",
-  "rpc": "http://157.90.128.250:26657",
-  "rest": "http://157.90.128.250:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/goldentor_3055875-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/goldentor_3055875-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2ea103",
-    "rpc": "http://157.90.128.250:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/goldentor_3055875-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
