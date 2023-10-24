@@ -1,8 +1,8 @@
 {
   "chainId": "babyfuchia_1149599-1",
-  "chainName": "babyfuchia_1149599-1",
-  "rpc": "http://83.229.87.168:26657",
-  "rest": "http://83.229.87.168:1317",
+  "chainName": "Babyfuchia",
+  "rpc": "https://froopyland.dymension.xyz/17/babyfuchia_1149599-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/babyfuchia_1149599-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x118a9f",
-    "rpc": "http://83.229.87.168:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/babyfuchia_1149599-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
