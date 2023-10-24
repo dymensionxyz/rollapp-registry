@@ -1,8 +1,8 @@
 {
   "chainId": "stakin_1768017-1",
-  "chainName": "stakin_1768017-1",
-  "rpc": "http://95.217.119.56:26657",
-  "rest": "http://95.217.119.56:1317",
+  "chainName": "Stakin",
+  "rpc": "https://froopyland.dymension.xyz/17/stakin_1768017-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/stakin_1768017-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x1afa51",
-    "rpc": "http://95.217.119.56:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/stakin_1768017-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
