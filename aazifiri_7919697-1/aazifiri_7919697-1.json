@@ -1,8 +1,8 @@
 {
   "chainId": "aazifiri_7919697-1",
-  "chainName": "aazifiri_7919697-1",
-  "rpc": "http://135.181.251.2:26657",
-  "rest": "http://135.181.251.2:1317",
+  "chainName": "aazifiri",
+  "rpc": "https://froopyland.dymension.xyz/16/aazifiri_7919697-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/aazifiri_7919697-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x78d851",
-    "rpc": "http://135.181.251.2:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/aazifiri_7919697-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
