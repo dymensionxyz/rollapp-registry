@@ -1,8 +1,8 @@
 {
   "chainId": "xenabe_4492359-1",
   "chainName": "Xenabe RollApp",
-  "rpc": "http://81.200.154.242:26657",
-  "rest": "http://81.200.154.242:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/xenabe_4492359-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/xenabe_4492359-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x448c47",
-    "rpc": "http://81.200.154.242:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/xenabe_4492359-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
