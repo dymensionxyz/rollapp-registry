@@ -1,0 +1,33 @@
+{
+  "chainId": "babyfuchia_1149599-1",
+  "chainName": "babyfuchia_1149599-1",
+  "rpc": "http://83.229.87.168:26657",
+  "rest": "http://83.229.87.168:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "bby",
+      "baseDenom": "ubby",
+      "decimals": 18,
+      "logo": "/logos/babyfuchia_1149599-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/babyfuchia_1149599-1.png",
+  "ibc": {
+    "hubChannel": "channel-6744",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x118a9f",
+    "rpc": "http://83.229.87.168:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "LUWEEEEEE...",
+  "analytics": true
+}
