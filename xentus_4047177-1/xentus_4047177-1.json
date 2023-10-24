@@ -1,8 +1,8 @@
 {
   "chainId": "xentus_4047177-1",
   "chainName": "xentus_4047177-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://194.163.178.193:26657/",
+  "rest": "http://194.163.178.193:1317/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3dc149",
-    "rpc": ""
+    "rpc": "http://194.163.178.193:8545/"
   },
   "type": "RollApp",
   "da": "Celestia",
