@@ -1,0 +1,33 @@
+{
+  "chainId": "doinq_3826789-1",
+  "chainName": "DQ",
+  "rpc": "http://207.180.207.148:26657",
+  "rest": "http://207.180.207.148:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DOINQ",
+      "baseDenom": "uDOINQ",
+      "decimals": 18,
+      "logo": "/logos/doinq_3826789-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/doinq_3826789-1.png",
+  "ibc": {
+    "hubChannel": "channel-6771",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3a6465",
+    "rpc": "http://207.180.207.148:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Powwer of Q",
+  "analytics": true
+}
