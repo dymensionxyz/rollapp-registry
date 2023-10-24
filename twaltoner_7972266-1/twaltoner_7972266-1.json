@@ -1,8 +1,8 @@
 {
   "chainId": "twaltoner_7972266-1",
   "chainName": "twaltoner1",
-  "rpc": "http://95.217.114.220:26657",
-  "rest": "http://95.217.114.220:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/twaltoner_7972266-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/twaltoner_7972266-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -16,7 +16,7 @@
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/twaltoner_7972266-1.png",
+  "logo": "/logos/twaltoner_7972266-1.jpg",
   "ibc": {
     "hubChannel": "channel-6756",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x79a5aa",
-    "rpc": "http://95.217.114.220:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/twaltoner_7972266-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
