@@ -1,8 +1,8 @@
 {
   "chainId": "harunn_6724406-1",
-  "chainName": "harunn_6724406-1",
-  "rpc": "http://194.163.138.250:26657",
-  "rest": "http://194.163.138.250:1317",
+  "chainName": "Harunn",
+  "rpc": "https://froopyland.dymension.xyz/17/harunn_6724406-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/harunn_6724406-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x669b36",
-    "rpc": "http://194.163.138.250:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/harunn_6724406-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
