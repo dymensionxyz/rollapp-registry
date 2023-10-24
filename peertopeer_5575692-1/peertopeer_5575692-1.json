@@ -1,6 +1,6 @@
 {
   "chainId": "peertopeer_5575692-1",
-  "chainName": "peertopeer_5575692-1",
+  "chainName": "peertopeer",
   "rpc": "https://rollapp.dymension-testnet.tm.p2p.org",
   "rest": "https://rollapp-api.dymension-testnet.tm.p2p.org",
   "bech32Prefix": "ethm",
