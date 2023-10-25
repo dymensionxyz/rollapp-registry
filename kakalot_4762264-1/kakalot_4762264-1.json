@@ -1,6 +1,6 @@
 {
   "chainId": "kakalot_4762264-1",
-  "chainName": "kakalot_4762264-1",
+  "chainName": "Kakalot",
   "rpc": "http://dungdn.ddns.net:26657",
   "rest": "http://dungdn.ddns.net:1317",
   "bech32Prefix": "ethm",
