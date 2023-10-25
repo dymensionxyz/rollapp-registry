@@ -9,7 +9,6 @@
     },
     "chainName": "Gochain",
     "type": "RollApp",
-    "analytics": true,
     "coinType": 60,
     "ibc": {
       "timeout": 172800000,
@@ -28,5 +27,6 @@
       }
     ],
     "bech32Prefix": "ethm",
+    "analytics": true,
     "rewards": true
   }
