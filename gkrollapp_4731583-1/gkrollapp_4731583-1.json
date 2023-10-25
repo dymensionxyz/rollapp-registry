@@ -1,8 +1,8 @@
 {
   "chainId": "gkrollapp_4731583-1",
   "chainName": "GK-FSO",
-  "rpc": "https://froopyland.dymension.xyz/12/gkrollapp_4731583-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/gkrollapp_4731583-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/15/gkrollapp_4731583-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/gkrollapp_4731583-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4832bf",
-    "rpc": "https://froopyland.dymension.xyz/12/gkrollapp_4731583-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/15/gkrollapp_4731583-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
