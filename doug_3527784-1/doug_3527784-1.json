@@ -1,0 +1,33 @@
+{
+  "chainId": "doug_3527784-1",
+  "chainName": "doug_3527784-1",
+  "rpc": "45.77.29.125:26657",
+  "rest": "45.77.29.125:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DOG",
+      "baseDenom": "uDOG",
+      "decimals": 18,
+      "logo": "/logos/doug_3527784-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/doug_3527784-1.png",
+  "ibc": {
+    "hubChannel": "channel-6790",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x35d468",
+    "rpc": "45.77.29.125:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
