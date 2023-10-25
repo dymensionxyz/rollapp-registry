@@ -1,8 +1,8 @@
 {
   "chainId": "coppern_4135160-1",
-  "chainName": "coppern_4135160-1",
-  "rpc": "http://62.171.161.9:26657",
-  "rest": "http://62.171.161.9:1317",
+  "chainName": "Coppern",
+  "rpc": "https://froopyland.dymension.xyz/17/coppern_4135160-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/coppern_4135160-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3f18f8",
-    "rpc": "http://62.171.161.9:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/coppern_4135160-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
