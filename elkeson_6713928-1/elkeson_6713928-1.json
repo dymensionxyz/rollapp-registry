@@ -1,0 +1,33 @@
+{
+  "chainId": "elkeson_6713928-1",
+  "chainName": "elkeson_6713928-1",
+  "rpc": "45.32.35.179:26657",
+  "rest": "45.32.35.179:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ELK",
+      "baseDenom": "uELK",
+      "decimals": 18,
+      "logo": "/logos/elkeson_6713928-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/elkeson_6713928-1.png",
+  "ibc": {
+    "hubChannel": "channel-6738",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x667248",
+    "rpc": "45.32.35.179:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
