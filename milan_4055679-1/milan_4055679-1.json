@@ -1,8 +1,8 @@
 {
   "chainId": "milan_4055679-1",
   "chainName": "Milan",
-  "rpc": "https://167.235.243.27:26657",
-  "rest": "https://167.235.243.27:1317",
+  "rpc": "https://88.99.13.85:26657",
+  "rest": "https://88.99.13.85:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3de27f",
-    "rpc": "https://167.235.243.27:8545"
+    "rpc": "https://88.99.13.85:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
