@@ -1,0 +1,33 @@
+{
+  "chainId": "imperator_5585515-1",
+  "chainName": "imperator_5585515-1",
+  "rpc": "http://88.198.8.79:3251",
+  "rest": "http://88.198.8.79:3253",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IMP",
+      "baseDenom": "uIMP",
+      "decimals": 18,
+      "logo": "/logos/imperator_5585515-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/imperator_5585515-1.png",
+  "ibc": {
+    "hubChannel": "channel-6791",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x553a6b",
+    "rpc": "http://88.198.8.79:3259"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
