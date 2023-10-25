@@ -1,8 +1,8 @@
 {
   "chainId": "kakalot_4762264-1",
   "chainName": "Kakalot",
-  "rpc": "http://dungdn.ddns.net:26657",
-  "rest": "http://dungdn.ddns.net:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x48aa98",
-    "rpc": "http://dungdn.ddns.net:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/mrkakalot_8010004-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
