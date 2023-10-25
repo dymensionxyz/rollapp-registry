@@ -1,8 +1,8 @@
 {
   "chainId": "imperator_5585515-1",
   "chainName": "imperator_5585515-1",
-  "rpc": "http://88.198.8.79:3251",
-  "rest": "http://88.198.8.79:3253",
+  "rpc": "https://rollapp-dymension-rpc.imperator.co/",
+  "rest": "https://rollapp-dymension-rest.imperator.co/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x553a6b",
-    "rpc": "http://88.198.8.79:3259"
+    "rpc": "https://rollapp-dymension-evm.imperator.co/"
   },
   "type": "RollApp",
   "da": "Celestia",
