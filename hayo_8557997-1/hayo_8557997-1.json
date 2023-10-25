@@ -1,3 +1,4 @@
+{
 "chainId": "hayo_8557997-1",
   "chainName": "Hayo",
   "rpc": "https://froopyland.dymension.xyz/17/hayo_8557997-1/rpc",
@@ -29,3 +30,4 @@
   "da": "Celestia",
   "description": "",
   "analytics": true
+}
