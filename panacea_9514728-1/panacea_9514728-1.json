@@ -1,8 +1,8 @@
 {
   "chainId": "panacea_9514728-1",
   "chainName": "Panacea",
-  "rpc": "http://91.230.110.73:26657",
-  "rest": "http://91.230.110.73:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/panacea_9514728-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/panacea_9514728-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x912ee8",
-    "rpc": "http://91.230.110.73:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/panacea_9514728-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
