@@ -1,8 +1,8 @@
 {
   "chainId": "kalianetwork_3419365-1",
   "chainName": "KaliaNetwork",
-  "rpc": "http://190.2.146.152:26657",
-  "rest": "http://190.2.146.152:1317",
+  "rpc": "https://rollapp-rpc.kalia.network",
+  "rest": "https://rollapp-api.kalia.network",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x342ce5",
-    "rpc": "http://190.2.146.152:8545"
+    "rpc": "https://rollapp-jsonrpc.kalia.network"
   },
   "type": "RollApp",
   "da": "Avail",
