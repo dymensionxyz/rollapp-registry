@@ -1,8 +1,8 @@
 {
   "chainId": "doug_3527784-1",
-  "chainName": "doug_3527784-1",
-  "rpc": "45.77.29.125:26657",
-  "rest": "45.77.29.125:1317",
+  "chainName": "Doug",
+  "rpc": "https://froopyland.dymension.xyz/17/doug_3527784-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/doug_3527784-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x35d468",
-    "rpc": "45.77.29.125:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/doug_3527784-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
