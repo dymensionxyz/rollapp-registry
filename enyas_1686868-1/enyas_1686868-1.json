@@ -1,8 +1,8 @@
 {
   "chainId": "enyas_1686868-1",
   "chainName": "enyas_1686868-1",
-  "rpc": " 38.242.245.69:26657",
-  "rest": "38.242.245.69:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19bd54",
-    "rpc": "38.242.245.69:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
