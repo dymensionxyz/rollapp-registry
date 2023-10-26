@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Sinan Engin ve Fedaileri",
-  "analytics": true
+  "analytics": true,
+  "rewards": false
 }
