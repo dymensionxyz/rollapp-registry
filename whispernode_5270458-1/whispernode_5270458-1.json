@@ -1,8 +1,8 @@
 {
   "chainId": "whispernode_5270458-1",
   "chainName": "whispernode",
-  "rpc": "https://rpc-dym-testnet.whispernode.com:29957",
-  "rest": "https://api-dym-testnet.whispernode.com:29917",
+  "rpc": "https://rpc-dym-testnet.whispernode.com",
+  "rest": "https://api-dym-testnet.whispernode.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,10 +25,11 @@
   },
   "evm": {
     "chainId": "0x506bba",
-    "rpc": "https://evm-dym-testnet.whispernode.com:29945"
+    "rpc": "https://evm-dym-testnet.whispernode.com"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
