@@ -1,0 +1,33 @@
+{
+    "chainId": "donald_3017679-1",
+    "chainName": "donald_3017679-1",
+    "rpc": "158.247.226.33:26657",
+    "rest": "158.247.226.33:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "don",
+        "baseDenom": "udon",
+        "decimals": 18,
+        "logo": "/logos/donald_3017679-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/donald_3017679-1.png",
+    "ibc": {
+      "hubChannel": "channel-6797",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x2e0bcf",
+      "rpc": "158.247.226.33:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+}
