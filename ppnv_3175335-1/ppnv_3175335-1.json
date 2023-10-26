@@ -1,8 +1,8 @@
 {
   "chainId": "ppnv_3175335-1",
   "chainName": "PPNV Service",
-  "rpc": "https://dymension-rpc-rollapp.utsa.tech",
-  "rest": "https://dymension-rest-rollapp.utsa.tech",
+  "rpc": "http://46.4.14.172:1317",
+  "rest": "http://46.4.14.172:26657",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3073a7",
-    "rpc": "https://dymension-jsonrpc-rollapp.utsa.tech"
+    "rpc": ""
   },
   "type": "RollApp",
   "da": "Avail",
