@@ -1,8 +1,8 @@
 {
   "chainId": "indonode_4078023-1",
   "chainName": "Indonode",
-  "rpc": "http://rpc.roller.indonode.net/",
-  "rest": "http://api.roller.indonode.net/",
+  "rpc": "https://rpc.roller.indonode.net/",
+  "rest": "https://api.roller.indonode.net/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e39c7",
-    "rpc": "http://jsonrpc.roller.indonode.net/"
+    "rpc": "https://jsonrpc.roller.indonode.net/"
   },
   "type": "RollApp",
   "da": "Celestia",
