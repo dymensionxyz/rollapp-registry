@@ -1,8 +1,8 @@
 {
     "chainId": "wave_2282041-1",
     "chainName": "wave_2282041-1",
-    "rpc": "https://froopyland.0xwave.com",
-    "rest": "http://froopyland.0xwave.com:1317",
+    "rpc": "http://142.132.151.99:26657",
+    "rest": "http://142.132.151.99:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x22d239",
-      "rpc": "http://froopyland.0xwave.com:8545"
+      "rpc": "http://142.132.151.99:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
