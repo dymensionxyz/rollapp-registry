@@ -1,8 +1,8 @@
 {
   "chainId": "agentr_6377203-1",
   "chainName": "agentr",
-  "rpc": "http://62.171.174.196:26657",
-  "rest": "http://62.171.174.196:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/agentr_6377203-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/agentr_6377203-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x614ef3",
-    "rpc": "http://62.171.174.196:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/agentr_6377203-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
