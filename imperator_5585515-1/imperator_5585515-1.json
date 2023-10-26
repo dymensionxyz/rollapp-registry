@@ -1,6 +1,6 @@
 {
   "chainId": "imperator_5585515-1",
-  "chainName": "imperator_5585515-1",
+  "chainName": "Imperator",
   "rpc": "https://rollapp-dymension-rpc.imperator.co/",
   "rest": "https://rollapp-dymension-rest.imperator.co/",
   "bech32Prefix": "ethm",

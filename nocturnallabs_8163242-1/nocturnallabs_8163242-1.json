@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Building bespoke private, immutable and decentralized validator infrastructure across the most critical blockchain networks",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
