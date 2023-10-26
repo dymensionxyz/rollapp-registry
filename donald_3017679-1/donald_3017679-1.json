@@ -1,8 +1,8 @@
 {
     "chainId": "donald_3017679-1",
-    "chainName": "donald_3017679-1",
-    "rpc": "158.247.226.33:26657",
-    "rest": "158.247.226.33:1317",
+    "chainName": "donald",
+    "rpc": "https://froopyland.dymension.xyz/16/donald_3017679-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/16/donald_3017679-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x2e0bcf",
-      "rpc": "158.247.226.33:8545"
+      "rpc": "https://froopyland.dymension.xyz/16/donald_3017679-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
