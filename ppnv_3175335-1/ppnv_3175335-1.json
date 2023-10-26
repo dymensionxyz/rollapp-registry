@@ -1,8 +1,8 @@
 {
   "chainId": "ppnv_3175335-1",
   "chainName": "PPNV Service",
-  "rpc": "http://46.4.14.172:1317",
-  "rest": "http://46.4.14.172:26657",
+  "rpc": "https://froopyland.dymension.xyz/16/ppnv_3175335-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/ppnv_3175335-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3073a7",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/16/ppnv_3175335-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
