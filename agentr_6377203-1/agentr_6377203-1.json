@@ -1,0 +1,33 @@
+{
+  "chainId": "agentr_6377203-1",
+  "chainName": "agentr",
+  "rpc": "http://62.171.174.196:26657",
+  "rest": "http://62.171.174.196:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AGR",
+      "baseDenom": "uAGR",
+      "decimals": 18,
+      "logo": "/logos/agentr_6377203-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/agentr_6377203-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6819",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x614ef3",
+    "rpc": "http://62.171.174.196:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
