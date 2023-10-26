@@ -1,8 +1,8 @@
 {
   "chainId": "isabick_1159451-1",
-  "chainName": "isabick_1159451-1",
-  "rpc": "141.164.50.175:26657",
-  "rest": "141.164.50.175:1317",
+  "chainName": "isabick",
+  "rpc": "https://froopyland.dymension.xyz/16/isabick_1159451-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/isabick_1159451-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x11b11b",
-    "rpc": "141.164.50.175:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/isabick_1159451-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
