@@ -1,6 +1,6 @@
 {
   "chainId": "enyas_1686868-1",
-  "chainName": "enyas_1686868-1",
+  "chainName": "Enyas",
   "rpc": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rest",
   "bech32Prefix": "ethm",
