@@ -31,5 +31,5 @@
   "description": "",
   "analytics": true,
   "validator": true,
-  "rewards": false
+  "rewards": true
 }
