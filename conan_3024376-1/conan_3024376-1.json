@@ -1,8 +1,8 @@
 {
   "chainId": "conan_3024376-1",
   "chainName": "Conan",
-  "rpc": "http://rustcoder.com:26657",
-  "rest": "http://rustcoder.com:1317",
+  "rpc": "http://2.59.119.58:26657",
+  "rest": "http://2.59.119.58:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e25f8",
-    "rpc": "https://rpc.rustcoder.com"
+    "rpc": "http://2.59.119.58:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
