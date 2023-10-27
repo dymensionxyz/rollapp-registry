@@ -2,8 +2,8 @@
 {
   "chainId": "merve_9161652-1",
   "chainName": "nikto",
-  "rpc": "http://49.13.91.229:26657",
-  "rest": "http://49.13.91.229:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/merve_9161652-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/merve_9161652-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x8bcbb4",
-    "rpc": "http://49.13.91.229:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/merve_9161652-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
