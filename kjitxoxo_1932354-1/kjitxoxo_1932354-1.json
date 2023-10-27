@@ -1,0 +1,35 @@
+
+{
+"chainId": "kjitxoxo_1932354-1",
+"chainName": "kjitxoxo_1932354-1",
+"rpc": "http://2600:1700:b440:3d80:f513:9535:8f55:dc0f:26657",
+"rest": "http://2600:1700:b440:3d80:f513:9535:8f55:dc0f:1317",
+"bech32Prefix": "ethm",
+"currencies": [
+     {
+ "displayDenom": "kxo",
+ "baseDenom": "ukxo",
+ "decimals": 18,
+ "logo": "/logos/kjitxoxo_1932354-1.png",
+ "type": "main"
+     }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/kjitxoxo_1932354-1.png",
+    "ibc": {
+        "hubChannel": "channel-6844",
+        "channel": "channel-0", 
+        "timeout": 172800000   
+    },
+    "evm": {
+        "chainId": "0x1d7c42",
+        "rpc": "https"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+
+      "description": "",
+      "analytics": true
+}
