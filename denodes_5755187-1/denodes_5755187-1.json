@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Blockchain Validator and Infrastructure Provider",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
