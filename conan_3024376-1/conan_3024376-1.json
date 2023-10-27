@@ -1,8 +1,8 @@
 {
   "chainId": "conan_3024376-1",
   "chainName": "Conan",
-  "rpc": "http://2.59.119.58:26657",
-  "rest": "http://2.59.119.58:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/conan_3024376-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/conan_3024376-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e25f8",
-    "rpc": "http://2.59.119.58:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/conan_3024376-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
