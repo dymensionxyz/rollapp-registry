@@ -1,33 +1,33 @@
 {
-    "chainId": "hexhub_6504515-1",
+    "chainId": "hexhub_4121348-1",
     "chainName": "Hex Hub",
-    "rpc": "http://froopyland-evm.hexnodes.co:26657",
-    "rest": "http://froopyland-rest.hexnodes.co:1317",
+    "rpc": "https://rpc-roller.hexnodes.co",
+    "rest": "https://lcd-roller.hexnodes.co/",
     "bech32Prefix": "ethm",
     "currencies": [
       {
         "displayDenom": "HEX",
         "baseDenom": "uHEX",
         "decimals": 18,
-        "logo": "/logos/hexhub_6504515-1.png",
+        "logo": "/logos/hexhub_4121348-1.png",
         "type": "main"
       }
     ],
     "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022/1167308770972536842",
     "website": "https://hexnodes.co",
-    "logo": "/logos/hexhub_6504515-1.png",
+    "logo": "/logos/hexhub_4121348-1.png",
     "ibc": {
-      "hubChannel": "channel-5381",
+      "hubChannel": "channel-6769",
       "channel": "channel-0",
       "timeout": 172800000
     },
     "evm": {
-      "chainId": "0x634043",
-      "rpc": "https://froopyland-jrpc.hexnodes.co"
+      "chainId": "0x3ee304",
+      "rpc": "https://evm-roller.hexnodes.co"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "description": "Rollapps by Hexnodes",
     "analytics": true,
     "rewards": true
