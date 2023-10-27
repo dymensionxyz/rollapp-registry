@@ -29,5 +29,6 @@
     "type": "RollApp",
     "da": "Celestia",
     "description": "F5 Nodes operates a high-performance infrastructure that ensures an excessive level of security and reliability for blockchain networks & protocols.",
-    "analytics": true
+    "analytics": true,
+    "validator": true
 }
