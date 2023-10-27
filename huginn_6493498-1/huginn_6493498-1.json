@@ -1,8 +1,8 @@
 {
   "chainId": "huginn_6493498-1",
   "chainName": "Huginn",
-  "rpc": "http://49.12.84.110:26657",
-  "rest": "http://49.12.84.110:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/huginn_6493498-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/huginn_6493498-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x63153a",
-    "rpc": "http://49.12.84.110:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/huginn_6493498-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
