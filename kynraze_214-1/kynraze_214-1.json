@@ -15,7 +15,9 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "explorerUrl": "https://evm.kynraze.com",
+  "exploreTxUrl": "https://evm.kynraze.com/tx/",
+  "website": "https://dashboard.kynraze.com",
   "logo": "/logos/kynraze_214-1.png",
   "ibc": {
     "hubChannel": "channel-6017",

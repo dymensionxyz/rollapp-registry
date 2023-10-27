@@ -1,0 +1,33 @@
+{
+  "chainId": "magicstone_9986219-1",
+  "chainName": "skywirex",
+  "rpc": "https://froopyland.dymension.xyz/17/magicstone_9986219-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/magicstone_9986219-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "skz",
+      "baseDenom": "uskz",
+      "decimals": 18,
+      "logo": "/logos/magicstone_9986219-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://skywirex.com/",
+  "logo": "/logos/magicstone_9986219-1.png",
+  "ibc": {
+    "hubChannel": "channel-6785",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x9860ab",
+    "rpc": "https://froopyland.dymension.xyz/17/magicstone_9986219-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

@@ -20,8 +20,8 @@
   "exploreTxUrl": "https://explorer.jupiternft.xyz/tx/",
   "logo": "/logos/jupiter_5504686-1.png",
   "ibc": {
-    "hubChannel": "channel-5403",
-    "channel": "channel-0",
+    "hubChannel": "channel-6689",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
@@ -32,5 +32,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "active": true
 }
