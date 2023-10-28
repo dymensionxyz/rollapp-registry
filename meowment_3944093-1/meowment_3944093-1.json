@@ -1,7 +1,7 @@
 {
   "chainId": "meowment_3944093-1",
   "chainName": "Meowment",
-  "rpc": "https://rpc.dymension.meowment.xyz",
+  "rpc": "https://rpc-dymension.meowment.xyz",
   "rest": "https://rest.dymension.meowment.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
