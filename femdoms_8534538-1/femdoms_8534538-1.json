@@ -1,8 +1,8 @@
 {
     "chainId": "femdoms_8534538-1",
     "chainName": "femdoms",
-    "rpc": "https://rollappevm-26657-femdom.bk7bbm.oss-acorn.io",
-    "rest": "https://rollappevm-1317-femdom.bk7bbm.oss-acorn.io",
+    "rpc": "https://rollappevm-26657-femdoms.bk7bbm.oss-acorn.io",
+    "rest": "https://rollappevm-1317-femdoms.bk7bbm.oss-acorn.io",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x823a0a",
-        "rpc": "https://rollappevm-8545-femdom.bk7bbm.oss-acorn.io"
+        "rpc": "https://rollappevm-8545-femdoms.bk7bbm.oss-acorn.io"
     },
     "type": "RollApp",
     "da": "Celestia",
