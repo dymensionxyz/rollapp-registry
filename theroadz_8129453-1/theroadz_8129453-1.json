@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "theroadz_8129453-1",
   "chainName": "roadz",
-  "rpc": "http://65.21.255.161:26657",
-  "rest": "http://65.21.255.161:1317",
+  "rpc": "https://froopyland.dymension.xyz/16/theroadz_8129453-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/theroadz_8129453-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7c0bad",
-    "rpc": "http://65.21.255.161:8545"
+    "rpc": "https://froopyland.dymension.xyz/16/theroadz_8129453-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
