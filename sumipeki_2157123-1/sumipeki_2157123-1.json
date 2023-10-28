@@ -1,0 +1,33 @@
+{
+    "chainId": "sumipeki_2157123-1",
+    "chainName": "sumipeki",
+    "rpc": "http://37.27.22.135:26657",
+    "rest": "http://37.27.22.135:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "sumip",
+        "baseDenom": "usumip",
+        "decimals": 18,
+        "logo": "/logos/sumipeki_2157123-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/sumipeki_2157123-1.png",
+    "ibc": {
+      "hubChannel": "channel-6853",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x20ea43",
+      "rpc": "http://37.27.22.135:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
