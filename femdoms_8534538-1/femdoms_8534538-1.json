@@ -16,7 +16,7 @@
     "coinType":60,
     "logo":"/logos/femdom.jpg",
     "ibc": {
-      "hubChannel":"",
+      "hubChannel":"channel-6849",
       "timeout":172800000,
       "channel":"channel-0"
     },
