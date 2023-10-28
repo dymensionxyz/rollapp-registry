@@ -1,8 +1,8 @@
 {
   "chainId": "stringlabs_9229561-1",
   "chainName": "stringlabs_9229561-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://146.190.159.238:26657",
+  "rest": "http://146.190.159.238:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8cd4f9",
-    "rpc": ""
+    "rpc": "http://146.190.159.238:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
