@@ -1,4 +1,3 @@
-💈 networks.json:
 {
   "chainId": "stringlabs_9229561-1",
   "chainName": "stringlabs_9229561-1",
@@ -32,48 +31,3 @@
   "description": "",
   "analytics": true
 }
-root@stringlabs:~# 💈 networks.json:
-{
-  "chainId": "stringlabs_9229561-1",
-  "chainName": "stringlabs_9229561-1",
-  "rpc": "",
-  "rest": "",
-  "bech32Prefix": "ethm",
-  "currencies": [
-    {
-      "displayDenom": "STL",
-      "baseDenom": "uSTL",
-      "decimals": 18,
-      "logo": "/logos/stringlabs_9229561-1.png",
-      "type": "main"
-    }
-  ],
-  "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
-  "logo": "/logos/stringlabs_9229561-1.png",
-  "ibc": {
-    "hubChannel": "channel-6843",
-    "channel": "channel-0",
-    "timeout": 172800000
-  },
-  "evm": {
-    "chainId": "0x8cd4f9",
-    "rpc": ""
-  },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
-}
-💈 networks.json:
-{
-  "chainId": "stringlabs_9229561-1",
-  "chainName": "stringlabs_9229561-1",
-  "rpc": "",
-  "rest": "",
-  "bech32Prefix": "ethm",
-  "currencies": [
-    {
-      "displayDenom": "STL",
-} "analytics": true,d4f9",,6843",561-1.png",/956961633165529098/1143231362468434022",
