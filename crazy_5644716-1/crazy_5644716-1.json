@@ -1,6 +1,6 @@
 {
   "chainId": "crazy_5644716-1",
-  "chainName": "crazy_5644716-1",
+  "chainName": "crazy",
   "rpc": "https://rpc.testnet.cn:223",
   "rest": "https://rest.testnet.cn:223",
   "bech32Prefix": "ethm",
