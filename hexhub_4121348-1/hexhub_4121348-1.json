@@ -2,7 +2,7 @@
     "chainId": "hexhub_4121348-1",
     "chainName": "Hex Hub",
     "rpc": "https://rpc-roller.hexnodes.co",
-    "rest": "https://lcd-roller.hexnodes.co/",
+    "rest": "https://lcd-roller.hexnodes.co",
     "bech32Prefix": "ethm",
     "currencies": [
       {
