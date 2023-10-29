@@ -1,8 +1,8 @@
 {
   "chainId": "denodesapp_7366559-1",
   "chainName": "deNodes RollApp",
-  "rpc": "http://5.9.84.83:26657",
-  "rest": "http://5.9.84.83:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x70679f",
-    "rpc": "http://5.9.84.83:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "Blockchain Validator and Infrastructure Provider",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
