@@ -30,5 +30,6 @@
   "da": "Celestia",
   "description": "Blockchain Validator and Infrastructure Provider",
   "analytics": true,
-  "validator": true
+  "validator": false,
+  "active": false
 }
