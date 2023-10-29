@@ -30,6 +30,7 @@
     "da": "Avail",
     "description": "Rollapps by Hexnodes",
     "analytics": true,
-    "rewards": true
+    "rewards": true,
+    "validator": true
   }
 
