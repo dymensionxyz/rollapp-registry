@@ -1,8 +1,8 @@
 {
     "chainId": "feruntvgen_5385390-1",
     "chainName": "feruntvgen",
-    "rpc": "https://froopyland.dymension.xyz/9/feruntvgen_5385390-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/9/feruntvgen_5385390-1/rest",
+    "rpc": "https://froopyland.dymension.xyz/17/feruntvgen_5385390-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/17/feruntvgen_5385390-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x522cae",
-      "rpc": "https://froopyland.dymension.xyz/9/feruntvgen_5385390-1/evmrpc"
+      "rpc": "https://froopyland.dymension.xyz/17/feruntvgen_5385390-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
