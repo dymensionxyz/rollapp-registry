@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "zr_4248580-1",
   "chainName": "Dzmitry1812",
-  "rpc": "http://172.233.89.181:26657",
-  "rest": "http://172.233.89.181:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/zr_4248580-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/zr_4248580-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x40d404",
-    "rpc": "http://172.233.89.181:26657"
+    "rpc": "https://froopyland.dymension.xyz/17/zr_4248580-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
