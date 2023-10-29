@@ -1,8 +1,8 @@
 {
   "chainId": "tutplis_2413791-1",
   "chainName": "Pickles",
-  "rpc": "http://161.97.94.95:26657",
-  "rest": "http://161.97.94.95:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x24d4df",
-    "rpc": "http://161.97.94.95:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
