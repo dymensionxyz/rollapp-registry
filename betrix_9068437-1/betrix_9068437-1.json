@@ -1,5 +1,5 @@
-{ "chainId": "betrix_9068437-1", "chainName": "betrix_9068437-1", "rpc": 
-  "http://173.212.215.122:26657", "rest": "http://173.212.215.122:1317", 
+{ "chainId": "betrix_9068437-1", "chainName": "Betrix", "rpc": 
+  "https://froopyland.dymension.xyz/17/betrix_9068437-1/rpc", "rest": "https://froopyland.dymension.xyz/17/betrix_9068437-1/rest", 
   "bech32Prefix": "ethm", "currencies": [
     { "displayDenom": "BTX", "baseDenom": "uBTX", "decimals": 18, "logo": 
       "/logos/betrix_9068437-1.png", "type": "main"
@@ -9,7 +9,7 @@
   "logo": "/logos/betrix_9068437-1.png", "ibc": {
     "hubChannel": "channel-6854", "channel": "channel-0", "timeout": 172800000
   },
-  "evm": { "chainId": "0x8a5f95", "rpc": "http://173.212.215.122:8545"
+  "evm": { "chainId": "0x8a5f95", "rpc": "https://froopyland.dymension.xyz/17/betrix_9068437-1/evmrpc"
   },
   "type": "RollApp", "da": "Celestia", "description": "", "analytics": true
 }
