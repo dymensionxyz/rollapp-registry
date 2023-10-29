@@ -1,8 +1,8 @@
 {
   "chainId": "offei_4754565-1",
   "chainName": "UALEO",
-  "rpc": "64.44.90.135:26657",
-  "rest": "64.44.90.135:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/offei_4754565-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/offei_4754565-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x488c85",
-    "rpc": "64.44.90.135:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/offei_4754565-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
