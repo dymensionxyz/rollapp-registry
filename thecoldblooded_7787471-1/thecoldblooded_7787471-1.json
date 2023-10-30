@@ -1,8 +1,8 @@
 {
   "chainId": "thecoldblooded_7787471-1",
-  "chainName": "thecoldblooded_7787471-1",
-  "rpc": "89.252.188.42:26657",
-  "rest": "89.252.188.42:1317",
+  "chainName": "thecoldblooded",
+  "rpc": "https://froopyland.dymension.xyz/17/thecoldblooded_7787471-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/thecoldblooded_7787471-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x76d3cf",
-    "rpc": "89.252.188.42:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/thecoldblooded_7787471-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
