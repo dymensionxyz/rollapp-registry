@@ -1,0 +1,33 @@
+{
+     "chainId": "bvfxx_8588351-1",
+        "chainName": "Bvfxx",
+        "rpc": "https://froopyland.dymension.xyz/7/bvfxx_8588351-1/rpc",
+        "rest": "https://froopyland.dymension.xyz/7/bvfxx_8588351-1/rest",
+        "bech32Prefix": "ethm",
+        "currencies": [
+          {
+            "displayDenom": "fxx",
+            "baseDenom": "ufxx",
+            "decimals": 18,
+            "logo": "/logos/bvfxx_8588351-1.png",
+            "type": "main"
+          }
+        ],
+        "coinType": 60,
+        "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+        "website": "",
+        "logo": "/logos/bvfxx_8588351-1.png",
+        "ibc": {
+          "hubChannel": "channel-6860",
+          "channel": "channel-0",
+          "timeout": 172800000
+        },
+        "evm": {
+          "chainId": "0x830c3f",
+          "rpc": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/evmrpc"
+        },
+        "type": "RollApp",
+        "da": "Avail",
+        "description": "",
+        "analytics": true
+      }
