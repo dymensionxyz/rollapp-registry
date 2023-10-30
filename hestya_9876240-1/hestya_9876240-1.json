@@ -1,0 +1,32 @@
+{ 
+  "chainId": "hestya_9876240-1", 
+  "chainName": "hestya_9876240-1", 
+  "rpc": "38.242.230.101:26657", 
+  "rest": "38.242.230.101:1317", 
+  "bech32Prefix": "ethm", 
+  "currencies": [
+    { 
+      "displayDenom": "DYM", 
+      "baseDenom": "uDYM", 
+      "decimals": 18, 
+      "logo":"/logos/hestya_9876240-1.png", 
+      "type": "main"
+    }
+  ], 
+  "coinType": 60, 
+  "faucetUrl":"https://discord.com/channels/956961633165529098/1143231362468434022", 
+  "website": "", 
+  "logo": "/logos/hestya_9876240-1.png", 
+  "ibc": {
+    "hubChannel": "channel-6893", 
+    "channel": "channel-4", 
+    "timeout": 172800000
+  },
+  "evm": { "chainId": "0x96b310", 
+  "rpc": "http://38.242.230.101:8546"
+  },
+  "type": "RollApp", 
+  "da": "Celestia", 
+  "description": "My RollApp on Dymension to learn and have fun", 
+  "analytics": true
+}
