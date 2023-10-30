@@ -1,0 +1,34 @@
+{
+  "chainId": "srivijava_4178338-1",
+  "chainName": "srivijava_4178338-1",
+  "rpc": "http://0.0.0.0:26657",
+  "rest": "http://0.0.0.0:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SVJ",
+      "baseDenom": "uSVJ",
+      "decimals": 18,
+      "logo": "/logos/srivijava_4178338-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/srivijava_4178338-1.png",
+  "ibc": {
+    "hubChannel": "channel-6934",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3fc1a2",
+    "rpc": "http://0.0.0.0:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A rollapp for Coffee",
+  "analytics": true
+}
+
