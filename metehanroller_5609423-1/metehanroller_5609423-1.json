@@ -1,8 +1,8 @@
 {
   "chainId": "metehanroller_5609423-1",
-  "chainName": "metehanroller_5609423-1",
-  "rpc": "http://45.67.217.22:26657",
-  "rest": "http://45.67.217.22:1317",
+  "chainName": "Metehanroller",
+  "rpc": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5597cf",
-    "rpc": "http://45.67.217.22.8545"
+    "rpc": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
