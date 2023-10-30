@@ -1,8 +1,8 @@
 {
   "chainId": "oldenzel_6818313-1",
-  "chainName": "oldenzel_6818313-1",
-  "rpc": "http://95.217.62.210:26657",
-  "rest": "http://95.217.62.210:2317",
+  "chainName": "Oldenzel",
+  "rpc": "https://froopyland.dymension.xyz/17/oldenzel_6818313-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/oldenzel_6818313-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x680a09",
-    "rpc": "http://95.217.62.210:2545"
+    "rpc": "https://froopyland.dymension.xyz/17/oldenzel_6818313-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
