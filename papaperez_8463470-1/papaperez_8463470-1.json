@@ -2,8 +2,8 @@
 {
   "chainId": "papaperez_8463470-1",
   "chainName": "papaperez_8463470-1",
-  "rpc": "https://froopyland.dymension.xyz/13/papaperez_8463470-/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/papaperez_8463470-/rest",
+  "rpc": "http://34.168.113.63:26657",
+  "rest": "http://34.168.113.63:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
