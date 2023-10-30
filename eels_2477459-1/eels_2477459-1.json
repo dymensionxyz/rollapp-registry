@@ -1,8 +1,8 @@
 {
   "chainId": "eels_2477459-1",
-  "chainName": "eels_2477459-1",
-  "rpc": "http://43.156.34.159:26657",
-  "rest": "http://43.156.34.159:1317",
+  "chainName": "Eels",
+  "rpc": "https://froopyland.dymension.xyz/17/eels_2477459-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/eels_2477459-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25cd93",
-    "rpc": "http://43.156.34.159:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/eels_2477459-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
