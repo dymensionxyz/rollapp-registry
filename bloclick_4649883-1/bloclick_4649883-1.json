@@ -3,6 +3,7 @@
   "chainName": "BloClick",
   "rpc": "http://65.21.74.228:26657",
   "rest": "http://65.21.74.228:1317",
+  
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x46f39b",
-    "rpc": ""
+    "rpc": "http://65.21.74.228:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
