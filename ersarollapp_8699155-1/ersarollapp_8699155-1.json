@@ -1,9 +1,9 @@
  networks.json:
 {
   "chainId": "ersarollapp_8699155-1",
-  "chainName": "ersarollapp_8699155-1",
-  "rpc": "http://172.233.194.203:26657",
-  "rest": "http://172.233.194.203:1317",
+  "chainName": "Ersarollapp",
+  "rpc": "https://froopyland.dymension.xyz/17/ersarollapp_8699155-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/ersarollapp_8699155-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x84bd13",
-    "rpc": "http://172.233.194.203:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/ersarollapp_8699155-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
