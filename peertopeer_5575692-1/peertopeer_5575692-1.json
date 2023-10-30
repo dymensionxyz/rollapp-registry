@@ -30,6 +30,6 @@
   "da": "Celestia",
   "description": "One of the winners of Cosmos Game of Stakes. We provide a simple, secure and intelligent staking service to help you generate rewards on your blockchain assets across 9+ networks within a single interface. Let's stake together - p2p.org.",
   "analytics": true,
-  "rewards": false,
-  "validator": false
+  "rewards": true,
+  "validator": true
 }
