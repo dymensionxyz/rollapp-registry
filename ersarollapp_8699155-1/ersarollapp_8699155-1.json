@@ -9,14 +9,14 @@
       "displayDenom": "ERS",
       "baseDenom": "uERS",
       "decimals": 18,
-      "logo": "/logos/ersarollapp_8699155-1.png",
+      "logo": "/logos/ersarollapp_8699155-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/ersarollapp_8699155-1.png",
+  "logo": "/logos/ersarollapp_8699155-1.jpg",
   "ibc": {
     "hubChannel": "channel-6903",
     "channel": "channel-0",
