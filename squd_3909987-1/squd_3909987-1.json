@@ -1,8 +1,8 @@
 {
   "chainId": "squd_3909987-1",
   "chainName": "squd",
-  "rpc": "http://38.242.250.173:26657",
-  "rest": "http://38.242.250.173:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/squd_3909987-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/squd_3909987-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3ba963",
-    "rpc": "http://38.242.250.173:8549"
+    "rpc": "https://froopyland.dymension.xyz/17/squd_3909987-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
