@@ -1,0 +1,33 @@
+{
+  "chainId": "gnst_1514872-1",
+  "chainName": "gnst",
+  "rpc": "https://65.109.146.243:61757",
+  "rest": "https://65.109.146.243:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GNST",
+      "baseDenom": "uGNST",
+      "decimals": 18,
+      "logo": "/logos/gnst_1514872-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/gnst_1514872-1.png",
+  "ibc": {
+    "hubChannel": "channel-6855",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x171d78",
+    "rpc": "https://65.109.146.243:6057"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
