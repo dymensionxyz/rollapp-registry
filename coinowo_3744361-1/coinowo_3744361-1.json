@@ -1,8 +1,8 @@
 {
   "chainId": "coinowo_3744361-1",
   "chainName": "Coinowo",
-  "rpc": "https://froopyland.dymension.xyz/7/coinowo_3744361-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/7/coinowo_3744361-1/rest",
+  "rpc": "95.111.241.137:2667",
+  "rest": "95.111.241.137:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x392269",
-    "rpc": "https://froopyland.dymension.xyz/7/coinowo_3744361-1/evmrpc"
+    "rpc": "95.111.241.137:8577"
   },
   "type": "RollApp",
   "da": "Celestia",
