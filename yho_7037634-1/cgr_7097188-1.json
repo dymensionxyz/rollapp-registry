@@ -1,8 +1,8 @@
 {
   "chainId": "yho_7037634-1",
   "chainName": "yho",
-  "rpc": "167.86.70.141:26657",
-  "rest": "167.86.70.141:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/yho_7037634-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/yho_7037634-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x359bfa",
-    "rpc": "31.220.83.243:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/yho_7037634-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
