@@ -1,6 +1,6 @@
 {
   "chainId": "alvoroler_3687208-1",
-  "chainName": "alvoroler_3687208-1",
+  "chainName": "Alvoroler",
   "rpc": "https://froopyland.dymension.xyz/18/alvoroler_3687208-1/rpc",
   "rest": "https://froopyland.dymension.xyz/18/alvoroler_3687208-1/rest",
   "bech32Prefix": "ethm",
