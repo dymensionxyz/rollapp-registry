@@ -1,8 +1,8 @@
 {
     "chainId": "mildrine_4917211-1",
     "chainName": "mildrine",
-    "rpc": "http://95.217.217.26:26657",
-    "rest": "http://95.217.217.26:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x4b07db",
-      "rpc": "http://95.217.217.26:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
