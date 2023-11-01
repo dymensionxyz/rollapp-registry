@@ -1,6 +1,6 @@
 {
   "chainId": "osman_2270584-1",
-  "chainName": "osman_2270584-1",
+  "chainName": "0xosman",
   "rpc": "http://167.86.66.177:26657",
   "rest": "http://167.86.66.177:1317",
   "bech32Prefix": "ethm",
@@ -9,14 +9,14 @@
       "displayDenom": "osm",
       "baseDenom": "uosm",
       "decimals": 18,
-      "logo": "/logos/osman_2270584-1.png",
+      "logo": "/logos/osman_2270584-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/osman_2270584-1.png",
+  "logo": "/logos/osman_2270584-1.jpg",
   "ibc": {
     "hubChannel": "channel-7040",
     "channel": "channel-1",
