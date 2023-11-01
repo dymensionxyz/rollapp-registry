@@ -1,6 +1,6 @@
 {
   "chainId": "jbrandon_6796441-1",
-  "chainName": "jbrandon_6796441-1",
+  "chainName": "jBrandon",
   "rpc": "http://135.181.183.93:26657",
   "rest": "http://135.181.183.93:1317",
   "bech32Prefix": "ethm",
