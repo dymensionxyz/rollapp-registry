@@ -1,8 +1,8 @@
 {
     "chainId": "nocent_2541848-1",
     "chainName": "nocent",
-    "rpc": "http://65.109.4.41:26657",
-    "rest": "http://65.109.4.41:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/nocent_2541848-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/nocent_2541848-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x26c918",
-      "rpc": "http://965.109.4.41:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/nocent_2541848-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
