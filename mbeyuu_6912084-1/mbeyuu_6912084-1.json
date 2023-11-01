@@ -1,8 +1,8 @@
 {
     "chainId": "mbeyuu_6912084-1",
     "chainName": "mbeyuu",
-    "rpc": "http://95.217.21.132:26657",
-    "rest": "http://95.217.21.132:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/mbeyuu_6912084-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/mbeyuu_6912084-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x697854",
-      "rpc": "http://95.217.21.132:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/mbeyuu_6912084-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
