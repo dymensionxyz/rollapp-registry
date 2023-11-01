@@ -1,8 +1,8 @@
 {
   "chainId": "hlmkcrollapp_5191902-1",
   "chainName": "dymenstatioN",
-  "rpc": "http://85.239.233.65:26657",
-  "rest": "http://85.239.233.65:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/hlmkcrollapp_5191902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/hlmkcrollapp_5191902-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4f38de",
-    "rpc": "http://85.239.233.65:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/hlmkcrollapp_5191902-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
