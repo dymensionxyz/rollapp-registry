@@ -1,8 +1,8 @@
 {
   "chainId": "babayagax_4720072-1",
   "chainName": "babayagax",
-  "rpc": "http://184.174.37.248:26657",
-  "rest": "http://184.174.37.248:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/babayagax_4720072-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/babayagax_4720072-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4805c8",
-    "rpc": "http://184.174.37.248:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/babayagax_4720072-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
