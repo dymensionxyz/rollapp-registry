@@ -1,8 +1,8 @@
 {
   "chainId": "alvoroler_3687208-1",
   "chainName": "alvoroler_3687208-1",
-  "rpc": "http://38.242.157.121:26657",
-  "rest": "http://38.242.157.121:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/alvoroler_3687208-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/alvoroler_3687208-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x384328",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/18/alvoroler_3687208-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
