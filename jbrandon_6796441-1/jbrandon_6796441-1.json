@@ -1,8 +1,8 @@
 {
   "chainId": "jbrandon_6796441-1",
   "chainName": "jBrandon",
-  "rpc": "http://135.181.183.93:26657",
-  "rest": "http://135.181.183.93:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/jbrandon_6796441-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/jbrandon_6796441-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x67b499",
-    "rpc": "http://135.181.183.93:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/jbrandon_6796441-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
