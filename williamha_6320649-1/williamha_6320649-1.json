@@ -1,8 +1,8 @@
 {
     "chainId": "williamha_6320649-1",
     "chainName": "williamha",
-    "rpc": "http://37.27.20.150:26657",
-    "rest": "http://37.27.20.150:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x607209",
-      "rpc": "http://37.27.20.150:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
