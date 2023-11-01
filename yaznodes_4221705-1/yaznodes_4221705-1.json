@@ -1,0 +1,33 @@
+{
+  "chainId": "yaznodes_4221705-1",
+  "chainName": "yaznodes_4221705-1",
+  "rpc": "http://209.97.146.175:26657",
+  "rest": "http://209.97.146.175:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "YAZ",
+      "baseDenom": "uYAZ",
+      "decimals": 18,
+      "logo": "/logos/yaznodes_4221705-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/yaznodes_4221705-1.png",
+  "ibc": {
+    "hubChannel": "channel-7061",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x406b09",
+    "rpc": "http://209.97.146.175:854"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
