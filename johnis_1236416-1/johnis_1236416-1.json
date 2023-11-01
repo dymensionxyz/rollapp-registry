@@ -1,8 +1,8 @@
 {
     "chainId": "johnis_1236416-1",
     "chainName": "johnis",
-    "rpc": "http://95.217.236.21:26657",
-    "rest": "http://95.217.236.21:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/johnis_1236416-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/johnis_1236416-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x12ddc0",
-      "rpc": "http://95.217.236.21:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/johnis_1236416-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
