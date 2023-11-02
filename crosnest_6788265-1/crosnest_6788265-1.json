@@ -1,8 +1,8 @@
 {
   "chainId": "crosnest_6788265-1",
   "chainName": "Crosnest",
-  "rpc": "http://65.108.192.123:26697",
-  "rest": "http://65.108.192.123:1397",
+  "rpc": "https://froopyland.dymension.xyz/18/crosnest_6788265-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/crosnest_6788265-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x6794a9",
-    "rpc": "http://65.108.192.123:8595"
+    "rpc": "https://froopyland.dymension.xyz/18/crosnest_6788265-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
