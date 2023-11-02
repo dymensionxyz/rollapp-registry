@@ -1,8 +1,8 @@
 {
   "chainId": "frostpuppy_7087346-1",
   "chainName": "Frostpuppy",
-  "rpc": "http://116.203.39.94:26657",
-  "rest": "http://116.203.39.94:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6c24f2",
-    "rpc": "http://116.203.39.94:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
