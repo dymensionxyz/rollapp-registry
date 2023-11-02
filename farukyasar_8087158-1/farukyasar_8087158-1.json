@@ -1,8 +1,8 @@
 {
   "chainId": "farukyasar_8087158-1",
-  "chainName": "farukyasar_8087158-1",
-  "rpc": "173.212.239.231",
-  "rest": "173.212.239.231",
+  "chainName": "Farukyasar",
+  "rpc": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7b6676",
-    "rpc": "173.212.239.231"
+    "rpc": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
