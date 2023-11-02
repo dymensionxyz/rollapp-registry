@@ -1,6 +1,6 @@
 {
   "chainId": "aizen_3068166-1",
-  "chainName": "aizen_3068166-1",
+  "chainName": "Aizen",
   "rpc": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rpc",
   "rest": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rest",
   "bech32Prefix": "ethm",
