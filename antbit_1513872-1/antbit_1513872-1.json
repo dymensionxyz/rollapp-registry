@@ -1,8 +1,8 @@
 {
   "chainId": "antbit_1513872-1",
-  "chainName": "antbit_1513872-1",
-  "rpc": "142.93.146.152:26657",
-  "rest": "142.93.146.152:1317",
+  "chainName": "Antbit",
+  "rpc": "https://froopyland.dymension.xyz/18/antbit_1513872-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/antbit_1513872-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x171990",
-    "rpc": "142.93.146.152:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/antbit_1513872-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
