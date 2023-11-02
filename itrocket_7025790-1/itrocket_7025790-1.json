@@ -1,22 +1,3 @@
-DA = "celestia"
-Decimals = 18
-Denom = "uITR"
-Home = "/root/.roller"
-RollappBinary = "/usr/local/bin/rollapp_evm"
-RollappID = "itrocket_7025790-1"
-RollerVersion = "v0.1.18"
-TokenSupply = "1000000000"
-VMType = "evm"
-
-[HubData]
-  API_URL = "https://froopyland.api.silknodes.io:443"
-  ARCHIVE_RPC_URL = "https://froopy-archive.rpc.silknodes.io:443"
-  GAS_PRICE = "0.25"
-  ID = "froopyland_100-1"
-  RPC_URL = "https://froopyland.rpc.silknodes.io:443"
-
-root@ubuntu-8gb-hel1-3:~# roller config export
-💈 networks.json:
 {
   "chainId": "itrocket_7025790-1",
   "chainName": "itrocket",
