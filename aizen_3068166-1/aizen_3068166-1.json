@@ -1,8 +1,8 @@
 {
   "chainId": "aizen_3068166-1",
   "chainName": "aizen_3068166-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2ed106",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/18/aizen_3068166-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
