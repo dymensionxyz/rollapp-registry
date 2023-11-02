@@ -1,0 +1,52 @@
+DA = "celestia"
+Decimals = 18
+Denom = "uITR"
+Home = "/root/.roller"
+RollappBinary = "/usr/local/bin/rollapp_evm"
+RollappID = "itrocket_7025790-1"
+RollerVersion = "v0.1.18"
+TokenSupply = "1000000000"
+VMType = "evm"
+
+[HubData]
+  API_URL = "https://froopyland.api.silknodes.io:443"
+  ARCHIVE_RPC_URL = "https://froopy-archive.rpc.silknodes.io:443"
+  GAS_PRICE = "0.25"
+  ID = "froopyland_100-1"
+  RPC_URL = "https://froopyland.rpc.silknodes.io:443"
+
+root@ubuntu-8gb-hel1-3:~# roller config export
+💈 networks.json:
+{
+  "chainId": "itrocket_7025790-1",
+  "chainName": "itrocket",
+  "rpc": "https://dymension-rollapp-rpc.itrocket.net",
+  "rest": "https://dymension-rollapp-api.itrocket.net",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ITR",
+      "baseDenom": "uITR",
+      "decimals": 18,
+      "logo": "/logos/itrocket_7025790-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://itrocket.net/",
+  "logo": "/logos/itrocket_7025790-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7029",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6b347e",
+    "rpc": "https://dymension-rollapp-jsonrpc.itrocket.net"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
