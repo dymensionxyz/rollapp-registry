@@ -1,22 +1,22 @@
 {
   "chainId": "fakehamster_5348456-1",
-  "chainName": "fakehamster",
-  "rpc": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/rest",
+  "chainName": "fakehamster_5348456-1",
+  "rpc": "http://188.166.224.80:26657",
+  "rest": "http://188.166.224.80:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "fkh",
       "baseDenom": "ufkh",
       "decimals": 18,
-      "logo": "/logos/photo_2023-10-21_15-27-03.jpg",
+      "logo": "/logos/fakehamster_5348456-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/photo_2023-10-21_15-27-03.jpg",
+  "logo": "/logos/fakehamster_5348456-1.png",
   "ibc": {
     "hubChannel": "channel-6703",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x519c68",
-    "rpc": "https://froopyland.dymension.xyz/16/fakehamster_5348456-1/evmrpc"
+    "rpc": ""
   },
   "type": "RollApp",
   "da": "Celestia",
