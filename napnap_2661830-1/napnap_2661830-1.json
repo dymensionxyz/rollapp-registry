@@ -1,0 +1,33 @@
+{
+  "chainId": "napnap_2661830-1",
+  "chainName": "napnap_2661830-1",
+  "rpc": "159.223.82.227:26657",
+  "rest": "159.223.82.227:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "napnap",
+      "baseDenom": "unapnap",
+      "decimals": 18,
+      "logo": "/logos/napnap_2661830-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/napnap_2661830-1.png",
+  "ibc": {
+    "hubChannel": "channel-7123",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x289dc6",
+    "rpc": "159.223.82.227:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
