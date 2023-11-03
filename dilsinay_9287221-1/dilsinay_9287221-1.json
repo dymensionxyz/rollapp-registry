@@ -2,8 +2,8 @@
 {
   "chainId": "dilsinay_9287221-1",
   "chainName": "dilsinay_9287221-1",
-  "rpc": "http://5.78.41.213:26657",
-  "rest": "http://5.78.41.213:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/dilsinay_9287221-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/dilsinay_9287221-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x8db635",
-    "rpc": "http://5.78.41.213.8545"
+    "rpc": "https://froopyland.dymension.xyz/18/dilsinay_9287221-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
