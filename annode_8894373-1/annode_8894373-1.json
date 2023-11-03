@@ -1,22 +1,22 @@
 {
-  "chainId": "annode_8894373-1",
+  "chainId": "8894373",
   "chainName": "annode_8894373-1",
-  "rpc": "",
+  "rpc": "http://45.94.209.110:8545",
   "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "noded",
+      "displayDenom": "NODED",
       "baseDenom": "unoded",
       "decimals": 18,
-      "logo": "/logos/annode_8894373-1.png",
+      "logo": "/logos/logo.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/annode_8894373-1.png",
+  "logo": "/logos/logo.png",
   "ibc": {
     "hubChannel": "channel-7097",
     "channel": "channel-0",
