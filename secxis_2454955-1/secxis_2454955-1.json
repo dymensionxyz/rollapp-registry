@@ -9,14 +9,14 @@
         "displayDenom": "SEX",
         "baseDenom": "uSEX",
         "decimals": 18,
-        "logo": "/logos/secxis_2454955-1.png",
+        "logo": "/logos/secxis_2454955-1.jpg",
         "type": "main"
       }
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
-    "logo": "/logos/secxis_2454955-1.png",
+    "logo": "/logos/secxis_2454955-1.jpg",
     "ibc": {
       "hubChannel": "channel-7122",
       "channel": "channel-0",
