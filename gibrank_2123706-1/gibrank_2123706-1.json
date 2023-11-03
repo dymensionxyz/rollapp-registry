@@ -1,8 +1,8 @@
 {
   "chainId": "gibrank_2123706-1",
   "chainName": "gibrank_2123706-1",
-  "rpc": "159.223.50.172:26657",
-  "rest": "159.223.50.172:1317",
+  "rpc": "http://159.223.50.172:26657",
+  "rest": "http://159.223.50.172:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2067ba",
-    "rpc": "159.223.50.172:8545"
+    "rpc": "http://159.223.50.172:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
