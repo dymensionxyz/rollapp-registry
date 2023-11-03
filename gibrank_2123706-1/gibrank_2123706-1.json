@@ -1,8 +1,8 @@
 {
   "chainId": "gibrank_2123706-1",
   "chainName": "gibrank_2123706-1",
-  "rpc": "http://159.223.50.172:26657",
-  "rest": "http://159.223.50.172:1317",
+  "rpc": "https://froopyland.dymension.xyz/18/gibrank_2123706-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/gibrank_2123706-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2067ba",
-    "rpc": "http://159.223.50.172:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/gibrank_2123706-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
