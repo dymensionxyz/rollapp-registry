@@ -1,0 +1,33 @@
+{
+    "chainId": "hekcripto",
+    "chainName": "hekcripto_3472553-1",
+    "rpc": "http://95.217.6.192:26657",
+    "rest": "http://95.217.6.192:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "HEK",
+        "baseDenom": "uHEK",
+        "decimals": 18,
+        "logo": "/logos/hekcripto_3472553-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/hekcripto_3472553-1.png",
+    "ibc": {
+      "hubChannel": "channel-7121",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x34fca9",
+      "rpc": "http://95.217.6.192:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
