@@ -1,8 +1,8 @@
 {
     "chainId": "minermoom_1548877-1",
     "chainName": "minermoom",
-    "rpc": "http://65.109.232.178:26657",
-    "rest": "http://65.109.232.178:1317",
+    "rpc": "https://froopyland.dymension.xyz/18/minermoom_1548877-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/minermoom_1548877-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x17a24d",
-      "rpc": "http://665.109.232.178:8545"
+      "rpc": "https://froopyland.dymension.xyz/18/minermoom_1548877-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
