@@ -1,8 +1,8 @@
 {
   "chainId": "napnap_2661830-1",
-  "chainName": "napnap_2661830-1",
-  "rpc": "159.223.82.227:26657",
-  "rest": "159.223.82.227:1317",
+  "chainName": "Napnap",
+  "rpc": "https://froopyland.dymension.xyz/18/napnap_2661830-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/napnap_2661830-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x289dc6",
-    "rpc": "159.223.82.227:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/napnap_2661830-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
