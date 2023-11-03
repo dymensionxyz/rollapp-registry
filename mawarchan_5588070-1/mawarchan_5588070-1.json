@@ -1,8 +1,8 @@
 {
   "chainId": "mawarchan_5588070-1",
   "chainName": "mawarchan_5588070-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://178.18.244.130:26657",
+  "rest": "http://178.18.244.130:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x554466",
-    "rpc": ""
+    "rpc": "http://178.18.244.130:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
