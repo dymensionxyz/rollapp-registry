@@ -1,8 +1,8 @@
 {
   "chainId": "saandy_2036589-1",
-  "chainName": "saandy_2036589-1",
-  "rpc": "137.184.45.113:26657",
-  "rest": "137.184.45.113:1317",
+  "chainName": "Saandy",
+  "rpc": "https://froopyland.dymension.xyz/18/saandy_2036589-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/saandy_2036589-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1f136d",
-    "rpc": "137.184.45.113:8545"
+    "rpc": "https://froopyland.dymension.xyz/18/saandy_2036589-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
