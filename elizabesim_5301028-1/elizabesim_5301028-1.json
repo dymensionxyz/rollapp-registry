@@ -9,14 +9,14 @@
         "displayDenom": "ELI",
         "baseDenom": "uELI",
         "decimals": 18,
-        "logo": "/logos/elizabesim_5301028-1.png",
+        "logo": "/logos/elizabesim_5301028-1.jpg",
         "type": "main"
       }
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
-    "logo": "/logos/elizabesim_5301028-1.png",
+    "logo": "/logos/elizabesim_5301028-1.jpg",
     "ibc": {
       "hubChannel": "channel-7103",
       "channel": "channel-0",
