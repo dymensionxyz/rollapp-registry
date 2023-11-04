@@ -1,8 +1,8 @@
 {
-    "chainId": "brihanybonner",
-    "chainName": "brihanybonner_5935399-1",
-    "rpc": "http://95.217.165.162:26657",
-    "rest": "http://95.217.165.162:1317",
+    "chainId": "brihanybonner_5935399-1",
+    "chainName": "Brihanybonner",
+    "rpc": "https://froopyland.dymension.xyz/19/brihanybonner_5935399-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/19/brihanybonner_5935399-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x5a9127",
-      "rpc": "http://95.217.165.162:8545"
+      "rpc": "https://froopyland.dymension.xyz/19/brihanybonner_5935399-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
