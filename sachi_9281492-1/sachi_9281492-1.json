@@ -1,8 +1,8 @@
 {
   "chainId": "sachi_9281492-1",
   "chainName": "sachi_9281492-1",
-  "rpc": "164.90.234.134:26657",
-  "rest": "164.90.234.134:1317",
+  "rpc": "https://froopyland.dymension.xyz/19/sachi_9281492-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/sachi_9281492-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8d9fd4",
-    "rpc": "164.90.234.134:8545"
+    "rpc": "https://froopyland.dymension.xyz/19/sachi_9281492-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
