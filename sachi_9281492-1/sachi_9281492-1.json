@@ -1,0 +1,33 @@
+{
+  "chainId": "sachi_9281492-1",
+  "chainName": "sachi_9281492-1",
+  "rpc": "164.90.234.134:26657",
+  "rest": "164.90.234.134:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CHI",
+      "baseDenom": "uCHI",
+      "decimals": 18,
+      "logo": "/logos/sachi_9281492-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sachi_9281492-1.png",
+  "ibc": {
+    "hubChannel": "channel-7117",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8d9fd4",
+    "rpc": "164.90.234.134:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
