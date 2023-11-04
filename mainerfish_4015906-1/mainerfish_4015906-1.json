@@ -1,8 +1,8 @@
 {
     "chainId": "mainerfish_4015906-1",
     "chainName": "mainerfish",
-    "rpc": "http://95.216.169.92:26657",
-    "rest": "http://95.216.169.92:1317",
+    "rpc": "https://froopyland.dymension.xyz/19/mainerfish_4015906-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/19/mainerfish_4015906-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x3d4722",
-      "rpc": "http://95.216.169.92:8545"
+      "rpc": "https://froopyland.dymension.xyz/19/mainerfish_4015906-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
