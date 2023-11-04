@@ -1,8 +1,8 @@
 {
     "chainId": "tagger_2097172-1",
     "chainName": "tagger",
-    "rpc": "http://65.109.226.211:26657",
-    "rest": "http://65.109.226.211:1317",
+    "rpc": "https://froopyland.dymension.xyz/19/tagger_2097172-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/19/tagger_2097172-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x200014",
-      "rpc": "http://65.109.226.211:8545"
+      "rpc": "https://froopyland.dymension.xyz/19/tagger_2097172-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
