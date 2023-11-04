@@ -1,8 +1,8 @@
 {
     "chainId": "kyrstleperry_7944983-1",
     "chainName": "kyrstleperry",
-    "rpc": "http://95.217.214.103:26657",
-    "rest": "http://95.217.214.103:1317",
+    "rpc": "https://froopyland.dymension.xyz/19/kyrstleperry_7944983-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/19/kyrstleperry_7944983-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x793b17",
-      "rpc": "http://95.217.214.103:8545"
+      "rpc": "https://froopyland.dymension.xyz/19/kyrstleperry_7944983-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
