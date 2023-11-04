@@ -1,0 +1,33 @@
+{
+  "chainId": "myjamiryoquayrollapp_9495194-1",
+  "chainName": "myjamiryoquayrollapp_9495194-1",
+  "rpc": "http://162.55.63.155:26657",
+  "rest": "http://162.55.63.155:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MQj",
+      "baseDenom": "uMQj",
+      "decimals": 18,
+      "logo": "/logos/myjamiryoquayrollapp_9495194-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/myjamiryoquayrollapp_9495194-1.png",
+  "ibc": {
+    "hubChannel": "channel-6901",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x90e29a",
+    "rpc": "http://162.55.63.155:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
