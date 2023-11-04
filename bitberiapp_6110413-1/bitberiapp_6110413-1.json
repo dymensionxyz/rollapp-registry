@@ -1,8 +1,8 @@
 {
   "chainId": "bitberiapp_6110413-1",
-  "chainName": "bitberiapp_6110413-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Bitberiapp",
+  "rpc": "https://froopyland.dymension.xyz/19/bitberiapp_6110413-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/bitberiapp_6110413-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d3ccd",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/19/bitberiapp_6110413-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
