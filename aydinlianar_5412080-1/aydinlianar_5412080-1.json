@@ -1,6 +1,6 @@
 {
   "chainId": "aydinlianar_5412080-1",
-  "chainName": "aydinlianar_5412080-1",
+  "chainName": "Aydinlianar",
   "rpc": "26657",
   "rest": "1317",
   "bech32Prefix": "ethm",
