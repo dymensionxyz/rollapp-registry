@@ -1,33 +1,33 @@
 {
-  "chainId": "serotonin_3433423-1",\
-  "chainName": "serotonin",\
-  "rpc": "http://49.13.31.163:26657",\
-  "rest": "http://49.13.31.163:1317",\
-  "bech32Prefix": "ethm",\
-  "currencies": [\
-    \{\
-      "displayDenom": "SRTN",\
-      "baseDenom": "uSRTN",\
-      "decimals": 18,\
-      "logo": "/logos/serotonin_3433423-1.png",\
-      "type": "main"\
-    \}\
-  ],\
-  "coinType": 60,\
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",\
-  "website": "",\
-  "logo": "/logos/serotonin_3433423-1.png",\
-  "ibc": \{\
-    "hubChannel": "channel-7140",\
-    "channel": "channel-0",\
-    "timeout": 172800000\
-  \},\
-  "evm": \{\
-    "chainId": "0x3463cf",\
-    "rpc": "http://49.13.31.163:8545"\
-  \},\
-  "type": "RollApp",\
-  "da": "Celestia",\
-  "description": "",\
-  "analytics": true\
+  "chainId": "serotonin_3433423-1",
+  "chainName": "serotonin",
+  "rpc": "http://49.13.31.163:26657",
+  "rest": "http://49.13.31.163:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SRTN",
+      "baseDenom": "uSRTN",
+      "decimals": 18,
+      "logo": "/logos/serotonin_3433423-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/serotonin_3433423-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-7140",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3463cf",
+    "rpc": "http://49.13.31.163:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
 }
