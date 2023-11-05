@@ -1,0 +1,33 @@
+{
+  "chainId": "aydinlianar_5412080-1",
+  "chainName": "aydinlianar_5412080-1",
+  "rpc": "26657",
+  "rest": "1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AAAA",
+      "baseDenom": "uAAAA",
+      "decimals": 18,
+      "logo": "/logos/aydinlianar_5412080-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aydinlianar_5412080-1.png",
+  "ibc": {
+    "hubChannel": "channel-7156",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5294f0",
+    "rpc": "8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
