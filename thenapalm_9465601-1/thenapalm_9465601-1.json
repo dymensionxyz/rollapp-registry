@@ -1,0 +1,33 @@
+{
+  "chainId": "thenapalm_9465601-1",
+  "chainName": "thenapalm_9465601-1",
+  "rpc": "http://159.223.3.143:26657",
+  "rest": "http://159.223.3.143:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NPL",
+      "baseDenom": "uNPL",
+      "decimals": 18,
+      "logo": "/logos/thenapalm_9465601-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/thenapalm_9465601-1.png",
+  "ibc": {
+    "hubChannel": "channel-7170",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x906f01",
+    "rpc": "http://159.223.3.143:1317"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
