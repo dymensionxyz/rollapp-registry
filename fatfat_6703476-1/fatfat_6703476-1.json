@@ -1,8 +1,8 @@
 {
     "chainId": "fatfat_6703476-1",
-    "chainName": "fatfat_6703476-1",
-    "rpc": "http://173.212.226.33:26657",
-    "rest": "http://173.212.226.33:1317",
+    "chainName": "Fatfat",
+    "rpc": "https://froopyland.dymension.xyz/19/fatfat_6703476-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/19/fatfat_6703476-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x664974",
-      "rpc": ""
+      "rpc": "https://froopyland.dymension.xyz/19/fatfat_6703476-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
