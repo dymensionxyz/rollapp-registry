@@ -22,7 +22,7 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x359bfa",
+    "chainId": "0x6c4b64",
     "rpc": "https://froopyland.dymension.xyz/16/cgr_7097188-1/evmrpc"
   },
   "type": "RollApp",
