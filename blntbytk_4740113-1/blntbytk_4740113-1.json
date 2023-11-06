@@ -9,14 +9,14 @@
       "displayDenom": "BYTK",
       "baseDenom": "uBYTK",
       "decimals": 18,
-      "logo": "/logos/blntbytk_4740113-1.png",
+      "logo": "/logos/blntbytk_4740113-1.PNG",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                             022",
   "website": "",
-  "logo": "/logos/blntbytk_4740113-1.png",
+  "logo": "/logos/blntbytk_4740113-1.PNG",
   "ibc": {
     "hubChannel": "channel-7126",
     "channel": "channel-0",
