@@ -1,6 +1,6 @@
 {
   "chainId": "blntbytk_4740113-1",
-  "chainName": "blntbytk_4740113-1",
+  "chainName": "Blntbytk",
   "rpc": "https://froopyland.dymension.xyz/19/blntbytk_4740113-1/rpc",
   "rest": "https://froopyland.dymension.xyz/19/blntbytk_4740113-1/rest",
   "bech32Prefix": "ethm",
