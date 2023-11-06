@@ -1,9 +1,9 @@
 💈 networks.json:
 {
   "chainId": "segoendokvi_9985220-1",
-  "chainName": "segoendokvi_9985220-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Segoendokvi",
+  "rpc": "https://froopyland.dymension.xyz/19/segoendokvi_9985220-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/segoendokvi_9985220-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x985cc4",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/19/segoendokvi_9985220-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
