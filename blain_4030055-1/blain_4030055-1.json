@@ -1,8 +1,8 @@
 {
   "chainId": "blain_4030055-1",
-  "chainName": "blain_4030055-1",
-  "rpc": "http://31.220.93.97:26657",
-  "rest": "http://31.220.93.97:1317",
+  "chainName": "Blain",
+  "rpc": "https://froopyland.dymension.xyz/19/blain_4030055-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/blain_4030055-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3d7e67",
-    "rpc": "31.220.93.97:8545"
+    "rpc": "https://froopyland.dymension.xyz/19/blain_4030055-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
