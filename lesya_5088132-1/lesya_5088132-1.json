@@ -1,8 +1,8 @@
 {
   "chainId": "lesya_5088132-1",
   "chainName": "lesya",
-  "rpc": "http://144.91.88.214:26657",
-  "rest": "http://144.91.88.214:1317",
+  "rpc": "https://froopyland.dymension.xyz/19/lesya_5088132-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/lesya_5088132-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4da384",
-    "rpc": "http://144.91.88.214:8545"
+    "rpc": "https://froopyland.dymension.xyz/19/lesya_5088132-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
