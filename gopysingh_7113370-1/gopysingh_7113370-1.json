@@ -1,6 +1,6 @@
 {
-    "chainId": "Gopysingh",
-    "chainName": "gopysingh_7113370-1",
+    "chainId": "gopysingh_7113370-1",
+    "chainName": "Gopysingh",
     "rpc": "https://froopyland.dymension.xyz/19/gopysingh_7113370-1-c/rpc",
     "rest": "https://froopyland.dymension.xyz/19/gopysingh_7113370-1-c/rest",
     "bech32Prefix": "ethm",
