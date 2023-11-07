@@ -1,7 +1,7 @@
 {
   "chainId": "kamuscrypto_4697521-1",
   "chainName": "kamuscrypto_4697521-1",
-  "rpc": "http://45.14.194.237:8545",
+  "rpc": "http://45.14.194.237:26657",
   "rest": "http://45.14.194.237:1317",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x47adb1",
-    "rpc": ""
+    "rpc": "http://45.14.194.237:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
