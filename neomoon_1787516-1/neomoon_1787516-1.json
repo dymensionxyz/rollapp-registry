@@ -1,6 +1,6 @@
 {
     "chainId": "neomoon_1787516-1",
-    "chainName": "neomoon_1787516-1",
+    "chainName": "Neomoon",
     "rpc": "https://dymrollapp-rpc.coanda.live",
     "rest": "https://dymrollapp-rest.coanda.live",
     "bech32Prefix": "ethm",
