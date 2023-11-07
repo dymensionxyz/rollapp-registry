@@ -1,1 +1,33 @@
-{"person_id": "pi3d493d5e34233f7c8d2772d0472086ca1182b78b", "wallet": {"public": "babbc89533f38814db2c2ef27f0b88dd27ff995e6520fbfb605e7f5d366651c82a2111b02437d5afdf263fa5d8bcc065285820ebaba057b00528924a2126bd81", "private": "6ab17c1a84bceb094675a04cb50d8f024acec8cd85b3b0cc9da921d094c1ff63", "address": "0x05cc64b1b394f64f28eeaf8e19f3ccc32117bc6a"}}
+{
+  chainId blain_4030055-1,
+  chainName blain_4030055-1,
+  rpc http31.220.93.9726657,
+  rest http31.220.93.971317,
+  bech32Prefix ethm,
+  currencies [
+    {
+      displayDenom BLN,
+      baseDenom uBLN,
+      decimals 18,
+      logo logosblain_4030055-1.png,
+      type main
+    }
+  ],
+  coinType 60,
+  faucetUrl httpsdiscord.comchannels9569616331655290981143231362468434022,
+  website ,
+  logo logosblain_4030055-1.png,
+  ibc {
+    hubChannel channel-7065,
+    channel channel-0,
+    timeout 172800000
+  },
+  evm {
+    chainId 0x3d7e67,
+    rpc 31.220.93.978545
+  },
+  type RollApp,
+  da Celestia,
+  description ,
+  analytics true
+}
