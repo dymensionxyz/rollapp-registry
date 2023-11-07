@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Seltonstake's rollapp",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
