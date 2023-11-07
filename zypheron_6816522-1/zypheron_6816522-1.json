@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "zypheron_6816522-1",
-  "chainName": "zypheron_6816522-1",
-  "rpc": "https://158.220.97.174:26657",
-  "rest": "https://158.220.97.174:1317",
+  "chainName": "Zypheron",
+  "rpc": "https://froopyland.dymension.xyz/19/zypheron_6816522-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/zypheron_6816522-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x68030a",
-    "rpc": "https://158.220.97.174:1317"
+    "rpc": "https://froopyland.dymension.xyz/19/zypheron_6816522-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
