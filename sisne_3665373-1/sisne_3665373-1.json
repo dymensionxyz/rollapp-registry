@@ -1,0 +1,33 @@
+{
+    "chainId": "sisne_3665373-1",
+    "chainName": "sisne",
+    "rpc": "https://froopyland.dymension.xyz/17/sisne_3665373-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/17/sisne_3665373-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "SSH",
+        "baseDenom": "uSSH",
+        "decimals": 18,
+        "logo": "/logos/sisne_3665373-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/sisne_3665373-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-6902",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x37eddd",
+      "rpc": "https://froopyland.dymension.xyz/17/sisne_3665373-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
