@@ -1,8 +1,8 @@
 {
-  "chainId": "val",
-  "chainName": "val_3132584-1",
-  "rpc": "http://144.91.81.78:26657",
-  "rest": "http://144.91.81.78:1317",
+  "chainId": "val_3132584-1",
+  "chainName": "val",
+  "rpc": "https://froopyland.dymension.xyz/19/val_3132584-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/val_3132584-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2fcca8",
-    "rpc": "http://144.91.81.78:8545"
+    "rpc": "https://froopyland.dymension.xyz/19/val_3132584-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
