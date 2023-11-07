@@ -1,8 +1,8 @@
 {
   "chainId": "starny_7826575-1",
   "chainName": "0xstarny",
-  "rpc": "http://161.97.92.174:26657",
-  "rest": "http://161.97.92.174:1317",
+  "rpc": "https://froopyland.dymension.xyz/19/starny_7826575-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/starny_7826575-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x776c8f",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/19/starny_7826575-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
