@@ -1,8 +1,8 @@
 {
   "chainId": "dokigs_7232462-1",
   "chainName": "dokigs",
-  "rpc": "http://38.242.250.189:26657",
-  "rest": "http://38.242.250.189:1317",
+  "rpc": "https://froopyland.dymension.xyz/19/dokigs_7232462-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/dokigs_7232462-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e5bce",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/19/dokigs_7232462-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
