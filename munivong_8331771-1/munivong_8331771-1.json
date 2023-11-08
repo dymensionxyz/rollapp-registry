@@ -1,0 +1,33 @@
+{
+  "chainId": "munivong_8331771-1",
+  "chainName": "Munivong Thunder",
+  "rpc": "135.148.122.156:26657",
+  "rest": "135.148.122.156:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mvg",
+      "baseDenom": "umvg",
+      "decimals": 18,
+      "logo": "/logos/munivong_8331771-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "monivong.store",
+  "logo": "/logos/munivong_8331771-1.png",
+  "ibc": {
+    "hubChannel": "channel-7160",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f21fb",
+    "rpc": "135.148.122.156:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Let's go barber pole",
+  "analytics": true
+}
