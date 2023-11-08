@@ -1,8 +1,8 @@
 {
   "chainId": "molki_4575134-1",
-  "chainName": "molki_4575134-1",
-  "rpc": "http://213.136.92.75:26657",
-  "rest": "http://213.136.92.75:1317",
+  "chainName": "Molki",
+  "rpc": "https://froopyland.dymension.xyz/19/molki_4575134-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/molki_4575134-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x45cf9e",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/19/molki_4575134-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
