@@ -1,8 +1,8 @@
 {
   "chainId": "todorokisan_3689715-1",
   "chainName": "todorokisan_3689715-1",
-  "rpc": "http://167.86.67.80:26657",
-  "rest": "http://167.86.67.80:1317",
+  "rpc": "https://froopyland.dymension.xyz/20/todorokisan_3689715-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/todorokisan_3689715-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x384cf3",
-    "rpc": "http://167.86.67.80:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/todorokisan_3689715-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
