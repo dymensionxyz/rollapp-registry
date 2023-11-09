@@ -1,3 +1,4 @@
+{
 "chainId": "toniklonik_7996256-1",
   "chainName": "Toniklonik",
   "rpc": "https://froopyland.dymension.xyz/20/toniklonik_7996256-1/rpc",
@@ -26,6 +27,7 @@
     "rpc": "https://froopyland.dymension.xyz/20/toniklonik_7996256-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Celestia",}¡
   "description": "",
   "analytics": true
+}
