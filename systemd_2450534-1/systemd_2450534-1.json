@@ -1,8 +1,8 @@
 {
   "chainId": "systemd_2450534-1",
   "chainName": "systemd",
-  "rpc": "https://65.109.107.172:36657",
-  "rest": "https://65.109.107.172:1327",
+  "rpc": "https://froopyland.dymension.xyz/16/systemd_2450534-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/systemd_2450534-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x256466",
-    "rpc": "https://65.109.107.172:36657"
+    "rpc": "https://froopyland.dymension.xyz/16/systemd_2450534-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
