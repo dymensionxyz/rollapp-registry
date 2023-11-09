@@ -1,7 +1,7 @@
 "chainId": "toniklonik_7996256-1",
-  "chainName": "toniklonik_7996256-1",
-  "rpc": "http://167.71.9.143:26657",
-  "rest": "http://167.71.9.143:26657",
+  "chainName": "Toniklonik",
+  "rpc": "https://froopyland.dymension.xyz/20/toniklonik_7996256-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/toniklonik_7996256-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x7a0360",
-    "rpc": "http://167.71.9.143:26657"
+    "rpc": "https://froopyland.dymension.xyz/20/toniklonik_7996256-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
