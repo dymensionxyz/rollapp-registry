@@ -1,0 +1,34 @@
+{
+  "chainId": "8894373",
+  "chainName": "annode_8894373-1",
+  "rpc": "http://45.94.209.110:8545",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NODED",
+      "baseDenom": "unoded",
+      "decimals": 18,
+      "logo": "/logos/logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/logo.png",
+  "ibc": {
+    "hubChannel": "channel-7097",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x87b7a5",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
