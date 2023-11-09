@@ -1,6 +1,6 @@
 {
-  "chainId": "BRO&BRO",
-  "chainName": "bronbro_9520044-1",
+  "chainId": "bronbro_9520044-1",
+  "chainName": "BRO&BRO",
   "rpc": "https://rpc.bronbro-9520044-1.bronbro.io:443",
   "rest": "https://rest.bronbro-9520044-1.bronbro.io:443",
   "bech32Prefix": "ethm",
