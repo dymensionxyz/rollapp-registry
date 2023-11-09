@@ -1,8 +1,8 @@
 {
   "chainId": "gkrollapp_4731583-1",
   "chainName": "GK-FSO",
-  "rpc": "http://34.88.181.14:26657",
-  "rest": "http://34.88.181.14:1317",
+  "rpc": "http://206.189.179.180:26657",
+  "rest": "http://206.189.179.180:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x4832bf",
-    "rpc": "http://34.88.181.14:8545"
+    "rpc": "http://206.189.179.180:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "So-Fi on dymension.",
+  "description": "Chat with your Dymension friends.",
   "analytics": true
 }
