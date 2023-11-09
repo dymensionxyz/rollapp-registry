@@ -1,6 +1,6 @@
 {
     "chainId": "stakeup_2257153-1",
-    "chainName": "stakeup_2257153-1",
+    "chainName": "Stakeup",
     "rpc": "https://rpc.dymension-rollapp.stakeup.tech",
     "rest": "https://rest.dymension-rollapp.stakeup.tech",
     "bech32Prefix": "ethm",
