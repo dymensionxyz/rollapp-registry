@@ -1,8 +1,8 @@
 {
   "chainId": "hungdoan_9807019-1",
   "chainName": "HUNG-VNBnode",
-  "rpc": "http://207.180.243.78:26657",
-  "rest": "http://207.180.243.78:1317",
+  "rpc": "https://froopyland.dymension.xyz/20/hungdoan_9807019-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/hungdoan_9807019-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x95a4ab",
-    "rpc": "http://207.180.243.78:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/hungdoan_9807019-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
