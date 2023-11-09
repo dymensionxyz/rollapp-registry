@@ -1,8 +1,8 @@
 {
   "chainId": "umutnode_3708473-1",
-  "chainName": "umutnode_3708473-1",
-  "rpc": "159.223.0.89:26657",
-  "rest": "159.223.0.89:1317",
+  "chainName": "Umutnode",
+  "rpc": "https://froopyland.dymension.xyz/20/umutnode_3708473-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/umutnode_3708473-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x389639",
-    "rpc": "159.223.0.89:1317"
+    "rpc": "https://froopyland.dymension.xyz/20/umutnode_3708473-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
