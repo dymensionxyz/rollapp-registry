@@ -1,0 +1,39 @@
+{
+  "chainId": "earthdnz_4497597-1",
+  "chainName": "Earthdnz",
+  "rpc": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dnzeds",
+      "baseDenom": "udnzeds",
+      "decimals": 18,
+      "logo": "/logos/earthdnz_4497597-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/earthdnz_4497597-1.png",
+  "ibc": {
+    "hubChannel": "channel-7118",
+    "channel": "channel-3",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x44a0bd",
+    "rpc": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
+
+
+
+
+
