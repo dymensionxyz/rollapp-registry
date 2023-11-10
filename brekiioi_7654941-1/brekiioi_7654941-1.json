@@ -1,8 +1,8 @@
 {
   "chainId": "brekiioi_7654941-1",
-  "chainName": "brekiioi_7654941-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "brekiioi",
+  "rpc": "http://146.190.37.62:26657",
+  "rest": "http://146.190.37.62:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x74ce1d",
-    "rpc": ""
+    "rpc": "http://146.190.37.62:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
