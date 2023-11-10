@@ -1,0 +1,36 @@
+{
+  "chainId": "samanvay_4968417-1",
+  "chainName": "Samanvay",
+  "rpc": "https://node-rpc.samanvay.pro/",
+  "rest": "https://node-api.samanvay.pro/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SMVY",
+      "baseDenom": "uSMVY",
+      "decimals": 18,
+      "logo": "/logos/samanvay_4968417-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "T.me/karan8798",
+  "logo": "/logos/samanvay_4968417-1.png",
+  "ibc": {
+    "hubChannel": "channel-6203",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4bcfe1",
+    "rpc": "https://evm-rpc.samanvay.pro/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "A fair, community focused validator pioneering the Web3 ecosystem.",
+  "analytics": true,
+  "rewards": true,
+  "validator": true,
+  "active": true
+}

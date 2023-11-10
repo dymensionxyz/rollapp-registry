@@ -1,0 +1,33 @@
+{
+  "chainId": "ukrainec_1836454-1",
+  "chainName": "UKRAPP",
+  "rpc": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "UKR",
+      "baseDenom": "uUKR",
+      "decimals": 18,
+      "logo": "/logos/ukrainec_1836454-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ukrainec_1836454-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5575",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1c05a6",
+    "rpc": "https://froopyland.dymension.xyz/5/ukrainec_1836454-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

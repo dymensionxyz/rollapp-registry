@@ -1,0 +1,33 @@
+{
+  "chainId": "kamuscrypto_4697521-1",
+  "chainName": "Kamuscrypto",
+  "rpc": "https://froopyland.dymension.xyz/19/kamuscrypto_4697521-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/kamuscrypto_4697521-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KMSC",
+      "baseDenom": "uKMSC",
+      "decimals": 18,
+      "logo": "/logos/kamuscrypto_4697521-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://kamuscrypto.super.site",
+  "logo": "/logos/kamuscrypto_4697521-1.png",
+  "ibc": {
+    "hubChannel": "channel-7167",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x47adb1",
+    "rpc": "https://froopyland.dymension.xyz/19/kamuscrypto_4697521-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Kamus Crypto is an Indonesian crypto education platform and community. Join us at https://t.me/kamuscrypto",
+  "analytics": true
+}

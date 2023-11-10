@@ -1,0 +1,33 @@
+{
+  "chainId": "langsidd_9677-1",
+  "chainName": "Langsidd",
+  "rpc": "https://froopyland.dymension.xyz/5/langsidd_9677-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/langsidd_9677-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LSD",
+      "baseDenom": "uLSD",
+      "decimals": 18,
+      "logo": "/logos/langsidd_9677-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/langsidd_9677-1.png",
+  "ibc": {
+    "hubChannel": "channel-2227",
+    "channel": "channel-6",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x25cd",
+    "rpc": "https://froopyland.dymension.xyz/5/langsidd_9677-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

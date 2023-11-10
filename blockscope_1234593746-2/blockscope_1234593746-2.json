@@ -14,7 +14,7 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "logo": "/logos/blockscope_1234593746-2.png",
   "ibc": {
     "hubChannel": "channel-5277",
@@ -29,5 +29,5 @@
   "da": "Celestia",
   "analytics": true,
   "rewards": true,
-  "isValidator": true
+  "validator": true
 }

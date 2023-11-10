@@ -1,0 +1,33 @@
+{
+  "chainId": "heatheryolo_9104969-1",
+  "chainName": "HeatherYolo",
+  "rpc": "https://froopyland.dymension.xyz/12/heatheryolo_9104969-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/heatheryolo_9104969-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "YOLO",
+      "baseDenom": "uYOLO",
+      "decimals": 18,
+      "logo": "/logos/heatheryolo_9104969-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/heatheryolo_9104969-1.png",
+  "ibc": {
+    "hubChannel": "channel-6362",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8aee49",
+    "rpc": "https://froopyland.dymension.xyz/12/heatheryolo_9104969-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

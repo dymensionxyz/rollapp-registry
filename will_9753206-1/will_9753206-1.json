@@ -1,0 +1,33 @@
+{
+  "chainId": "will_9753206-1",
+  "chainName": "will",
+  "rpc": "https://froopyland.dymension.xyz/16/will_9753206-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/will_9753206-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WILL",
+      "baseDenom": "uWILL",
+      "decimals": 18,
+      "logo": "/logos/will_9753206-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/will_9753206-1.png",
+  "ibc": {
+    "hubChannel": "channel-6794",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x94d276",
+    "rpc": "https://froopyland.dymension.xyz/16/will_9753206-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
