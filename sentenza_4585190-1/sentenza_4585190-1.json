@@ -1,8 +1,8 @@
 {
   "chainId": "sentenza_4585190-1",
-  "chainName": "sentenza_4585190-1",
-  "rpc": "http://135.181.30.222:26657",
-  "rest": "http://135.181.30.222:1317",
+  "chainName": "Sentenza",
+  "rpc": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x45f6e6",
-    "rpc": "http://135.181.30.222:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
