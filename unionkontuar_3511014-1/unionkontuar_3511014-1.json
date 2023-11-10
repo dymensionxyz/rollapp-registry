@@ -1,8 +1,8 @@
 {
   "chainId": "unionkontuar_3511014-1",
   "chainName": "unionkontuar2",
-  "rpc": "http://65.108.219.176:26657",
-  "rest": "http://65.108.219.176:26657",
+  "rpc": "https://froopyland.dymension.xyz/20/unionkontuar_3511014-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/unionkontuar_3511014-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3592e6",
-    "rpc": "http://65.108.219.176:26657"
+    "rpc": "https://froopyland.dymension.xyz/20/unionkontuar_3511014-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
