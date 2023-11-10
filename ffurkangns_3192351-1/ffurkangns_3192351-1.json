@@ -1,9 +1,9 @@
 💈 networks.json:
 {
   "chainId": "ffurkangns_3192351-1",
-  "chainName": "ffurkangns_3192351-1",
-  "rpc": "84.46.249.65:26657",
-  "rest": "84.46.249.65:1317",
+  "chainName": "Ffurkangns",
+  "rpc": "https://froopyland.dymension.xyz/20/ffurkangns_3192351-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/ffurkangns_3192351-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x30b61f",
-    "rpc": "84.46.249.65:1317"
+    "rpc": "https://froopyland.dymension.xyz/20/ffurkangns_3192351-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
