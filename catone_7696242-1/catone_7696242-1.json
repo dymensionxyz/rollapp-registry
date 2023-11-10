@@ -1,8 +1,8 @@
  {
   "chainId": "catone_7696242-1",
   "chainName": "catone_7696242-1",
-  "rpc": "http://135.181.84.198:26657",
-  "rest": "http://135.181.84.198:1317",
+  "rpc": "https://froopyland.dymension.xyz/20/catone_7696242-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/catone_7696242-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x756f72",
-    "rpc": "http://135.181.84.198:1317"
+    "rpc": "https://froopyland.dymension.xyz/20/catone_7696242-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
