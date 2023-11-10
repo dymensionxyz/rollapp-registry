@@ -1,8 +1,8 @@
 {
   "chainId": "kondenx_8312006-1",
-  "chainName": "kondenx_8312006-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Kondenx",
+  "rpc": "https://froopyland.dymension.xyz/20/kondenx_8312006-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/kondenx_8312006-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7ed4c6",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/20/kondenx_8312006-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
