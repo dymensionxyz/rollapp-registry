@@ -1,8 +1,8 @@
 {
   "chainId": "posinginu_3042798-1",
-  "chainName": "posinginu_3042798-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Posinginu",
+  "rpc": "https://froopyland.dymension.xyz/20/posinginu_3042798-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/posinginu_3042798-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e6dee",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/20/posinginu_3042798-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
