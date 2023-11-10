@@ -1,0 +1,34 @@
+{
+  "chainId": "cyril_9093730-1",
+  "chainName": "Cyril",
+  "rpc": "https://froopyland.dymension.xyz/11/cyril_9093730-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/cyril_9093730-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CYL",
+      "baseDenom": "uCYL",
+      "decimals": 18,
+      "logo": "/logos/cyril_9093730-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cyril_9093730-1.png",
+  "ibc": {
+    "hubChannel": "channel-6298",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8ac262",
+    "rpc": "https://froopyland.dymension.xyz/11/cyril_9093730-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+

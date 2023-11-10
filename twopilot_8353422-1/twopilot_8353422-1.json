@@ -1,0 +1,34 @@
+{
+  "chainId": "twopilot_8353422-1",
+  "chainName": "2pilot",
+  "rpc": "https://dymension-rollap.rpc.2pilot.dev",
+  "rest": "https://dymension-rollap.api.2pilot.dev",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "pilo",
+      "baseDenom": "upilo",
+      "decimals": 18,
+      "logo": "/logos/twopilot_8353422-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/twopilot_8353422-1.png",
+  "ibc": {
+    "hubChannel": "channel-6773",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f768e",
+    "rpc": "https://dymension-rollap.rpc-evm.2pilot.dev"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

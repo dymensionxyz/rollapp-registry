@@ -30,5 +30,6 @@
   "da": "Celestia",
   "description": "",
   "analytics": true,
-  "rewards": false
+  "active": false
+  
 }

@@ -29,6 +29,6 @@
   "da": "Celestia",
   "analytics": true,
   "rewards": true,
-  "isValidator": true,
+  "validator": true,
   "active": false
 }

@@ -1,12 +1,12 @@
 {
 "chainId": "toexecution_2015378-1",
 "chainName": "toexecution",
-"rpc": "https://froopyland.dymension.xyz/8/toexecution_2015378-1/rpc"
-"rest": "https://froopyland.dymension.xyz/8/toexecution_2015378-1/rest",
+"rpc": "https://froopyland.dymension.xyz/9/toexecution_2015378-1/rpc",
+"rest": "https://froopyland.dymension.xyz/9/toexecution_2015378-1/rest",
 "bech32Prefix": "ethm",
 "currencies": [
 {
-"displayDenom": "tct"
+"displayDenom": "tct",
 "baseDenom": "utct",
  "decimals": 18,
 "logo": "/logos/toexecution_2015378-1.PNG.png",
@@ -24,7 +24,7 @@
 }, 
 "evm": {
 "chainId": "0x1ec092",
-"rpc": "https://froopyland.dymension.xyz/8/toexecution_2015378-1/evmrpc"
+"rpc": "https://froopyland.dymension.xyz/9/toexecution_2015378-1/evmrpc"
   },
 "type": "RollApp", 
 "da": "Celestia", 

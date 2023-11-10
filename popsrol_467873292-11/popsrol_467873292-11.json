@@ -29,5 +29,5 @@
   "da": "Avail",
   "analytics": true,
   "rewards": true,
-  "isValidator": true
+  "validator": true
 }

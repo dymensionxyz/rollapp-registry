@@ -1,8 +1,8 @@
 {
   "chainId": "nomadvalidator_7617-1",
   "chainName": "NomadValidator",
-  "rpc": "https://rpc.dymension.nomadvalidator.com",
-  "rest": "https://rest.dymension.nomadvalidator.com",
+  "rpc": "https://dymension-rpc.nomadvalidator.com",
+  "rest": "https://dymension-rest.nomadvalidator.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1dc1",
-    "rpc": "https://evm.dymension.nomadvalidator.com"
+    "rpc": "https://dymension-evm.nomadvalidator.com"
   },
   "type": "RollApp",
   "da": "Avail",

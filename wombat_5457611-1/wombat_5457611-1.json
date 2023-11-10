@@ -1,0 +1,33 @@
+{
+  "chainId": "wombat_5457611-1",
+  "chainName": "Wombat Chain",
+  "rpc": "https://froopyland.dymension.xyz/12/wombat_5457611-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/wombat_5457611-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wbt",
+      "baseDenom": "uwbt",
+      "decimals": 18,
+      "logo": "/logos/wombat_5457611-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://github.com/wombatqq",
+  "logo": "/logos/wombat_5457611-1.png",
+  "ibc": {
+    "hubChannel": "channel-6460",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5346cb",
+    "rpc": "https://froopyland.dymension.xyz/12/wombat_5457611-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

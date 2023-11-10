@@ -1,0 +1,33 @@
+{
+    "chainId": "yeksin_4868625-1",
+    "chainName": "Yeksin",
+    "rpc": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "YKS",
+        "baseDenom": "uYKS",
+        "decimals": 18,
+        "logo": "/logos/yeksin_4868625-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/yeksin_4868625-1.png",
+    "ibc": {
+      "hubChannel": "channel-6721",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x4a4a11",
+      "rpc": "https://froopyland.dymension.xyz/16/yeksin_4868625-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
