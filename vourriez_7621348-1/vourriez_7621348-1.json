@@ -1,8 +1,8 @@
 {
   "chainId": "vourriez_7621348-1",
   "chainName": "vourriez_7621348-1",
-  "rpc": "https://froopyland.dymension.xyz/26657/vourriez_7621348-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/1317/vourriez_7621348-1/rest",
+  "rpc": "https://109.205.183.182:26657",
+  "rest": "https://109.205.183.182:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x744ae4",
-    "rpc": "https://froopyland.dymension.xyz/8545/vourriez_7621348-1/evmrpc"
+    "rpc": "https://109.205.183.182:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
