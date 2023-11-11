@@ -1,6 +1,6 @@
 {
   "chainId": "vourriez_7621348-1",
-  "chainName": "vourriez_7621348-1",
+  "chainName": "Vourriez",
   "rpc": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/rpc",
   "rest": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/rest",
   "bech32Prefix": "ethm",
