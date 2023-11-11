@@ -1,0 +1,33 @@
+{
+    "chainId": "bless_7639061-1",
+    "chainName": "Blessed",
+    "rpc": "https://froopyland.dymension.xyz/20/bless_7639061-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/20/bless_7639061-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+    {
+    "displayDenom": "DYM",
+    "baseDenom": "uDYM",
+    "decimals": 18,
+    "logo": "/logos/bless_7639061-1.png",
+    "type": "main"
+    }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "website": "",
+    "logo": "/logos/bless_7639061-1.png",
+    "ibc": {
+    "hubChannel": "channel-5500",
+    "channel": "channel-2",
+    "timeout": 172800000
+    },
+    "evm": {
+    "chainId": "0x961891",
+    "rpc": "https://froopyland.dymension.xyz/20/bless_7639061-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "serving you better",
+    "analytics": true
+    }
