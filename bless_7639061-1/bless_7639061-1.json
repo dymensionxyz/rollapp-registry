@@ -1,8 +1,8 @@
 {
     "chainId": "bless_7639061-1",
     "chainName": "Blessed",
-    "rpc": "http://104.248.129.63:26657",
-    "rest": "http://104.248.129.63:1317",
+    "rpc": "https://froopyland.dymension.xyz/20/bless_7639061-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/20/bless_7639061-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
     {
@@ -24,7 +24,7 @@
     },
     "evm": {
     "chainId": "0x961891",
-    "rpc": "http://104.248.129.63:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/bless_7639061-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
