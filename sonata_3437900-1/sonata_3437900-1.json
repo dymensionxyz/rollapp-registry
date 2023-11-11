@@ -1,0 +1,34 @@
+{
+  "chainId": "sonata_3437900-1",
+  "chainName": "sonata_3437900-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SNT",
+      "baseDenom": "uSNT",
+      "decimals": 18,
+      "logo": "/logos/sonata_3437900-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sonata_3437900-1.png",
+  "ibc": {
+    "hubChannel": "channel-6622",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x34754c",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
