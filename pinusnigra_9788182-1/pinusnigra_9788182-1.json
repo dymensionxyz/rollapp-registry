@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "pinusnigra_9788182-1",
-  "chainName": "pinusnigra_9788182-1",
-  "rpc": "http:// 75.119.132.48:26657,
-  "rest": "http://75.119.132.48:1317,
+  "chainName": "Pinusnigra",
+  "rpc": "https://froopyland.dymension.xyz/20/pinusnigra_9788182-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/pinusnigra_9788182-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x955b16",
-    "rpc": "http://75.119.132.48:1317
+    "rpc": "https://froopyland.dymension.xyz/20/pinusnigra_9788182-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
