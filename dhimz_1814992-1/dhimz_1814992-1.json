@@ -1,6 +1,6 @@
 {
   "chainId": "dhimz_1814992-1",
-  "chainName": "dhimz_1814992-1",
+  "chainName": "Dhimz",
   "rpc": "https://froopyland.dymension.xyz/20/dhimz_1814992-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/20/dhimz_1814992-1-a/rest",
   "bech32Prefix": "ethm",
