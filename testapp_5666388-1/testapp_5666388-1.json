@@ -1,8 +1,8 @@
 {
   "chainId": "testapp_5666388-1",
   "chainName": "testapp_5666388-1",
-  "rpc": "http://103.219.168.191:26657",
-  "rest": "http://103.219.168.191:1317",
+  "rpc": "http://103.219.168.139:26657",
+  "rest": "http://103.219.168.139:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
