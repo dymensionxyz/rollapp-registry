@@ -1,8 +1,8 @@
 {
   "chainId": "deepiez_1766788-1",
-  "chainName": "deepiez_1766788-1",
-  "rpc": "http://75.119.154.104",
-  "rest": "http://75.119.154.104",
+  "chainName": "Deepiez",
+  "rpc": "https://froopyland.dymension.xyz/20/deepiez_1766788-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/deepiez_1766788-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1af584",
-    "rpc": "http://75.119.154.104"
+    "rpc": "https://froopyland.dymension.xyz/20/deepiez_1766788-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
