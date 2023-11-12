@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "proofstake_4946892-1",
-  "chainName": "proofstake_4946892-1",
-  "rpc": "https://165.22.32.240:26657",
-  "rest": "https://165.22.32.240:1317",
+  "chainName": "Proofstake",
+  "rpc": "https://froopyland.dymension.xyz/20/proofstake_4946892-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/proofstake_4946892-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4b7bcc",
-    "rpc": "https://165.22.32.240:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/proofstake_4946892-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
