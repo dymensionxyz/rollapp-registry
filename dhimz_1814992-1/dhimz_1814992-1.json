@@ -1,0 +1,33 @@
+{
+  "chainId": "dhimz_1814992-1",
+  "chainName": "dhimz_1814992-1",
+  "rpc": "http://172.233.153.108:26657",
+  "rest": "http://172.233.153.108:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dhimz",
+      "baseDenom": "udhimz",
+      "decimals": 18,
+      "logo": "/logos/dhimz_1814992-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dhimz_1814992-1.png",
+  "ibc": {
+    "hubChannel": "channel-7260",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1bb1d0",
+    "rpc": "http://172.233.153.108:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "ETA TERANGKANLAH",
+  "analytics": true
+}
