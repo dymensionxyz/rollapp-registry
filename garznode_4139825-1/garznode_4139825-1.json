@@ -1,8 +1,8 @@
 {
   "chainId": "garznode_4139825-1",
-  "chainName": "garznode_4139825-1",
-  "rpc": "165.232.159.90:26657",
-  "rest": "165.232.159.90:1317",
+  "chainName": "Garznode",
+  "rpc": "https://froopyland.dymension.xyz/20/garznode_4139825-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/garznode_4139825-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3f2b31",
-    "rpc": "165.232.159.90:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/garznode_4139825-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
