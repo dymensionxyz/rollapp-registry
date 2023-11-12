@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Stake with me",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }

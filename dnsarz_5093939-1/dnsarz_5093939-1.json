@@ -18,8 +18,8 @@
   "website": "https://dnsarz.xyz",
   "logo": "/logos/dnsarz_5093939-1.svg",
   "ibc": {
-    "hubChannel": "channel-5685",
-    "channel": "channel-0",
+    "hubChannel": "channel-6964",
+    "channel": "channel-2",
     "timeout": 172800000
   },
   "evm": {

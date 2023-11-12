@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/kultigin_7481863-1.jpg",
   "ibc": {
-    "hubChannel": "channel-5890",
-    "channel": "channel-0",
+    "hubChannel": "channel-6730",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
