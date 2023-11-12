@@ -1,8 +1,8 @@
 {
   "chainId": "oxzer_3592705-1",
   "chainName": "Oxzer",
-  "rpc": "https://froopyland.dymension.xyz/18/oxzer_3592705-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/18/oxzer_3592705-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/20/oxzer_3592705-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/oxzer_3592705-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x36d201",
-    "rpc": "https://froopyland.dymension.xyz/18/oxzer_3592705-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/20/oxzer_3592705-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
