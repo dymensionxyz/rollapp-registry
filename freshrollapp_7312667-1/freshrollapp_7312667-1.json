@@ -18,7 +18,7 @@
 },
 "evm":{
 "chainId":"0x6f951b",
-"rpc":"https://rollappevm-26657-freshrollapp.bk7bbm.oss-acorn.io"
+"rpc":"https://rollappevm-freshrollapp.bk7bbm.oss-acorn.io"
 
 },
 "type":"RollApp",
