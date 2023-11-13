@@ -1,0 +1,35 @@
+{
+  "chainId": "epicwarzone_3603467-1",
+  "chainName": "EpicWar Zone",
+  "rpc": "https://dymrpc.epicwarzone.com",
+  "rest": "https://dymrest.epicwarzone.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EWR",
+      "baseDenom": "uEWR",
+      "decimals": 18,
+      "logo": "/logos/epicwarzone_3603467-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "explorerUrl": "https://evmexplorer.epicwarzone.com",
+  "faucetUrl": "https://faucet.epicwarzone.com",
+  "website": "https://hub.epicwarzone.com",
+  "logo": "/logos/epicwarzone_3603467-1.svg",
+  "ibc": {
+    "hubChannel": "channel-7141",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x36fc0b",
+    "rpc": "https://evmrpc.epicwarzone.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "EpicWar Zone",
+  "analytics": true,
+  "rewards": true
+}
