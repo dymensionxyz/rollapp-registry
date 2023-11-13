@@ -1,7 +1,7 @@
 {
   "chainId": "kenonqwerty_9470524-1",
-  "chainName": “KenonRollupChain”,
-  "rpc": "139.84.145.224:26657“,
+  "chainName": "KenonRollupChain",
+  "rpc": "139.84.145.224:26657",
   "rest": "139.84.145.224:1317",
   "bech32Prefix": "ethm",
   "currencies": [
