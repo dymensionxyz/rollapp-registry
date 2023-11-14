@@ -18,7 +18,7 @@
     "website": "",
     "logo": "/logos/maikati_2424800-1.jpg",
     "ibc": {
-        "hubChannel": "",
+        "hubChannel": "channel-5247",
         "timeout": 172800000,
         "channel": "channel-0"
     },
@@ -27,7 +27,7 @@
         "rpc": "https://rollappevm-maikati.bk7bbm.oss-acorn.io"
     },
     "type": "RollApp",
-    "da": "celestia",
+    "da": "Celestia",
     "analytics": true,
     "rewards": true
 }
