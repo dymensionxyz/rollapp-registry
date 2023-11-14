@@ -1,0 +1,33 @@
+{
+  "chainId": "blntbytk_4740113-1",
+  "chainName": "Blntbytk",
+  "rpc": "https://froopyland.dymension.xyz/19/blntbytk_4740113-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/blntbytk_4740113-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BYTK",
+      "baseDenom": "uBYTK",
+      "decimals": 18,
+      "logo": "/logos/blntbytk_4740113-1.PNG",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                             022",
+  "website": "",
+  "logo": "/logos/blntbytk_4740113-1.PNG",
+  "ibc": {
+    "hubChannel": "channel-7126",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x485411",
+    "rpc": "https://froopyland.dymension.xyz/19/blntbytk_4740113-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

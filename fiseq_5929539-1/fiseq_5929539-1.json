@@ -1,8 +1,8 @@
 {
   "chainId": "fiseq_5929539-1",
   "chainName": "Fiseq",
-  "rpc": "https://froopyland.dymension.xyz/13/fiseq_5929539-1-b/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/fiseq_5929539-1-b/rest",
+  "rpc": "https://froopyland.dymension.xyz/19/fiseq_5929539-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/fiseq_5929539-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5a7a43",
-    "rpc": "https://froopyland.dymension.xyz/13/fiseq_5929539-1-b/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/13/fiseq_5929539-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
