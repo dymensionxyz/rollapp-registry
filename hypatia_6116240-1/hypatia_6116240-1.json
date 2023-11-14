@@ -1,8 +1,8 @@
 {
     "chainId": "hypatia_6116240-1",
-    "chainName": "hypatia_6116240-1",
-    "rpc": "https://froopyland.dymension.xyz/9/hypatia_6116240-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/9/hypatia_6116240-1/rest",
+    "chainName": "hypatia",
+    "rpc": "https://froopyland.dymension.xyz/20/hypatia_6116240-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/20/hypatia_6116240-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x5d5390",
-      "rpc": "https://froopyland.dymension.xyz/9/hypatia_6116240-1/evmrpc"
+      "rpc": "https://froopyland.dymension.xyz/20/hypatia_6116240-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
