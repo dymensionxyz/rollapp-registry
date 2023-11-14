@@ -27,7 +27,7 @@
         "rpc": "https://rollappevm-maikati.bk7bbm.oss-acorn.io"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "celestia",
     "analytics": true,
     "rewards": true
 }
