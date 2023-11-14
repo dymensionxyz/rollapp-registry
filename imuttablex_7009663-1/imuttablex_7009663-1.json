@@ -1,8 +1,8 @@
 {
   "chainId": "imuttablex_7009663-1",
-  "chainName": "imuttablex_7009663-1",
-  "rpc": "http://94.16.116.181:26657",
-  "rest": "http://94.16.116.181:1317",
+  "chainName": "Imuttablex",
+  "rpc": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6af57f",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
