@@ -1,0 +1,33 @@
+{
+  "chainId": "bero_6048241-1",
+  "chainName": "Bero",
+  "rpc": "https://froopyland.dymension.xyz/18/bero_6048241-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/bero_6048241-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BRO",
+      "baseDenom": "uBRO",
+      "decimals": 18,
+      "logo": "/logos/bero_6048241-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bero_6048241-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7052",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5c49f1",
+    "rpc": "https://froopyland.dymension.xyz/18/bero_6048241-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Ersan Rollapp",
+  "analytics": true
+}

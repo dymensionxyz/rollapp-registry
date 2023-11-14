@@ -1,0 +1,34 @@
+{
+  "chainId": "cento_2995707-1",
+  "chainName": "Cento",
+  "rpc": "https://froopyland.dymension.xyz/2/cento_2995707-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/cento_2995707-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FSS",
+      "baseDenom": "uFSS",
+      "decimals": 18,
+      "logo": "/logos/cento_2995707-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cento_2995707-1.png",
+  "ibc": {
+    "hubChannel": "channel-5435",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2db5fb",
+    "rpc": "https://froopyland.dymension.xyz/2/cento_2995707-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

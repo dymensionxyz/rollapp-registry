@@ -1,0 +1,33 @@
+{
+  "chainId": "lilyqt_6968135-1",
+  "chainName": "lilyqt",
+  "rpc": "https://froopyland.dymension.xyz/14/lilyqt_6968135-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/lilyqt_6968135-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LLQT",
+      "baseDenom": "uLLQT",
+      "decimals": 18,
+      "logo": "/logos/logonode.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/logonode.jpeg",
+  "ibc": {
+    "hubChannel": "channel-6552",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6a5347",
+    "rpc": "https://froopyland.dymension.xyz/14/lilyqt_6968135-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

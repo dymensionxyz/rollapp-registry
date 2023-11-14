@@ -1,0 +1,34 @@
+{
+  "chainId": "silknodes_9693659-1",
+  "chainName": "Silknodes",
+  "rpc": "https://rollapp.rpc.silknodes.io/",
+  "rest": "https://rollapp.api.silknodes.io/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SLKN",
+      "baseDenom": "uSLKN",
+      "decimals": 18,
+      "logo": "/logos/silknodes_9693659-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://silknodes.io",
+  "logo": "/logos/silknodes_9693659-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6122",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x93e9db",
+    "rpc": "https://rollapp.json-rpc.silknodes.io/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Silk Nodes pride ourselves on being 100% bare metal validators, running our own infrastructure to validate the chains we are active on, we are also proud to say we run IBC relayer nodes to help support the networks.",
+  "analytics": true,
+  "validator": true
+}

@@ -1,0 +1,35 @@
+
+{
+  "chainId": "kyiv_3845406-1",
+  "chainName": "kyiv",
+  "rpc": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DEN",
+      "baseDenom": "uDEN",
+      "decimals": 18,
+      "logo": "/logos/kyiv_3845406-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kyiv_3845406-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5475",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3aad1e",
+    "rpc": "https://froopyland.dymension.xyz/2/kyiv_3845406-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

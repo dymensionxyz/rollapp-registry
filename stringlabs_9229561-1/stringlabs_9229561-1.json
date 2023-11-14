@@ -1,0 +1,33 @@
+{
+  "chainId": "stringlabs_9229561-1",
+  "chainName": "stringlabs",
+  "rpc": "https://froopyland.dymension.xyz/16/stringlabs_9229561-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/stringlabs_9229561-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STL",
+      "baseDenom": "uSTL",
+      "decimals": 18,
+      "logo": "/logos/stringlabs_9229561-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/stringlabs_9229561-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6843",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8cd4f9",
+    "rpc": "https://froopyland.dymension.xyz/16/stringlabs_9229561-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
