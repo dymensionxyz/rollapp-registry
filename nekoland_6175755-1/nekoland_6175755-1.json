@@ -1,8 +1,8 @@
 {
   "chainId": "nekoland_6175755-1",
   "chainName": "nekoland_6175755-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "213.136.93.26:26657",
+  "rest": "213.136.93.26:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,9 @@
   },
   "evm": {
     "chainId": "0x5e3c0b",
-    "rpc": ""
+    "rpc": "213.136.93.26:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
   "analytics": true
-}
