@@ -1,8 +1,8 @@
 {
   "chainId": "nekoland_6175755-1",
-  "chainName": "nekoland_6175755-1",
-  "rpc": "213.136.93.26:26657",
-  "rest": "213.136.93.26:1317",
+  "chainName": "Nekoland",
+  "rpc": "https://froopyland.dymension.xyz/20/nekoland_6175755-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/nekoland_6175755-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5e3c0b",
-    "rpc": "213.136.93.26:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/nekoland_6175755-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
