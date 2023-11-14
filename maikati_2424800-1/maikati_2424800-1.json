@@ -18,7 +18,7 @@
     "website": "",
     "logo": "/logos/maikati_2424800-1.jpg",
     "ibc": {
-        "hubChannel": "channel-5247",
+        "hubChannel": "",
         "timeout": 172800000,
         "channel": "channel-0"
     },
