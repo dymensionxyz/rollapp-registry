@@ -1,7 +1,7 @@
 {
   "chainId": "stakepoolrollapp_7073886-1",
   "chainName": "StakePool",
-  "rpc": "https://rollapp.dymension.stakepool.dev.br/rpc",
+  "rpc": "https://rollapp.dymension.stakepool.dev.br/",
   "rest": "https://rollapp.dymension.stakepool.dev.br/rest",
   "bech32Prefix": "ethm",
   "currencies": [
