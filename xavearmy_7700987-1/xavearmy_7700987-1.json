@@ -1,0 +1,33 @@
+{
+  "chainId": "xavearmy_7700987-1",
+  "chainName": "Xave Army",
+  "rpc": "http://173.212.234.81:26657",
+  "rest": "http://173.212.234.81:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/xavearmy_7700987-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/xavearmy_7700987-1.png",
+  "ibc": {
+    "hubChannel": "channel-7316",
+    "channel": "channel-3",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7581fb",
+    "rpc": "http://173.212.234.81:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
