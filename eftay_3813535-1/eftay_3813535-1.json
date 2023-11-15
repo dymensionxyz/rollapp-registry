@@ -1,8 +1,8 @@
 {
   "chainId": "eftay_3813535-1",
   "chainName": "Karsiyaka",
-  "rpc": "http://65.21.243.120:26657",
-  "rest": "http://65.21.243.120:1317",
+  "rpc": "https://froopyland.dymension.xyz/21/eftay_3813535-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/eftay_3813535-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3a309f",
-    "rpc": "http://65.21.243.120:8545"
+    "rpc": "https://froopyland.dymension.xyz/21/eftay_3813535-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
