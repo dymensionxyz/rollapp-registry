@@ -1,6 +1,6 @@
 {
   "chainId": "megumii_4962415-1",
-  "chainName": "megumii_4962415-1",
+  "chainName": "megumii",
   "rpc": "https://api.dym.kessoku.xyz",
   "rest": "https://rest.dym.kessoku.xyz",
   "bech32Prefix": "ethm",
