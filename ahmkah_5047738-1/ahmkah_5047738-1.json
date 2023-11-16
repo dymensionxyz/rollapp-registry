@@ -30,5 +30,6 @@
   "da": "Celestia",
   "description": "BARBUT GAMES",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "active": false
 }
