@@ -1,8 +1,8 @@
 {
   "chainId": "turkiye_9426128-1",
-  "chainName": "turkiye_9426128-1",
-  "rpc": "http://116.203.183.142",
-  "rest": "http://116.203.183.142",
+  "chainName": "Turkiye",
+  "rpc": "https://froopyland.dymension.xyz/21/turkiye_9426128-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/turkiye_9426128-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8fd4d0",
-    "rpc": "http://116.203.183.142"
+    "rpc": "https://froopyland.dymension.xyz/21/turkiye_9426128-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
