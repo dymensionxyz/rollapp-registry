@@ -1,8 +1,8 @@
 {
   "chainId": "victor_3687692-1",
   "chainName": "victor_3687692-1",
-  "rpc": "http://207.180.220.197:26657",
-  "rest": "http://207.180.220.197:1317",
+  "rpc": "https://froopyland.dymension.xyz/21/victor_3687692-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/victor_3687692-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x38450c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/victor_3687692-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
