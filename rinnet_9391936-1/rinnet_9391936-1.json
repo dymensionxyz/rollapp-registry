@@ -1,21 +1,21 @@
 {
   "chainId": "rinnet_9391936-1",
-  "chainName": "rinnet",
-  "rpc": "http://rinnet:26657",
-  "rest": "http://rinnet:1317",
+  "chainName": "rinnet_9391936-1",
+  "rpc": "http://161.97.83.146:26657",
+  "rest": "http://161.97.83.146:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "RIN",
       "baseDenom": "uRIN",
       "decimals": 18,
-      "logo": "/logos/rinnet_9391936-1.png",
+      "logo": "/logos/rinnet.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://portal.dymension.xyz/rollapp/rinnet",
+  "website": "https://portal.dymension.xyz/rollapp/rinnet_9391936-1",
   "logo": "/logos/rinnet.jpg",
   "ibc": {
     "hubChannel": "channel-7317",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8f4f40",
-    "rpc": "http://rinnet:8545"
+    "rpc": "http://161.97.83.146:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
