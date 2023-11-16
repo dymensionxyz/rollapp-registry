@@ -1,8 +1,8 @@
 {
   "chainId": "velaryon_6133424-1",
-  "chainName": "velaryon_6133424-1",
-  "rpc": "http://135.181.199.235:26657",
-  "rest": "http://135.181.199.235:1317",
+  "chainName": "Velaryon",
+  "rpc": "https://froopyland.dymension.xyz/21/velaryon_6133424-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/velaryon_6133424-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5d96b0",
-    "rpc": "http://135.181.199.235.8545"
+    "rpc": "https://froopyland.dymension.xyz/21/velaryon_6133424-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
