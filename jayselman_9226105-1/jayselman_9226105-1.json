@@ -1,0 +1,33 @@
+{
+  "chainId": "jayselman_9226105-1",
+  "chainName": "JSRollApp",
+  "rpc": "http://198.244.176.117:26657",
+  "rest": "http://198.244.176.117:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JSNODE",
+      "baseDenom": "uJSNODE",
+      "decimals": 18,
+      "logo": "/logos/jayselman_9226105-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                                                             022",
+  "website": "",
+  "logo": "/logos/jayselman_9226105-1.png",
+  "ibc": {
+    "hubChannel": "channel-7329",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8cc779",
+    "rpc": "http://198.244.176.117:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Perfection",
+  "analytics": true
+}
