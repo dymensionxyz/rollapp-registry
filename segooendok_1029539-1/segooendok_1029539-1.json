@@ -1,9 +1,9 @@
 💈 networks.json:
 {
   "chainId": "segooendok_1029539-1",
-  "chainName": "segooendok_1029539-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Segooendok",
+  "rpc": "https://froopyland.dymension.xyz/21/segooendok_1029539-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/segooendok_1029539-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0xfb5a3",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/segooendok_1029539-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
