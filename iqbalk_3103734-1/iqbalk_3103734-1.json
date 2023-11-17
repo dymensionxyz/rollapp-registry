@@ -1,8 +1,8 @@
 {
   "chainId": "iqbalk_3103734-1",
   "chainName": "Iqbal_K",
-  "rpc": "https://froopyland.dymension.xyz/6/iqbalk_3103734-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/6/iqbalk_3103734-1/rest",
+  "rpc": "http://170.187.224.98:26657",
+  "rest": "http://170.187.224.98:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2f5bf6",
-    "rpc": "https://froopyland.dymension.xyz/6/iqbalk_3103734-1/evmrpc"
+    "rpc": "http://170.187.224.98:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
