@@ -1,4 +1,5 @@
-"chainId": "monem_6407865-1",
+{
+  "chainId": "monem_6407865-1",
   "chainName": "unique roller",
   "rpc": "https://froopyland.dymension.xyz/12/monem_6407865-1/rpc",
   "rest": "https://froopyland.dymension.xyz/12/monem_6407865-1/rest",
