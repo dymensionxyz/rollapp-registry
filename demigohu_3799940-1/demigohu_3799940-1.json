@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+  {
+    "chainId": "demigohu_3799940-1",
+    "chainName": "Demigohu",
+    "rpc": "https://froopyland.dymension.xyz/4/demigohu_3799940-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/4/demigohu_3799940-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "DMG",
+        "baseDenom": "uDMG",
+        "decimals": 18,
+        "logo": "/logos/demigohu_3799940-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "logo": "/logos/demigohu_3799940-1.png",
+    "ibc": {
+      "hubChannel": "channel-7225",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x39fb84",
+      "rpc": "https://froopyland.dymension.xyz/4/demigohu_3799940-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true,
+    "rewards": true
+  }
+=======
 {
   "chainId": "demigohu_3799940-1",
   "chainName": "Demigohu",
@@ -31,3 +65,4 @@
   "description": "",
   "analytics": true
 }
+>>>>>>> 017ea1efb6f51f6b8e54f212d8e8f87a612280c2
