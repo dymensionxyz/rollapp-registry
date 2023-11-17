@@ -1,8 +1,8 @@
 {
     "chainId": "poulpy_6276796-1",
     "chainName": "poulpy_6276796-1",
-    "rpc": "http://194.163.138.113:26657/",
-    "rest": "http://194.163.138.113:1317/",
+    "rpc": "http://194.163.138.113:26657",
+    "rest": "http://194.163.138.113:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x5fc6bc",
-      "rpc": "http://194.163.138.113:8545/"
+      "rpc": "http://194.163.138.113:8545"
     },
     "type": "RollApp",
     "da": "Celestia",
