@@ -1,0 +1,33 @@
+{
+    "chainId": "theblacksea_8761556-1",
+    "chainName": "theblacksea Roller App",
+    "rpc": "http://194.163.138.113:26647",
+    "rest": "http://194.163.138.113:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "BLACK",
+        "baseDenom": "uBLACK",
+        "decimals": 18,
+        "logo": "/logos/theblacksea_8761556-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://www.theblacksea.co",
+    "logo": "/logos/theblacksea_8761556-1.png",
+    "ibc": {
+      "hubChannel": "channel-7348",
+      "channel": "channel-3",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x85b0d4",
+      "rpc": "http://194.163.138.113:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "Welcome to theblacksea RollApp",
+    "analytics": true
+  }
