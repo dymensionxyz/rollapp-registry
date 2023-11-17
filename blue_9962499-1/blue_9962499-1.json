@@ -1,8 +1,8 @@
 {
   "chainId": "blue_9962499-1",
-  "chainName": "blue_9962499-1",
-  "rpc": "http://178.63.218.73:8545/",
-  "rest": "http://178.63.218.73/",
+  "chainName": "Blue",
+  "rpc": "https://froopyland.dymension.xyz/21/blue_9962499-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/blue_9962499-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x980403",
-    "rpc": "http://178.63.218.73:8545/"
+    "rpc": "https://froopyland.dymension.xyz/21/blue_9962499-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
