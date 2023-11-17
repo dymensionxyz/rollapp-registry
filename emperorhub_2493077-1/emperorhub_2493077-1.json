@@ -1,8 +1,8 @@
 {
   "chainId": "emperorhub_2493077-1",
   "chainName": "Emperor Hub",
-  "rpc": "https://rpc.rollapp.nodex.one",
-  "rest": "https://rest.rollapp.nodex.one",
+  "rpc": "https://rollapp.rpc.nodex.one",
+  "rest": "https://rollapp.api.nodex.one",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x260a95",
-    "rpc": "https://jsonrpc.rollapp.nodex.one"
+    "rpc": "https://rollapp.evm.nodex.one"
   },
   "type": "RollApp",
   "da": "Celestia",
