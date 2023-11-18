@@ -1,6 +1,6 @@
 {
   "chainId": "nilloki_5396662-1",
-  "chainName": "nilloki_5396662-1",
+  "chainName": "Niloki",
   "rpc": "http://5.78.74.105:26657",
   "rest": "http://5.78.74.105:1317",
   "bech32Prefix": "ethm",
