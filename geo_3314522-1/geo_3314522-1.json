@@ -1,8 +1,8 @@
 {
   "chainId": "geo_3314522-1",
-  "chainName": "geo_3314522-1",
-  "rpc": "185.190.140.81:26657",
-  "rest": "185.190.140.81:1317",
+  "chainName": "Geo",
+  "rpc": "https://froopyland.dymension.xyz/21/geo_3314522-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/geo_3314522-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x32935a",
-    "rpc": "185.190.140.81:8545"
+    "rpc": "https://froopyland.dymension.xyz/21/geo_3314522-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
