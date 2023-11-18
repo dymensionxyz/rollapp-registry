@@ -1,0 +1,33 @@
+{
+  "chainId": "faith_8654507-1",
+  "chainName": "Faith",
+  "rpc": "https://froopyland.dymension.xyz/20/faith_8654507-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/faith_8654507-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/faith_8654507-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/faith_8654507-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7241",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x840eab",
+    "rpc": "https://froopyland.dymension.xyz/20/faith_8654507-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

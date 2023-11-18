@@ -1,0 +1,33 @@
+{
+  "chainId": "ahmkah_4266417-1",
+  "chainName": "Ahmkah",
+  "rpc": "https://froopyland.dymension.xyz/21/ahmkah_4266417-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/ahmkah_4266417-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AMO",
+      "baseDenom": "uAMO",
+      "decimals": 18,
+      "logo": "/logos/ahmkah_4266417-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://barbut.vercel.app/",
+  "logo": "/logos/ahmkah_4266417-1.png",
+  "ibc": {
+    "hubChannel": "channel-7335",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4119b1",
+    "rpc": "https://froopyland.dymension.xyz/21/ahmkah_4266417-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Introducing The BARBUT GAME! ?? ?? ",
+  "analytics": true
+}
