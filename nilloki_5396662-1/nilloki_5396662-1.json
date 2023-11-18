@@ -1,8 +1,8 @@
 {
   "chainId": "nilloki_5396662-1",
   "chainName": "niloki",
-  "rpc": "http://5.78.74.105:26657",
-  "rest": "http://5.78.74.105:1317",
+  "rpc": "https://froopyland.dymension.xyz/21/nilloki_5396662-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/nilloki_5396662-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x5258b6",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/nilloki_5396662-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "http://5.78.74.105:8545",
+  "description": "",
   "analytics": true
 }
