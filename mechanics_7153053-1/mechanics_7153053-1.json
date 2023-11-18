@@ -1,6 +1,6 @@
 {
   "chainId": "mechanics_7153053-1",
-  "chainName": “mchn”,
+  "chainName": “Mechanics”,
   "rpc": "https://froopyland.dymension.xyz/13/mechanics_7153053-1/rpc",
   "rest": "https://froopyland.dymension.xyz/13/mechanics_7153053-1/rest",
   "bech32Prefix": "ethm",
