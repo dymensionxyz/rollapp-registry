@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5ce1e4",
-    "rpc": "https://froopyland.dymension.xyz/15/htonka_6087140-1/rest"
+    "rpc": "https://froopyland.dymension.xyz/15/htonka_6087140-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
