@@ -1,8 +1,8 @@
 {
   "chainId": "kenzvnn_9960679-1",
-  "chainName": "kenzvnn_9960679-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Kenzvnn",
+  "rpc": "https://froopyland.dymension.xyz/21/kenzvnn_9960679-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/kenzvnn_9960679-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x97fce7",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/kenzvnn_9960679-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
