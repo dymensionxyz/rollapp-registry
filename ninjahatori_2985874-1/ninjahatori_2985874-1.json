@@ -1,8 +1,8 @@
 {
   "chainId": "ninjahatori_2985874-1",
-  "chainName": "ninjahatori_2985874-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Ninjahatori",
+  "rpc": "https://froopyland.dymension.xyz/21/ninjahatori_2985874-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/ninjahatori_2985874-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2d8f92",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/ninjahatori_2985874-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
