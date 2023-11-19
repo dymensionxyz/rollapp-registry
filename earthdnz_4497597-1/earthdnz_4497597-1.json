@@ -1,8 +1,8 @@
 {
   "chainId": "earthdnz_4497597-1",
   "chainName": "Earthdnz",
-  "rpc": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/21/earthdnz_4497597-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/earthdnz_4497597-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44a0bd",
-    "rpc": "https://froopyland.dymension.xyz/19/earthdnz_4497597-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/21/earthdnz_4497597-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
