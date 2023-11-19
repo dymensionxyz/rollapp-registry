@@ -1,8 +1,8 @@
 {
   "chainId": "kynraze_4338147-1",
   "chainName": "Kynraze Hub",
-  "rpc": "https://kyn-rpc.kynraze.com",
-  "rest": "https://kyn-api.kynraze.com",
+  "rpc": "https://rpc-kynhub.kynraze.com",
+  "rest": "https://api-kynhub.kynraze.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -26,7 +26,7 @@
   },
   "evm": {
     "chainId": "0x4231e3",
-    "rpc": "https://kyn-evm.kynraze.com"
+    "rpc": "https://evm-kynhub.kynraze.com"
   },
   "type": "RollApp",
   "da": "Avail",
