@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
