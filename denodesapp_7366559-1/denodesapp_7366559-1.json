@@ -1,8 +1,8 @@
 {
   "chainId": "denodesapp_7366559-1",
   "chainName": "deNodes RollApp",
-  "rpc": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/rest",
+  "rpc": "https://rpc-rollapp.denodes.xyz",
+  "rest": "https://rest-rollapp.denodes.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x70679f",
-    "rpc": "https://froopyland.dymension.xyz/17/denodesapp_7366559-1/evmrpc"
+    "rpc": "https://jsonrpc-rollapp.denodes.xyz"
   },
   "type": "RollApp",
   "da": "Celestia",
