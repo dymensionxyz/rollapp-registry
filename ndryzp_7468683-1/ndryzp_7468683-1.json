@@ -1,8 +1,8 @@
 {
   "chainId": "ndryzp_7468683-1",
   "chainName": "ndryzp",
-  "rpc": "https://dymension-rpc-rollapp.nzp.tech",
-  "rest": "https://dymension-rest-rollapp.nzp.tech",
+  "rpc": "https://164.68.115.145:26657/",
+  "rest": "https://164.68.115.145:1317/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x71f68b",
-    "rpc": "https://dymension-jsonrpc-rollapp.nzp.tech"
+    "rpc": "https://164.68.115.145:8545/"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "ndryzp",
+  "description": "",
   "analytics": true
 }
