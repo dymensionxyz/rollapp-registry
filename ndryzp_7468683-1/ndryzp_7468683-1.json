@@ -1,8 +1,8 @@
 {
   "chainId": "ndryzp_7468683-1",
   "chainName": "ndryzp",
-  "rpc": "https://164.68.115.145:26657/",
-  "rest": "https://164.68.115.145:1317/",
+  "rpc": "https://rpc-rollapp.mzonder.com",
+  "rest": "https://api-rollapp.mzonder.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x71f68b",
-    "rpc": "https://164.68.115.145:8545/"
+    "rpc": "https://jsonrpc-rollapp.mzonder.com"
   },
   "type": "RollApp",
   "da": "Avail",
