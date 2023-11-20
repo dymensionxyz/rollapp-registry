@@ -1,8 +1,8 @@
 {
   "chainId": "quadblock_2484029-1",
   "chainName": "Quadblock Corp",
-  "rpc": "http://65.109.48.247:26657",
-  "rest": "http://65.109.48.247:1317",
+  "rpc": "https://froopyland.dymension.xyz/21/quadblock_2484029-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/quadblock_2484029-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25e73d",
-    "rpc": "http://65.109.48.247:8545"
+    "rpc": "https://froopyland.dymension.xyz/21/quadblock_2484029-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
