@@ -1,8 +1,8 @@
 {
   "chainId": "danielvo_6269529-1",
   "chainName": "danielvo_6269529-1",
-  "rpc": "158.220.90.83:26657",
-  "rest": "158.220.90.83:1317",
+  "rpc": "http://158.220.90.83:26657",
+  "rest": "http://158.220.90.83:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5faa59",
-    "rpc": "158.220.90.83:8545"
+    "rpc": "http://158.220.90.83:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
