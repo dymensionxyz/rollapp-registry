@@ -1,8 +1,8 @@
 {
   "chainId": "newoneroolup_4304139-1",
-  "chainName": "newoneroolup_4304139-1",
-  "rpc": "http://37.27.11.47:26657",
-  "rest": "http://37.27.11.47:1317",
+  "chainName": "newoneroolup",
+  "rpc": "https://froopyland.dymension.xyz/21/newoneroolup_4304139-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/newoneroolup_4304139-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x41ad0b",
-    "rpc": "http://37.27.11.47:8545"
+    "rpc": "https://froopyland.dymension.xyz/21/newoneroolup_4304139-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
