@@ -1,8 +1,8 @@
 {
   "chainId": "pluton_3676236-1",
-  "chainName": "pluton_3676236-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Pluton",
+  "rpc": "https://froopyland.dymension.xyz/21/pluton_3676236-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/pluton_3676236-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -28,6 +28,6 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "https://froopyland.dymension.xyz/21/pluton_3676236-1/evmrpc",
   "analytics": true
 }
