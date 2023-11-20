@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "NodesRun.Com / Dymension RollApp",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }
