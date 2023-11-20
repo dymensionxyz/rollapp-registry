@@ -1,15 +1,15 @@
 {
   "chainId": "mechanics_7153053-1",
-  "chainName": “Mechanics”,
+  "chainName": "Mechanics",
   "rpc": "https://froopyland.dymension.xyz/21/mechanics_7153053-1/rpc",
   "rest": "https://froopyland.dymension.xyz/21/mechanics_7153053-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": “MCHN”,
-      "baseDenom": "uMCHN”,
+      "displayDenom": "MCHN",
+      "baseDenom": "uMCHN",
       "decimals": 18,
-      "logo": "/logos/mechanics_7153053-1.jpg”,
+      "logo": "/logos/mechanics_7153053-1.jpg",
       "type": "main"
     }
   ],
