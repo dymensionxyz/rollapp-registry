@@ -1,8 +1,8 @@
 {
   "chainId": "parafmax_6632272-1",
-  "chainName": "parafmax_6632272-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Parafmax",
+  "rpc": "193.111.125.224:26657",
+  "rest": "193.111.125.224:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
