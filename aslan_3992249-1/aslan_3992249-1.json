@@ -1,8 +1,8 @@
 {
   "chainId": "aslan_3992249-1",
-  "chainName": "aslan_3992249-1",
-  "rpc": "http://5.104.83.4:26557",
-  "rest": "http://5.104.83.4:1317",
+  "chainName": "aslan",
+  "rpc": "https://froopyland.dymension.xyz/22/aslan_3992249-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/aslan_3992249-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3ceab9",
-    "rpc": "http://5.104.83.4:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/aslan_3992249-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
