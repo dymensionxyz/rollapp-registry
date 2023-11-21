@@ -9,14 +9,14 @@
       displayDenom bsh,
       baseDenom ubsh,
       decimals 18,
-      logo logosbishamonten_7172286-1.png,
+      logo logosbishamonten_7172286-1.jpg,
       type main
     }
   ],
   coinType 60,
   faucetUrl httpsdiscord.comchannels9569616331655290981143231362468434022,
   website ,
-  logo logosbishamonten_7172286-1.png,
+  logo logosbishamonten_7172286-1.jpg,
   ibc {
     hubChannel channel-7436,
     channel channel-0,
