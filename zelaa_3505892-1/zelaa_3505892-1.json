@@ -1,6 +1,6 @@
 {
   "chainId": "zelaa_3505892-1",
-  "chainName": "zelaa_3505892-1",
+  "chainName": "Zelaa",
   "rpc": "https://froopyland.dymension.xyz/21/zelaa_3505892-1/rpc",
   "rest": "https://froopyland.dymension.xyz/21/zelaa_3505892-1/rest",
   "bech32Prefix": "ethm",
