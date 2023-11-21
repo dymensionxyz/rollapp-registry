@@ -1,8 +1,8 @@
 {
   "chainId": "portakaltestrunrollapp_1512630-1",
   "chainName": "portakaltestrunrollap",
-  "rpc": "https://froopyland.dymension.xyz/14/portakaltestrunrollapp_1512630-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/14/portakaltestrunrollapp_1512630-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/21/portakaltestrunrollapp_1512630-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/portakaltestrunrollapp_1512630-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1714b6",
-    "rpc": "https://froopyland.dymension.xyz/14/portakaltestrunrollapp_1512630-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/21/portakaltestrunrollapp_1512630-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",

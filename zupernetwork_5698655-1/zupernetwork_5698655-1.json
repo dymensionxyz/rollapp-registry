@@ -29,5 +29,6 @@
     "type": "RollApp",
     "da": "Celestia",
     "description": "Explore the future of blockchain innovation with a playground of experimental products, featuring ZuperArt, ZuperDrop, and the upcoming ZuperYield – where you can be at the forefront of digital creativity and value discovery. Built by the ZuperHunt team",
-    "analytics": true
+    "analytics": true,
+    "active": false
 }

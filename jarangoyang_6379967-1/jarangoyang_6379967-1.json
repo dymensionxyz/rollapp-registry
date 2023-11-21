@@ -1,8 +1,8 @@
 {
   "chainId": "jarangoyang_6379967-1",
   "chainName": "jarangoyang",
-  "rpc": "https://froopyland.dymension.xyz/15/jarangoyang_6379967-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/15/jarangoyang_6379967-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6159bf",
-    "rpc": "https://froopyland.dymension.xyz/15/jarangoyang_6379967-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
