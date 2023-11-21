@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x653350",
-    "rpc": ""
+    "rpc": "193.111.125.224:1317"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "",
+  "description": "Destek lütfen",
   "analytics": true
 }
