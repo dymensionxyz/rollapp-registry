@@ -1,0 +1,33 @@
+{
+  chainId bishamonten_7172286-1,
+  chainName Bishamonten Chain,
+  rpc 161.97.89.11126657,
+  rest 161.97.89.1111317,
+  bech32Prefix ethm,
+  currencies [
+    {
+      displayDenom bsh,
+      baseDenom ubsh,
+      decimals 18,
+      logo logosbishamonten_7172286-1.png,
+      type main
+    }
+  ],
+  coinType 60,
+  faucetUrl httpsdiscord.comchannels9569616331655290981143231362468434022,
+  website ,
+  logo logosbishamonten_7172286-1.png,
+  ibc {
+    hubChannel channel-7436,
+    channel channel-0,
+    timeout 172800000
+  },
+  evm {
+    chainId 0x6d70be,
+    rpc 161.97.89.1118545
+  },
+  type RollApp,
+  da Celestia,
+  description ,
+  analytics true
+}
