@@ -1,8 +1,8 @@
 {
   "chainId": "zelaa_3505892-1",
   "chainName": "zelaa_3505892-1",
-  "rpc": "173.249.0.44:26657",
-  "rest": "173.249.0.44:1317",
+  "rpc": "https://froopyland.dymension.xyz/21/zelaa_3505892-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/zelaa_3505892-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x357ee4",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/zelaa_3505892-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
