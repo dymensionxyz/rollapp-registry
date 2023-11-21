@@ -2,7 +2,7 @@
   "chainId": "alphab_2492262-1",
   "chainName": "alphab_2492262-1",
   "rpc": "https://rpc-rollap.alphab.ai",
-  "rest": "https://api-rollap.alphab.ai/",
+  "rest": "https://api-rollap.alphab.ai",
   "bech32Prefix": "ethm",
   "currencies": [
     {
