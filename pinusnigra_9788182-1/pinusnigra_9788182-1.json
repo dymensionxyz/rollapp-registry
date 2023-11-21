@@ -9,14 +9,14 @@
       "displayDenom": "PNR",
       "baseDenom": "uPNR",
       "decimals": 18,
-      "logo": "/logos/pinusnigra_9788182-1.png",
+      "logo": "/logos/pinusnigra_9788182-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/pinusnigra_9788182-1.png",
+  "logo": "/logos/pinusnigra_9788182-1.jpg",
   "ibc": {
     "hubChannel": "channel-7258",
     "channel": "channel-0",
