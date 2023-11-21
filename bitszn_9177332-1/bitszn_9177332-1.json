@@ -1,8 +1,8 @@
 {
   "chainId": "bitszn_9177332-1",
   "chainName": "bitszn",
-  "rpc": "http://65.108.192.183:22657",
-  "rest": "http://65.108.192.183:1317",
+  "rpc": "http://65.21.57.30:22657",
+  "rest": "http://65.21.57.30:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c08f4",
-    "rpc": "http://65.108.192.183:8545"
+    "rpc": "http://65.21.57.30:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
