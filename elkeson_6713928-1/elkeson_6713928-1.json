@@ -1,8 +1,8 @@
 {
     "chainId": "elkeson_6713928-1",
     "chainName": "elkeson",
-    "rpc": "https://froopyland.dymension.xyz/16/elkeson_6713928-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/16/elkeson_6713928-1/rest",
+    "rpc": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x667248",
-        "rpc": "https://froopyland.dymension.xyz/16/elkeson_6713928-1/evmrpc"
+        "rpc": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",

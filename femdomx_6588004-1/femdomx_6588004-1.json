@@ -1,0 +1,33 @@
+{
+    "chainId": "femdomx_6588004-1",
+    "chainName": "femdomx",
+    "rpc": "https://rollappevm-26657-femdomx.bk7bbm.oss-acorn.io",
+    "rest": "https://rollappevm-1317-femdomx.bk7bbm.oss-acorn.io",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "FDM",
+            "baseDenom": "uFDM",
+            "decimals": 18,
+            "logo": "/logos/femdom.jpg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://twitter.com/huzmond",
+    "logo": "/logos/femdom.jpg",
+    "ibc": {
+        "hubChannel": "channel-7205",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x648664",
+        "rpc": "https://rollappevm-8545-freshrollapp.bk7bbm.oss-acorn.io"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+}

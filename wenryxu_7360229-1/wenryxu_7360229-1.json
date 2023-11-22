@@ -1,8 +1,8 @@
 {
   "chainId": "wenryxu_7360229-1",
   "chainName": "WebX Network",
-  "rpc": "https://froopyland.dymension.xyz/3/wenryxu_7360229-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/3/wenryxu_7360229-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/20/wenryxu_7360229-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/wenryxu_7360229-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x704ee5",
-    "rpc": "https://froopyland.dymension.xyz/3/wenryxu_7360229-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/20/wenryxu_7360229-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
