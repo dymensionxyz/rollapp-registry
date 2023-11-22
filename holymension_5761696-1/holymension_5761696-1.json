@@ -1,8 +1,8 @@
 {
   "chainId": "holymension_5761696-1",
-  "chainName": "holymension_5761696-1",
-  "rpc": "http://95.216.153.207:26657",
-  "rest": "http://95.216.153.207:1317",
+  "chainName": "Holymension",
+  "rpc": "https://froopyland.dymension.xyz/22/holymension_5761696-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/holymension_5761696-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x57eaa0",
-    "rpc": "http://95.216.153.207:26657"
+    "rpc": "https://froopyland.dymension.xyz/22/holymension_5761696-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
