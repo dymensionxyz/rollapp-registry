@@ -1,15 +1,15 @@
 {
-  "chainId": "bitszn_9177332-1",
+  "chainId": "bitszn_5170443-1",
   "chainName": "bitszn",
   "rpc": "http://65.21.57.30:22657",
   "rest": "http://65.21.57.30:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "bzn",
-      "baseDenom": "ubzn",
+      "displayDenom": "bzz",
+      "baseDenom": "ubzz",
       "decimals": 18,
-      "logo": "/logos/bitszn_9177332-1.png",
+      "logo": "/logos/bitszn_9177332-1.jpg",
       "type": "main"
     }
   ],
@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/bitszn_9177332-1.jpg",
   "ibc": {
-    "hubChannel": "channel-7431",
+    "hubChannel": "channel-7443",
     "channel": "channel-0",
     "timeout": 172800000
   },
@@ -28,7 +28,6 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "bitszn rollap",
+  "description": "bitzn rollap",
   "analytics": true
 }
-
