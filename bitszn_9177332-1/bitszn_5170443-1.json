@@ -1,8 +1,8 @@
 {
   "chainId": "bitszn_5170443-1",
   "chainName": "bitszn",
-  "rpc": "http://65.21.57.30:22657",
-  "rest": "http://65.21.57.30:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/bitszn_5170443-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/bitszn_5170443-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8c08f4",
-    "rpc": "http://65.21.57.30:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/bitszn_5170443-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
