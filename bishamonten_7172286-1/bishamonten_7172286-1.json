@@ -1,8 +1,8 @@
 {
   "chainId": "bishamonten_7172286-1",
   "chainName": "Bishamonten Chain",
-  "rpc": "http://161.97.89.111:26657",
-  "rest": "http://161.97.89.111:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/bishamonten_7172286-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/bishamonten_7172286-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6d70be",
-    "rpc": "http://161.97.89.111:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/bishamonten_7172286-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
