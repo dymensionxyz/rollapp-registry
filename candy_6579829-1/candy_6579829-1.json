@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "candy_6579829-1",
+  "chainName": "candy_6579829-1",
+  "rpc": "http://65.108.212.194:26657" ,
+  "rest": "http://65.108.212.194:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CAN",
+      "baseDenom": "uCAN",
+      "decimals": 18,
+      "logo": "/logos/candy_6579829-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/candy_6579829-1.png",
+  "ibc": {
+    "hubChannel": "channel-7445",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x646675",
+    "rpc": "http://65.108.212.194:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
