@@ -1,8 +1,8 @@
 {
   "chainId": "venus_7093522-1",
   "chainName": "Venus",
-  "rpc": "207.180.250.142:26657",
-  "rest": "207.180.250.142:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/venus_7093522-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/venus_7093522-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x359bfa",
-    "rpc": "207.180.250.142:26657"
+    "rpc": "https://froopyland.dymension.xyz/22/venus_7093522-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
