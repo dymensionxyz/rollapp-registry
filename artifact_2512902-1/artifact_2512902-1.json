@@ -1,8 +1,8 @@
 {
   "chainId": "artifact_2512902-1",
   "chainName": "Artifact",
-  "rpc": "http://190.124.251.29:26667",
-  "rest": "http://190.124.251.29:1327",
+  "rpc": "http://190.124.251.5:26657",
+  "rest": "http://190.124.251.5:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x265806",
-    "rpc": "http://190.124.251.29:8545"
+    "rpc": "http://190.124.251.5:8545"
   },
   "type": "RollApp",
   "da": "Avail",
