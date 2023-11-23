@@ -1,0 +1,33 @@
+{
+  "chainId": "rootah_6113409-1",
+  "chainName": "rootah",
+  "rpc": "http://128.140.103.131:26657",
+  "rest": "http://128.140.103.131:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RTH",
+      "baseDenom": "uRTH",
+      "decimals": 18,
+      "logo": "/logos/rootah_6113409-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rootah_6113409-1.png",
+  "ibc": {
+    "hubChannel": "channel-7470",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d4881",
+    "rpc": "http://128.140.103.131:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
