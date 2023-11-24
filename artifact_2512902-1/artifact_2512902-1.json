@@ -1,8 +1,8 @@
 {
   "chainId": "artifact_2512902-1",
   "chainName": "Artifact",
-  "rpc": "http://190.124.251.5:26657",
-  "rest": "http://190.124.251.5:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/artifact_2512902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/artifact_2512902-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x265806",
-    "rpc": "http://190.124.251.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/artifact_2512902-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
