@@ -1,0 +1,33 @@
+{
+  "chainId": "posco_1911600-1",
+  "chainName": "POSCO",
+  "rpc": "5.161.75.69:26657",
+  "rest": "5.161.75.69:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "POS",
+      "baseDenom": "uPOS",
+      "decimals": 18,
+      "logo": "/logos/posco_1911600-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/posco_1911600-1.png",
+  "ibc": {
+    "hubChannel": "channel-7469",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1d2b30",
+    "rpc": "5.161.75.69:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
