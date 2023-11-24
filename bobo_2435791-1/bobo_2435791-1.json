@@ -1,0 +1,33 @@
+{
+    "chainId": "bobo_2435791-1",
+    "chainName": "bobo_2435791-1",
+    "rpc": "http://158.220.84.230:26657",
+    "rest": "http://158.220.84.230:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "bob",
+        "baseDenom": "ubob",
+        "decimals": 18,
+        "logo": "/logos/bobo_2435791-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/bobo_2435791-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-7463",
+      "channel": "channel-1",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x252acf",
+      "rpc": "http://158.220.84.230:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
