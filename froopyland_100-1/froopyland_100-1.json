@@ -7,8 +7,8 @@
     "chainId": "0x64",
     "rpc": "https://froopyland-json.rpc.silknodes.io"
   },
-  "explorerUrl": "https://explorer.silknodes.io/dymension",
-  "exploreTxUrl": "https://explorer.silknodes.io/dymension/tx/",
+  "explorerUrl": "https://fl.dymscan.live/",
+  "exploreTxUrl": "https://fl.dymscan.live/tx/",
   "bech32Prefix": "dym",
   "currencies": [
     {
