@@ -1,0 +1,33 @@
+{
+  "chainId": "thienlong_5471840-1",
+  "chainName": "THIEN LONG",
+  "rpc": "154.38.174.4:26657",
+  "rest": "154.38.174.4:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DRA",
+      "baseDenom": "uDRA",
+      "decimals": 18,
+      "logo": "/logos/thienlong_5471840-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/thienlong_5471840-1.png",
+  "ibc": {
+    "hubChannel": "channel-7486",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x537e60",
+    "rpc": "154.38.174.4:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
