@@ -1,8 +1,8 @@
 {
   "chainId": "nftymension_7719584-1",
   "chainName": "NFTymension",
-  "rpc": "217.79.180.232:26657",
-  "rest": "217.79.180.232:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/nftymension_7719584-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/nftymension_7719584-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x75caa0",
-    "rpc": "217.79.180.232:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/nftymension_7719584-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
