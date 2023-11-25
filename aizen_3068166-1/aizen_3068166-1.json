@@ -1,0 +1,33 @@
+{
+  "chainId": "aizen_3068166-1",
+  "chainName": "Aizen",
+  "rpc": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/aizen_3068166-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AZN",
+      "baseDenom": "uAZN",
+      "decimals": 18,
+      "logo": "/logos/aizen_3068166-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aizen_3068166-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7013",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2ed106",
+    "rpc": "https://froopyland.dymension.xyz/18/aizen_3068166-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

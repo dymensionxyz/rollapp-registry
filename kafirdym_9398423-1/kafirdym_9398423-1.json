@@ -9,14 +9,14 @@
       "displayDenom": "KFR",
       "baseDenom": "uKFR",
       "decimals": 18,
-      "logo": "/logos/zawadzkiarts-20220909-0001.jpg",
+      "logo": "/logos/logo_kafirchain.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://twitter.com/Bacchetta0",
-  "logo": "/logos/zawadzkiarts-20220909-0001.jpg",
+  "website": "https://kafir.framer.website/",
+  "logo": "/logos/logo_kafirchain.png",
   "ibc": {
     "hubChannel": "channel-5422",
     "channel": "channel-0",

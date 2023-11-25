@@ -1,0 +1,32 @@
+{
+  "chainId": "yho_7037634-1",
+  "chainName": "yho",
+  "rpc": "https://froopyland.dymension.xyz/17/yho_7037634-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/yho_7037634-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "yho",
+      "baseDenom": "uyho",
+      "decimals": 18,
+      "logo": "/logos/cumulo_3513338-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/cgr_7097188-1.png",
+  "ibc": {
+    "hubChannel": "channel-5345",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x359bfa",
+    "rpc": "https://froopyland.dymension.xyz/17/yho_7037634-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
