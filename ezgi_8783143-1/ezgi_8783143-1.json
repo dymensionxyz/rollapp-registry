@@ -1,8 +1,8 @@
 {
   "chainId": "ezgi_8783143-1",
   "chainName": "ezgi_8783143-1",
-  "rpc": "http://65.108.212.194:26657",
-  "rest": "http://65.108.212.194:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/ezgi_8783143-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/ezgi_8783143-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x860527",
-    "rpc": "http://65.108.212.194:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/ezgi_8783143-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
