@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x359bfa",
-    "rpc": "https://rollapp.evm.cumulo.com.es"
+    "rpc": "https://rollapp.jrpc.cumulo.com.es"
   },
   "type": "RollApp",
   "da": "Celestia",
