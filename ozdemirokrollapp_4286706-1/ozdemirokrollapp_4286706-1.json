@@ -1,0 +1,33 @@
+{
+  "chainId": "ozdemirokrollapp_4286706-1",
+  "chainName": "ozdemirokrollapp_4286706-1",
+  "rpc": "188.166.24.108:26657",
+  "rest": "188.166.24.108:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BUS",
+      "baseDenom": "uBUS",
+      "decimals": 18,
+      "logo": "/logos/ozdemirokrollapp_4286706-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ozdemirokrollapp_4286706-1.png",
+  "ibc": {
+    "hubChannel": "channel-7502",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4168f2",
+    "rpc": "188.166.24.108:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
