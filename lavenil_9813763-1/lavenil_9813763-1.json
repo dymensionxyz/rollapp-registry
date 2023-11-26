@@ -1,8 +1,8 @@
 {
   "chainId": "lavenil_9813763-1",
-  "chainName": "lavenil",
-  "rpc": "https://froopyland.dymension.xyz/12/lavenil_9813763-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/12/lavenil_9813763-1/rest",
+  "chainName": "lavenil_9813763-1",
+  "rpc": "78.47.52.59",
+  "rest": "78.47.52.59",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x95bf03",
-    "rpc": "https://froopyland.dymension.xyz/12/lavenil_9813763-1/evmrpc"
+    "rpc": "78.47.52.59"
   },
   "type": "RollApp",
   "da": "Celestia",
