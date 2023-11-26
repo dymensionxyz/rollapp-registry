@@ -1,0 +1,33 @@
+{
+  "chainId": "coinstampnew_1091494-1",
+  "chainName": "coinstampnew_1091494-1",
+  "rpc": "http://49.13.13.24:26657",
+  "rest": "http://49.13.13.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CND",
+      "baseDenom": "uCND",
+      "decimals": 18,
+      "logo": "/logos/coinstampnew_1091494-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/coinstampnew_1091494-1.png",
+  "ibc": {
+    "hubChannel": "channel-7507",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x10a7a6",
+    "rpc": "http://49.13.13.24:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
