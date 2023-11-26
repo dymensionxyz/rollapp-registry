@@ -1,8 +1,8 @@
 {
   "chainId": "ozdemirokrollapp_4286706-1",
-  "chainName": "ozdemirokrollapp_4286706-1",
-  "rpc": "188.166.24.108:26657",
-  "rest": "188.166.24.108:1317",
+  "chainName": "Ozdemirokrollapp",
+  "rpc": "https://froopyland.dymension.xyz/22/ozdemirokrollapp_4286706-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/ozdemirokrollapp_4286706-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4168f2",
-    "rpc": "188.166.24.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/ozdemirokrollapp_4286706-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
