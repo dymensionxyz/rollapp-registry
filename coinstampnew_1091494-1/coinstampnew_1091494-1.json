@@ -1,8 +1,8 @@
 {
   "chainId": "coinstampnew_1091494-1",
-  "chainName": "coinstampnew_1091494-1",
-  "rpc": "http://49.13.13.24:26657",
-  "rest": "http://49.13.13.24:1317",
+  "chainName": "Coinstampnew",
+  "rpc": "https://froopyland.dymension.xyz/22/coinstampnew_1091494-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/coinstampnew_1091494-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x10a7a6",
-    "rpc": "http://49.13.13.24:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/coinstampnew_1091494-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
