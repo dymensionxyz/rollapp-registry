@@ -1,8 +1,8 @@
 {
   "chainId": "spaceman_7608986-1",
-  "chainName": "spaceman_7608986-1",
-  "rpc": "http://94.130.65.74:26657",
-  "rest": "http://94.130.65.74:1317",
+  "chainName": "Spaceman",
+  "rpc": "https://froopyland.dymension.xyz/22/spaceman_7608986-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/spaceman_7608986-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x741a9a",
-    "rpc": "http://94.130.65.74:1317"
+    "rpc": "https://froopyland.dymension.xyz/22/spaceman_7608986-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
