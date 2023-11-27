@@ -15,6 +15,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: multi-envs
+
       - name: Upload changed jsons
         id: upload_changed_jsons
         env:
