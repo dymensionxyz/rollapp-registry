@@ -45,8 +45,12 @@ jobs:
           
             # Fetch rollapp env
             env=$(echo $file | cut -d'/' -f1)
-          
-            echo $env
-
-
+            case $env in
+              "devnet")
+                save_network_api="https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+                ;;
+              *)
+            esac
+                    
+            echo $save_network_api
           done
