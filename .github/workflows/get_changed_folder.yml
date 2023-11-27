@@ -3,7 +3,7 @@ name: Upload Changed Networks
 on:
   push:
     branches:
-      - multi-envs
+      - main
 
 jobs:
   upload_changed_networks:
