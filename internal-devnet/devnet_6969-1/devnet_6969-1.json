@@ -1,6 +1,6 @@
 {
     "chainId": "devnet_6969-1",
-    "chainName": "Dymension 6969",
+    "chainName": "Dymension 6969 2",
     "rpc": "https://dymension-devnet.rpc.silknodes.io",
     "rest": "https://dymension-devnet.api.silknodes.io",
     "evm": {
