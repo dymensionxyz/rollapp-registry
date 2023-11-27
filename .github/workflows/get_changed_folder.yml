@@ -43,5 +43,5 @@ jobs:
             # Parse the JSON data
             parsed_json=$(echo "$file_content" | jq -c .)
           
-            echo $parsed_json
+            echo $file
           done
