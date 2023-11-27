@@ -43,5 +43,13 @@ jobs:
             # Parse the JSON data
             parsed_json=$(echo "$file_content" | jq -c .)
           
-            echo $file
+            # Fetch rollapp env
+            while [ "$file" != "/" ]; do
+              basefolder=$(dirname "$file")
+              $file="$basefolder"
+            done
+          
+            echo $basefolder
+
+
           done
