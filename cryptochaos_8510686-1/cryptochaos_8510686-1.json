@@ -1,8 +1,8 @@
 {
   "chainId": "cryptochaos_8510686-1",
-  "chainName": "cryptochaos_8510686-1",
-  "rpc": "95.111.235.12:26657",
-  "rest": "95.111.235.12:1317",
+  "chainName": "Cryptochaos",
+  "rpc": "https://froopyland.dymension.xyz/22/cryptochaos_8510686-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/cryptochaos_8510686-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x81dcde",
-    "rpc": "95.111.235.12:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/cryptochaos_8510686-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
