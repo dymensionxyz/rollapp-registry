@@ -52,5 +52,10 @@ jobs:
               *)
             esac
                     
-            echo $save_network_api
+            # Make an API post request with the extracted json
+            curl -X POST \
+              -H "Content-type: application/json" \
+              -H "Authorization: Bearer $SAVE_NETWORK_API_KEY" \
+              -d "$parsed_json" \
+              $save_network_api
           done
