@@ -1,0 +1,33 @@
+{
+  "chainId": "cryptochaos_8510686-1",
+  "chainName": "cryptochaos_8510686-1",
+  "rpc": "95.111.235.12:26657",
+  "rest": "95.111.235.12:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CRC",
+      "baseDenom": "uCRC",
+      "decimals": 18,
+      "logo": "/logos/cryptochaos_8510686-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cryptochaos_8510686-1.png",
+  "ibc": {
+    "hubChannel": "channel-7508",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x81dcde",
+    "rpc": "95.111.235.12:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
