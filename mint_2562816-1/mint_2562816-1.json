@@ -1,6 +1,6 @@
 {
     "chainId": "mint_2562816-1",
-    "chainName": "mint",
+    "chainName": "Mint",
     "rpc": "http://173.249.12.186:26657",
     "rest": "http://173.249.12.186:1317",
     "bech32Prefix": "ethm",
