@@ -1,8 +1,8 @@
 {
   "chainId": "bassarudin_5588458-1",
-  "chainName": "bassarudin_5588458-1",
-  "rpc": "http://188.40.167.231:26657/",
-  "rest": "http://188.40.167.231:1317/",
+  "chainName": "Bassarudin",
+  "rpc": "https://froopyland.dymension.xyz/22/bassarudin_5588458-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/bassarudin_5588458-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5545ea",
-    "rpc": "http://188.40.167.231:8545/"
+    "rpc": "https://froopyland.dymension.xyz/22/bassarudin_5588458-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
