@@ -1,0 +1,33 @@
+{
+  "chainId": "thecoldblooded_7787471-1",
+  "chainName": "thecoldblooded_7787471-1",
+  "rpc": "213.238.180.16:26657",
+  "rest": "213.238.180.16:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TCBD",
+      "baseDenom": "uTCBD",
+      "decimals": 18,
+      "logo": "/logos/thecoldblooded_7787471-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/thecoldblooded_7787471-1.png",
+  "ibc": {
+    "hubChannel": "channel-6899",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x76d3cf",
+    "rpc": "213.238.180.16:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
