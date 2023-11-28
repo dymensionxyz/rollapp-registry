@@ -49,6 +49,9 @@ jobs:
               "devnet")
                 save_network_api="https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
                 ;;
+              "internal-devnet")
+                save_network_api="https://savenetworkrequest-lmw4daeqdq-uc.a.run.app"
+                ;;
               *)
             esac
                     
