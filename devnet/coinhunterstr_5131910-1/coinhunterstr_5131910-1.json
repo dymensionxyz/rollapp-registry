@@ -1,0 +1,34 @@
+{
+  "chainId": "coinhunterstr_5131910-1",
+  "chainName": "CoinHuntersTR",
+  "rpc": "http:/128.140.64.180:26657",
+  "rest": "http://128.140.64.180:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CHTR",
+      "baseDenom": "uCHTR",
+      "decimals": 18,
+      "logo": "/logos/coinhunterstr_5131910-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://coinhunters-dym.vercel.app/",
+  "logo": "/logos/coinhunterstr_5131910-1.png",
+  "ibc": {
+    "hubChannel": "channel-7473",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4e4e86",
+    "rpc": "http://128.140.64.180:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "https://linktr.ee/coinhunters",
+  "analytics": true,
+  "validator": true
+}
