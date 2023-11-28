@@ -71,5 +71,6 @@
     },
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
-    "website": "https://portal.dymension.xyz"
+    "website": "https://portal.dymension.xyz",
+    "analytics": true
 }
