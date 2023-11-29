@@ -1,6 +1,6 @@
 {
   "chainId": "kafirchain_4272528-1",
-  "chainName": "kafirchain_4272528-1",
+  "chainName": "Kafir Chain",
   "rpc": "http://207.180.245.65:26657",
   "rest": "http://207.180.245.65:1317",
   "bech32Prefix": "ethm",
