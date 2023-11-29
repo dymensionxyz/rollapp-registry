@@ -43,10 +43,22 @@ jobs:
             # Parse the JSON data
             parsed_json=$(echo "$file_content" | jq -c .)
           
+            # Fetch rollapp env
+            env=$(echo $file | cut -d'/' -f1)
+            case $env in
+              "devnet")
+                save_network_api="https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+                ;;
+              "internal-devnet")
+                save_network_api="https://savenetworkrequest-lmw4daeqdq-uc.a.run.app"
+                ;;
+              *)
+            esac
+                    
             # Make an API post request with the extracted json
             curl -X POST \
               -H "Content-type: application/json" \
               -H "Authorization: Bearer $SAVE_NETWORK_API_KEY" \
               -d "$parsed_json" \
-              "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+              $save_network_api
           done
