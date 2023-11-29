@@ -1,8 +1,8 @@
 {
   "chainId": "kafirchain_4272528-1",
   "chainName": "Kafir Chain",
-  "rpc": "http://207.180.245.65:26657",
-  "rest": "http://207.180.245.65:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x413190",
-    "rpc": "http://207.180.245.65:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
