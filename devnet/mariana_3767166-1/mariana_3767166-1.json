@@ -1,8 +1,8 @@
 {
   "chainId": "mariana_3767166-1",
   "chainName": "mariana_3767166-1",
-  "rpc": "http://142.93.145.4:26657",
-  "rest": "http://142.93.145.4:1317",
+  "rpc": "https://froopyland.dymension.xyz/22/mariana_3767166-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/mariana_3767166-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x397b7e",
-    "rpc": "http://142.93.145.4:8545"
+    "rpc": "https://froopyland.dymension.xyz/22/mariana_3767166-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
