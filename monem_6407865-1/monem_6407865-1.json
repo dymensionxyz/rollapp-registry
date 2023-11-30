@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x61c6b9",
-    "rpc": "https://froopyland.dymension.xyz/12/monem_6407865-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/22/monem_6407865-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
