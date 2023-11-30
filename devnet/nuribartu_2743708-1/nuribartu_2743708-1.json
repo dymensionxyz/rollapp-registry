@@ -1,0 +1,33 @@
+{
+  "chainId": "nuribartu_2743708-1",
+  "chainName": "Nuribartu",
+  "rpc": "https://froopyland.dymension.xyz/12/nuribartu_2743708-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/nuribartu_2743708-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NBC",
+      "baseDenom": "uNBC",
+      "decimals": 18,
+      "logo": "/logos/nuribartu_2743708-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://rollape-nft.xyz",
+  "logo": "/logos/nuribartu_2743708-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6377",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x29dd9c",
+    "rpc": "https://froopyland.dymension.xyz/12/nuribartu_2743708-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
