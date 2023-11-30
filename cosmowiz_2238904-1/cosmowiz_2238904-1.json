@@ -1,0 +1,33 @@
+{
+  "chainId": "cosmowiz_2238904-1",
+  "chainName": "cosmowiz",
+  "rpc": "http://57.129.7.33:26657",
+  "rest": "http://57.129.7.33:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WZZ",
+      "baseDenom": "uWZZ",
+      "decimals": 18,
+      "logo": "/logos/cosmowiz_2238904-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://cosmowiz.com",
+  "logo": "/logos/cosmowiz_2238904-1.png",
+  "ibc": {
+    "hubChannel": "channel-7525",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2229b8",
+    "rpc": "http://57.129.7.33:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Reliable infrastructure for projects",
+  "analytics": true
+}
