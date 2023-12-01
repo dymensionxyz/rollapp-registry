@@ -1,3 +1,4 @@
+{
  "chainId": "thonguyen_8920268-1",
   "chainName": "thonguyen",
   "rpc": "https://froopyland.dymension.xyz/23/thonguyen_8920268-1/rpc",
@@ -29,3 +30,4 @@
   "da": "Celestia",
   "description": "",
   "analytics": true
+}
