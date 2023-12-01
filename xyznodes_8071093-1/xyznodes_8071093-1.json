@@ -1,10 +1,8 @@
-💈 networks.json:
 {
   "chainId": "xyznodes_8071093-1",
-  "chainName": "xyznodes_8071093-1",
-  "rpc": "http://31.220.90.255:26657",
-  "rest": "http://31.220.90.255:1317",
-  "rpc": "http://31.220.90.255.8545",
+  "chainName": "Xyznodes",
+  "rpc": "https://froopyland.dymension.xyz/23/xyznodes_8071093-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/xyznodes_8071093-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -26,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7b27b5",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/23/xyznodes_8071093-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
