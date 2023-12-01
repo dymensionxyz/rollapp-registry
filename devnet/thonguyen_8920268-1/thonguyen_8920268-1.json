@@ -1,7 +1,7 @@
  "chainId": "thonguyen_8920268-1",
   "chainName": "thonguyen",
-  "rpc": "http://161.97.149.123:26657",
-  "rest": "http://161.97.149.123:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/thonguyen_8920268-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/thonguyen_8920268-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x881ccc",
-    "rpc": "http://161.97.149.123:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/thonguyen_8920268-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
