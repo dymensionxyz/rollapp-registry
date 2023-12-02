@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/mechanics_7153053-1.jpg",
   "ibc": {
-    "hubChannel": "channel-6361",
+    "hubChannel": "channel-7391",
     "channel": "channel-0",
     "timeout": 172800000
   },
