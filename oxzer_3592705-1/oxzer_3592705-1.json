@@ -1,8 +1,8 @@
 {
   "chainId": "oxzer_3592705-1",
   "chainName": "Oxzer",
-  "rpc": "https://45.91.169.17",
-  "rest": "https://45.91.169.17",
+  "rpc": "https://158.220.97.71",
+  "rest": "https://158.220.97.71",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x36d201",
-    "rpc": "https://45.91.169.17"
+    "rpc": "https://158.220.97.71"
   },
   "type": "RollApp",
   "da": "Celestia",
