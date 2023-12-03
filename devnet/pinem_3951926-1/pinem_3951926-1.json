@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x3c4d36",
-        "rpc": ""
+        "rpc": "http://144.91.66.180:8545/"
     },
     "type": "RollApp",
     "da": "Celestia",
