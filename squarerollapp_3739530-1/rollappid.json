@@ -1,8 +1,8 @@
 {
   "chainId": "squarerollapp_3739530-1",
   "chainName": "squarerollapp_3739530-1",
-  "rpc": "http;//24.199.119.255/26657",
-  "rest": "http;//24.199.119.255/1317",
+  "rpc": "http://24.199.119.255/26657",
+  "rest": "http://24.199.119.255/1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x390f8a",
-    "rpc": "http;//24.199.119.255/8545"
+    "rpc": "http://24.199.119.255/8545"
   },
   "type": "RollApp",
   "da": "Celestia",
