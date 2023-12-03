@@ -1,6 +1,6 @@
 {
   "chainId": "jaifaim_5451332-1",
-  "chainName": "jaifaim_5451332-1",
+  "chainName": "Jaifaim",
   "rpc": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/rpc",
   "rest": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/rest",
   "bech32Prefix": "ethm",
