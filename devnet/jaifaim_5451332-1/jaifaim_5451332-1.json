@@ -1,8 +1,8 @@
 {
   "chainId": "jaifaim_5451332-1",
   "chainName": "jaifaim_5451332-1",
-  "rpc": "65.108.56.160:26657",
-  "rest": "65.108.56.160:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x532e44",
-    "rpc": "65.108.56.160:1317"
+    "rpc": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
