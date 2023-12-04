@@ -1,8 +1,8 @@
 {
     "chainId": "pinem_3951926-1",
     "chainName": "pinem_3951926-1",
-    "rpc": "http://144.91.66.180:26657",
-    "rest": "http://144.91.66.180:1317",
+    "rpc": "http://144.91.66.180:26657/status",
+    "rest": "http://144.91.66.180:1317/status",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x3c4d36",
-        "rpc": "http://144.91.66.180:8545"
+        "rpc": "http://144.91.66.180:8545/status"
     },
     "type": "RollApp",
     "da": "Celestia",
