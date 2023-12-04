@@ -1,8 +1,8 @@
 {
     "chainId": "pinem_3951926-1",
-    "chainName": "pinem_3951926-1",
-    "rpc": "http://144.91.66.180:26657/status",
-    "rest": "http://144.91.66.180:1317/status",
+    "chainName": "Pinem",
+    "rpc": "https://froopyland.dymension.xyz/23/pinem_3951926-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/23/pinem_3951926-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x3c4d36",
-        "rpc": "http://144.91.66.180:8545/status"
+        "rpc": "https://froopyland.dymension.xyz/23/pinem_3951926-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
