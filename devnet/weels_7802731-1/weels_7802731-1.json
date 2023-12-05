@@ -2,8 +2,7 @@
   "chainId": "weels_7802731-1",
   "chainName": "weels_7802731-1",
   "rpc": "http://149.102.146.181:26657",
-  "rest": "http://149.102.146.181:1317
-",
+  "rest": "http://149.102.146.181:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
