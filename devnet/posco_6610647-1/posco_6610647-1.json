@@ -1,8 +1,8 @@
 {
   "chainId": "posco_6610647-1",
   "chainName": "POSCO",
-  "rpc": "http://45.67.216.220:26657",
-  "rest": "http://45.67.216.220:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/posco_6610647-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/posco_6610647-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x64ded7",
-    "rpc": "http://45.67.216.220:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/posco_6610647-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
