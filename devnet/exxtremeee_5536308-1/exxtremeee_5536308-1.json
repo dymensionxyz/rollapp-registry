@@ -1,8 +1,8 @@
 {
   "chainId": "exxtremeee_5536308-1",
-  "chainName": "exxtremeee_5536308-1",
-  "rpc": "158.220.123.153:26657",
-  "rest": "158.220.123.153:1317",
+  "chainName": "Exxtremeee",
+  "rpc": "https://froopyland.dymension.xyz/23/exxtremeee_5536308-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/exxtremeee_5536308-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x547a34",
-    "rpc": "158.220.123.153:1337"
+    "rpc": "https://froopyland.dymension.xyz/23/exxtremeee_5536308-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
