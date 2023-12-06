@@ -1,8 +1,8 @@
 {
   "chainId": "gibrank_2123706-1",
   "chainName": "gibrank_2123706-1",
-  "rpc": "https://froopyland.dymension.xyz/18/gibrank_2123706-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/18/gibrank_2123706-1/rest",
+  "rpc": "146.190.51.101:26657",
+  "rest": "146.190.51.101:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
