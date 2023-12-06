@@ -1,0 +1,33 @@
+{
+  "chainId": "exxtremeee_5536308-1",
+  "chainName": "exxtremeee_5536308-1",
+  "rpc": "158.220.123.153:26657",
+  "rest": "158.220.123.153:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "exr",
+      "baseDenom": "uexr",
+      "decimals": 18,
+      "logo": "/logos/exxtremeee_5536308-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/exxtremeee_5536308-1.png",
+  "ibc": {
+    "hubChannel": "channel-7771",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x547a34",
+    "rpc": "158.220.123.153:1337"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
