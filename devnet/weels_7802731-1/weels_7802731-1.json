@@ -1,8 +1,8 @@
 {
   "chainId": "weels_7802731-1",
-  "chainName": "weels_7802731-1",
-  "rpc": "http://149.102.146.181:26657",
-  "rest": "http://149.102.146.181:1317",
+  "chainName": "Weels",
+  "rpc": "https://froopyland.dymension.xyz/23/weels_7802731-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/weels_7802731-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x770f6b",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/23/weels_7802731-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
