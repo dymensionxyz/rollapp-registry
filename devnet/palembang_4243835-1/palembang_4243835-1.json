@@ -1,8 +1,8 @@
 {
   "chainId": "palembang_4243835-1",
   "chainName": "palembang_4243835-1",
-  "rpc": "46.250.232.245:26657",
-  "rest": "46.250.232.245:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/palembang_4243835-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/palembang_4243835-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x40c17b",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/23/palembang_4243835-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
