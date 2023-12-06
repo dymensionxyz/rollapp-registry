@@ -1,8 +1,8 @@
 {
     "chainId": "jakarta_9619898-1",
     "chainName": "dFuse Finance",
-    "rpc": "https://froopyland.rpc.silknodes.io:443",
-    "rest": "https://froopyland.api.silknodes.io:443",
+    "rpc": "http://65.21.122.189:26657",
+    "rest": "http://65.21.122.189:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
