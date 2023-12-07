@@ -1,0 +1,33 @@
+{
+  "chainId": "adymension_1967232-1",
+  "chainName": "adymension_1967232-1",
+  "rpc": "http://159.65.148.122:26657",
+  "rest": "http://159.65.148.122:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ADY",
+      "baseDenom": "uADY",
+      "decimals": 18,
+      "logo": "/logos/adymension_1967232-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/adymension_1967232-1.png",
+  "ibc": {
+    "hubChannel": "channel-7832",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1e0480",
+    "rpc": "http://159.65.148.122:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
