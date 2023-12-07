@@ -1,0 +1,24 @@
+	
+da	"Celestia"
+chainName	"twisted"
+rpc	"https://rollappevm-26657-twisted.bk7bbm.oss-acorn.io"
+rest	"https://rollappevm-1317-twisted.bk7bbm.oss-acorn.io"
+evm	
+chainId	"0x3d8c05"
+rpc	"https://rollappevm-twisted.bk7bbm.oss-acorn.io"
+type	"RollApp"
+coinType	60
+ibc	
+timeout	172800000
+channel	"channel-0"
+hubChannel	"channel-7842"
+logo	"/logos/twisted_4033541-1.png"
+chainId	"twisted_4033541-1"
+currencies	
+0	
+baseDenom	"utws"
+displayDenom	"TWS"
+decimals	18
+logo	"/logos/twisted_4033541-1.png"
+type	"main"
+bech32Prefix	"ethm"
