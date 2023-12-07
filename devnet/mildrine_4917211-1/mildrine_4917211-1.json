@@ -1,0 +1,33 @@
+{
+    "chainId": "mildrine_4917211-1",
+    "chainName": "mildrine",
+    "rpc": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "MIL",
+        "baseDenom": "uMIL",
+        "decimals": 18,
+        "logo": "/logos/mildrine_4917211-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/mildrine_4917211-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-7028",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x4b07db",
+      "rpc": "https://froopyland.dymension.xyz/18/mildrine_4917211-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }

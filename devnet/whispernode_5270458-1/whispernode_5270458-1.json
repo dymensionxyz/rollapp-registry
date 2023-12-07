@@ -1,0 +1,35 @@
+{
+  "chainId": "whispernode_5270458-1",
+  "chainName": "whispernode",
+  "rpc": "https://rpc-dym-testnet.whispernode.com",
+  "rest": "https://api-dym-testnet.whispernode.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "whspr",
+      "baseDenom": "uwhspr",
+      "decimals": 18,
+      "logo": "/logos/whispernode_5270458-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": 
+"https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "www.whispernode.com",
+  "logo": "/logos/whispernode_5270458-1.png",
+  "ibc": {
+    "hubChannel": "channel-6768",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x506bba",
+    "rpc": "https://evm-dym-testnet.whispernode.com"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

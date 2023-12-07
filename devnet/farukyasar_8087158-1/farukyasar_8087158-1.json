@@ -1,0 +1,33 @@
+{
+  "chainId": "farukyasar_8087158-1",
+  "chainName": "Farukyasar",
+  "rpc": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "fyx",
+      "baseDenom": "ufyx",
+      "decimals": 18,
+      "logo": "/logos/farukyasar_8087158-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/farukyasar_8087158-1.png",
+  "ibc": {
+    "hubChannel": "channel-7084",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7b6676",
+    "rpc": "https://froopyland.dymension.xyz/18/farukyasar_8087158-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "I'll Be Back!",
+  "analytics": true
+}

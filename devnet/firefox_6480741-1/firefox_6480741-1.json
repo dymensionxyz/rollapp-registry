@@ -1,0 +1,33 @@
+{
+  "chainId": "firefox_6480741-1",
+  "chainName": "firefox_6480741-1",
+  "rpc": "https://froopyland.dymension.xyz/18/firefox_6480741-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/firefox_6480741-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "frf",
+      "baseDenom": "ufrf",
+      "decimals": 18,
+      "logo": "/logos/firefox_6480741-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/firefox_6480741-1.png",
+  "ibc": {
+    "hubChannel": "channel-6952",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x62e365",
+	"rpc": "https://froopyland.dymension.xyz/18/firefox_6480741-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "meowment_3944093-1",
+  "chainName": "Meowment",
+  "rpc": "https://rpc-dymension.meowment.xyz",
+  "rest": "https://rest.dymension.meowment.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MWN",
+      "baseDenom": "uMWN",
+      "decimals": 18,
+      "logo": "/logos/meowment_3944093-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "meowment.xyz",
+  "logo": "/logos/meowment_3944093-1.png",
+  "ibc": {
+    "hubChannel": "channel-5966",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3c2e9d",
+    "rpc": "https://evm.dymension.meowment.xyz"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

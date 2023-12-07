@@ -1,0 +1,37 @@
+{
+    "chainId": "froopyland_100-1",
+    "chainName": "Dymension Froopyland",
+    "rpc": "https://froopyland.rpc.silknodes.io",
+    "rest": "https://froopyland.api.silknodes.io",
+    "evm": {
+        "chainId": "0x64",
+        "rpc": "https://froopyland-json.rpc.silknodes.io"
+    },
+    "explorerUrl": "https://fl.dymscan.live/",
+    "exploreTxUrl": "https://fl.dymscan.live/tx/",
+    "bech32Prefix": "dym",
+    "currencies": [
+        {
+            "displayDenom": "DYM",
+            "baseDenom": "udym",
+            "decimals": 18,
+            "logo": "/logos/dymension-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "validatorsLogosStorageDir": "hub",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 0.25,
+        "average": 0.4,
+        "high": 0.55
+    },
+    "logo": "/logos/dymension-logo.svg",
+    "type": "Hub",
+    "analytics": true,
+    "website": "https://portal.dymension.xyz"
+}
