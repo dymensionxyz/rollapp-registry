@@ -1,0 +1,33 @@
+{
+    "chainId": "zuperchain_6991015-1",
+    "chainName": "ZuperChain",
+    "rpc": "http://161.97.152.43:26657",
+    "rest": "http://161.97.152.43:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ZUPER",
+        "baseDenom": "uZUPER",
+        "decimals": 18,
+        "logo": "/logos/zuperchain_6991015-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "http://faucet.zupernetwork.tech/",
+    "website": "http://ecosystem.zupernetwork.tech/",
+    "logo": "/logos/zuperchain_6991015-1.png",
+    "ibc": {
+      "hubChannel": "channel-7846",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x6aaca7",
+      "rpc": "http://161.97.152.43:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "ZuperChain (previously ZuperNetwork) is a modular general-purpose EVM L2 powered by Dymension and Avail",
+    "analytics": true
+  }
