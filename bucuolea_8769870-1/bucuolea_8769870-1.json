@@ -23,7 +23,7 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x384cf3",
+    "chainId": "0x85d14e",
     "rpc": "http://35.188.46.168:8545"
   },
   "type": "RollApp",
