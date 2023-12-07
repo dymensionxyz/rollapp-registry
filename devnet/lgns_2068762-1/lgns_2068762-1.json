@@ -27,7 +27,7 @@
     "rpc": "http://51.75.164.249:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "local",
+  "description": "Swiss-Operated Institutional Grade Staking Provider",
   "analytics": true
 }
