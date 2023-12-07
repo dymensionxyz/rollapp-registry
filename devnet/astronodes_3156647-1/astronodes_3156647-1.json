@@ -1,8 +1,8 @@
 {
   "chainId": "astronodes_3156647-1",
   "chainName": "AstroNodes",
-  "rpc": "http://188.34.154.230:26657",
-  "rest": "http://188.34.154.230:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/astronodes_3156647-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/astronodes_3156647-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x302aa7",
-    "rpc": "http://188.34.154.230:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/astronodes_3156647-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
