@@ -1,8 +1,8 @@
 {
   "chainId": "ideku_9817334-1",
-  "chainName": "ideku_9817334-1",
-  "rpc": "http://213.35.119.108:26657",
-  "rest": "http://213.35.119.108:1317",
+  "chainName": "Ideku",
+  "rpc": "https://froopyland.dymension.xyz/23/ideku_9817334-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/ideku_9817334-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x95ccf6",
-    "rpc": "http://213.35.119.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/ideku_9817334-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
