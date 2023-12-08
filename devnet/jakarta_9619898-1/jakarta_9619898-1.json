@@ -1,8 +1,8 @@
 {
     "chainId": "jakarta_9619898-1",
     "chainName": "dFuse Finance",
-    "rpc": "http://65.21.122.189:26657",
-    "rest": "http://65.21.122.189:1317",
+    "rpc": "https://froopyland.dymension.xyz/23/jakarta_9619898-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/23/jakarta_9619898-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x92c9ba",
-      "rpc": "http://65.21.122.189:8545"
+      "rpc": "https://froopyland.dymension.xyz/23/jakarta_9619898-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
