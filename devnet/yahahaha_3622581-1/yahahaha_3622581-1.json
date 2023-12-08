@@ -1,8 +1,8 @@
 {
   "chainId": "yahahaha_3622581-1",
   "chainName": "yahahaha_3622581-1",
-  "rpc": "http://159.65.240.113:26657",
-  "rest": "http://159.65.240.113:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x3746b5",
-    "rpc": "http://159.65.240.113:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics":Â true
 }
