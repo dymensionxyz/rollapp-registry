@@ -1,8 +1,8 @@
 {
   "chainId": "gamer_4666349-1",
   "chainName": "GAMER",
-  "rpc": "http://157.90.156.215:26657",
-  "rest": "http://157.90.156.215:1317",
+  "rpc": "https://froopyland.dymension.xyz/23/gamer_4666349-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/gamer_4666349-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4733ed",
-    "rpc": "http://157.90.156.215:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/gamer_4666349-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
