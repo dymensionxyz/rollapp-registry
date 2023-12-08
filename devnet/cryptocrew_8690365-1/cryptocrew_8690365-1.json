@@ -1,6 +1,6 @@
 {
   "chainId": "cryptocrew_8690365-1",
-  "chainName": "cryptocrew_8690365-1",
+  "chainName": "Cryptocrew",
   "rpc": "https://rpc.dymension-test-rollapp.ccvalidators.com:443",
   "rest": "https://rest.dymension-test-rollapp.ccvalidators.com:443",
   "bech32Prefix": "ethm",
