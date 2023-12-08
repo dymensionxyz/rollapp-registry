@@ -1,8 +1,8 @@
 {
   "chainId": "fasyayaya_8235865-1",
-  "chainName": "fasyayaya_8235865-1",
-  "rpc": "http://104.236.192.237:26657",
-  "rest": "http://104.236.192.237:1317",
+  "chainName": "Fasyayaya",
+  "rpc": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x7dab59",
-    "rpc": "http://104.236.192.237:8545"
+    "rpc": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics":Â true
 }
