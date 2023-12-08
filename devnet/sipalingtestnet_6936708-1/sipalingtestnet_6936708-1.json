@@ -1,6 +1,6 @@
 {
     "chainId": "sipalingtestnet_6936708-1",
-    "chainName": "sipalingtestnet_6936708-1",
+    "chainName": "Sipalingtestnet",
     "rpc": "https://rpc.dymension.sipalingtestnet.com/",
     "rest": "https://api.dymension.sipalingtestnet.com/",
     "bech32Prefix": "ethm",
