@@ -1,30 +1,30 @@
 {
-  "chainId": "whoami_2533179-1",
-  "chainName": "whoami_2533179-1",
-  "rpc": "http://35.188.46.168:26657",
-  "rest": "http://35.188.46.168:1317",
+  "chainId": "tiantian_8527618-1",
+  "chainName": "tiantian_8527618-1",
+  "rpc": "http://34.89.81.42:26657",
+  "rest": "http://34.89.81.42:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "who",
-      "baseDenom": "uwho",
+      "displayDenom": "tian",
+      "baseDenom": "utian",
       "decimals": 18,
-      "logo": "/logos/whoami_2533179-1.jpg",
+      "logo": "/logos/tiantian_8527618-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/whoami_2533179-1.jpg",
+  "logo": "/logos/tiantian_8527618-1.jpg",
   "ibc": {
-    "hubChannel": "channel-7196",
+    "hubChannel": "channel-7868",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x26a73b",
-    "rpc": "http://35.188.46.168:8545"
+    "chainId": "0x821f02",
+    "rpc": "http://34.89.81.42:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
