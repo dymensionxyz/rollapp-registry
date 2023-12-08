@@ -1,8 +1,8 @@
 {
   "chainId": "omri_6220468-1",
   "chainName": "omri_6220468-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/24/omri/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/omri/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5eeab4",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/24/omri/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
