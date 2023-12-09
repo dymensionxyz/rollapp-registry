@@ -1,8 +1,8 @@
 {
  "chainId": "suryaone_7252682-1",
- "chainName": "suryaone_7252682-1",
- "rpc": "http://31.220.94.99:26657",
- "rest": "http://31.220.94.99:1317",
+ "chainName": "Suryaone",
+ "rpc": "https://froopyland.dymension.xyz/24/suryaone_7252682-1/rpc",
+ "rest": "https://froopyland.dymension.xyz/24/suryaone_7252682-1/rest",
  "bech32Prefix": "ethm",
  "currencies": [
   {
@@ -24,7 +24,7 @@
   },
   "evm": {
   "chainId": "0x6eaaca",
-  "rpc": "http://31.220.94.99:8545"
+  "rpc": "https://froopyland.dymension.xyz/24/suryaone_7252682-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
