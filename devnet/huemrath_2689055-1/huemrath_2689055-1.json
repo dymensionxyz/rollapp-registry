@@ -1,8 +1,8 @@
 {
   "chainId": "huemrath_2689055-1",
   "chainName": "Huemrath",
-  "rpc": "http://92.118.113.49:26657",
-  "rest": "http://92.118.113.49:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/huemrath_2689055-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/huemrath_2689055-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x29081f",
-    "rpc": "http://92.118.113.49:1317"
+    "rpc": "https://froopyland.dymension.xyz/24/huemrath_2689055-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
