@@ -1,0 +1,33 @@
+{
+  "chainId": "huemrath_2689055-1",
+  "chainName": "Huemrath",
+  "rpc": "http://92.118.113.49:26657",
+  "rest": "http://92.118.113.49:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HMR",
+      "baseDenom": "uHMR",
+      "decimals": 18,
+      "logo": "/logos/huemrath_2689055-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/huemrath_2689055-1.png",
+  "ibc": {
+    "hubChannel": "channel-7889",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x29081f",
+    "rpc": "http://92.118.113.49:1317"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Join to dymension hub",
+  "analytics": true
+}
