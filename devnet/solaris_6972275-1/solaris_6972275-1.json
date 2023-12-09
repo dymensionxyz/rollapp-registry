@@ -1,8 +1,8 @@
 {
   "chainId": "solaris_6972275-1",
   "chainName": "solaris",
-  "rpc": "http://solaris.nf520.cf:26657",
-  "rest": "http://solaris.nf520.cf:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/solaris_6972275-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/solaris_6972275-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6a6373",
-    "rpc": "http://solaris.nf520.cf:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/solaris_6972275-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
