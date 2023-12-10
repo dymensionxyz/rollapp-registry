@@ -1,10 +1,8 @@
-
-💈 networks.json:
 {
   "chainId": "basar_1169854-1",
-  "chainName": "basar_1169854-1",
-  "rpc": "65.108.88.244:26657",
-  "rest": "65.108.88.244:1317",
+  "chainName": "Basar",
+  "rpc": "https://froopyland.dymension.xyz/24/basar_1169854-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/basar_1169854-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -26,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x11d9be",
-    "rpc": "65.108.88.244:1317"
+    "rpc": "https://froopyland.dymension.xyz/24/basar_1169854-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
