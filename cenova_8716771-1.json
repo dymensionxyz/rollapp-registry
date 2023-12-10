@@ -1,1 +1,33 @@
-{"da":"Celestia","chainName":"Cenova","rpc":"http://localhost:26657/","rest":"https://75.159.64.229:1317","evm":{"chainId":"0x8501e3","rpc":"https://75.159.64.229:8545"},"type":"RollApp","coinType":60,"ibc":{"timeout":172800000,"channel":"channel-0","hubChannel":"channel-7859"},"logo":"/logos/cenova_8716771-1.png","chainId":"cenova_8716771-1","currencies":[{"baseDenom":"uNOVA","displayDenom":"NOVA","decimals":18,"logo":"/logos/cenova_8716771-1.png","type":"main"}],"bech32Prefix":"ethm"}
+{
+  "chainId": "cenova_8716771-1",
+  "chainName": "cenova_8716771-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NOVA",
+      "baseDenom": "uNOVA",
+      "decimals": 18,
+      "logo": "/logos/cenova_8716771-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cenova_8716771-1.png",
+  "ibc": {
+    "hubChannel": "channel-7859",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8501e3",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
