@@ -1,0 +1,33 @@
+{
+  "chainId": "paraf_6356383-1",
+  "chainName": "Paraf",
+  "rpc": "https://froopyland.dymension.xyz/24/paraf_6356383-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/paraf_6356383-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "zol",
+      "baseDenom": "uzol",
+      "decimals": 18,
+      "logo": "/logos/paraf_6356383-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/paraf_6356383-1.png",
+  "ibc": {
+    "hubChannel": "channel-7742",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x60fd9f",
+    "rpc": "https://froopyland.dymension.xyz/24/paraf_6356383-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Brave New World",
+  "analytics": true
+}
