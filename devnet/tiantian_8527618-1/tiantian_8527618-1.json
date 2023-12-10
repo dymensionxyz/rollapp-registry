@@ -1,8 +1,8 @@
 {
   "chainId": "tiantian_8527618-1",
-  "chainName": "tiantian_8527618-1",
-  "rpc": "http://34.89.81.42:26657",
-  "rest": "http://34.89.81.42:1317",
+  "chainName": "Tiantian",
+  "rpc": "https://froopyland.dymension.xyz/24/tiantian_8527618-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/tiantian_8527618-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x821f02",
-    "rpc": "http://34.89.81.42:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/tiantian_8527618-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
