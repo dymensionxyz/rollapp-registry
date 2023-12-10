@@ -1,8 +1,8 @@
 {
   "chainId": "resenjembut_4135290-1",
-  "chainName": "resenjembut_4135290-1",
-  "rpc": "172.105.158.179:26657",
-  "rest": "172.105.158.179:1317",
+  "chainName": "Resenjembut",
+  "rpc": "https://froopyland.dymension.xyz/24/resenjembut_4135290-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/resenjembut_4135290-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3f197a",
-    "rpc": "172.105.158.179:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/resenjembut_4135290-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
