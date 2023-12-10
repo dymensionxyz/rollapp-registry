@@ -1,8 +1,8 @@
 {
   "chainId": "firefoxx_9723212-1",
-  "chainName": "firefoxx_9723212-1",
-  "rpc": "135.181.153.44:26657",
-  "rest": "135.181.153.44:1317",
+  "chainName": "Firefoxx",
+  "rpc": "https://froopyland.dymension.xyz/24/firefoxx_9723212-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/firefoxx_9723212-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x945d4c",
-    "rpc": "135.181.153.44:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/firefoxx_9723212-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
