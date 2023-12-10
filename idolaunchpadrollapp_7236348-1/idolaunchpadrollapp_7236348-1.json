@@ -1,0 +1,33 @@
+{
+  "chainId": "idolaunchpadrollapp_7236348-1",
+  "chainName": "IdoLaunchpad",
+  "rpc": "http://20.46.250.115:26657",
+  "rest": "http://20.46.250.115:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IDO",
+      "baseDenom": "uIDO",
+      "decimals": 18,
+      "logo": "/logos/idolaunchpadrollapp_7236348-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/idolaunchpadrollapp_7236348-1.png",
+  "ibc": {
+    "hubChannel": "channel-7915",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6e6afc",
+    "rpc": "http://20.46.250.115:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
