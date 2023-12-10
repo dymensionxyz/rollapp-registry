@@ -1,0 +1,33 @@
+{
+  "chainId": "douceur_6005164-1",
+  "chainName": "douceur_6005164-1",
+  "rpc": "https://mythologic.fr:40000",
+  "rest": "https://mythologic.fr:30000",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dcr",
+      "baseDenom": "udcr",
+      "decimals": 18,
+      "logo": "/logos/douceur_6005164-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://github.com/Tocard",
+  "logo": "/logos/douceur_6005164-1.png",
+  "ibc": {
+    "hubChannel": "channel-7100",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5ba1ac",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Just sample for trsting purpose",
+  "analytics": true
+}
