@@ -1,6 +1,6 @@
 {
   "chainId": "nodeistrolltwo_5886583-1",
-  "chainName": "nodeistrolltwo_5886583-1",
+  "chainName": "Nodeist",
   "rpc": "https://rpc-dymroller.nodeist.net",
   "rest": "https://api-dymroller.nodeist.net",
   "bech32Prefix": "ethm",
@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
