@@ -1,0 +1,34 @@
+{
+  "chainId": "nodeistrolltwo_5886583-1",
+  "chainName": "Nodeist",
+  "rpc": "https://rpc-dymroller.nodeist.net",
+  "rest": "https://api-dymroller.nodeist.net",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NTWO",
+      "baseDenom": "uNTWO",
+      "decimals": 18,
+      "logo": "/logos/nodeist_6452664-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/nodeist_6452664-1.png",
+  "ibc": {
+    "hubChannel": "channel-7791",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x59d277",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}
