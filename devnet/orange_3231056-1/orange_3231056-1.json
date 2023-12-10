@@ -1,8 +1,8 @@
 {
   "chainId": "orange_3231056-1",
   "chainName": "Orange",
-  "rpc": "http://178.130.133.130:26657",
-  "rest": "http://178.130.133.130:1317"",
+  "rpc": "https://froopyland.dymension.xyz/24/orange_3231056-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/orange_3231056-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x314d50",
-    "rpc": "http://178.130.133.130:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/orange_3231056-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
