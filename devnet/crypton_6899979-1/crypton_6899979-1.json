@@ -1,6 +1,6 @@
 {
   "chainId": "crypton_6899979-1",
-  "chainName": "Crypton2",
+  "chainName": "Crypton",
   "rpc": "https://rpc.dymension-validator.crypton-node.tech",
   "rest": "https://rest.dymension-validator.crypton-node.tech",
   "bech32Prefix": "ethm",
