@@ -1,0 +1,34 @@
+{
+    "chainId": "zupernetwork_5698655-1",
+    "chainName": "ZuperNetwork",
+    "rpc": "https://froopyland.dymension.xyz/13/zupernetwork_5698655-/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/zupernetwork_5698655-/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "zuper",
+            "baseDenom": "uzuper",
+            "decimals": 18,
+            "logo": "/logos/zupernetwork_5698655-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://zuperhub.vercel.app/",
+    "logo": "/logos/zupernetwork_5698655-1.png",
+    "ibc": {
+        "hubChannel": "channel-6542",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x56f45f",
+        "rpc": "https://froopyland.dymension.xyz/13/zupernetwork_5698655-/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "Explore the future of blockchain innovation with a playground of experimental products, featuring ZuperArt, ZuperDrop, and the upcoming ZuperYield – where you can be at the forefront of digital creativity and value discovery. Built by the ZuperHunt team",
+    "analytics": true,
+    "active": false
+}

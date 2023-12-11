@@ -1,0 +1,34 @@
+{
+  "chainId": "rues_2215298-1",
+  "chainName": "Rues",
+  "rpc": "https://froopyland.dymension.xyz/11/rues_2215298-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/rues_2215298-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RUES",
+      "baseDenom": "uRUES",
+      "decimals": 18,
+      "logo": "/logos/rues_2215298-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://ruescompare.xyz/",
+  "logo": "/logos/rues_2215298-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6195",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x21cd82",
+    "rpc": "https://froopyland.dymension.xyz/11/rues_2215298-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Sinan Engin ve Fedaileri",
+  "analytics": true,
+  "rewards": true
+}
