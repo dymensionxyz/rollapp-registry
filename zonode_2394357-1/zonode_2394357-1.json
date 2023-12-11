@@ -1,0 +1,33 @@
+{
+  "chainId": "zonode_2394357-1",
+  "chainName": "zonode_2394357-1",
+  "rpc": "http://froopyland.01no.de:26655",
+  "rest": "http://froopyland.01no.de:1316",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "sNODE",
+      "baseDenom": "usNODE",
+      "decimals": 18,
+      "logo": "/logos/zonode_2394357-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://01node.com",
+  "logo": "/logos/zonode_2394357-1.png",
+  "ibc": {
+    "hubChannel": "channel-6182",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2488f5",
+    "rpc": "http://froopyland.01no.de:8547"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "01node DApp",
+  "analytics": true
+}
