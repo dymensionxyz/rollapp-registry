@@ -1,0 +1,33 @@
+{
+  "chainId": "chkbrk_5425660-1",
+  "chainName": "chkbrk",
+  "rpc": "192.162.23.11:26657",
+  "rest": "192.162.23.11:1317 ",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "chik",
+      "baseDenom": "uchik",
+      "decimals": 18,
+      "logo": "/logos/chkbrk_5425660-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chkbrk_5425660-1.png",
+  "ibc": {
+    "hubChannel": "channel-7923",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x52c9fc",
+    "rpc": "192.162.23.11:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "welcome to rollup",
+  "analytics": true
+}
