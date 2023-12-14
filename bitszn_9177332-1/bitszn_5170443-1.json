@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "bitzn rollap",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
