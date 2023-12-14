@@ -1,6 +1,6 @@
 {
   "chainId": "usd_1098368-1",
-  "chainName": "usd_1098368-1",
+  "chainName": "USD",
   "rpc": "https://froopyland.dymension.xyz/24/usd_1098368-1/rpc",
   "rest": "https://froopyland.dymension.xyz/24/usd_1098368-1/rest",
   "bech32Prefix": "ethm",
