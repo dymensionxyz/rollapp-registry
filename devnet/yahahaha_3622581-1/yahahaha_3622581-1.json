@@ -1,0 +1,33 @@
+{
+  "chainId": "yahahaha_3622581-1",
+  "chainName": "Yahahaha",
+  "rpc": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "YAH",
+      "baseDenom": "uYAH",
+      "decimals": 18,
+      "logo": "/logos/yahahaha_3622581-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/yahahaha_3622581-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7800",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3746b5",
+    "rpc": "https://froopyland.dymension.xyz/23/yahahaha_3622581-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics":true
+}
