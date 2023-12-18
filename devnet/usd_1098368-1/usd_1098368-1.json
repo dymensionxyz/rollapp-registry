@@ -6,7 +6,7 @@
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "usd",
+      "displayDenom": "USD",
       "baseDenom": "uusd",
       "decimals": 18,
       "logo": "/logos/usd_1098368-1.png",
