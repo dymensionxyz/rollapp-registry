@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/logonode.jpeg",
   "ibc": {
-    "hubChannel": "channel-6552",
-    "channel": "channel-0",
+    "hubChannel": "channel-7934",
+    "channel": "channel-2",
     "timeout": 172800000
   },
   "evm": {
