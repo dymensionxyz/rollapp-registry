@@ -1,8 +1,8 @@
 {
   "chainId": "ibrax_4843997-1",
-  "chainName": "ibrax_4843997-1",
-  "rpc": "http://158.220.109.181:26657",
-  "rest": "http://158.220.109.181:1317",
+  "chainName": "Ibrax",
+  "rpc": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x49e9dd",
-    "rpc": "http://158.220.109.181:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
