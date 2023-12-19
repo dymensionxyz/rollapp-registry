@@ -1,8 +1,8 @@
 {
   "chainId": "bajindhul_5980237-1",
   "chainName": "Bajindhul",
-  "rpc": "http://143.198.89.108:26657",
-  "rest": "http://143.198.89.108:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/bajindhul_5980237-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/bajindhul_5980237-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5b404d",
-    "rpc": "http://143.198.89.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/bajindhul_5980237-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
