@@ -1,0 +1,33 @@
+{
+  "chainId": "interdymensionalbeing_1924341-1",
+  "chainName": "Interdymensional Chain",
+  "rpc": "http://38.242.243.4:26657/",
+  "rest": "http://38.242.243.4:1317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "idym",
+      "baseDenom": "uidym",
+      "decimals": 18,
+      "logo": "/logos/interdymensionalbeing_1924341-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/interdymensionalbeing_1924341-1.png",
+  "ibc": {
+    "hubChannel": "channel-7954",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1d5cf5",
+    "rpc": "http://38.242.243.4:8545/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
