@@ -1,0 +1,33 @@
+{
+  "chainId": "ibrax_4843997-1",
+  "chainName": "ibrax_4843997-1",
+  "rpc": "http://158.220.109.181:26657",
+  "rest": "http://158.220.109.181:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IBR",
+      "baseDenom": "uIBR",
+      "decimals": 18,
+      "logo": "/logos/ibrax_4843997-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ibrax_4843997-1.png",
+  "ibc": {
+    "hubChannel": "channel-7865",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x49e9dd",
+    "rpc": "http://158.220.109.181:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
