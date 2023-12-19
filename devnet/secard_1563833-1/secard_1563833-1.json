@@ -1,0 +1,33 @@
+{
+  "chainId": "secard_1563833-1",
+  "chainName": "secard_1563833-1",
+  "rpc": "89.233.108.118:26657",
+  "rest": "89.233.108.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "sec",
+      "baseDenom": "usec",
+      "decimals": 18,
+      "logo": "/logos/secard_1563833-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/secard_1563833-1.png",
+  "ibc": {
+    "hubChannel": "channel-7936",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17dcb9",
+    "rpc": "89.233.108.118:1317"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
