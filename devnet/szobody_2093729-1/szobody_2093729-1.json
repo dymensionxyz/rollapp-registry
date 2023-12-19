@@ -1,8 +1,8 @@
 {
   "chainId": "szobody_2093729-1",
-  "chainName": "szobody_2093729-1",
-  "rpc": "http://35.202.11.232:26657",
-  "rest": "http://35.202.11.232:1317",
+  "chainName": "Szobody",
+  "rpc": "https://froopyland.dymension.xyz/24/szobody_2093729-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/szobody_2093729-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1ff2a1",
-    "rpc": "http://35.202.11.232:1317"
+    "rpc": "https://froopyland.dymension.xyz/24/szobody_2093729-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
