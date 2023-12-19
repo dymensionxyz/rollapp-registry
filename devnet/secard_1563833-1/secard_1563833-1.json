@@ -1,8 +1,8 @@
 {
   "chainId": "secard_1563833-1",
-  "chainName": "secard_1563833-1",
-  "rpc": "89.233.108.118:26657",
-  "rest": "89.233.108.118:1317",
+  "chainName": "Secard",
+  "rpc": "https://froopyland.dymension.xyz/24/secard_1563833-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/secard_1563833-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x17dcb9",
-    "rpc": "89.233.108.118:1317"
+    "rpc": "https://froopyland.dymension.xyz/24/secard_1563833-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
