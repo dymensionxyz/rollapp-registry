@@ -1,8 +1,8 @@
 {
   "chainId": "whispernode_8668610-1",
   "chainName": "WhisperNode",
-  "rpc": "http://85.10.201.238:26657",
-  "rest": "http://85.10.201.238:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/whispernode_8668610-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/whispernode_8668610-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8445c2",
-    "rpc": "http://85.10.201.238:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/whispernode_8668610-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
