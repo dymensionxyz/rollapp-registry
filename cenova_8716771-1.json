@@ -1,0 +1,33 @@
+{
+  "chainId": "cenova_8716771-1",
+  "chainName": "cenova_8716771-1",
+  "rpc": "http://75.159.64.229:26657",
+  "rest": "http://75.159.64.229:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NOVA",
+      "baseDenom": "uNOVA",
+      "decimals": 18,
+      "logo": "/logos/cenova_8716771-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "CenovaLX.com",
+  "logo": "/logos/cenova_8716771-1.png",
+  "ibc": {
+    "hubChannel": "channel-7859",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8501e3",
+    "rpc": "http://75.159.64.229:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "The most addictive predictions better for your cryptos",
+  "analytics": true
+}
