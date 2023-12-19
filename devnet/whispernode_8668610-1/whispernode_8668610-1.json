@@ -1,0 +1,33 @@
+{
+  "chainId": "whispernode_8668610-1",
+  "chainName": "WhisperNode",
+  "rpc": "http://85.10.201.238:26657",
+  "rest": "http://85.10.201.238:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WHSPR",
+      "baseDenom": "uWHSPR",
+      "decimals": 18,
+      "logo": "/logos/whispernode_8668610-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://whispernode.com",
+  "logo": "/logos/whispernode_8668610-1.png",
+  "ibc": {
+    "hubChannel": "channel-7770",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8445c2",
+    "rpc": "http://85.10.201.238:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
