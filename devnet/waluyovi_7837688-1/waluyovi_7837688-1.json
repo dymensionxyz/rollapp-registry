@@ -1,0 +1,33 @@
+{
+  "chainId": "waluyovi_7837688-1",
+  "chainName": "waluyovi_7837688-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wly",
+      "baseDenom": "uwly",
+      "decimals": 18,
+      "logo": "/logos/waluyovi_7837688-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/waluyovi_7837688-1.png",
+  "ibc": {
+    "hubChannel": "channel-7929",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7797f8",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
