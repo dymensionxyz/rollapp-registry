@@ -1,8 +1,8 @@
 {
   "chainId": "aabbozo_2771359-1",
-  "chainName": "aabbozo_2771359-1",
-  "rpc": "http://174.138.80.162:26657",
-  "rest": "http://174.138.80.162:1317",
+  "chainName": "Aabbozo",
+  "rpc": "https://froopyland.dymension.xyz/24/aabbozo_2771359-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/aabbozo_2771359-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2a499f",
-    "rpc": "http://174.138.80.162:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/aabbozo_2771359-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
