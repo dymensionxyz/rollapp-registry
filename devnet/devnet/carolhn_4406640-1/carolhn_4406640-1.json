@@ -1,0 +1,33 @@
+{
+  "chainId": "carolhn_4406640-1",
+  "chainName": "Carol",
+  "rpc": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CAR",
+      "baseDenom": "uCAR",
+      "decimals": 18,
+      "logo": "/logos/carolhn_4406640-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/carolhn_4406640-1.png",
+  "ibc": {
+    "hubChannel": "channel-5754",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x433d70",
+    "rpc": "https://froopyland.dymension.xyz/7/carolhn_4406640-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

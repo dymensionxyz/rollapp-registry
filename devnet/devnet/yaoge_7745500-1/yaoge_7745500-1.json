@@ -1,0 +1,32 @@
+{
+    "chainId": "yaoge_7745500-1",
+    "chainName": "Yaoge",
+    "rpc": "https://froopyland.dymension.xyz/8/yaoge_7745500-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/8/yaoge_7745500-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "YGG",
+        "baseDenom": "uYGG",
+        "decimals": 18,
+        "logo": "/logos/yaoge_7745500-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/yaoge_7745500-1.png",
+    "ibc": {
+      "hubChannel": "channel-6014",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x762fdc",
+      "rpc": "https://froopyland.dymension.xyz/8/yaoge_7745500-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }

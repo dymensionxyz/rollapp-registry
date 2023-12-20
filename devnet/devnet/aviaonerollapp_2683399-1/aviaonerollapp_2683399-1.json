@@ -1,0 +1,35 @@
+{
+  "chainId": "aviaonerollapp_2683399-1",
+  "chainName": "AVIAONE",
+  "rpc": "https://rpc.rollapp.dymension.aviaone.com",
+  "rest": "https://api.rollapp.dymension.aviaone.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "avia",
+      "baseDenom": "uavia",
+      "decimals": 18,
+      "logo": "/logos/aviaonerollapp_2683399-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "https://aviaone.com",
+  "logo": "/logos/aviaonerollapp_2683399-1.png",
+  "ibc": {
+    "hubChannel": "channel-5742",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x28f207",
+    "rpc": "https://jsonrpc.rollapp.dymension.aviaone.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "rewards": true,
+  "validator": true,  
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "nodder_8357480-1",
+  "chainName": "Nodder",
+  "rpc": "https://froopyland.dymension.xyz/14/nodder_8357480-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/nodder_8357480-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ndr",
+      "baseDenom": "undr",
+      "decimals": 18,
+      "logo": "/logos/nodder_8357480-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/nodder_8357480-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6359",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f8668",
+    "rpc": "https://froopyland.dymension.xyz/14/nodder_8357480-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

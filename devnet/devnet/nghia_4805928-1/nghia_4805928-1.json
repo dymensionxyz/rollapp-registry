@@ -1,0 +1,33 @@
+{
+  "chainId": "nghia_4805928-1",
+  "chainName": "Nghia Thomas",
+  "rpc": "https://froopyland.dymension.xyz/5/nghia_4805928-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/nghia_4805928-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NGH",
+      "baseDenom": "uNGH",
+      "decimals": 18,
+      "logo": "/logos/nghia_4805928-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/nghia_4805928-1.png",
+  "ibc": {
+    "hubChannel": "channel-5605",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x495528",
+    "rpc": "https://froopyland.dymension.xyz/5/nghia_4805928-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

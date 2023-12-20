@@ -1,0 +1,28 @@
+{
+    "da": "Celestia",
+    "chainName": "ken",
+    "rpc": "https://rollappevm-26657-ken.bk7bbm.oss-acorn.io",
+    "rest": "https://rollappevm-1317-ken.bk7bbm.oss-acorn.io",
+    "evm": {
+        "chainId": "0x915aee",
+        "rpc": "https://rollappevm-ken.bk7bbm.oss-acorn.io"
+    },
+    "type": "RollApp",
+    "coinType": 60,
+    "ibc": {
+        "timeout": 172800000,
+        "channel": "channel-0"
+    },
+    "logo": "/logos/ken_9525998-1.png",
+    "chainId": "ken_9525998-1",
+    "currencies": [
+        {
+            "baseDenom": "uken",
+            "displayDenom": "ken ",
+            "decimals": 18,
+            "logo": "/logos/ken_9525998-1.png",
+            "type": "main"
+        }
+    ],
+    "bech32Prefix": "ethm"
+}

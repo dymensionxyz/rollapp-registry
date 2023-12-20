@@ -1,0 +1,34 @@
+{
+  "chainId": "waluyo_2602653-1",
+  "chainName": "Waluyo",
+  "rpc": "https://froopyland.dymension.xyz/22/waluyo_2602653-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/waluyo_2602653-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wly",
+      "baseDenom": "uwly",
+      "decimals": 18,
+      "logo": "/logos/waluyo_2602653-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/waluyo_2602653-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7461",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x27b69d",
+    "rpc": "https://froopyland.dymension.xyz/22/waluyo_2602653-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "active": false
+}

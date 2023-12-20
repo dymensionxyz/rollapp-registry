@@ -1,0 +1,33 @@
+{
+  "chainId": "gorgia_4686107-1",
+  "chainName": "gorgia",
+  "rpc": "https://froopyland.dymension.xyz/4/gorgia_4686107-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/gorgia_4686107-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GOR",
+      "baseDenom": "uGOR",
+      "decimals": 18,
+      "logo": "/logos/gorgia_4686107-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/gorgia_4686107-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-5571",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x47811b",
+    "rpc": "https://froopyland.dymension.xyz/4/gorgia_4686107-1/evmrpc"
+  },
+  "da": "Celestia",
+  "type": "RollApp",
+  "description": "",
+  "analytics": true
+}

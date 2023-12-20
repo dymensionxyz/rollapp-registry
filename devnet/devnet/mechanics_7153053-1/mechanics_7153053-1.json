@@ -1,0 +1,33 @@
+{
+  "chainId": "mechanics_7153053-1",
+  "chainName": "Mechanics",
+  "rpc": "https://froopyland.dymension.xyz/21/mechanics_7153053-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/mechanics_7153053-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MCHN",
+      "baseDenom": "uMCHN",
+      "decimals": 18,
+      "logo": "/logos/mechanics_7153053-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/mechanics_7153053-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7394",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6d259d",
+    "rpc": "https://froopyland.dymension.xyz/21/mechanics_7153053-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
