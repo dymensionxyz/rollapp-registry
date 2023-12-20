@@ -1,0 +1,32 @@
+{
+  "chainId": "hasss_5985302-1",
+  "chainName": "hasss_5985302-1",
+  "rpc": "http://154.26.130.243:26657",
+  "rest": "http://154.26.130.243:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "Hasss",
+      "baseDenom": "uHasss",
+      "decimals": 18,
+      "logo": "/logos/hasss_5985302-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hasss_5985302-1.png",
+  "ibc": {
+    "hubChannel": "channel-7981",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5b5416",
+    "rpc": "http://154.26.130.243:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
