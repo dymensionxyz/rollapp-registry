@@ -1,8 +1,8 @@
 {
   "chainId": "indonesia_4130721-1",
-  "chainName": "indonesia_4130721-1",
-  "rpc": "173.249.0.44:26657",
-  "rest": "173.249.0.44:1317",
+  "chainName": "Indonesia",
+  "rpc": "https://froopyland.dymension.xyz/24/indonesia_4130721-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/indonesia_4130721-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3f07a1",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/24/indonesia_4130721-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
