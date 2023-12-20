@@ -9,14 +9,14 @@
       "displayDenom": "BOZZ",
       "baseDenom": "uBOZZ",
       "decimals": 18,
-      "logo": "/logos/aabbozo_2771359-1.png",
+      "logo": "/logos/aabbozo_2771359-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/aabbozo_2771359-1.png",
+  "logo": "/logos/aabbozo_2771359-1.jpg",
   "ibc": {
     "hubChannel": "channel-7970",
     "channel": "channel-0",
