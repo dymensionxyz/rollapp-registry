@@ -1,8 +1,8 @@
 {
   "chainId": "alkadetarollapp_9531828-1",
   "chainName": "alkadeta",
-  "rpc": "http://88.198.230.110:27657",
-  "rest": "http://88.198.230.110:2317",
+  "rpc": "http://88.198.230.110:26657",
+  "rest": "http://88.198.230.110:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x9171b4",
-    "rpc": "http://88.198.230.110:9545"
+    "rpc": "http://88.198.230.110:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
