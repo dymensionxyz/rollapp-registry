@@ -1,8 +1,8 @@
 {
   "chainId": "idolaunchpadrollapp_7236348-1",
   "chainName": "IdoLaunchpad",
-  "rpc": "http://20.46.250.115:26657",
-  "rest": "http://20.46.250.115:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e6afc",
-    "rpc": "http://20.46.250.115:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
