@@ -1,8 +1,8 @@
 {
   "chainId": "hasss_5985302-1",
-  "chainName": "hasss_5985302-1",
-  "rpc": "http://154.26.130.243:26657",
-  "rest": "http://154.26.130.243:1317",
+  "chainName": "Hasss",
+  "rpc": "https://froopyland.dymension.xyz/24/hasss_5985302-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/hasss_5985302-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5b5416",
-    "rpc": "http://154.26.130.243:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/hasss_5985302-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
