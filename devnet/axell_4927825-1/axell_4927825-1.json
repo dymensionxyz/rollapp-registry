@@ -1,8 +1,8 @@
 {
   "chainId": "axell_4927825-1",
-  "chainName": "axell_4927825-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Axell",
+  "rpc": "https://froopyland.dymension.xyz/24/axell_4927825-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/axell_4927825-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4b3151",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/24/axell_4927825-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
