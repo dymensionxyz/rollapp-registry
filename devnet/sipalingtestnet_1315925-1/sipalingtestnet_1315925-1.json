@@ -1,8 +1,8 @@
 {
   "chainId": "sipalingtestnet_1315925-1",
-  "chainName": "sipalingtestnet_1315925-1",
-  "rpc": "https://rpc.dymension.sipalingtestnet.com/",
-  "rest": "https://api.dymension.sipalingtestnet.com/",
+  "chainName": "sipalingtestnet",
+  "rpc": "https://rpc.dymension.sipalingtestnet.com",
+  "rest": "https://api.dymension.sipalingtestnet.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
