@@ -29,6 +29,7 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Hi, we’re Chia. We’ve architected a better technology from the ground up, solving the challenges of conventional blockchains to enable widespread use",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }
 
