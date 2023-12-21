@@ -1,8 +1,8 @@
 {
   "chainId": "tecnodes_2378012-1",
   "chainName": "Tecnodes",
-  "rpc": "https://froopyland.dymension.xyz/19/tecnodes_2378012-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/19/tecnodes_2378012-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x24491c",
-    "rpc": "https://froopyland.dymension.xyz/19/tecnodes_2378012-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
