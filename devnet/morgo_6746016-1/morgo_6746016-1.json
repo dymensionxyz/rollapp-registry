@@ -1,8 +1,8 @@
 {
     "chainId": "morgo_6746016-1",
     "chainName": "morgo_6746016-1",
-    "rpc": "http://172.86.75.98:26657",
-    "rest": "http://172.86.75.98:1317",
+    "rpc": "https://froopyland.dymension.xyz/24/morgo_6746016-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/24/morgo_6746016-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x66efa0",
-      "rpc": ""
+      "rpc": "https://froopyland.dymension.xyz/24/morgo_6746016-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
