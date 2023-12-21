@@ -33,8 +33,7 @@
     "description": "Lets build in dymension",
     "analytics": true,
     "rewards": true,
-    "active": true
-  
+    "active": false
   }
   
   
