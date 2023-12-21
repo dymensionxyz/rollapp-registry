@@ -1,0 +1,37 @@
+{
+  "chainId": "jupiter_5504686-1",
+  "chainName": "Jupiter",
+  "rpc": "https://rpc.jupiternft.xyz/",
+  "rest": "https://restapi.jupiternft.xyz/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GAS",
+      "baseDenom": "uGAS",
+      "decimals": 18,
+      "logo": "/logos/jupiter_5504686-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://jupiternft.xyz/",
+  "explorerUrl": "https://explorer.jupiternft.xyz/",
+  "exploreTxUrl": "https://explorer.jupiternft.xyz/tx/",
+  "logo": "/logos/jupiter_5504686-1.png",
+  "ibc": {
+    "hubChannel": "channel-6689",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x53feae",
+    "rpc": "https://evmrpc.jupiternft.xyz/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "rewards": true,
+  "active": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "doug_3527784-1",
+  "chainName": "Doug",
+  "rpc": "https://froopyland.dymension.xyz/17/doug_3527784-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/doug_3527784-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DOG",
+      "baseDenom": "uDOG",
+      "decimals": 18,
+      "logo": "/logos/doug_3527784-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/doug_3527784-1.png",
+  "ibc": {
+    "hubChannel": "channel-6790",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x35d468",
+    "rpc": "https://froopyland.dymension.xyz/17/doug_3527784-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

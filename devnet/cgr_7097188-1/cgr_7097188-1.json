@@ -1,0 +1,32 @@
+{
+  "chainId": "cgr_7097188-1",
+  "chainName": "cgr",
+  "rpc": "https://froopyland.dymension.xyz/16/cgr_7097188-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/cgr_7097188-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CGR",
+      "baseDenom": "uCGR",
+      "decimals": 18,
+      "logo": "/logo/photo_2023-10-26_15-10-25.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logo/photo_2023-10-26_15-10-25.jpg",
+  "ibc": {
+    "hubChannel": "channel-6802",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6c4b64",
+    "rpc": "https://froopyland.dymension.xyz/16/cgr_7097188-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,35 @@
+{
+    "chainId": "goracle_9836689-1",
+    "chainName": "gora",
+    "rpc": "https://froopyland.dymension.xyz/3/goracle_9836689-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/3/goracle_9836689-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "GRC",
+        "baseDenom": "uGRC",
+        "decimals": 18,
+        "logo": "/logos/goracle_9836689-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/goracle_9836689-1.png",
+    "ibc": {
+      "hubChannel": "channel-5500",
+      "channel": "channel-2",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x961891",
+      "rpc": "https://froopyland.dymension.xyz/3/goracle_9836689-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "serving you better",
+    "analytics": true,
+    "rewards": true,
+    "active": false
+  }
