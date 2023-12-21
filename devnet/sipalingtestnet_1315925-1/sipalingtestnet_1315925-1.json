@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x141455",
-    "rpc": "https://rpcevm.dymension.sipalingtestnet.com/"
+    "rpc": "https://rpcevm.dymension.sipalingtestnet.com"
   },
   "type": "RollApp",
   "da": "Avail",
