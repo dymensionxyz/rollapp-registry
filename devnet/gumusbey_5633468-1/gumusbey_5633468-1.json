@@ -1,8 +1,8 @@
 {
   "chainId": "gumusbey_5633468-1",
-  "chainName": "gumusbey_5633468-1",
-  "rpc": "https://5.189.133.10:26657",
-  "rest": "https://5.189.133.10:1317",
+  "chainName": "gumusbey",
+  "rpc": "https://froopyland.dymension.xyz/24/gumusbey_5633468-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/gumusbey_5633468-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x55f5bc",
-    "rpc": "https://5.189.133.10:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/gumusbey_5633468-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
