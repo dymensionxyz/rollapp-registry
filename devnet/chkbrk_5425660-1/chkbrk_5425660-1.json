@@ -1,8 +1,8 @@
 {
   "chainId": "chkbrk_5425660-1",
   "chainName": "chkbrk",
-  "rpc": "http://192.162.23.11:26657",
-  "rest": "http://192.162.23.11:1317 ",
+  "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x52c9fc",
-    "rpc": "http://192.162.23.11:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
