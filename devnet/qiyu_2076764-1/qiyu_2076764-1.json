@@ -1,8 +1,8 @@
 {
   "chainId": "qiyu_2076764-1",
-  "chainName": "qiyu_2076764-1",
-  "rpc": "http://194.233.73.219:26657",
-  "rest": "http://194.233.73.219:1317",
+  "chainName": "Qiyu",
+  "rpc": "https://froopyland.dymension.xyz/25/qiyu_2076764-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/qiyu_2076764-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1fb05c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/25/qiyu_2076764-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
