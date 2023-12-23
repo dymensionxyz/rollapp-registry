@@ -1,22 +1,22 @@
 {
     "chainId": "rantel_1555255-1",
     "chainName": "rantel_1555255-1",
-    "rpc": "",
-    "rest": "",
+    "rpc": "http://185.227.135.199:26657",
+    "rest": "http://185.227.135.199:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
         "displayDenom": "RTL",
         "baseDenom": "uRTL",
         "decimals": 18,
-        "logo": "/logos/rantel_1555255-1.png",
+        "logo": "/logo/rantel_1555255-1.png",
         "type": "main"
       }
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
-    "logo": "/logos/rantel_1555255-1.png",
+    "logo": "/logo/rantel_1555255-1.png",
     "ibc": {
       "hubChannel": "channel-8004",
       "channel": "channel-0",
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x17bb37",
-      "rpc": ""
+      "rpc": "http://185.227.135.199:26657"
     },
     "type": "RollApp",
     "da": "Celestia",
