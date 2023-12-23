@@ -1,8 +1,8 @@
 {
   "chainId": "htonka_9297029-1",
   "chainName": "htonka",
-  "rpc": "http://65.21.253.157:26657",
-  "rest": "http://65.21.253.157:1317",
+  "rpc": "https://froopyland.dymension.xyz/25/htonka_9297029-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/htonka_9297029-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8ddc85",
-    "rpc": "http://65.21.253.157:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/htonka_9297029-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
