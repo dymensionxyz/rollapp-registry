@@ -1,6 +1,6 @@
 {
   "chainId": "beeroller_8648481-1",
-  "chainName": "beeroller_8648481-1",
+  "chainName": "Beeroller",
   "rpc": "https://testnet-beeapp-rpc.lavenderfive.com:443",
   "rest": "https://testnet-beeapp-api.lavenderfive.com:443",
   "bech32Prefix": "ethm",
