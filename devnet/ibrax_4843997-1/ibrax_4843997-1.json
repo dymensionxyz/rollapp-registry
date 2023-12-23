@@ -1,0 +1,33 @@
+{
+  "chainId": "ibrax_4843997-1",
+  "chainName": "Ibrax",
+  "rpc": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IBR",
+      "baseDenom": "uIBR",
+      "decimals": 18,
+      "logo": "/logos/ibrax_4843997-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ibrax_4843997-1.png",
+  "ibc": {
+    "hubChannel": "channel-7865",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x49e9dd",
+    "rpc": "https://froopyland.dymension.xyz/24/ibrax_4843997-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
