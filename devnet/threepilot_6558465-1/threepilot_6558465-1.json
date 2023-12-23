@@ -1,6 +1,6 @@
 {
   "chainId": "threepilot_6558465-1",
-  "chainName": "threepilot_6558465-1",
+  "chainName": "Threepilot",
   "rpc": "https://dymension-rollap.rpc.2pilot.dev",
   "rest": "https://dymension-rollap.api.2pilot.dev",
   "bech32Prefix": "ethm",
