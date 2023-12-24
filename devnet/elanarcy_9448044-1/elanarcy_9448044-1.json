@@ -1,8 +1,8 @@
 {
   "chainId": "elanarcy_9448044-1",
-  "chainName": "elanarcy_9448044-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Elanarcy",
+  "rpc": "https://froopyland.dymension.xyz/25/elanarcy_9448044-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/elanarcy_9448044-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x902a6c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/25/elanarcy_9448044-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
