@@ -1,8 +1,8 @@
 {
   "chainId": "dimensional_2085601-1",
   "chainName": "dimensional_2085601-1",
-  "rpc": "https://10.154.0.4:26657",
-  "rest": "https://10.154.0.4:1317",
+  "rpc": "https://35.246.122.185:26657",
+  "rest": "https://35.246.122.185:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1fd2e1",
-    "rpc": "https://10.154.0.4:1317"
+    "rpc": "https://35.246.122.185:1317"
   },
   "type": "RollApp",
   "da": "Avail",
