@@ -1,8 +1,8 @@
 {
   "chainId": "interdymensionalbeing_1924341-1",
   "chainName": "Interdymensional Chain",
-  "rpc": "http://38.242.243.4:26657/",
-  "rest": "http://38.242.243.4:1317/",
+  "rpc": "https://froopyland.dymension.xyz/25/interdymensionalbeing_1924341-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/interdymensionalbeing_1924341-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1d5cf5",
-    "rpc": "http://38.242.243.4:8545/"
+    "rpc": "https://froopyland.dymension.xyz/25/interdymensionalbeing_1924341-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
