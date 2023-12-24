@@ -2,7 +2,7 @@
   "chainId": "mithsipantu_7295918-1",
   "chainName": "Mithsipantu",
   "rpc": "http://167.86.121.92:26657",
-  "rest": ""http://167.86.121.92:1317",
+  "rest": "http://167.86.121.92:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
