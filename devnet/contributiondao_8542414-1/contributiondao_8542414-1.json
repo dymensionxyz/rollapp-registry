@@ -1,6 +1,6 @@
 {
   "chainId": "contributiondao_8542414-1",
-  "chainName": "contributiondao_8542414-1",
+  "chainName": "Contributiondao",
   "rpc": "https://rpc-froopyland-dymension.contributiondao.com",
   "rest": "https://rest-froopyland-dymension.contributiondao.com",
   "bech32Prefix": "ethm",
