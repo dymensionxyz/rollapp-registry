@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "dymension.zeannode.xyz",
+  "website": "dymension.zeannode.com",
   "logo": "/logos/zeandrn_4774933-1.png",
   "ibc": {
     "hubChannel": "channel-7957",
@@ -28,6 +28,6 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "MantaPunks NFT for Manta Believers",
   "analytics": true
 }
