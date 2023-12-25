@@ -1,6 +1,6 @@
 {
   "chainId": "cumulo_6291602-1",
-  "chainName": "cumulo_6291602-1",
+  "chainName": "Roller Front-Chain",
   "rpc": "https://rollapp.rpc.cumulo.com.es",
   "rest": "https://rollapp.rest.cumulo.com.es",
   "bech32Prefix": "ethm",
@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
