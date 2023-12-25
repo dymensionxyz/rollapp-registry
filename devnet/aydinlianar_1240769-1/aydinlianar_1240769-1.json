@@ -1,6 +1,6 @@
 {
   "chainId": "aydinlianar_1240769-1",
-  "chainName": "Aydinlianar",
+  "chainName": "Aydin",
   "rpc": "https://froopyland.dymension.xyz/16/aydinlianar_1240769-1/rpc",
   "rest": "https://froopyland.dymension.xyz/16/aydinlianar_1240769-1/rest",
   "bech32Prefix": "ethm",
