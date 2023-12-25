@@ -1,8 +1,8 @@
 {
   "chainId": "suryaonenew_4516501-1",
   "chainName": "suryaonenew",
-  "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44ea95",
-    "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
