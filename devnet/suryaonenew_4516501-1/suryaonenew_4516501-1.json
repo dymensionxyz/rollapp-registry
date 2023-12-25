@@ -1,22 +1,22 @@
 {
   "chainId": "suryaonenew_4516501-1",
-  "chainName": "suryaonenew_4516501-1",
-  "rpc": "https://31.220.94.99:26657",
-  "rest": "htts://31.220.94.99:1317",
+  "chainName": "suryaonenew",
+  "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "SRYN",
       "baseDenom": "uSRYN",
       "decimals": 18,
-      "logo": "/logos/suryaonenew_4516501-1.png",
+      "logo": "/logos/suryaonenew_4516501-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/suryaonenew_4516501-1.png",
+  "logo": "/logos/suryaonenew_4516501-1.jpg",
   "ibc": {
     "hubChannel": "channel-8019",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44ea95",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/25/suryaonenew_4516501-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
