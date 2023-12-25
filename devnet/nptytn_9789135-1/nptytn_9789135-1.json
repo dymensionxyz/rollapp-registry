@@ -1,8 +1,8 @@
 {
   "chainId": "nptytn_9789135-1",
   "chainName": "nptytn_9789135-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://dym-rpc.europarkland.online",
+  "rest": "https://dym-lcd.europarkland.online",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x955ecf",
-    "rpc": ""
+    "rpc": "https://dym-evm.europarkland.online"
   },
   "type": "RollApp",
   "da": "Celestia",
