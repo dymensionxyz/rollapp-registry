@@ -26,15 +26,14 @@
     },
     "evm": {
       "chainId": "0x69d884",
-      "rpc": "https://rpc.dymension.sipalingtestnet.com/"
+      "rpc": "https://rpcevm.dymension.sipalingtestnet.com/"
     },
     "type": "RollApp",
     "da": "Avail",
     "description": "Lets build in dymension",
     "analytics": true,
     "rewards": true,
-    "active": true
-  
+    "active": false
   }
   
   
