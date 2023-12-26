@@ -1,0 +1,33 @@
+{
+  "chainId": "irdropper_8794958-1",
+  "chainName": "irdropper_8794958-1",
+  "rpc": "http://95.216.98.93:26657",
+  "rest": "http://95.216.98.93:1371",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IRD",
+      "baseDenom": "uIRD",
+      "decimals": 18,
+      "logo": "/logos/irdropper_8794958-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://faucet.socialmovie.app",
+  "logo": "/logos/irdropper_8794958-1.png",
+  "ibc": {
+    "hubChannel": "channel-7909",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x86334e",
+    "rpc": "http://95.216.98.93:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "faucet",
+  "analytics": true
+}
