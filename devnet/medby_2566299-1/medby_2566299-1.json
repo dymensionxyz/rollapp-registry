@@ -1,8 +1,8 @@
 {
   "chainId": "medby_2566299-1",
   "chainName": "medby_2566299-1",
-  "rpc": "http://38.242.139.123:26657",
-  "rest": "http://38.242.139.123:1317",
+  "rpc": "https://froopyland.dymension.xyz/25/medby_2566299-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/medby_2566299-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x27289b",
-    "rpc": "http://38.242.139.123:26657"
+    "rpc": "https://froopyland.dymension.xyz/25/medby_2566299-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
