@@ -2,7 +2,7 @@
     "chainId": "froopyland_100-1",
     "chainName": "Dymension Froopyland",
     "rpc": "https://froopyland.blockpi.network/rpc/v1/0837569d56317f9a6af3c82170a7242ce8319ae4",
-    "rest": "https://froopyland.blockpi.network/lcd/v1/0837569d56317f9a6af3c82170a7242ce8319ae4",
+    "rest": "https://froopyland.api.silknodes.io",
     "evm": {
         "chainId": "0x64",
         "rpc": "https://froopyland-evm.blockpi.network/v1/rpc/295622fab3246f4f2f28cd6bf6896bd292fc66f2"
