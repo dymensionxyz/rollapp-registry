@@ -1,8 +1,8 @@
 {
     "chainId": "zero_6245341-1",
-    "chainName": "zero_6245341-1",
-    "rpc": "http://207.244.233.9:26657",
-    "rest": "ttp://207.244.233.9:1317",
+    "chainName": "zero",
+    "rpc": "https://froopyland.dymension.xyz/25/zero_6245341-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/25/zero_6245341-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x5f4bdd",
-        "rpc": "ttp://207.244.233.9:8545"
+        "rpc": "https://froopyland.dymension.xyz/25/zero_6245341-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
