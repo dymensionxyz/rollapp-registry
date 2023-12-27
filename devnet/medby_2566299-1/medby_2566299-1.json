@@ -1,6 +1,6 @@
 {
   "chainId": "medby_2566299-1",
-  "chainName": "medby_2566299-1",
+  "chainName": "Medby",
   "rpc": "https://froopyland.dymension.xyz/25/medby_2566299-1/rpc",
   "rest": "https://froopyland.dymension.xyz/25/medby_2566299-1/rest",
   "bech32Prefix": "ethm",
