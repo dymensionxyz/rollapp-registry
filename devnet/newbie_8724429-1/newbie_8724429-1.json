@@ -1,7 +1,7 @@
 {
   "chainId": "newbie_8724429-1",
   "chainName": "newbie_8724429-1",
-  "rpc": ""http://143.198.87.172:26657",
+  "rpc": "http://143.198.87.172:26657",
   "rest": "http://143.198.87.172:1317",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x851fcd",
-    "rpc": ""
+    "rpc": "http://143.198.87.172:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
