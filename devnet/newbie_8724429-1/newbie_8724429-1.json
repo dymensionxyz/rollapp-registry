@@ -2,22 +2,22 @@
 {
   "chainId": "newbie_8724429-1",
   "chainName": "newbie_8724429-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://143.198.87.172:26657",
+  "rest": "http://143.198.87.172:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "NEW",
       "baseDenom": "uNEW",
       "decimals": 18,
-      "logo": "/logos/newbie_8724429-1.png",
+      "logo": "/logos/newbie_8724429-1.jpeg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/newbie_8724429-1.png",
+  "logo": "/logos/newbie_8724429-1.jpeg",
   "ibc": {
     "hubChannel": "channel-8037",
     "channel": "channel-0",
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x851fcd",
-    "rpc": ""
+    "rpc": "http://143.198.87.172:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
