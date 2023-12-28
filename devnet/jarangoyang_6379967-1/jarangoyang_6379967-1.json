@@ -1,0 +1,34 @@
+{
+  "chainId": "jarangoyang_6379967-1",
+  "chainName": "jarangoyang",
+  "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JRG",
+      "baseDenom": "uJRG",
+      "decimals": 18,
+      "logo": "/logos/jarangoyang_6379967-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jarangoyang_6379967-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6671",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6159bf",
+    "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

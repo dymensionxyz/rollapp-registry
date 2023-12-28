@@ -1,0 +1,36 @@
+
+{
+  "chainId": "wchen_8105190-1",
+  "chainName": "Wchen",
+  "rpc": "https://127.0.0.1:26657",
+  "rest": "https://127.0.0.1:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wct",
+      "baseDenom": "uwct",
+      "decimals": 18,
+      "logo": "/logos/wchen_8105190-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/wchen_8105190-1.svg",
+  "ibc": {
+    "hubChannel": "channel-5450",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7bace6",
+    "rpc": "https://127.0.0.1:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": false
+}
+

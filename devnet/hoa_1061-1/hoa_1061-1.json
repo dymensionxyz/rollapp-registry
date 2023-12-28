@@ -1,0 +1,31 @@
+{
+  "chainId": "hoa_1061-1",
+  "chainName": "Hoa",
+  "rpc": "https://froopyland.dymension.xyz/hoa_1061-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/hoa_1061-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/hoa_1061-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/hoa_1061-1.png",
+  "ibc": {
+    "hubChannel": "channel-590",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x425",
+    "rpc": "https://froopyland.dymension.xyz/hoa_1061-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+    "chainId": "aicdao_1011-1",
+    "chainName": "AiC DAO",
+    "rpc": "https://froopyland.dymension.xyz/9/aicdao_1011-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/9/aicdao_1011-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "aic",
+        "baseDenom": "uaic",
+        "decimals": 18,
+        "logo": "/logos/aicdao_1011-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/aicdao_1011-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-6163",
+      "channel": "channel-9",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x3f3",
+      "rpc": "https://froopyland.dymension.xyz/9/aicdao_1011-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "A DAO which highly focus on the propagation, education and adoption of Cosmos technology.",
+    "analytics": true
+}

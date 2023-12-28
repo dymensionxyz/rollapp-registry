@@ -1,0 +1,33 @@
+{
+  "chainId": "metehanroller_5609423-1",
+  "chainName": "Metehanroller",
+  "rpc": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mmo",
+      "baseDenom": "ummo",
+      "decimals": 18,
+      "logo": "/logos/metehanroller_5609423-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/metehanroller_5609423-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6914",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5597cf",
+    "rpc": "https://froopyland.dymension.xyz/17/metehanroller_5609423-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,35 @@
+{
+    "chainId": "gopysingh_7113370-1",
+    "chainName": "Gopysingh",
+    "rpc": "https://froopyland.dymension.xyz/23/gopysingh_7113370-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/23/gopysingh_7113370-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "gyh",
+            "baseDenom": "ugyh",
+            "decimals": 18,
+            "logo": "/logos/gopysingh_7113370-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/gopysingh_7113370-1.png",
+    "ibc": {
+        "hubChannel": "channel-6153",
+        "channel": "channel-1",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x6c8a9a",
+        "rpc": "https://froopyland.dymension.xyz/23/gopysingh_7113370-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true,
+    "active": true
+    
+}

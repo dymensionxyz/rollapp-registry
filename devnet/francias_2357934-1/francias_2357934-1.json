@@ -1,0 +1,34 @@
+{
+  "chainId": "francias_2357934-1",
+  "chainName": "francias",
+  "rpc": "https://froopyland.dymension.xyz/6/francias_2357934-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/francias_2357934-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FRA",
+      "baseDenom": "uFRA",
+      "decimals": 18,
+      "logo": "/logos/francias_2357934-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/francias_2357934-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5597",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x23faae",
+    "rpc": "https://froopyland.dymension.xyz/6/francias_2357934-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

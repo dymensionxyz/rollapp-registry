@@ -1,0 +1,33 @@
+{
+  "chainId": "etrxcrypto_2189889-1",
+  "chainName": "Etrxcrypto",
+  "rpc": "https://froopyland.dymension.xyz/23/etrxcrypto_2189889-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/etrxcrypto_2189889-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ETRx",
+      "baseDenom": "uETRx",
+      "decimals": 18,
+      "logo": "/logos/etrxcrypto_2189889-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/etrxcrypto_2189889-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6111",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x216a41",
+    "rpc": "https://froopyland.dymension.xyz/23/etrxcrypto_2189889-1-b/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
