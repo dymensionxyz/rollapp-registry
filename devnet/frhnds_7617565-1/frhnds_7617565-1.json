@@ -1,8 +1,8 @@
 {
   "chainId": "frhnds_7617565-1",
-  "chainName": "frhnds_7617565-1",
-  "rpc": "https://95.217.6.167:26657",
-  "rest": "https://95.217.6.167:1317",
+  "chainName": "Frhnds",
+  "rpc": "https://froopyland.dymension.xyz/25/frhnds_7617565-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/frhnds_7617565-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x743c1d",
-    "rpc": "https://95.217.6.167:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/frhnds_7617565-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
