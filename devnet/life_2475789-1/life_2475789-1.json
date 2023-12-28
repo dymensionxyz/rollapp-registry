@@ -1,0 +1,33 @@
+{
+  "chainId": "life_2475789-1",
+  "chainName": "Collab0xRollApp",
+  "rpc": "http://ec2-3-94-195-76.compute-1.amazonaws.com:26657",
+  "rest": "http://ec2-3-94-195-76.compute-1.amazonaws.com:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LIFE",
+      "baseDenom": "uLIFE",
+      "decimals": 18,
+      "logo": "/logos/life_2475789-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://dym-xi.vercel.app/",
+  "logo": "/logos/life_2475789-1.png",
+  "ibc": {
+    "hubChannel": "channel-8014",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x25c70d",
+    "rpc": "http://ec2-3-94-195-76.compute-1.amazonaws.com:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Create and Collaborate",
+  "analytics": true
+}
