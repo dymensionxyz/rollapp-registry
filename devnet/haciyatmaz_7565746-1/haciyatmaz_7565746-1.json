@@ -1,8 +1,8 @@
 {
   "chainId": "haciyatmaz_7565746-1",
-  "chainName": "haciyatmaz_7565746-1",
-  "rpc": "http://95.216.246.78:26657",
-  "rest": "http://95.216.246.78:1317",
+  "chainName": "Haciyatmaz",
+  "rpc": "https://froopyland.dymension.xyz/25/newbie_8724429-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/newbie_8724429-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7371b2",
-    "rpc": "http://95.216.246.78:1317"
+    "rpc": "https://froopyland.dymension.xyz/25/newbie_8724429-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
