@@ -9,7 +9,7 @@
       "displayDenom": "GIBR",
       "baseDenom": "uGIBR",
       "decimals": 18,
-      "logo": "gibran_3156666-1",
+      "logo": "/logo/gibran_3156666-1.jpg",
       "type": "main"
     }
   ],
@@ -18,7 +18,7 @@
   "website": "",
   "explorerUrl": "",
   "exploreTxUrl": "",
-  "logo": "gibran_3156666-1",
+  "logo": "/logo/gibran_3156666-1.jpg",
   "ibc": {
     "hubChannel": "channel-8046",
     "channel": "channel-0",
