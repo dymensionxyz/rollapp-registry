@@ -1,8 +1,8 @@
 {
   "chainId": "gibran_3156666-1",
   "chainName": "Gibran Chain",
-  "rpc": "139.59.228.84:26657",
-  "rest": "139.59.228.84:1317",
+  "rpc": "https://froopyland.dymension.xyz/25/gibran_3156666-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/gibran_3156666-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -26,7 +26,7 @@
   },
   "evm": {
     "chainId": "roller relayer status",
-    "rpc": "https://froopyland.dymension.xyz/18/gibran_3156666-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/25/gibran_3156666-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
