@@ -1,6 +1,6 @@
 {
   "chainId": "dominion_5048986-1",
-  "chainName": "dominion_5048986-1",
+  "chainName": "Dominion",
   "rpc": "https://froopyland.dymension.xyz/25/dominion_5048986-1/rpc",
   "rest": "https://froopyland.dymension.xyz/25/dominion_5048986-1/rest",
   "bech32Prefix": "ethm",
