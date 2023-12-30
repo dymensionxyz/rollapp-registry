@@ -1,8 +1,8 @@
 {
   "chainId": "dominion_5048986-1",
   "chainName": "dominion_5048986-1",
-  "rpc": "http://157.230.24.51:26657",
-  "rest": "http://157.230.24.51:1317",
+  "rpc": "https://froopyland.dymension.xyz/25/dominion_5048986-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/dominion_5048986-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4d0a9a",
-    "rpc": "http://157.230.24.51:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/dominion_5048986-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
