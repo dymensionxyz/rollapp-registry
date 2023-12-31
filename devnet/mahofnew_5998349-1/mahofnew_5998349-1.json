@@ -1,8 +1,8 @@
 {
   "chainId": "mahofnew_5998349-1",
-  "chainName": "mahofnew_5998349-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "MAHOF",
+  "rpc": "http://38.242.238.146:26657",
+  "rest": "http://38.242.238.146:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x5b870d",
-    "rpc": ""
+    "rpc": "http://38.242.238.146:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "",
+  "description": "MAHOF RollApp",
   "analytics": true
 }
