@@ -1,8 +1,8 @@
 {
   "chainId": "chamatamunew_8306540-1",
-  "chainName": "chamatamunew_8306540-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Chamatamunew",
+  "rpc": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7ebf6c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
