@@ -1,8 +1,8 @@
 {
   "chainId": "mahofnew_5998349-1",
   "chainName": "MAHOF",
-  "rpc": "http://38.242.238.146:26657",
-  "rest": "http://38.242.238.146:1317",
+  "rpc": "https://froopyland.dymension.xyz/25/mahofnew_5998349-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/mahofnew_5998349-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5b870d",
-    "rpc": "http://38.242.238.146:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/mahofnew_5998349-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
