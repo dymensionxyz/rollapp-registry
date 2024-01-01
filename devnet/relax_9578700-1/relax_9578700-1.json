@@ -1,0 +1,33 @@
+{
+  "chainId": "relax_9578700-1",
+  "chainName": "Stake&Relax 🦥",
+  "rpc": "http://81.0.246.196:26657",
+  "rest": "http://81.0.246.196:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RLX",
+      "baseDenom": "uRLX",
+      "decimals": 18,
+      "logo": "/logos/relax_9578700-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://linktr.ee/stakeandrelax",
+  "logo": "/logos/relax_9578700-1.png",
+  "ibc": {
+    "hubChannel": "channel-8063",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x9228cc",
+    "rpc": "http://81.0.246.196:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Stake&Relax 🦥",
+  "analytics": true
+}
