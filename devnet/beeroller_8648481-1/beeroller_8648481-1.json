@@ -1,0 +1,34 @@
+{
+  "chainId": "beeroller_8648481-1",
+  "chainName": "Beeroller",
+  "rpc": "https://testnet-beeapp-rpc.lavenderfive.com:443",
+  "rest": "https://testnet-beeapp-api.lavenderfive.com:443",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BEE",
+      "baseDenom": "uBEE",
+      "decimals": 18,
+      "logo": "/logos/beeroller_8648481-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/beeroller_8648481-1.png",
+  "ibc": {
+    "hubChannel": "channel-7975",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x83f721",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}
