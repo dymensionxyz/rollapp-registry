@@ -1,8 +1,8 @@
 {
   "chainId": "relax_9578700-1",
   "chainName": "Stake&Relax 🦥",
-  "rpc": "http://81.0.246.196:26657",
-  "rest": "http://81.0.246.196:1317",
+  "rpc": "https://froopyland.dymension.xyz/26/relax_9578700-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/relax_9578700-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x9228cc",
-    "rpc": "http://81.0.246.196:8545"
+    "rpc": "https://froopyland.dymension.xyz/26/relax_9578700-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
