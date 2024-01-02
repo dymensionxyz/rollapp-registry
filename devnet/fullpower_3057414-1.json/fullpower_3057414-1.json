@@ -1,0 +1,33 @@
+{
+  "chainId": "fullpower_3057414-1",
+  "chainName": "Fullpower",
+  "rpc": "https://froopyland.dymension.xyz/25/fullpower_3057414-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/fullpower_3057414-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "fpw",
+      "baseDenom": "ufpw",
+      "decimals": 18,
+      "logo": "/logos/fullpower_3057414-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fullpower_3057414-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-8008",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2ea706",
+    "rpc": "https://froopyland.dymension.xyz/25/fullpower_3057414-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
