@@ -1,6 +1,6 @@
 {
   "chainId": "gmcearn_7755461-1",
-  "chainName": "GmcEarn",
+  "chainName": "GmcEarn-Multisender",
   "rpc": "https://froopyland.blockpi.network:443/rpc/v1/public",
   "rest": "http://0.0.0.0:1317",
   "bech32Prefix": "ethm",
@@ -28,6 +28,6 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "Revolutionizing the digital landscape, our cutting-edge startup seamlessly blends advertising with the power of Web3 technology. Unlock the future of personalized, decentralized experiences as we pave the way for a new era of transparent, user-centric interactions in the online ecosystem",
+  "description": "Multisender web application that ennables you to send tokens to large numbers of address in one click",
   "analytics": true
 }
