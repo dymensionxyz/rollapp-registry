@@ -42,7 +42,7 @@ Please follow the instructions for listing a RollApp:
     export ROLLAPP_ID=<RollApp-ID-HERE>
     ```
 
-7. Create the appropraite folders and files:
+7. Create the appropriate folders and files:
 
     ```
     cd devnet
