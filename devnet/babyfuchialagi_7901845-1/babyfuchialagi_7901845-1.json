@@ -1,8 +1,8 @@
 {
   "chainId": "babyfuchialagi_7901845-1",
-  "chainName": "babyfuchialagi_7901845-1",
-  "rpc": "http://161.97.133.175:26657",
-  "rest": "http://161.97.133.175:1317",
+  "chainName": "Babyfuchialagi",
+  "rpc": "https://froopyland.dymension.xyz/26/babyfuchialagi_7901845-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/babyfuchialagi_7901845-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x789295",
-    "rpc": "http://161.97.133.175:8545"
+    "rpc": "https://froopyland.dymension.xyz/26/babyfuchialagi_7901845-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
