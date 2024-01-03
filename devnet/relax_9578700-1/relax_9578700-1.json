@@ -1,6 +1,6 @@
 {
   "chainId": "relax_9578700-1",
-  "chainName": "Stake&Relax 🦥",
+  "chainName": "StakeAndRelx",
   "rpc": "https://froopyland.dymension.xyz/26/relax_9578700-1/rpc",
   "rest": "https://froopyland.dymension.xyz/26/relax_9578700-1/rest",
   "bech32Prefix": "ethm",
@@ -28,7 +28,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "Stake&Relax 🦥",
+  "description": "StakeAndRelx",
   "analytics": true,
   "active": true
 }
