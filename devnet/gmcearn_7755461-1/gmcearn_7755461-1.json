@@ -1,8 +1,8 @@
 {
   "chainId": "gmcearn_7755461-1",
   "chainName": "GmcEarn-Multisender",
-  "rpc": "https://froopyland.blockpi.network:443/rpc/v1/public",
-  "rest": "http://0.0.0.0:1317",
+  "rpc": "https://froopyland.dymension.xyz/26/gmcearn_7755461-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/gmcearn_7755461-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7656c5",
-    "rpc": "http://0.0.0.0:8545"
+    "rpc": "https://froopyland.dymension.xyz/26/gmcearn_7755461-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
