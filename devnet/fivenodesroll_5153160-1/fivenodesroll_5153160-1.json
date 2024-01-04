@@ -1,0 +1,33 @@
+{
+  "chainId": "fivenodesroll_5153160-1",
+  "chainName": "F5 Nodes Roll",
+  "rpc": "http://135.181.24.75:26657",
+  "rest": "http://135.181.24.75:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FNR",
+      "baseDenom": "uFNR",
+      "decimals": 18,
+      "logo": "/logos/fivenodesroll_5153160-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fivenodesroll_5153160-1.png",
+  "ibc": {
+    "hubChannel": "channel-8100",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4ea188",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "F5 Nodes operates a high-performance infrastructure that ensures an excessive level of security and reliability for blockchain networks & protocols.",
+  "analytics": true
+}
