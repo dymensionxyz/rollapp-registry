@@ -1,8 +1,8 @@
 {
     "chainId": "byemail_6591949-1",
-    "chainName": "byemail_6591949-1",
-    "rpc": "http://37.27.21.181:26657",
-    "rest": "http://37.27.21.181:1317",
+    "chainName": "Byemail",
+    "rpc": "https://froopyland.dymension.xyz/26/byemail_6591949-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/26/byemail_6591949-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x6495cd",
-      "rpc": "http://37.27.21.181:8545"
+      "rpc": "https://froopyland.dymension.xyz/26/byemail_6591949-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
