@@ -1,0 +1,33 @@
+{
+  "chainId": "palamar_9878630-1",
+  "chainName": "Palamar",
+  "rpc": "http://195.201.132.118:26657",
+  "rest": "http://195.201.132.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PAL",
+      "baseDenom": "uPAL",
+      "decimals": 18,
+      "logo": "/logos/palamar_9878630-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://palamar.io",
+  "logo": "/logos/palamar_9878630-1.png",
+  "ibc": {
+    "hubChannel": "channel-8032",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x96bc66",
+    "rpc": "http://195.201.132.118:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "DevOps with 9+ years of professional experience",
+  "analytics": true
+}
