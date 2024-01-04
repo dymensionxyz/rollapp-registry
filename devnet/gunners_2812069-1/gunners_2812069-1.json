@@ -1,6 +1,6 @@
 {
   "chainId": "gunners_2812069-1",
-  "chainName": "gunners_2812069-1",
+  "chainName": "Gunners",
   "rpc": "https://froopy-gunners-rpc.andromedapool.com",
   "rest": "https://froopy-gunners-rest.andromedapool.com",
   "bech32Prefix": "ethm",
