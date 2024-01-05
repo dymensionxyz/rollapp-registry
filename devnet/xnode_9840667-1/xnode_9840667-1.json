@@ -1,8 +1,8 @@
 {
   "chainId": "xnode_9840667-1",
-  "chainName": "xnode_9840667-1",
-  "rpc": "http://172.203.253.22:26657",
-  "rest": "http://172.203.253.22:1317",
+  "chainName": "xnode",
+  "rpc": "https://froopyland.dymension.xyz/26/xnode_9840667-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/xnode_9840667-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x96281b",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/26/xnode_9840667-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
