@@ -1,6 +1,6 @@
 {
-  "chainId": "matter_4876978-1”,
-  "chainName": “MATTER,
+  "chainId": "matter_4876978-1",
+  "chainName": "MATTER",
  "rpc": "http://45.88.223.203:26657/",
  "rest": "http://45.88.223.203:1317/",
   "bech32Prefix": "ethm",
