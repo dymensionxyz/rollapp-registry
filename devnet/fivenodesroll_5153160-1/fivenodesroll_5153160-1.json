@@ -1,8 +1,8 @@
 {
   "chainId": "fivenodesroll_5153160-1",
   "chainName": "F5 Nodes Roll",
-  "rpc": "http://135.181.24.75:26657",
-  "rest": "http://135.181.24.75:1317",
+  "rpc": "https://froopyland.dymension.xyz/26/fivenodesroll_5153160-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/fivenodesroll_5153160-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4ea188",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/26/fivenodesroll_5153160-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
