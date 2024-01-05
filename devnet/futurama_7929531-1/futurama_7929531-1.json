@@ -1,0 +1,34 @@
+{
+  "chainId": "futurama_7929531-1",
+  "chainName": "Futurama",
+  "rpc": "https://froopyland.dymension.xyz/2/futurama_7929531-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/futurama_7929531-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FTR",
+      "baseDenom": "uFTR",
+      "decimals": 18,
+      "logo": "/logos/futurama_7929531-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/futurama_7929531-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5442",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x78febb",
+    "rpc": "https://froopyland.dymension.xyz/2/futurama_7929531-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Good news everyone!",
+  "analytics": true,
+  "rewards": true
+}

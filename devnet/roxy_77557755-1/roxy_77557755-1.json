@@ -1,0 +1,33 @@
+{
+  "chainId": "roxy_77557755-1",
+  "chainName": "roxy",
+  "rpc": "https://froopyland.dymension.xyz/20/roxy_77557755-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/roxy_77557755-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RXY",
+      "baseDenom": "uRXY",
+      "decimals": 18,
+      "logo": "/logos/roxy_77557755-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/roxy_77557755-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7286",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x49f6ffb",
+    "rpc": "https://froopyland.dymension.xyz/20/roxy_77557755-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

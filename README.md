@@ -45,13 +45,14 @@ Please follow the instructions for listing a RollApp:
 7. Create the appropraite folders and files:
 
     ```
+    cd devnet
     mkdir -p $ROLLAPP_ID/logos
     cd $ROLLAPP_ID && touch $ROLLAPP_ID.json
     ```
 
     This should create a folder for your RollApp logo and config information.
 
-8. Add your RollApp logo to the `logos` folder. Logo file name: `<RollApp-ID>-logo.<format>`. This can be SVG, PNG, or JPG format. Please make sure the file doesn't exceed 50KB.
+8. Add your RollApp logo to the `logos` folder. Logo file name: `<RollApp-ID>.<format>`. This can be SVG, PNG, or JPG format. Please make sure the file doesn't exceed 50KB.
 
 9. Export the RollApps configuration JSON by running:
 
@@ -65,7 +66,12 @@ Please follow the instructions for listing a RollApp:
     - REST: ` "http://<your-ip-or-domain>:<port>" (default port 1317)`
     - EVM RPC \*(ONLY FOR EVM ROLLAPPS): `"http://<your-ip-or-domain>:<port>" (default port 8545)`
     - Logo path: `"/logos/<RollApp-ID>-logo.svg"`
+      
+    Optinal fields:
     - chainName: from `<RollApp-ID>`to your RollApp's name as it will appear on the Portal
+    - description: add `"<Your RollApp description>",` to be displayed on the portal
+    - website: add `"<your-RollApp's-url>",` to be displayed on the portal
+
 
 11. Add and commit your changes:
 

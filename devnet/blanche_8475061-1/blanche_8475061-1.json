@@ -1,0 +1,33 @@
+{
+  "chainId": "blanche_8475061-1",
+  "chainName": "Blanche",
+  "rpc": "https://froopyland.dymension.xyz/5/blanche_8475061-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/blanche_8475061-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BLC",
+      "baseDenom": "uBLC",
+      "decimals": 18,
+      "logo": "/logos/blanche_8475061-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/blanche_8475061-1.png",
+  "ibc": {
+    "hubChannel": "channel-5702",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8151b5",
+    "rpc": "https://froopyland.dymension.xyz/5/blanche_8475061-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

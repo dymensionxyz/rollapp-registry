@@ -1,0 +1,32 @@
+{
+    "chainId": "athena_5894524-1",
+    "chainName": "Athena",
+    "rpc": "https://froopyland.dymension.xyz/7/athena_5894524-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/7/athena_5894524-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ENA",
+        "baseDenom": "uENA",
+        "decimals": 18,
+        "logo": "/logos/athena_5894524-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/athena_5894524-1.png",
+    "ibc": {
+      "hubChannel": "channel-5776",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x59f17c",
+      "rpc": "https://froopyland.dymension.xyz/7/athena_5894524-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }

@@ -1,0 +1,33 @@
+{
+  "chainId": "phatbm_6016861-1",
+  "chainName": "Phatbm",
+  "rpc": "https://froopyland.dymension.xyz/5/phatbm_6016861-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/phatbm_6016861-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAX",
+      "baseDenom": "uRAX",
+      "decimals": 18,
+      "logo": "/logos/phatbm_6016861-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/phatbm_6016861-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5469",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5bcf5d",
+    "rpc": "https://froopyland.dymension.xyz/5/phatbm_6016861-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

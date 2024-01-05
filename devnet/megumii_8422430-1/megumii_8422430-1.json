@@ -1,0 +1,34 @@
+{
+    "chainId": "megumii_8422430-1",
+    "chainName": "megumii",
+    "rpc": "https://rpc.megumii.click",
+    "rest": "https://rest.megumii.click",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "meg",
+        "baseDenom": "umeg",
+        "decimals": 18,
+        "logo": "/logos/megumii_8422430-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://megumii.blessingway.xyz/",
+    "logo": "/logos/megumii_8422430-1.png",
+    "ibc": {
+      "hubChannel": "channel-6468",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x80841e",
+      "rpc": "https://evm.megumii.click"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true,
+    "active": false
+  }

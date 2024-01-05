@@ -1,0 +1,34 @@
+{
+  "da": "Avail",
+  "chainName": "Escan Testnet",
+  "rpc": "https://ra-escan.dymscan.live:22222",
+  "rest": "https://ra-escan.dymscan.live:1317",
+  "evm": {
+    "chainId": "0x2161",
+    "rpc": "https://ra-escan.dymscan.live/eth"
+  },
+  "website": "https://ra-escan.dymscan.live",
+  "explorerUrl": "https://ra-escan.dymscan.live",
+  "exploreTxUrl": "https://ra-escan.dymscan.live/tx/",
+  "faucetUrl": "https://ra-escan.dymscan.live/faucet",
+  "coinType": 60,
+  "type": "RollApp",
+  "ibc": {
+    "timeout": 172800000,
+    "channel": "channel-43",
+    "hubChannel": "channel-5275"
+  },
+  "logo": "/logos/escan_8545-1.png",
+  "chainId": "escan_8545-1",
+  "currencies": [
+    {
+      "baseDenom": "uescan",
+      "decimals": 18,
+      "logo": "/logos/escan_8545-1.png",
+      "displayDenom": "ESCAN",
+      "type": "main"
+    }
+  ],
+  "bech32Prefix": "ethm",
+  "analytics": true
+}

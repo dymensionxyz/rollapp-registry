@@ -1,0 +1,33 @@
+{
+  "chainId": "lesnik_5001143-1",
+  "chainName": "lesnik",
+  "rpc": "https://dymension-rpc-rollapp.utsa.tech",
+  "rest": "https://dymension-rest-rollapp.utsa.tech",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "UTSA",
+      "baseDenom": "uUTSA",
+      "decimals": 18,
+      "logo": "/logos/lesnik_5001143-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/lesnik_5001143-1.png",
+  "ibc": {
+    "hubChannel": "channel-5291",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4c4fb7",
+    "rpc": "https://dymension-jsonrpc-rollapp.utsa.tech"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

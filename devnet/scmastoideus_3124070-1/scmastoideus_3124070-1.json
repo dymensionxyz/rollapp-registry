@@ -1,0 +1,33 @@
+{
+  "chainId": "scmastoideus_3124070-1",
+  "chainName": "scmastoideus_3124070-1",
+  "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SCM",
+      "baseDenom": "uSCM",
+      "decimals": 18,
+      "logo": "/logos/scmastoideus_3124070-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/scmastoideus_3124070-1.png",
+  "ibc": {
+    "hubChannel": "channel-6810",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2fab66",
+    "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

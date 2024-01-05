@@ -1,0 +1,33 @@
+{
+  "chainId": "bringmecoins_1642347-1",
+  "chainName": "Cryptoloss",
+  "rpc": "https://froopyland.dymension.xyz/11/bringmecoins_1642347-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/bringmecoins_1642347-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BMC",
+      "baseDenom": "uBMC",
+      "decimals": 18,
+      "logo": "/logos/bringmecoins_1642347-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://bento.me/cryptoloss",
+  "logo": "/logos/bringmecoins_1642347-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6295",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x190f6b",
+    "rpc": "https://froopyland.dymension.xyz/11/bringmecoins_1642347-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Its only after we have lost everything that we are free to do anything.",
+  "analytics": true
+}

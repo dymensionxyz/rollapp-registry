@@ -1,0 +1,31 @@
+{
+    "da": "Avail",
+    "chainName": "SUSA",
+    "rpc": "https://froopyland.dymension.xyz/susana_5339/rpc",
+    "rest": "https://froopyland.dymension.xyz/susana_5339/rest",
+    "evm": {
+      "chainId": "0x14db",
+      "rpc": "https://froopyland.dymension.xyz/susana_5339/evmrpc"
+    },
+    "coinType": 60,
+    "type": "RollApp",
+    "ibc": {
+      "timeout": 172800000,
+      "channel": "channel-0",
+      "hubChannel": "channel-1103"
+    },
+    "logo": "/logos/susana_5339-1.png",
+    "chainId": "susana_5339-1",
+    "currencies": [
+      {
+        "baseDenom": "uSUSA",
+        "decimals": 18,
+        "logo": "/logos/susana_5339-1.png",
+        "displayDenom": "SUSA",
+        "type": "main"
+      }
+    ],
+    "bech32Prefix": "ethm",
+    "analytics": true,
+    "rewards": true
+  }
