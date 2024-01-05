@@ -1,0 +1,33 @@
+{
+  "chainId": "bony_1703361-1",
+  "chainName": "BonyNode💚",
+  "rpc": "http://185.188.249.46:27777",
+  "rest": "http://185.188.249.46:1327",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BONY",
+      "baseDenom": "uBONY",
+      "decimals": 18,
+      "logo": "/logos/bony_1703361-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bony_1703361-1.png",
+  "ibc": {
+    "hubChannel": "channel-8111",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19fdc1",
+    "rpc": "http://185.188.249.46:8547"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
