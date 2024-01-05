@@ -1,8 +1,8 @@
 {
   "chainId": "dragonvn_1686740-1",
-  "chainName": "dragonvn_1686740-1",
-  "rpc": "http://65.108.255.37:26657",
-  "rest": "http://65.108.255.37:1317",
+  "chainName": "dragonvn",
+  "rpc": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19bcd4",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
