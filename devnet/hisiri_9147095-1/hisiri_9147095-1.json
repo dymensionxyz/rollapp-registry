@@ -1,0 +1,34 @@
+{
+  "chainId": "hisiri_9147095-1",
+  "chainName": "Hisiri",
+  "rpc": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HSR",
+      "baseDenom": "uHSR",
+      "decimals": 18,
+      "logo": "/logos/hisiri_9147095-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hisiri_9147095-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6724",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8b92d7",
+    "rpc": "https://froopyland.dymension.xyz/17/hisiri_9147095-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

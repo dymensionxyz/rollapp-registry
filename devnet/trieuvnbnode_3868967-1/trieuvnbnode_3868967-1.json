@@ -1,0 +1,33 @@
+{
+  "chainId": "trieuvnbnode_3868967-1",
+  "chainName": "Trieu_VNBnode",
+  "rpc": "https://froopyland.dymension.xyz/13/trieuvnbnode_3868967-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/trieuvnbnode_3868967-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "VNBN",
+      "baseDenom": "uVNBN",
+      "decimals": 18,
+      "logo": "/logos/VNBnode LOGO.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://vnbnode.com",
+  "logo": "/logos/VNBnode LOGO.jpg",
+  "ibc": {
+    "hubChannel": "channel-6489",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3b0927",
+    "rpc": "https://froopyland.dymension.xyz/13/trieuvnbnode_3868967-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

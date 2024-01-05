@@ -1,0 +1,33 @@
+{
+  "chainId": "dragonvn_1686740-1",
+  "chainName": "dragonvn",
+  "rpc": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DGN",
+      "baseDenom": "uDGN",
+      "decimals": 18,
+      "logo": "/logos/dragonvn_1686740-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dragonvn_1686740-1.png",
+  "ibc": {
+    "hubChannel": "channel-8119",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19bcd4",
+    "rpc": "https://froopyland.dymension.xyz/26/dragonvn_1686740-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

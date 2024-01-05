@@ -1,0 +1,35 @@
+{
+  "chainId": "gunners_2812069-1",
+  "chainName": "Gunners",
+  "rpc": "https://froopy-gunners-rpc.andromedapool.com",
+  "rest": "https://froopy-gunners-rest.andromedapool.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GUN",
+      "baseDenom": "uGUN",
+      "decimals": 18,
+      "logo": "/logos/gunners_2812069-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://froopy-games.andromedapool.com",
+  "logo": "/logos/gunners_2812069-1.png",
+  "ibc": {
+    "hubChannel": "channel-8043",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2ae8a5",
+    "rpc": "https://froopy-gunners-jsonrpc.andromedapool.com"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Two-Gun Tumble, Western PVP shooter.",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

@@ -1,0 +1,33 @@
+{
+    "chainId": "ara_7781166-1",
+    "chainName": "Aranodes",
+    "rpc": "https://froopyland.dymension.xyz/22/ara_7781166-1-b/rpc",
+    "rest": "https://froopyland.dymension.xyz/22/ara_7781166-1-b/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "ARA",
+            "baseDenom": "uARA",
+            "decimals": 18,
+            "logo": "/logos/ ara_7781166-1.jpg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/ ara_7781166-1.jpg",
+    "ibc": {
+        "hubChannel": "channel-6289",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x8e7123",
+        "rpc": "https://froopyland.dymension.xyz/22/ara_7781166-1-b/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+}

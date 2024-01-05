@@ -1,0 +1,33 @@
+{
+  "chainId": "takeshi_7171-1",
+  "chainName": "Takeshi",
+  "rpc": "https://rpc-rollapp.takeshi.team",
+  "rest": "https://api-rollapp.takeshi.team",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TAK",
+      "baseDenom": "uTAK",
+      "decimals": 18,
+      "logo": "/logos/takeshi_7171-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/TAKESHI_LOGO.jpg",
+  "ibc": {
+    "hubChannel": "channel-5311",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1c03",
+    "rpc": "https://jsonrpc-rollapp.takeshi.team"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

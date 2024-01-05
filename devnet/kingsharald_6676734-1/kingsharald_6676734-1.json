@@ -1,0 +1,34 @@
+{
+  "chainId": "kingsharald_6676734-1",
+  "chainName": "Kingsharald",
+  "rpc": "https://froopyland.dymension.xyz/20/kingsharald_6676734-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/kingsharald_6676734-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KHS",
+      "baseDenom": "uKHS",
+      "decimals": 18,
+      "logo": "/logos/kingsharald_6676734-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kingsharald_6676734-1.png",
+  "ibc": {
+    "hubChannel": "channel-5480",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x65e0fe",
+    "rpc": "https://froopyland.dymension.xyz/20/kingsharald_6676734-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

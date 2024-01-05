@@ -1,0 +1,33 @@
+{
+  "chainId": "brightly_983625-1",
+  "chainName": "Brightly Stake",
+  "rpc": "https://dym.brightlystake.com/",
+  "rest": "https://dym.brightlystake.com/rest/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/brightly_983625-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/brightly_983625-1.png",
+  "ibc": {
+    "hubChannel": "channel-5256",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0xf0249",
+    "rpc": "https://dym.brightlystake.com/evm/"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}
