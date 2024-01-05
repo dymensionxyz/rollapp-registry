@@ -1,8 +1,8 @@
 {
   "chainId": "bony_1703361-1",
   "chainName": "bony_1703361-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://185.188.249.46:27777",
+  "rest": "http://185.188.249.46:1327",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19fdc1",
-    "rpc": ""
+    "rpc": "http://185.188.249.46:8547"
   },
   "type": "RollApp",
   "da": "Celestia",
