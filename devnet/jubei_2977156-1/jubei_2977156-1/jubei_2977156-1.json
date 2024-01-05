@@ -1,0 +1,33 @@
+{
+  "chainId": "jubei_2977156-1",
+  "chainName": "jubei_2977156-1",
+  "rpc": "http://45.79.197.233:26657",
+  "rest": "http://45.79.197.233:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GAGAL",
+      "baseDenom": "uGAGAL",
+      "decimals": 18,
+      "logo": "/logos/jubei_2977156-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "ISI_LINK_WEB_DISINI",
+  "logo": "/logos/jubei_2977156-1.png",
+  "ibc": {
+    "hubChannel": "channel-8038",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2d6d84",
+    "rpc": "http://45.79.197.233:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "ISI_DESKRIPSI_DISINI",
+  "analytics": true
+}
