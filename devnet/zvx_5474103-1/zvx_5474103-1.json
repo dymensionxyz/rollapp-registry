@@ -1,8 +1,8 @@
 {
   "chainId": "zvx_5474103-1",
   "chainName": "zvx_5474103-1",
-  "rpc": "https://158.220.97.71",
-  "rest": "https://158.220.97.71",
+  "rpc": "https://froopyland.dymension.xyz/26/zvx_5474103-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/zvx_5474103-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x538737",
-    "rpc": "https://158.220.97.71"
+    "rpc": "https://froopyland.dymension.xyz/26/zvx_5474103-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
