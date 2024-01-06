@@ -1,8 +1,8 @@
 {
   "chainId": "deemirfirat_3664534-1",
-  "chainName": "deemirfirat_3664534-1",
-  "rpc": "http://34.105.244.249:26657/",
-  "rest": "http://34.105.244.249:1317/",
+  "chainName": "Deemirfirat",
+  "rpc": "https://froopyland.dymension.xyz/26/deemirfirat_3664534-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/deemirfirat_3664534-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x37ea96",
-    "rpc": "http://34.105.244.249:8545/"
+    "rpc": "https://froopyland.dymension.xyz/26/deemirfirat_3664534-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
