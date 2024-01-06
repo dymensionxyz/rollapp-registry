@@ -1,8 +1,8 @@
 {
     "chainId": "usman_7952989-1",
-    "chainName": "usman_7952989-1",
-    "rpc": "5.75.141.111",
-    "rest": "5.75.141.111",
+    "chainName": "usman",
+    "rpc": "https://froopyland.dymension.xyz/26/usman_7952989-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/26/usman_7952989-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x795a5d",
-        "rpc": "5.75.141.111:8545"
+        "rpc": "https://froopyland.dymension.xyz/26/usman_7952989-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
