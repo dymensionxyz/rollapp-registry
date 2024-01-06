@@ -9,14 +9,14 @@
             "displayDenom": "usman",
             "baseDenom": "uusman",
             "decimals": 18,
-            "logo": "/logos/usman_7952989-1.png",
+            "logo": "/logos/usman_7952989-1.jpg",
             "type": "main"
         }
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "website": "",
-    "logo": "/logos/usman_7952989-1.png",
+    "logo": "/logos/usman_7952989-1.jpg",
     "ibc": {
         "hubChannel": "channel-8117",
         "channel": "channel-0",
