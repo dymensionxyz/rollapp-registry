@@ -1,0 +1,33 @@
+{
+  "chainId": "burcukale_4112966-1",
+  "chainName": "burcukale",
+  "rpc": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BRCK",
+      "baseDenom": "uBRCK",
+      "decimals": 18,
+      "logo": "/logos/burcukale_4112966-1.png.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://burcukaledymensionrollapp.vercel.app",
+  "logo": "/logos/burcukale_4112966-1.png.png",
+  "ibc": {
+    "hubChannel": "channel-6439",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3ec246",
+    "rpc": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

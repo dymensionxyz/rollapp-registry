@@ -1,0 +1,33 @@
+{
+  "chainId": "cmdexee_8420447-1",
+  "chainName": "Cmdexee",
+  "rpc": "https://froopyland.dymension.xyz/21/cmdexee_8420447-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/cmdexee_8420447-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MKL",
+      "baseDenom": "uMKL",
+      "decimals": 18,
+      "logo": "/logos/cmdexee_8420447-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cmdexee_8420447-1.png",
+  "ibc": {
+    "hubChannel": "channel-7306",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x807c5f",
+    "rpc": "https://froopyland.dymension.xyz/21/cmdexee_8420447-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

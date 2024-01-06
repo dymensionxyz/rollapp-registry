@@ -1,0 +1,34 @@
+{
+  "chainId": "dimazzz_7539320-1",
+  "chainName": "Dimazzz",
+  "rpc": "https://froopyland.dymension.xyz/19/dimazzz_7539320-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/dimazzz_7539320-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DMZ",
+      "baseDenom": "uDMZ",
+      "decimals": 18,
+      "logo": "/logos/dimazzz_7539320-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dimazzz_7539320-1.png",
+  "ibc": {
+    "hubChannel": "channel-6710",
+    "channel": "channel-12",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x730a78",
+    "rpc": "https://froopyland.dymension.xyz/19/dimazzz_7539320-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "active": false
+}
