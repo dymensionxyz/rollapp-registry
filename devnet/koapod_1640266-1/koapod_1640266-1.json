@@ -1,8 +1,8 @@
 {
   "chainId": "koapod_1640266-1",
   "chainName": "koapod_1640266-1",
-  "rpc": "http://194.233.90.127:26657",
-  "rest": "http://194.233.90.127:1317",
+  "rpc": "https://froopyland.dymension.xyz/26/koapod_1640266-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/koapod_1640266-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x19074a",
-    "rpc": "http://194.233.90.127:8545"
+    "rpc": "https://froopyland.dymension.xyz/26/koapod_1640266-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
