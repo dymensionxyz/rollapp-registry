@@ -1,31 +1,33 @@
- "chainId": "usman_7952989-1",
-  "chainName": "usman_7952989-1",
-  "rpc": "5.75.141.111",
-  "rest": "5.75.141.111",
-  "bech32Prefix": "ethm",
-  "currencies": [
-    {
-      "displayDenom": "usman",
-      "baseDenom": "uusman",
-      "decimals": 18,
-      "logo": "/logos/usman_7952989-1.png",
-      "type": "main"
-    }
-  ],
-  "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
-  "logo": "/logos/usman_7952989-1.png",
-  "ibc": {
-    "hubChannel": "channel-8117",
-    "channel": "channel-0",
-    "timeout": 172800000
-  },
-  "evm": {
-    "chainId": "0x795a5d",
-    "rpc": "5.75.141.111:8545"
-  },
-  "type": "RollApp",
-  "da": "Avail",
-  "description": "",
-  "analytics": true
+{
+    "chainId": "usman_7952989-1",
+    "chainName": "usman_7952989-1",
+    "rpc": "5.75.141.111",
+    "rest": "5.75.141.111",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "usman",
+            "baseDenom": "uusman",
+            "decimals": 18,
+            "logo": "/logos/usman_7952989-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/usman_7952989-1.png",
+    "ibc": {
+        "hubChannel": "channel-8117",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x795a5d",
+        "rpc": "5.75.141.111:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "analytics": true
+}
