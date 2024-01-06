@@ -1,0 +1,33 @@
+{
+  "chainId": "sacha_9516170-1",
+  "chainName": "sacha_9516170-1",
+  "rpc": "http://10.128.0.3:26657",
+  "rest": "http://10.128.0.3:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SCH",
+      "baseDenom": "uSCH",
+      "decimals": 18,
+      "logo": "/logos/sacha_9516170-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://s.id/sacha901",
+  "logo": "/logos/sacha_9516170-1.png",
+  "ibc": {
+    "hubChannel": "channel-8131",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x91348a",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Profil generator dapp",
+  "analytics": true
+}
