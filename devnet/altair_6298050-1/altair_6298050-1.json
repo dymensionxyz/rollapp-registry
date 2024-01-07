@@ -1,8 +1,8 @@
 {
   "chainId": "altair_6298050-1",
   "chainName": "altair_6298050-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://207.180.199.115:62657",
+  "rest": "http://207.180.199.115:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6019c2",
-    "rpc": ""
+    "rpc": "http://207.180.199.115:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
