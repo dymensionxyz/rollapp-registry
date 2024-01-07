@@ -30,5 +30,6 @@
   "da": "Avail",
   "description": "StakeAndRelx",
   "analytics": true,
-  "active": true
+  "active": true,
+  "validator": true
 }
