@@ -1,8 +1,8 @@
 {
   "chainId": "mmuatt_2419679-1",
-  "chainName": "mmuatt_2419679-1",
-  "rpc": "http://49.12.237.60:26657",
-  "rest": "http://49.12.237.60:1317",
+  "chainName": "mmuatt",
+  "rpc": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x24ebdf",
-    "rpc": "http://49.12.237.60:1317"
+    "rpc": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
