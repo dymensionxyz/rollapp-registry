@@ -1,8 +1,8 @@
 {
   "chainId": "parksolana_4518191-1",
-  "chainName": "parksolana_4518191-1",
-  "rpc": "http://154.26.128.117:26657",
-  "rest": "http://154.26.128.117:1317",
+  "chainName": "parksolana",
+  "rpc": "https://froopyland.dymension.xyz/27/parksolana_4518191-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/parksolana_4518191-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44f12f",
-    "rpc": "http://154.26.128.117:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/parksolana_4518191-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
