@@ -1,8 +1,8 @@
 {
   "chainId": "rikyretro_8973074-1",
-  "chainName": "rikyretro_8973074-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "rikyretro",
+  "rpc": "https://froopyland.dymension.xyz/27/rikyretro_8973074-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/rikyretro_8973074-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x88eb12",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/27/rikyretro_8973074-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
