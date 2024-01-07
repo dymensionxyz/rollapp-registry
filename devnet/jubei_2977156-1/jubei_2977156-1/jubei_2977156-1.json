@@ -1,8 +1,8 @@
 {
   "chainId": "jubei_2977156-1",
-  "chainName": "jubei_2977156-1",
-  "rpc": "http://45.79.197.233:26657",
-  "rest": "http://45.79.197.233:1317",
+  "chainName": "Jubei",
+  "rpc": "https://froopyland.dymension.xyz/27/jubei_2977156-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/jubei_2977156-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2d6d84",
-    "rpc": "http://45.79.197.233:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/jubei_2977156-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
