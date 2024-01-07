@@ -1,8 +1,8 @@
 {
   "chainId": "gmcms_7581888-1",
   "chainName": "gmc-multisender",
-  "rpc": "https://froopyland.dymension.xyz/27/gmcms_7581888-1/rest",
-  "rest": "https://froopyland.dymension.xyz/27/gmcms_7581888-1/rpc",
+  "rpc": "https://froopyland.dymension.xyz/27/gmcms_7581888-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/gmcms_7581888-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
