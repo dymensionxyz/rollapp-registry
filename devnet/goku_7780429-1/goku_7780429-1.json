@@ -1,0 +1,33 @@
+{
+    "chainId": "goku_7780429-1",
+    "chainName": "Goku Chain",
+    "rpc": "https://rpc.hades-froopy.shop",
+    "rest": "https://rest.hades-froopy.shop",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "GOKU",
+        "baseDenom": "uGOKU",
+        "decimals": 18,
+        "logo": "/logos/goku_7780429-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://hades-froopy.shop",
+    "logo": "/logos/goku_7780429-1.png",
+    "ibc": {
+      "hubChannel": "channel-8160",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x76b84d",
+      "rpc": "https://evmrpc.hades-froopy.shop"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "analytics": true
+  }
