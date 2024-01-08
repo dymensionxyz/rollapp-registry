@@ -1,8 +1,8 @@
 {
   "chainId": "redblank_3440319-1",
   "chainName": "redblank_3440319-1",
-  "rpc": "http://194.135.91.89:26657",
-  "rest": "http://194.135.91.89:1317",
+  "rpc": "https://froopyland.dymension.xyz/27/redblank_3440319-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/redblank_3440319-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x347ebf",
-    "rpc": "http://194.135.91.89:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/redblank_3440319-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
