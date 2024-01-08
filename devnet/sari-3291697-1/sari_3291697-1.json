@@ -1,8 +1,8 @@
 {
   "chainId": "sari_3291697-1",
   "chainName": "sari_3291697-1",
-  "rpc": "http://159.146.54.127:26657",
-  "rest": "http://159.146.54.127:1317",
+  "rpc": "https://froopyland.dymension.xyz/27/sari_3291697-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/sari_3291697-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x323a31",
-    "rpc": "http://159.146.54.127:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/sari_3291697-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
