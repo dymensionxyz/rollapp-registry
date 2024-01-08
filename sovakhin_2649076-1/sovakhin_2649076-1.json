@@ -1,8 +1,8 @@
 {
   "chainId": "sovakhin_2649076-1",
-  "chainName": "sovakhin_2649076-1",
-  "rpc": "84.46.249.112:26657",
-  "rest": "84.46.249.112:1317",
+  "chainName": "Sovakhin",
+  "rpc": "https://froopyland.dymension.xyz/27/sovakhin_2649076-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/sovakhin_2649076-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x286bf4",
-    "rpc": "84.46.249.112:1317"
+    "rpc": "https://froopyland.dymension.xyz/27/sovakhin_2649076-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
