@@ -1,7 +1,7 @@
 {
   "chainId": "meowbored_8358950-1",
   "chainName": "meowbored_8358950-1",
-  "rpc": http://rpc.meowbored.pro:26657"",
+  "rpc": "http://rpc.meowbored.pro:26657",
   "rest": "http://rpc.meowbored.pro:1317",
   "bech32Prefix": "ethm",
   "currencies": [
