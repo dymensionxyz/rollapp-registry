@@ -1,0 +1,33 @@
+{
+	"chainId": "nodesmarian_4215707-1",
+	"chainName": "F5 Nodes",
+	"rpc": "http://5.78.110.219:26657",
+	"rest": "http://5.78.110.219:1317",
+	"rpc": "https://froopyland.dymension.xyz/9/nodesmarian_4215707-1/rpc",
+	"rest": "https://froopyland.dymension.xyz/9/nodesmarian_4215707-1/rest",
+	"bech32Prefix": "ethm",
+	"currencies": [
+		{
+			"displayDenom": "FND",
+			"baseDenom": "uFND",
+			"decimals": 18,
+			"logo": "/logos/nodesmarian_4215707-1.jpg",
+			"type": "main"
+		}
+	],
+	"coinType": 60,
+	"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+	"website": "",
+	"logo": "/logos/nodesmarian_4215707-1.jpg",
+	"ibc": {
+		"hubChannel": "channel-6507",
+		"channel": "channel-1",
+		"timeout": 172800000
+	},
+	"evm": {
+		"chainId": "0x40539b",
+		"rpc": "5.78.110.219:8545"
+		"rpc": "https://froopyland.dymension.xyz/9/nodesmarian_4215707-1/evmrpc"
+	},
+	"type": "RollApp",
+	"da": "Celestia",
