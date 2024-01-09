@@ -1,8 +1,8 @@
 {
   "chainId": "shezaan_1277722-1",
-  "chainName": "shezaan_1277722-1",
-  "rpc": "https://froopyland.dymension.xyz/8/shezaan_1277722-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/shezaan_1277722-1/rest",
+  "chainName": "Shezaan",
+  "rpc": "https://froopyland.dymension.xyz/27/shezaan_1277722-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/shezaan_1277722-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x137f1a",
-    "rpc": "https://froopyland.dymension.xyz/8/shezaan_1277722-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/27/shezaan_1277722-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
