@@ -1,8 +1,8 @@
 {
   "chainId": "damnboynew_3206600-1",
-  "chainName": "damnboynew_3206600-1",
-  "rpc": "http://178.63.161.105:26657",
-  "rest": "http://178.63.161.105:1317",
+  "chainName": "Damnboynew",
+  "rpc": "https://froopyland.dymension.xyz/27/damnboynew_3206600-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/damnboynew_3206600-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x30edc8",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/27/damnboynew_3206600-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
