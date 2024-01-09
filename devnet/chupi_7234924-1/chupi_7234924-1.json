@@ -9,14 +9,14 @@
       "displayDenom": "CHUP",
       "baseDenom": "uCHUP",
       "decimals": 18,
-      "logo": "/logos/chupi_7234924-1.png",
+      "logo": "/logos/chupi_7234924-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/chupi_7234924-1.png",
+  "logo": "/logos/chupi_7234924-1.jpg",
   "ibc": {
     "hubChannel": "channel-8170",
     "channel": "channel-0",
