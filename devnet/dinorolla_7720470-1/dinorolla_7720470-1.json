@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DA = "celestia"
+Decimals = 18
+Denom = "uDRA"
+Home = "/home/dino/.roller"
+RollappBinary = "/usr/local/bin/rollapp_evm"
+RollappID = "dinorolla_7720470-1"
+RollerVersion = "v0.1.21"
+TokenSupply = "10000000"
+VMType = "evm"
+
+[HubData]
+  API_URL = "https://froopyland.api.silknodes.io:443"
+  ARCHIVE_RPC_URL = "https://froopy-archive.rpc.silknodes.io:443"
+  GAS_PRICE = "0.25"
+  ID = "froopyland_100-1"
+  RPC_URL = "https://froopyland.rpc.silknodes.io:443"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
