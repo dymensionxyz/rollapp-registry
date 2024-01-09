@@ -2,7 +2,7 @@
   "chainId": "karsayisi_4428917-1",
   "chainName": "karsayisi_4428917-1",
   "rpc": "http://65.21.179.79:26657",
-  "rest": "http://65.21.179.79:26657",
+  "rest": "http://65.21.179.79:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x439475",
-    "rpc": "http://65.21.179.79:26657"
+    "rpc": "http://65.21.179.79:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
