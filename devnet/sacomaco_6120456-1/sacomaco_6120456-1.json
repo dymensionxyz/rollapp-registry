@@ -1,0 +1,33 @@
+{
+  "chainId": "sacomaco_6120456-1",
+  "chainName": "saco",
+  "rpc": "http://217.76.50.105:26657",
+  "rest": "http://217.76.50.105:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "sch",
+      "baseDenom": "usch",
+      "decimals": 18,
+      "logo": "/logos/sacomaco_6120456-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sacomaco_6120456-1.png",
+  "ibc": {
+    "hubChannel": "channel-8183",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d6408",
+    "rpc": "http://217.76.50.105:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
