@@ -4,7 +4,6 @@
   "rpc": "https://rpc-kynhub.kynraze.com",
   "rest": "https://api-kynhub.kynraze.com",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "KYN",
