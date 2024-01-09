@@ -1,0 +1,33 @@
+{
+  "chainId": "xasla_9657905-1",
+  "chainName": "xasla_9657905-1",
+  "rpc": "http://161.97.152.207:26657",
+  "rest": "http://161.97.152.207:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "xla",
+      "baseDenom": "uxla",
+      "decimals": 18,
+      "logo": "/logos/xasla_9657905-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/xasla_9657905-1.png",
+  "ibc": {
+    "hubChannel": "channel-8162",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x935e31",
+    "rpc": "http://161.97.152.207:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
