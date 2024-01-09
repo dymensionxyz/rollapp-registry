@@ -1,0 +1,37 @@
+﻿
+{
+  "chainId": "hakanaslan_2525902-1",
+  "chainName": "hakanaslan_2525902-1",
+  "rpc": "http://185.229.227.10:26657",
+  "rest": "http://185.229.227.10:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HKN",
+      "baseDenom": "uHKN",
+      "decimals": 18,
+      "logo": "/logos/hakanaslan_2525902-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hakanaslan_2525902-1.png",
+  "ibc": {
+    "hubChannel": "channel-8078",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x268ace",
+    "rpc": "http://185.229.227.10.8545"
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+
+
+
+
+
