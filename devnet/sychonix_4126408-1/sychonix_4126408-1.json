@@ -18,8 +18,8 @@
     "website": "",
     "logo": "/logos/sychonix_4126408-1.png",
     "ibc": {
-      "hubChannel": "channel-5385",
-      "channel": "channel-0",
+      "hubChannel": "channel-8145",
+      "channel": "channel-1",
       "timeout": 172800000
     },
     "evm": {
