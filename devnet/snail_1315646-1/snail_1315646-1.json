@@ -1,8 +1,8 @@
 {
   "chainId": "snail_1315646-1",
-  "chainName": "snail_1315646-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Snail",
+  "rpc": "https://froopyland.dymension.xyz/27/snail_1315646-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/snail_1315646-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x14133e",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/27/snail_1315646-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
