@@ -1,8 +1,8 @@
 {
   "chainId": "nebula_2095348-1",
-  "chainName": "nebula_2095348-1",
-  "rpc": "188.166.232.101:26657",
-  "rest": "188.166.232.101:1317",
+  "chainName": "Nebula",
+  "rpc": "https://froopyland.dymension.xyz/27/nebula_2095348-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/nebula_2095348-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1ff8f4",
-    "rpc": "188.166.232.101:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/nebula_2095348-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
