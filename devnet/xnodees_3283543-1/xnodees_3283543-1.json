@@ -1,8 +1,8 @@
 {
   "chainId": "xnodees_3283543-1",
   "chainName": "xnodees",
-  "rpc": "https://95.111.248.207:26657",
-  "rest": "https://95.111.248.207:1317",
+  "rpc": "http://95.111.248.207:26657",
+  "rest": "http://95.111.248.207:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
