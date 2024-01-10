@@ -1,8 +1,8 @@
 {
   "chainId": "cigilipap_4495692-1",
   "chainName": "CİGİLİPAP",
-  "rpc": "http://164.68.116.194:26657",
-  "rest": "http://164.68.116.194:1317",
+  "rpc": "https://froopyland.dymension.xyz/27/cigilipap_4495692-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/cigilipap_4495692-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x44994c",
-    "rpc": "http://164.68.116.194:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/cigilipap_4495692-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
