@@ -1,8 +1,8 @@
 {
   "chainId": "neptune_2987251-1",
   "chainName": "neptune_2987251-1",
-  "rpc": "http://38.242.130.220:26657",
-  "rest": "http://38.242.130.220:1317",
+  "rpc": "https://froopyland.dymension.xyz/27/neptune_2987251-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/neptune_2987251-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2d94f3",
-    "rpc": "http://38.242.130.220:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/neptune_2987251-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
