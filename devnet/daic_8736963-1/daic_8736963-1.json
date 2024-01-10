@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "DAICs dymension rollapp",
-  "analytics": true
+  "analytics": true,
+  "validator": true
 }
