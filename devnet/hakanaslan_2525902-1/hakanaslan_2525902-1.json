@@ -24,7 +24,8 @@
   },
   "evm": {
     "chainId": "0x268ace",
-    "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/evmrpc",
+    "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/evmrpc"
+  },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
