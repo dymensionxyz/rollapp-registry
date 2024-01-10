@@ -1,8 +1,8 @@
 {
   "chainId": "chupi_7234924-1",
   "chainName": "chupi",
-  "rpc": "http://38.242.131.98:26657",
-  "rest": "http://38.242.131.98:1317",
+  "rpc": "https://froopyland.dymension.xyz/27/chupi_7234924-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/chupi_7234924-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6e656c",
-    "rpc": "http://38.242.131.98:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/chupi_7234924-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
