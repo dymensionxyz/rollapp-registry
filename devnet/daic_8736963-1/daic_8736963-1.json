@@ -1,6 +1,6 @@
 {
   "chainId": "daic_8736963-1",
-  "chainName": "daic_8736963-1",
+  "chainName": "Daic",
   "rpc": "https://dymfroppy.daic.capital/rpc/",
   "rest": "https://dymfroppy.daic.capital/rest/",
   "bech32Prefix": "ethm",
