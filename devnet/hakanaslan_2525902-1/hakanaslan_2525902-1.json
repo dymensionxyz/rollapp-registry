@@ -1,8 +1,8 @@
 {
   "chainId": "hakanaslan_2525902-1",
-  "chainName": "hakanaslan_2525902-1",
-  "rpc": "http://185.229.227.10:26657",
-  "rest": "http://185.229.227.10:1317",
+  "chainName": "Hakanaslan",
+  "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x268ace",
-    "rpc": "http://185.229.227.10.8545"
+    "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/evmrpc"
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
