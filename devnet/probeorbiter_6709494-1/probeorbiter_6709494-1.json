@@ -1,8 +1,8 @@
 {
   "chainId": "probeorbiter_6709494-1",
-  "chainName": "probeorbiter_6709494-1",
-  "rpc": "http://217.76.50.197:26657",
-  "rest": "http://217.76.50.197:1317",
+  "chainName": "Probeorbiter",
+  "rpc": "https://froopyland.dymension.xyz/27/probeorbiter_6709494-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/probeorbiter_6709494-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6660f6",
-    "rpc": "http://217.76.50.197:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/probeorbiter_6709494-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
