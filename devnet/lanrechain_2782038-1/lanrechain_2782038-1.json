@@ -1,0 +1,33 @@
+{
+    "chainId": "lanrechain_2782038-1",
+    "chainName": "LanreChain",
+    "rpc": "https://82.163.196.90:26657",
+    "rest": "https://82.163.196.90:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "rere",
+        "baseDenom": "urere",
+        "decimals": 18,
+        "logo": "/logos/lanrechain_2782038-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "lanreige.com",
+    "logo": "/logos/lanrechain_2782038-1.png",
+    "ibc": {
+      "hubChannel": "channel-7973",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x2a7356",
+      "rpc": "https://82.163.196.90:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "A chain for Lanre",
+    "analytics": true
+  }
