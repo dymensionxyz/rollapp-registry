@@ -1,8 +1,8 @@
 {
   "chainId": "lilvandrop_2505570-1",
-  "chainName": "lilvandrop_2505570-1",
-  "rpc": "http://194.233.65.13:26657",
-  "rest": "http://194.233.65.13:1317",
+  "chainName": "Lilvandrop",
+  "rpc": "https://froopyland.dymension.xyz/27/lilvandrop_2505570-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/lilvandrop_2505570-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x263b62",
-    "rpc": "http://194.233.65.13:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/lilvandrop_2505570-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
