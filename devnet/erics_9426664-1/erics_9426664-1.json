@@ -1,8 +1,8 @@
 {
   "chainId": "erics_9426664-1",
-  "chainName": "erics_9426664-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Erics",
+  "rpc": "https://froopyland.dymension.xyz/27/erics_9426664-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/erics_9426664-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8fd6e8",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/27/erics_9426664-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
