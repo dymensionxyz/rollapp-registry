@@ -1,8 +1,8 @@
 {
   "chainId": "weixin_6363568-1",
-  "chainName": "weixin_6363568-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Weixin",
+  "rpc": "https://froopyland.dymension.xyz/27/weixin_6363568-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/weixin_6363568-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6119b0",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/27/weixin_6363568-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
