@@ -1,0 +1,33 @@
+{
+  "chainId": "billion_7536229-1",
+  "chainName": "billion_7536229-1",
+  "rpc": "http://87.90.176.251:26657",
+  "rest": "http://87.90.176.251:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/billion_7536229-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/billion_7536229-1.png",
+  "ibc": {
+    "hubChannel": "channel-8239",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x72fe65",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
