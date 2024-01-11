@@ -1,8 +1,8 @@
 {
   "chainId": "zheezzy_3378137-1",
-  "chainName": "zheezzy_3378137-1",
-  "rpc": "161.97.155.124:26657",
-  "rest": "161.97.155.124:1317",
+  "chainName": "Zheezzy",
+  "rpc": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x338bd9",
-    "rpc": "161.97.155.124:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
