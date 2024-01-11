@@ -1,8 +1,8 @@
 {
   "chainId": "dhakrit_1159562-1",
-  "chainName": "dhakrit_1159562-1",
-  "rpc": "http://149.102.143.27:26657",
-  "rest": "http://149.102.143.27:1317",
+  "chainName": "Dhakrit",
+  "rpc": "https://froopyland.dymension.xyz/27/dhakrit_1159562-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/dhakrit_1159562-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x11b18a",
-    "rpc": "http://149.102.143.27:8545"
+    "rpc": "https://froopyland.dymension.xyz/27/dhakrit_1159562-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
