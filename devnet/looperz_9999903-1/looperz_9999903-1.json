@@ -1,0 +1,33 @@
+{
+  "chainId": "looperz_9999903-1",
+  "chainName": "looperz_9999903-1",
+  "rpc": "https://158.220.97.71",
+  "rest": "https://158.220.97.71",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LPR",
+      "baseDenom": "uLPR",
+      "decimals": 18,
+      "logo": "/logos/looperz_9999903-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/looperz_9999903-1.png",
+  "ibc": {
+    "hubChannel": "channel-8235",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x98961f",
+    "rpc": "https://158.220.97.71"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
