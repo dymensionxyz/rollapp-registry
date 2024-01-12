@@ -1,0 +1,33 @@
+{
+  "chainId": "wbthreeaddctd_1213142-1",
+  "chainName": "wbthreeaddctd",
+  "rpc": "https://rpc-dymension-rollap.testnet.wbthreeaddctd",
+  "rest": "https://api-dymension-rollap.wbthreeaddctd",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WBAT",
+      "baseDenom": "uWBAT",
+      "decimals": 18,
+      "logo": "/logos/wbthreeaddctd_1213142-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/wbthreeaddctd_1213142-1.png",
+  "ibc": {
+    "hubChannel": "channel-8232",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1282d6",
+    "rpc": "https://jsonrpc-dymension-rollap.wbthreeaddctd"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
