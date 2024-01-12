@@ -1,8 +1,8 @@
 {
   "chainId": "ksqhkfrt_5420321-1",
-  "chainName": "ksqhkfrt_5420321-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Ksqhkfrt",
+  "rpc": "https://froopyland.dymension.xyz/28/ksqhkfrt_5420321-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/ksqhkfrt_5420321-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x52b521",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/28/ksqhkfrt_5420321-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
