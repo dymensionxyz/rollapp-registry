@@ -1,8 +1,8 @@
 {
   "chainId": "dsmd_5014402-1",
-  "chainName": "dsmd_5014402-1",
-  "rpc": "207.180.220.185:26657",
-  "rest": "207.180.220.185:1317",
+  "chainName": "Dsmd",
+  "rpc": "https://froopyland.dymension.xyz/28/dsmd_5014402-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/dsmd_5014402-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4c8382",
-    "rpc": "207.180.220.185:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/dsmd_5014402-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
