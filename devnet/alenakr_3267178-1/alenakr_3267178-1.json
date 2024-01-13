@@ -1,8 +1,8 @@
 {
   "chainId": "alenakr_3267178-1",
-  "chainName": "alenakr_3267178-1",
-  "rpc": "http://135.181.43.11:26657",
-  "rest": "http://135.181.43.11:1317",
+  "chainName": "Alenakr",
+  "rpc": "https://froopyland.dymension.xyz/28/alenakr_3267178-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/alenakr_3267178-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x31da6a",
-    "rpc": "http://135.181.43.11:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/alenakr_3267178-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
