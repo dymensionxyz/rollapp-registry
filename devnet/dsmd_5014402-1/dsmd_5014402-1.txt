@@ -1,0 +1,33 @@
+{
+  "chainId": "dsmd_5014402-1",
+  "chainName": "dsmd_5014402-1",
+  "rpc": "207.180.220.185:26657",
+  "rest": "207.180.220.185:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DSMD",
+      "baseDenom": "uDSMD",
+      "decimals": 18,
+      "logo": "/logos/dsmd_5014402-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dsmd_5014402-1.png",
+  "ibc": {
+    "hubChannel": "channel-8272",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4c8382",
+    "rpc": "207.180.220.185:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
