@@ -1,8 +1,8 @@
 {
   "chainId": "pompome_2508748-1",
   "chainName": "pompome_2508748-1",
-  "rpc": "http://144.91.97.140:26657",
-  "rest": "http://144.91.97.140:1317",
+  "rpc": "https://froopyland.dymension.xyz/28/pompome_2508748-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/pompome_2508748-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2647cc",
-    "rpc": "http://144.91.97.140:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/pompome_2508748-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
