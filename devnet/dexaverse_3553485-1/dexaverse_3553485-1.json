@@ -1,0 +1,33 @@
+{
+  "chainId": "dexaverse_3553485-1",
+  "chainName": "dexaverse_3553485-1",
+  "rpc": "https://froopyland.dymension.xyz/27/dexaverse_3553485-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/dexaverse_3553485-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DXA",
+      "baseDenom": "uDXA",
+      "decimals": 18,
+      "logo": "/logos/dexaverse_3553485-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dexaverse_3553485-1.png",
+  "ibc": {
+    "hubChannel": "channel-8136",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3638cd",
+    "rpc": "https://froopyland.dymension.xyz/27/dexaverse_3553485-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
