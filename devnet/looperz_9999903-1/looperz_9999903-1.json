@@ -1,8 +1,8 @@
 {
   "chainId": "looperz_9999903-1",
-  "chainName": "looperz_9999903-1",
-  "rpc": "https://158.220.97.71",
-  "rest": "https://158.220.97.71",
+  "chainName": "Looperz",
+  "rpc": "https://froopyland.dymension.xyz/28/looperz_9999903-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/looperz_9999903-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x98961f",
-    "rpc": "https://158.220.97.71"
+    "rpc": "https://froopyland.dymension.xyz/28/looperz_9999903-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
