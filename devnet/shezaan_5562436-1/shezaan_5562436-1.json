@@ -1,8 +1,8 @@
 {
   "chainId": "shezaan_5562436-1",
   "chainName": "shezaan",
-  "rpc": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/26/shezaan_5562436-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/shezaan_5562436-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,11 @@
   },
   "evm": {
     "chainId": "0x54e044",
-    "rpc": "https://froopyland.dymension.xyz/8/shezaan_5562436-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/26/shezaan_5562436-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }
