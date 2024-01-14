@@ -1,8 +1,8 @@
 {
 	"chainId": "galactic_1031922-1",
-	"chainName": "galactic_1031922-1",
-	"rpc": "http://62.171.182.7:26657",
-	"rest": "http://62.171.182.7:1317",
+	"chainName": "Galactic",
+	"rpc": "https://froopyland.dymension.xyz/28/galactic_1031922-1/rpc",
+	"rest": "https://froopyland.dymension.xyz/28/galactic_1031922-1/rest",
 	"bech32Prefix": "ethm",
 	"currencies": [
 		{
@@ -24,7 +24,7 @@
 	},
 	"evm": {
 		"chainId": "0xfbef2",
-		"rpc": "http://62.171.182.7:8545"
+		"rpc": "https://froopyland.dymension.xyz/28/galactic_1031922-1/evmrpc"
 	},
 	"type": "RollApp",
 	"da": "Celestia",
