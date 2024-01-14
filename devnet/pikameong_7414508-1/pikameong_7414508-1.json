@@ -1,8 +1,8 @@
 {
   "chainId": "pikameong_7414508-1",
-  "chainName": "pikameong_7414508-1",
-  "rpc": "http://178.63.161.164:26657/",
-  "rest": "http://178.63.161.164:1317/",
+  "chainName": "pikameong",
+  "rpc": "https://froopyland.dymension.xyz/28/pikameong_7414508-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/pikameong_7414508-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7122ec",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/28/pikameong_7414508-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
