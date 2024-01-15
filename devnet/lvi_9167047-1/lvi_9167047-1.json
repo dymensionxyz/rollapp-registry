@@ -1,8 +1,8 @@
 {
     "chainId": "lvi_9167047-1",
     "chainName": "LVI",
-    "rpc": "http://35.198.224.4:26657",
-    "rest": "http://35.198.224.4:1317",
+    "rpc": "https://froopyland.dymension.xyz/28/lvi_9167047-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/28/lvi_9167047-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x8be0c7",
-      "rpc": "http://35.198.224.4:8545"
+      "rpc": "https://froopyland.dymension.xyz/28/lvi_9167047-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
