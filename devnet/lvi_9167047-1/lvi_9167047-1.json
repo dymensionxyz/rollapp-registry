@@ -1,0 +1,33 @@
+{
+    "chainId": "lvi_9167047-1",
+    "chainName": "LVI",
+    "rpc": "http://35.198.224.4:26657",
+    "rest": "http://35.198.224.4:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "lvi",
+        "baseDenom": "ulvi",
+        "decimals": 18,
+        "logo": "/logos/lvi_9167047-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/lvi_9167047-1.png",
+    "ibc": {
+      "hubChannel": "channel-8267",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x8be0c7",
+      "rpc": "http://35.198.224.4:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }
