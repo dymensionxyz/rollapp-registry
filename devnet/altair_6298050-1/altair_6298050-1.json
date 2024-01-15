@@ -1,7 +1,7 @@
 {
   "chainId": "altair_6298050-1",
   "chainName": "altair_6298050-1",
-  "rpc": "http://207.180.199.115:62657",
+  "rpc": "http://207.180.199.115:26657",
   "rest": "http://207.180.199.115:1317",
   "bech32Prefix": "ethm",
   "currencies": [
