@@ -1,8 +1,8 @@
 {
   "chainId": "anaklanang_5930880-1",
-  "chainName": "anaklanang_5930880-1",
-  "rpc": "http://5.161.209.179:26657",
-  "rest": "http://5.161.209.179:1317",
+  "chainName": "anaklanang",
+  "rpc": "https://froopyland.dymension.xyz/28/anaklanang_5930880-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/anaklanang_5930880-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5a7f80",
-    "rpc": "http://5.161.209.179:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/anaklanang_5930880-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
