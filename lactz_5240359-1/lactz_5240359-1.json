@@ -1,6 +1,6 @@
 {
   "chainId": "lactz_5240359-1",
-  "chainName": "lactz_5240359-1",
+  "chainName": "lactz",
   "rpc": "https://65.21.189.121:26657",
   "rest": "https://65.21.189.121:8545",
   "bech32Prefix": "ethm",
