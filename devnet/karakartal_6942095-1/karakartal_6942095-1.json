@@ -1,8 +1,8 @@
 {
   "chainId": "karakartal_6942095-1",
-  "chainName": "karakartal_6942095-1",
-  "rpc": "http://95.217.212.26:26657",
-  "rest": "http://95.217.212.26:1317",
+  "chainName": "karakartal",
+  "rpc": "https://froopyland.dymension.xyz/28/karakartal_6942095-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/karakartal_6942095-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x69ed8f",
-    "rpc": "http://95.217.212.26:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/karakartal_6942095-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
