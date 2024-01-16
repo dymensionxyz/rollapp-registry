@@ -1,0 +1,34 @@
+{
+  "chainId": "tresvitae_3336077-1",
+  "chainName": "tresvitae_3336077-1",
+  "rpc": "https://froopyland.dymension.xyz/16/tresvitae_3336077-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/tresvitae_3336077-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TSV",
+      "baseDenom": "uTSV",
+      "decimals": 18,
+      "logo": "/logos/tresvitae_3336077-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/1000AfterBTC",
+  "logo": "/logos/tresvitae_3336077-1.png",
+  "ibc": {
+    "hubChannel": "channel-8315",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x32e78d",
+    "rpc": "https://froopyland.dymension.xyz/16/tresvitae_3336077-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "TresVitae world wellcome!",
+  "analytics": true
+}
+
