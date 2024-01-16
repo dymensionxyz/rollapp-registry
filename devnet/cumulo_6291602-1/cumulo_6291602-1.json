@@ -1,8 +1,8 @@
 {
   "chainId": "cumulo_6291602-1",
-  "chainName": "Roller Front-Chain",
-  "rpc": "https://rollapp.rpc.cumulo.com.es",
-  "rest": "https://rollapp.rest.cumulo.com.es",
+  "chainName": "blvck_7037440-1",
+  "rpc": "http://176.57.150.222:26657",
+  "rest": "http://176.57.150.222:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,9 +24,9 @@
   },
   "evm": {
     "chainId": "0x600092",
-    "rpc": "https://rollapp.jrpc.cumulo.com.es"
+    "rpc": "http://176.57.150.222:8545"
   },
-  "type": "RollApp",
+  "type": "RollApp
   "da": "Celestia",
   "description": "",
   "analytics": true,
