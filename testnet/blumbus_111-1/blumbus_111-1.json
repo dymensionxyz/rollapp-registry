@@ -21,6 +21,7 @@
     ],
     "coinType": 60,
     "validatorsLogosStorageDir": "hub",
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1196803789911498763",
     "ibc": {
         "timeout": 172800000
     },
