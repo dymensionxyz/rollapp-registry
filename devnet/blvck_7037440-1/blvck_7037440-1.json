@@ -1,8 +1,8 @@
 {
   "chainId": "blvck_7037440-1",
-  "chainName": "blvck_7037440-1",
-  "rpc": "http://176.57.150.222:26657",
-  "rest": "http://176.57.150.222:1317",
+  "chainName": "Blvck",
+  "rpc": "https://froopyland.dymension.xyz/28/blvck_7037440-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/blvck_7037440-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6b6200",
-    "rpc": "http://176.57.150.222:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/blvck_7037440-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
