@@ -1,0 +1,33 @@
+{
+  "chainId": "blvck_7037440-1",
+  "chainName": "blvck_7037440-1",
+  "rpc": "http://176.57.150.222:26657",
+  "rest": "http://176.57.150.222:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "vck",
+      "baseDenom": "uvck",
+      "decimals": 18,
+      "logo": "/logos/blvck_7037440-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/blvck_7037440-1.png",
+  "ibc": {
+    "hubChannel": "channel-8164",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6b6200",
+    "rpc": "http://176.57.150.222:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
