@@ -1,8 +1,8 @@
 {
   "chainId": "bnp_5189708-1",
-  "chainName": "bnp_5189708-1",
-  "rpc": "http://158.220.111.121:26657",
-  "rest": "http://158.220.111.121:1317",
+  "chainName": "Bnp",
+  "rpc": "https://froopyland.dymension.xyz/28/bnp_5189708-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/bnp_5189708-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4f304c",
-    "rpc": "http://158.220.111.121:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/bnp_5189708-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
