@@ -26,9 +26,9 @@
         "timeout": 172800000
     },
     "gasPriceSteps": {
-        "low": 0.25,
-        "average": 0.4,
-        "high": 0.55
+        "low": 80000000000,
+        "average": 80000000000,
+        "high": 80000000000
     },
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
