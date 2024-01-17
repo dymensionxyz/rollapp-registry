@@ -1,6 +1,6 @@
 {
   "chainId": "startrek_9233335-1",
-  "chainName": "startrek1",
+  "chainName": "startrek",
   "rpc": "http://95.111.230.110:26657",
   "rest": "http://95.111.230.110:1317",
   "bech32Prefix": "ethm",
