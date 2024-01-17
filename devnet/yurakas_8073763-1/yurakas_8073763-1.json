@@ -1,0 +1,33 @@
+{
+  "chainId": "yurakas_8073763-1",
+  "chainName": "yurakas",
+  "rpc": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KAS",
+      "baseDenom": "uKAS",
+      "decimals": 18,
+      "logo": "/logos/yurakas_8073763-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://yurakas97.github.io/rollapp/",
+  "logo": "/logos/yurakas_8073763-1.png",
+  "ibc": {
+    "hubChannel": "channel-7567",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7b3223",
+    "rpc": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

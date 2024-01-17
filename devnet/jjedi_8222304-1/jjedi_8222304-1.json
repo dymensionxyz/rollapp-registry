@@ -1,0 +1,33 @@
+{
+  "chainId": "jjedi_8222304-1",
+  "chainName": "jjedi",
+  "rpc": "https://froopyland.dymension.xyz/28/jjedi_8222304-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/jjedi_8222304-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JDI",
+      "baseDenom": "uJDI",
+      "decimals": 18,
+      "logo": "/logos/jjedi_8222304-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jjedi_8222304-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8215",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7d7660",
+    "rpc": "https://froopyland.dymension.xyz/28/jjedi_8222304-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

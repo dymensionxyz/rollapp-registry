@@ -1,0 +1,33 @@
+{
+  "chainId": "iqbalk_3103734-1",
+  "chainName": "Iqbal_K",
+  "rpc": "https://froopyland.dymension.xyz/21/iqbalk_3103734-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/21/iqbalk_3103734-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IQK",
+      "baseDenom": "uIQK",
+      "decimals": 18,
+      "logo": "/logos/iqbalk_3103734-1-logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/iqbalk_3103734-1-logo.png",
+  "ibc": {
+    "hubChannel": "channel-5726",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2f5bf6",
+    "rpc": "https://froopyland.dymension.xyz/21/iqbalk_3103734-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "cryptofuturecf_7578999-1",
+  "chainName": "CryptoFutureCF",
+  "rpc": "https://froopyland.dymension.xyz/28/cryptofuturecf_7578999-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/cryptofuturecf_7578999-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DWL",
+      "baseDenom": "uDWL",
+      "decimals": 18,
+      "logo": "/logos/cryptofuturecf_7578999-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://linktr.ee/cryptofuturecf",
+  "logo": "/logos/cryptofuturecf_7578999-1.png",
+  "ibc": {
+    "hubChannel": "channel-8292",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x73a577",
+    "rpc": "https://froopyland.dymension.xyz/28/cryptofuturecf_7578999-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "CryptoFutureCF sailors! Future is modular",
+  "analytics": true
+}
