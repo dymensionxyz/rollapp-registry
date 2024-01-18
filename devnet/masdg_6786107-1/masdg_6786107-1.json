@@ -1,8 +1,8 @@
 {
   "chainId": "masdg_6786107-1",
-  "chainName": "masdg_6786107-1",
-  "rpc": "http://158.220.110.5:26657",
-  "rest": "http://158.220.110.5:1317",
+  "chainName": "Masdg",
+  "rpc": "https://froopyland.dymension.xyz/28/masdg_6786107-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/masdg_6786107-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x678c3b",
-    "rpc": "http://158.220.110.5:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/masdg_6786107-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
