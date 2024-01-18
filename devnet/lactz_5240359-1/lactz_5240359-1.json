@@ -1,8 +1,8 @@
 {
   "chainId": "lactz_5240359-1",
   "chainName": "lactz",
-  "rpc": "https://65.21.189.121:26657",
-  "rest": "https://65.21.189.121:8545",
+  "rpc": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4ff627",
-    "rpc": "https://65.21.189.121:1317"
+    "rpc": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
