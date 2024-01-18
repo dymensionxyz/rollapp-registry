@@ -1,8 +1,8 @@
 {
     "chainId": "halo_1460029-1",
     "chainName": "halo",
-    "rpc": "26657",
-    "rest": "1317",
+    "rpc": "https://froopyland.dymension.xyz/28/halo_1460029-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/28/halo_1460029-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x16473d",
-        "rpc": "8545"
+        "rpc": "https://froopyland.dymension.xyz/28/halo_1460029-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",
