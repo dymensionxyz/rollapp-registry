@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x38184c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/pluton_3676236-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
