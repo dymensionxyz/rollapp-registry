@@ -1,8 +1,8 @@
 {
   "chainId": "robot_6454546-1",
-  "chainName": "robot_6454546-1",
-  "rpc": "http://146.190.37.198:26657",
-  "rest": "http://146.190.37.198:1317",
+  "chainName": "Robot",
+  "rpc": "https://froopyland.dymension.xyz/28/robot_6454546-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/robot_6454546-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x627d12",
-    "rpc": "http://146.190.37.198:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/robot_6454546-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
