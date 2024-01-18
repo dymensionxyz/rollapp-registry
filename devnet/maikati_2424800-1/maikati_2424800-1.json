@@ -1,8 +1,8 @@
 {
     "chainId": "maikati_2424800-1",
     "chainName": "maikati",
-    "rpc": "https://rollappevm-26657-maikati.bk7bbm.oss-acorn.io",
-    "rest": "https://rollappevm-1317-maikati.bk7bbm.oss-acorn.io",
+    "rpc": "https://rollappevm-26657-maik.bk7bbm.oss-acorn.io",
+    "rest": "https://rollappevm-1317-maik.bk7bbm.oss-acorn.io",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x24ffe0",
-        "rpc": "https://rollappevm-maikati.bk7bbm.oss-acorn.io"
+        "rpc": "https://rollappevm-maik.bk7bbm.oss-acorn.io"
     },
     "type": "RollApp",
     "da": "Celestia",

@@ -1,8 +1,8 @@
 {
   "chainId": "mdq_4405907-1",
   "chainName": "MDQ APP",
-  "rpc": "https://froopyland.dymension.xyz/20/mdq_4405907-1-a/rpc",
-  "rest": "https://froopyland.dymension.xyz/20/mdq_4405907-1-a/rest",
+  "rpc": "https://froopyland.dymension.xyz/27/mdq_4405907-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/mdq_4405907-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x433a93",
-    "rpc": "https://froopyland.dymension.xyz/20/mdq_4405907-1-a/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/27/mdq_4405907-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",

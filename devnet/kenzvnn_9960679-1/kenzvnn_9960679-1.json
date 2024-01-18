@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }
