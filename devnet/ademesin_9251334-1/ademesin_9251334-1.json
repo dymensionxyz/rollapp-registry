@@ -1,8 +1,8 @@
 {
   "chainId": "ademesin_9251334-1",
   "chainName": "ademesin",
-  "rpc": "http://78.135.87.49:26657",
-  "rest": "http://78.135.87.49:1317",
+  "rpc": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8d2a06",
-    "rpc": "http://78.135.87.49:8545"
+    "rpc": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
