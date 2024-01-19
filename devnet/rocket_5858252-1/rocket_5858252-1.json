@@ -1,0 +1,35 @@
+{
+  "chainId": "rocket_5858252-1",
+  "chainName": "rocket_5858252-1",
+  "rpc": "http://73.231.84.175:26657",
+  "rest": "http://73.231.84.175:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TEK",
+      "baseDenom": "uTEK",
+      "decimals": 18,
+      "logo": "/logos/rocket_5858252-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rocket_5858252-1.png",
+  "ibc": {
+    "hubChannel": "channel-8328",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5963cc",
+    "rpc": "http://73.231.84.175:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G79GFy1eA88iQhCEqmCHMKj6uGZ2M2EQTskuTPPT3oXNTtY"
+}
