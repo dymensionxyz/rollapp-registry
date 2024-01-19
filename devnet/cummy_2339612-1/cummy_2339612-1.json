@@ -1,6 +1,6 @@
 {
 	"chainId": "cummy_2339612-1",
-	"chainName": "cummy_2339612-1",
+	"chainName": "Cummy",
 	"rpc": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rpc",
 	"rest": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rest",
 	"bech32Prefix": "ethm",
