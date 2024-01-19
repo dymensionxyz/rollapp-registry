@@ -1,8 +1,8 @@
 {
 	"chainId": "cummy_2339612-1",
 	"chainName": "cummy_2339612-1",
-	"rpc": "http://31.220.84.68:26657",
-	"rest": "http://31.220.84.68:1317",
+	"rpc": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rpc",
+	"rest": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rest",
 	"bech32Prefix": "ethm",
 	"currencies": [
 		{
@@ -24,7 +24,7 @@
 	},
 	"evm": {
 		"chainId": "0x23b31c",
-		"rpc": "http://31.220.84.68:8545"
+		"rpc": "https://froopyland.dymension.xyz/28/cummy_2339612-1/evmrpc"
 	},
 	"type": "RollApp",
 	"da": "Celestia",
