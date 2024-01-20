@@ -4,6 +4,7 @@
     "rpc": "https://rpc-roller.hexnodes.co",
     "rest": "https://lcd-roller.hexnodes.co",
     "bech32Prefix": "ethm",
+    "goldberg": true,
     "currencies": [
       {
         "displayDenom": "HEX",
