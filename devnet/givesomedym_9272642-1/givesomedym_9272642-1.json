@@ -1,8 +1,8 @@
 {
   "chainId": "givesomedym_9272642-1",
   "chainName": "GiveSomyDym",
-  "rpc": "http://45.94.58.142:26657",
-  "rest": "http://45.94.58.142:1317",
+  "rpc": "https://froopyland.dymension.xyz/29/givesomedym_9272642-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/29/givesomedym_9272642-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8d7d42",
-    "rpc": "http://45.94.58.142:8545"
+    "rpc": "https://froopyland.dymension.xyz/29/givesomedym_9272642-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
