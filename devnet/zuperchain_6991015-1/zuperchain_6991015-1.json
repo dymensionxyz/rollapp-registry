@@ -31,5 +31,5 @@
     "da": "Avail",
     "description": "ZuperChain (previously ZuperNetwork) is a modular general-purpose EVM L2 powered by Dymension and Avail",
     "analytics": true,
-    "active": true
+   "active": false
   }
