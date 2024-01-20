@@ -4,6 +4,7 @@
   "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rest",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "JRG",
