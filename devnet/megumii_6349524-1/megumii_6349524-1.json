@@ -4,6 +4,7 @@
   "rpc": "https://api.dym.kessoku.xyz",
   "rest": "https://rest.dym.kessoku.xyz",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "NVM",
