@@ -23,12 +23,21 @@
     "timeout": 172800000
   },
   "evm": {
+<<<<<<< HEAD:devnet/optimysthico_9372020-1/optimysthico_9372020-1.json
     "chainId": "optimysthico_9372020-1",
     "rpc": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/evmrpc"
+=======
+    "chainId": "0x8f0174",
+    "rpc": "http://149.102.137.76:8545"
+>>>>>>> b5d2ac28 (ChainID update and Migrate Celestia to Avail):optimysthico_9372020-1/optimysthico_9372020-1.json
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
+<<<<<<< HEAD:devnet/optimysthico_9372020-1/optimysthico_9372020-1.json
   "analytics": true,
   "rewards": true
+=======
+  "analytics": true
+>>>>>>> b5d2ac28 (ChainID update and Migrate Celestia to Avail):optimysthico_9372020-1/optimysthico_9372020-1.json
 }
