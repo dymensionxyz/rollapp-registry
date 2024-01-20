@@ -1,11 +1,11 @@
 {
     "chainId": "blumbus_111-1",
     "chainName": "Dymension Blumbus",
-    "rpc": "https://blumbus.rpc.silknodes.io",
-    "rest": "https://blumbus.api.silknodes.io",
+    "rpc": "https://blumbus.blockpi.network/rpc/v1/6da67406c258d5e7849590c843ae7d7324d03079",
+    "rest": "https://blumbus.blockpi.network/lcd/v1/6da67406c258d5e7849590c843ae7d7324d03079",
     "evm": {
         "chainId": "0x6F",
-        "rpc": "https://blumbus.json-rpc.silknodes.io"
+        "rpc": "https://blumbus-evm.blockpi.network/v1/rpc/dbeb685fec89bc544f4316bd1b70e9eb4c23df89"
     },
     "explorerUrl": "https://explorer.silknodes.io/blumbus/",
     "exploreTxUrl": "https://explorer.silknodes.io/blumbus/tx/",
