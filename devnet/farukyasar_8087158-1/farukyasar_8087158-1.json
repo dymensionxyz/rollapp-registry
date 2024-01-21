@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "I'll Be Back!",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }

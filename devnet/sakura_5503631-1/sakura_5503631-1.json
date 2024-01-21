@@ -1,0 +1,33 @@
+{
+  "chainId": "sakura_5503631-1",
+  "chainName": "Sakura",
+  "rpc": "https://froopyland.dymension.xyz/28/akura_5503631-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/akura_5503631-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SKR",
+      "baseDenom": "uSKR",
+      "decimals": 18,
+      "logo": "/logos/sakura_5503631-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://crypto-to-do-list.vercel.app/",
+  "logo": "/logos/sakura_5503631-1.png",
+  "ibc": {
+    "hubChannel": "channel-8141",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x53fa8f",
+    "rpc": "https://froopyland.dymension.xyz/28/akura_5503631-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "You often forget your crypto tasks? Sakura's crypto To Do List is here to help!",
+  "analytics": true
+}
