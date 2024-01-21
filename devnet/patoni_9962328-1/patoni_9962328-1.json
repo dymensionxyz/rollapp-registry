@@ -27,7 +27,7 @@
     "rpc": "http://149.102.158.188:26657"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
 }
