@@ -4,6 +4,7 @@
   "rpc": "https://rpc.jupiternft.xyz/",
   "rest": "https://restapi.jupiternft.xyz/",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "GAS",
