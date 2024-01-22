@@ -1,0 +1,33 @@
+{
+  "chainId": "wonchi_8029392-1",
+  "chainName": "wonchi",
+  "rpc": "http://144.91.126.24:26657",
+  "rest": "http://144.91.126.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WONCHI",
+      "baseDenom": "uWONCHI",
+      "decimals": 18,
+      "logo": "/logos/wonchi_8029392-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/wonchi_8029392-1.png",
+  "ibc": {
+    "hubChannel": "channel-8381",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7a84d0",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
