@@ -1,8 +1,8 @@
 {
   "chainId": "omerbektas_1551395-1",
   "chainName": "omerbektas_1551395-1",
-  "rpc": "https://froopyland.dymension.xyz/28/omerbektas_1551395-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/28/omerbektas_1551395-1/rest",
+  "rpc": "http://omerbektas.online:26657",
+  "rest": "http://omerbektas.online:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x17ac23",
-    "rpc": "https://froopyland.dymension.xyz/28/omerbektas_1551395-1/evmrpc"
+    "rpc": "http://omerbektas.online:8545"
   },
   "type": "RollApp",
   "da": "Avail",
