@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Stake.Works, independent node operators, active since 2018. We’re supporting projects on the Polygon, Polkadot and Cosmos ecosystems.",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FxoSE3aFcJZJRZT9TRGZfusPuR6ig5nHkYDTJqXAjLNd1BE"
 }
