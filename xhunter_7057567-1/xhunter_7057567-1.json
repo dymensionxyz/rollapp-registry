@@ -28,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "will melt and be rich in time",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5GhTjdgWgiYy4Rx8K8bSqeuobeZ4sFDHm5kjYCE3qx5YkA5P"
 }
