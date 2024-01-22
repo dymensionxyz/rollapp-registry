@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/25/gibran_3156666-1/rpc",
   "rest": "https://froopyland.dymension.xyz/25/gibran_3156666-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "GIBR",
@@ -31,9 +30,10 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "availAddress": "5C5hQyMzS5vjhmbAYBscXD2ybWnrW6QwFKNrUDpk9PUUQnVp",
   "description": "",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5C5hQyMzS5vjhmbAYBscXD2ybWnrW6QwFKNrUDpk9PUUQnVp",
   "rewards": true,
   "active": true
 }
