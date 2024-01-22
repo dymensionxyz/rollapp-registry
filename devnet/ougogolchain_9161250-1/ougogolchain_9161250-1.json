@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/10/ougogolchain_9161250-1/rpc",
   "rest": "https://froopyland.dymension.xyz/10/ougogolchain_9161250-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "OUG",
@@ -30,6 +29,8 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DhKGovmrAkssmM7xgHbA3ugio11gV1Y6Ud4DPhfTUzAEMkE"
 }
 
