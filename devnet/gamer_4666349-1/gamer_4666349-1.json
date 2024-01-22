@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/23/gamer_4666349-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "We Love Gaming",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FySsPxA4p8z9Sy8FagYjqhpan88FRaGPNr1pWDR9v1W8uEM"
 }
