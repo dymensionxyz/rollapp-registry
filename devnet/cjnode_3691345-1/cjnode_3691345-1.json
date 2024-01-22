@@ -1,8 +1,8 @@
 {
     "chainId": "cjnode_3691345-1",
     "chainName": "CJNodes",
-    "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rest",
+    "rpc": "http://45.67.35.241:26657",
+    "rest": "http://45.67.35.241:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,10 +24,10 @@
     },
     "evm": {
       "chainId": "0x385351",
-      "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/evmrpc"
+      "rpc": "http://45.67.35.241:8545"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "description": "MAKING THINGS EASIER",
     "analytics": true
   } 
