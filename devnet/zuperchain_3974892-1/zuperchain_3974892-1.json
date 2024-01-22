@@ -29,5 +29,6 @@
     "type": "RollApp",
     "da": "Celestia",
     "description": "ZuperChain (previously ZuperNetwork) is a modular general purpose EVM L2 powered by Dymension and Celestia",
-    "analytics": true
+    "analytics": true,
+    "active": false
   }

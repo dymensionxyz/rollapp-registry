@@ -30,4 +30,7 @@
   "da": "Celestia",
   "description": "",
   "analytics": true,
+  "validator": false,
+  "active": false
+  
 }
