@@ -27,7 +27,9 @@
     "rpc": "https://188.166.178.167:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "503D0B409366959B",
+  "analytics": true ,
+  "goldberg": true ,
+  "availAddress": "5Hgkgyh5YxDznuuWprFHZichBdgy9snNVirA5P4Zyf5BHZjn"
 }
