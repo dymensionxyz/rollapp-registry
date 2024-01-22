@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/2/futurama_7929531-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Good news everyone!",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GRXx8z1epNL8EZfW4mZN4HZDheQt3uaLYMiNjApzhLLgDQk",
   "rewards": true
 }
