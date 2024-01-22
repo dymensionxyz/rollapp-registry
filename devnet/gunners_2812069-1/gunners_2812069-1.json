@@ -30,6 +30,7 @@
   "da": "Avail",
   "description": "Two-Gun Tumble, Western PVP shooter.",
   "analytics": true,
+  "goldberg": true,
   "rewards": true,
   "validator": true
 }
