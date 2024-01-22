@@ -31,4 +31,5 @@
   "description": "vitalikbuterinlox",
   "analytics": true,
   "rewards": true
+  "goldberg": true,
 }
