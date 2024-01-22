@@ -29,6 +29,8 @@ networks.json:
   },
   "type": "RollApp",
   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5EA63GoWuJi5C3JNgGJqUeUhMdexNvkNoYZ7manXJ6UJ6sHN"
   "description": "",
   "analytics": true
 }
