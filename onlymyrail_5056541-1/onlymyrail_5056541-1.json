@@ -1,9 +1,9 @@
-
+networks.json:
 {
   "chainId": "onlymyrail_5056541-1",
-  "chainName": "Onlymyrail",
-  "rpc": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/rest",
+  "chainName": "onlymyrail_5056541-1",
+  "rpc": "",
+  "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,10 +25,10 @@
   },
   "evm": {
     "chainId": "0x4d281d",
-    "rpc": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/evmrpc"
+    "rpc": ""
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "hi",
+  "da": "Avail",
+  "description": "",
   "analytics": true
 }
