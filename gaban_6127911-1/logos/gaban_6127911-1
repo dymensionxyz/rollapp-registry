@@ -1,0 +1,35 @@
+{
+  "chainId": "gaban_6127911-1",
+  "chainName": "Gaban",
+  "rpc": "https://188.166.178.167:26657",
+  "rest": "https://188.166.178.167:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "gab",
+      "baseDenom": "ugab",
+      "decimals": 18,
+      "logo": "/logos/gaban_6127911-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/gaban_6127911-1.png",
+  "ibc": {
+    "hubChannel": "channel-5948",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d8127",
+    "rpc": "https://188.166.178.167:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "503D0B409366959B",
+  "analytics": true ,
+  "goldberg": true ,
+  "availAddress": "5Hgkgyh5YxDznuuWprFHZichBdgy9snNVirA5P4Zyf5BHZjn"
+}
