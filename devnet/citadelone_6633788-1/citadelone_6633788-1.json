@@ -1,0 +1,33 @@
+{
+    "chainId": "citadelone_6633788-1",
+    "chainName": "Citadel.one",
+    "rpc": "https://xct-froopyland.citadel.one/rpc",
+    "rest": "https://xct-froopyland.citadel.one/api",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "xct",
+            "baseDenom": "uxct",
+            "decimals": 18,
+            "logo": "/logos/citadelone_6633788-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://citadel.one",
+    "logo": "/logos/citadelone_6633788-1.png",
+    "ibc": {
+        "hubChannel": "channel-8199",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x65393c",
+        "rpc": "https://xct-froopyland.citadel.one/evm"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "We're Citadel.one :^)",
+    "analytics": true
+}
