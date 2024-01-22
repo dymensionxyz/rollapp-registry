@@ -22,16 +22,7 @@
     "channel": "channel-2",
     "timeout": 172800000
   },
-
-
-
-
-
-
-
-
-  
-  "evm": {
+ "evm": {
     "chainId": "0x6e6afc",
     "rpc": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/evmrpc"
   },
