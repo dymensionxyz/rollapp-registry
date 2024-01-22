@@ -1,8 +1,8 @@
 {
   "chainId": "modularfam_6209067-1",
   "chainName": "Modularfam",
-  "rpc": "https://froopyland.dymension.xyz/4/modularfam_6209067-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/4/modularfam_6209067-1/rest",
+  "rpc": "http://165.232.153.25:26657",
+  "rest": "http://165.232.153.25:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x5ebe2b",
-    "rpc": "https://froopyland.dymension.xyz/4/modularfam_6209067-1/evmrpc"
+    "rpc": "http://165.232.153.25:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5ExqGi3o1SwSfBGkDdhCZVBxVAKN78xa6Fw4arKZwYUvKKxc"
 }
