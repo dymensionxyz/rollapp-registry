@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/26/fivenodesroll_5153160-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "F5 Nodes operates a high-performance infrastructure that ensures an excessive level of security and reliability for blockchain networks & protocols.",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "5GgDUiXZSt5p88uqFthfjr8sYGaTypZkEAfCAPj5fXmtuZS1"
 }
