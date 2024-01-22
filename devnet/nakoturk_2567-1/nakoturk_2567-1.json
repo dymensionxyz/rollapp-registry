@@ -26,8 +26,10 @@
     "rpc": "https://froopyland.dymension.xyz/nakoturk_2567-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "description": "Validator | Node Runner | Crypto and Blockchain Enthusiast",
   "analytics": true,
+  "goldberg": true,
   "rewards": true,
-  "validator": true
+  "availAddress": "5CSy8K41nDSgTtisnGPpNapd8asqRbmpb99fr45jdzftyh9o"
 }
