@@ -27,7 +27,8 @@
     "rpc": "https://froopyland.dymension.xyz/22/nodesruns_4066952-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "NodeRun.Com.Tr / Dymension NFT RollApp",
+  "goldberg": true
   "analytics": true
 }
