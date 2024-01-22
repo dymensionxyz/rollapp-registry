@@ -1,8 +1,8 @@
 {
   "chainId": "icforx_2303127-1",
   "chainName": "icforx_2303127-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
