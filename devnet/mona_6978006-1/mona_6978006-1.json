@@ -1,0 +1,35 @@
+{
+    "chainId": "mona_6978006-1",
+    "chainName": "mona",
+    "rpc": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/rest",
+    "bech32Prefix": "ethm",
+    "golberg": true,
+    "currencies": [
+        {
+            "displayDenom": "mna",
+            "baseDenom": "umna",
+            "decimals": 18,
+            "logo": "/logos/IMG_20231204_204518_751.jpg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/IMG_20231204_204518_751.jpg",
+    "ibc": {
+        "hubChannel": "channel-8150",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x6a79d6",
+        "rpc": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "analytics": true,
+    "rewards": true
+}

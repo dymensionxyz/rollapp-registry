@@ -1,0 +1,34 @@
+{
+  "chainId": "sipalingtestnet_1315925-1",
+  "chainName": "sipalingtestnet",
+  "rpc": "https://rpc.dymension.sipalingtestnet.com",
+  "rest": "https://api.dymension.sipalingtestnet.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "spt",
+      "baseDenom": "uspt",
+      "decimals": 18,
+      "logo": "/logos/sipalingtestnet_1315925-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://node.sipalingtestnet.com/dymension",
+  "logo": "/logos/sipalingtestnet_1315925-1.png",
+  "ibc": {
+    "hubChannel": "channel-7995",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x141455",
+    "rpc": "https://rpcevm.dymension.sipalingtestnet.com"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

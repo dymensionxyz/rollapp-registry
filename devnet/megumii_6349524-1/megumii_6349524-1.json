@@ -4,6 +4,7 @@
   "rpc": "https://api.dym.kessoku.xyz",
   "rest": "https://rest.dym.kessoku.xyz",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "NVM",
@@ -29,5 +30,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Please God",
-  "analytics": true
+  "analytics": true,
+  "availAddress": "5HpS9MnYR4QRTFPjJ1K3tgiEuhjnbiHdvFH7eZb1nd9Svz7C"
 }
