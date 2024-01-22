@@ -30,4 +30,6 @@
   "da": "Avail",
   "description": "freeze da world",
   "analytics": true
+  "goldberg": true
+  "availAddress": "5F9GrGnJmrvPum7rAftSnS6c6Z6m28NVtVs54f39crExp48M"
 }
