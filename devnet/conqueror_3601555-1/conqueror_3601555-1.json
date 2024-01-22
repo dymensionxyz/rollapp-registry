@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "goldberg": true,
-  "availAddress": "5GjTvQgdarJY3mdshK7rFboy5PYjrSFHMqtxuF3mzWjW9PGE"
+  "availAddress": "5GjTvQgdarJY3mdshK7rFboy5PYjrSFHMqtxuF3mzWjW9PGE",
   "description": "Stake with me",
   "analytics": true,
   "validator": true
