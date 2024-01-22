@@ -3,8 +3,6 @@
   "chainName": "Enyas",
   "rpc": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/17/enyas_1686868-1-a/rest",
-  "goldberg": true,
-  "availAddress": "5EnkmCkjPswgAsJH4os28JJVnXgYNXrErzT4Pgwt7gnJzd2i"
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -30,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Succeed together",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnkmCkjPswgAsJH4os28JJVnXgYNXrErzT4Pgwt7gnJzd2i"
 }
