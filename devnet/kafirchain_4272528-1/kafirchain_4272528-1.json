@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rpc",
   "rest": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "KFR",
@@ -31,4 +30,7 @@
   "da": "Avail",
   "description": "Kafirchain RollApps",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5DUt8qcJDQRT4zghAnTSTFdNkuxPBVvAbyLnWX8wwhnzn3e4"
 }
+
