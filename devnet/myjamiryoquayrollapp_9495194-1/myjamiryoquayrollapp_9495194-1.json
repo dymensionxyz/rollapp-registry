@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/myjamiryoquayrollapp_9495194-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EFJE5JMSfVRV88jCrQqunzVqpnS64QeMiWnM6ygbpX8zGWc"
 }
