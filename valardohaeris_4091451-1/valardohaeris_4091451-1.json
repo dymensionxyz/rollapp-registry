@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "avail and dym power",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EbdMQrBdPbHihtYdHrDWAC6qhgJCh64FbP2Atei8DAQuAkj"
 }
