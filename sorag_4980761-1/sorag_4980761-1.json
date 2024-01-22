@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/sorag_4980761-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5ELVSmZH62NBmdqrzVZ2BdWnBdfHd9EC1WZJ7tMwHSFFgr4s",
   "description": "Vive les baguettes et vive la France",
   "analytics": true
 }
