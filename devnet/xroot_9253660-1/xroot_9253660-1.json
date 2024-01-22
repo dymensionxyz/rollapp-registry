@@ -1,8 +1,8 @@
 {
   "chainId": "xroot_9253660-1",
   "chainName": "xroot",
-  "rpc": "https://froopyland.dymension.xyz/23/xroot_9253660-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/23/xroot_9253660-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/29/xroot_9253660-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/29/xroot_9253660-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8d331c",
-    "rpc": "https://froopyland.dymension.xyz/23/xroot_9253660-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/29/xroot_9253660-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
