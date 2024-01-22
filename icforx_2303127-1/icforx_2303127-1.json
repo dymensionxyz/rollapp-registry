@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x232497",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail", 
