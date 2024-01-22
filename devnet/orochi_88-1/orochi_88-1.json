@@ -30,5 +30,7 @@
   "da": "Avail",
   "description": "Your keys, Your coins, Your stakes",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5GT5hnPL8YMeiLgGpwixDEYX5KF12LxPfpJszVy8U9vNgW6k"
 }
