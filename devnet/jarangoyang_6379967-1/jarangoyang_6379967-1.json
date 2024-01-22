@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "JRG",
@@ -29,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "modular chains enjoooyer",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EFLo8Ez9rSsoi3eRga7MZMvPt34EVokDjSAX6Y1c7yyz7TG",
   "rewards": true
 }
