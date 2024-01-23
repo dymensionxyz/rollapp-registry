@@ -4,6 +4,7 @@
     "rpc": "https://froopyland.dymension.xyz/23/zuperchain_6991015-1/rpc",
     "rest": "https://froopyland.dymension.xyz/23/zuperchain_6991015-1/rest",
     "bech32Prefix": "ethm",
+    "goldberg": true,
     "currencies": [
       {
         "displayDenom": "ZUPER",
@@ -30,5 +31,5 @@
     "da": "Avail",
     "description": "ZuperChain (previously ZuperNetwork) is a modular general-purpose EVM L2 powered by Dymension and Avail",
     "analytics": true,
-    "active": true
+   "active": false
   }

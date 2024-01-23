@@ -1,0 +1,35 @@
+{
+    "chainId": "zuperchain_7574035-1",
+    "chainName": "ZuperChain",
+    "rpc": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ZUPER",
+        "baseDenom": "uZUPER",
+        "decimals": 18,
+        "logo": "/logos/zuperchain_7574035-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "http://ecosystem.zupernetwork.tech/",
+    "logo": "/logos/zuperchain_7574035-1.png",
+    "ibc": {
+      "hubChannel": "channel-8363",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x739213",
+      "rpc": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "ZuperChain ia a modular general-purpose EVM L2 powered by Dymension and Avail",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5GTGaJ2ZoFckdMzfcqYyF7bezniNAhHRY8tHoJKzYsTcbs8a"
+}

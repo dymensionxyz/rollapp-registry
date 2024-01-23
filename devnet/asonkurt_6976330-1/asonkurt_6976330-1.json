@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "iloveibc",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G27QVFzkSdwLM1JAiXJrgARgeN5UCFLQB8S5Q42bHTVUr1n"
 }

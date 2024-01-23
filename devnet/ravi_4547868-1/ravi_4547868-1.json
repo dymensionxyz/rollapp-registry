@@ -4,6 +4,7 @@
     "rpc": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/rpc",
     "rest": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/rest",
     "bech32Prefix": "ethm",
+    "goldberg": true,
     "currencies": [
         {
             "displayDenom": "rav",
@@ -27,7 +28,7 @@
         "rpc": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "description": "",
     "analytics": true
 }
