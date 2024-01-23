@@ -30,4 +30,6 @@
   "da": "Avail",
   "description": "welcome to rollup",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5CSNZNXof1Mv5idqyMFQ1XFubMMxAZuv5AoC6D8FjdjozWBf"
 }
