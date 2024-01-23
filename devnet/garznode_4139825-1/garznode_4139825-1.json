@@ -28,7 +28,7 @@
     "rpc": "https://froopyland.dymension.xyz/25/garznode_4139825-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
 }
