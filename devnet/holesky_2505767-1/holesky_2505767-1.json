@@ -1,22 +1,22 @@
 {
   "chainId": "holesky_2505767-1",
-  "chainName": "holesky_2505767-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "holesky",
+  "rpc": "https://froopyland.dymension.xyz/29/holesky_2505767-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/29/holesky_2505767-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "HLK",
       "baseDenom": "uHLK",
       "decimals": 18,
-      "logo": "/logos/holesky_2505767-1.png",
+      "logo": "/logos/Holesky.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/holesky_2505767-1.png",
+  "logo": "/logos/Holesky.jpg",
   "ibc": {
     "hubChannel": "channel-8358",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x263c27",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/29/holesky_2505767-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
