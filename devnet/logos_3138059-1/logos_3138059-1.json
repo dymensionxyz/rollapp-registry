@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/15/logos_3138059-1/rpc",
   "rest": "https://froopyland.dymension.xyz/15/logos_3138059-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": "true",
   "currencies": [
     {
       "displayDenom": "LOG",
@@ -32,5 +31,6 @@
   "description": "Trusted Validator",
   "analytics": true,
   "rewards": true,
+  "goldberg": "true",
   "availAddress": "5ChxUFfkr6EwJfW3RN3c35bfw2KLezSuYUcdh1N7wfcvaR4X"
 }
