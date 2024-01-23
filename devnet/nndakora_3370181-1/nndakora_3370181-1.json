@@ -29,5 +29,7 @@
     "type": "RollApp",
     "da": "Avail",
     "description": "buy palworld",
-    "analytics": true
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5CHripkVbzXvzcvT3qquzPsXsWK2yUv4pSKmZgCAr4sdUv3t"
   }
