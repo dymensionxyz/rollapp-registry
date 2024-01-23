@@ -11,7 +11,7 @@
             "displayDenom": "TIA",
             "baseDenom": "utia",
             "decimals": 6,
-            "logo": "/logos/celestia-logo-purple.png",
+            "logo": "/logos/celestia-logo-purple.svg",
             "type": "main"
         }
     ],
@@ -28,7 +28,7 @@
         "average": 0.02,
         "high": 0.1 
     },
-    "logo": "/logos/celestia-logo-purple.png",
+    "logo": "/logos/celestia-logo-purple.svg",
     "type": "Regular",
     "analytics": false,
     "website": "https://celestia.org/"
