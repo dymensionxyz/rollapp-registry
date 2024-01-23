@@ -3,10 +3,6 @@
     "chainName": "nobletestnet",
     "rpc": "https://noble-testnet-rpc.polkachu.com",
     "rest": "https://noble-testnet-api.polkachu.com",
-    "evm": {
-        "chainId": "",
-        "rpc": ""
-    },
     "explorerUrl": "https://testnet.mintscan.io/noble-testnet",
     "exploreTxUrl": "https://testnet.mintscan.io/noble-testnet/txs/",
     "bech32Prefix": "noble",
@@ -32,6 +28,6 @@
     },
     "logo": "/logos/usdc-logo.svg",
     "type": "Regular",
-    "analytics": true,
+    "analytics": false,
     "website": ""
 }
