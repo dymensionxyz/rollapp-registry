@@ -1,0 +1,32 @@
+{
+    "chainId": "brochain_7701767-1",
+    "chainName": "Brochain",
+    "rpc": "https://froopyland.dymension.xyz/10/brochain_7701767-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/10/brochain_7701767-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "RMB",
+        "baseDenom": "uRMB",
+        "decimals": 18,
+        "logo": "/logos/brochain_7701767-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/brochain_7701767-1.png",
+    "ibc": {
+      "hubChannel": "channel-6259",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x758507",
+      "rpc": "https://froopyland.dymension.xyz/10/brochain_7701767-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }

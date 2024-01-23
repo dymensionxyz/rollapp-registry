@@ -1,0 +1,33 @@
+{
+  "chainId": "magicstone_1412-1",
+  "chainName": "Magic Stone",
+  "rpc": "https://froopyland.dymension.xyz/2/magicstone_1412-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/magicstone_1412-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SXL",
+      "baseDenom": "uSXL",
+      "decimals": 18,
+      "logo": "/logos/magicstone_1412-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/magicstone_1412-1.png",
+  "ibc": {
+    "hubChannel": "channel-5299",
+    "channel": "channel-18",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x584",
+    "rpc": "https://froopyland.dymension.xyz/2/magicstone_1412-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true,
+  "active": false
+}

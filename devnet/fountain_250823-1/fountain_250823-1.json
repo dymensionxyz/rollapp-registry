@@ -1,0 +1,31 @@
+{
+  "chainId": "fountain_250823-1",
+  "chainName": "fountain",
+  "rpc": "https://froopyland.dymension.xyz/3/fountain_250823-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/fountain_250823-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    { "displayDenom": "FTN",
+      "baseDenom": "uFTN",
+      "decimals": 18,
+      "logo": "/logos/fountain_250823-1.png",
+      "type": "main"
+    }  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fountain_250823-1.png",
+  "ibc": {
+    "hubChannel": "channel-5418",
+    "channel": "channel-0",
+    "timeout": 172800000  },
+  "evm": {
+    "chainId": "0x3d3c7",
+    "rpc": "https://froopyland.dymension.xyz/3/fountain_250823-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "fountain chain",
+  "analytics": true,
+  "rewards": true
+}

@@ -1,0 +1,33 @@
+{
+    "chainId": "phien_6690-1",
+    "chainName": "SaoViet Finance",
+    "rpc": "https://froopyland.dymension.xyz/3/phien_6690-1/rpc",
+    "description": "SaoViet Finance build by opensource with ReGuide Labs.",
+    "rest": "https://froopyland.dymension.xyz/3/phien_6690-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "PHIEN",
+        "baseDenom": "uPHIEN",
+        "decimals": 18,
+        "logo": "/logos/phien_6690-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "logo": "/logos/phien_6690-1.png",
+    "ibc": {
+      "hubChannel": "channel-5313",
+      "channel": "channel-33",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x1a22",
+      "rpc": "https://froopyland.dymension.xyz/3/phien_6690-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true
+  }
+

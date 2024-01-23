@@ -1,0 +1,39 @@
+{
+  "chainId": "idolaunchpadrollapp_7236348-1",
+  "chainName": "IdoLaunchpad",
+  "rpc": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IDO",
+      "baseDenom": "uIDO",
+      "decimals": 18,
+      "logo": "/logos/idolaunchpadrollapp_7236348-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://idolaunchpad.org",
+  "logo": "/logos/idolaunchpadrollapp_7236348-1.png",
+  "ibc": {
+    "hubChannel": "channel-7915",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+
+  
+  "evm": {
+    "chainId": "0x6e6afc",
+    "rpc": "https://froopyland.dymension.xyz/24/idolaunchpadrollapp_7236348-1/evmrpc"
+  },
+
+  
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GeCz4eFwaPLwMdcmbCDyLqfwmFnYZFChfu4Ecz1Hicm24pc"
+}

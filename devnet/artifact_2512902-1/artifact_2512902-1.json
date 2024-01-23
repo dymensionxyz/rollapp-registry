@@ -1,0 +1,34 @@
+{
+  "chainId": "artifact_2512902-1",
+  "chainName": "Artifact",
+  "rpc": "https://froopyland.dymension.xyz/22/artifact_2512902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/artifact_2512902-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "facts",
+      "baseDenom": "ufacts",
+      "decimals": 18,
+      "logo": "/logos/artifact_2512902-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://artifact-staking.io",
+  "logo": "/logos/artifact_2512902-1.png",
+  "ibc": {
+    "hubChannel": "channel-6524",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x265806",
+    "rpc": "https://froopyland.dymension.xyz/22/artifact_2512902-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

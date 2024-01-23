@@ -1,0 +1,32 @@
+{
+  "chainId": "racheltood_8540748-1",
+  "chainName": "DAME",
+  "rpc": "https://froopyland.dymension.xyz/2/racheltood_8540748-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/racheltood_8540748-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RACH",
+      "baseDenom": "uRACH",
+      "decimals": 18,
+      "logo": "/logos/racheltood_8540748-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/racheltood_8540748-1.png",
+  "ibc": {
+    "hubChannel": "channel-5357",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x82524c",
+    "rpc": "https://froopyland.dymension.xyz/2/racheltood_8540748-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true
+}

@@ -1,0 +1,35 @@
+{
+  "chainId": "asonkurt_6976330-1",
+  "chainName": "Asonkurt",
+  "rpc": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ASN",
+      "baseDenom": "uASN",
+      "decimals": 18,
+      "logo": "/logos/asonkurt_6976330-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/asonkurt_6976330-1.png",
+  "ibc": {
+    "hubChannel": "channel-6712",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6a734a",
+    "rpc": "https://froopyland.dymension.xyz/15/asonkurt_6976330-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "iloveibc",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G27QVFzkSdwLM1JAiXJrgARgeN5UCFLQB8S5Q42bHTVUr1n"
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "gkrollapp_4731583-1",
+  "chainName": "GK-FSO",
+  "rpc": "https://froopyland.dymension.xyz/25/gkrollapp_4731583-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/gkrollapp_4731583-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "gkr",
+      "baseDenom": "ugkr",
+      "decimals": 18,
+      "logo": "/logos/gkrollapp_4731583-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://hub.gkfso.com.tr",
+  "logo": "/logos/gkrollapp_4731583-1.png",
+  "ibc": {
+    "hubChannel": "channel-6372",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4832bf",
+    "rpc": "https://froopyland.dymension.xyz/25/gkrollapp_4731583-1-b/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Chat with your Dymension friends.",
+  "analytics": true
+}

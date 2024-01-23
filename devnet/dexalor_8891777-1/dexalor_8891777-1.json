@@ -1,0 +1,33 @@
+{
+  "chainId": "dexalor_8891777-1",
+  "chainName": "Dexalor",
+  "rpc": "https://froopyland.dymension.xyz/7/dexalor_8891777-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/7/dexalor_8891777-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DXL",
+      "baseDenom": "uDXL",
+      "decimals": 18,
+      "logo": "/logos/dexalor_8891777-1.PNG",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/dexalor_8891777-1.PNG",
+  "ibc": {
+    "hubChannel": "channel-5849",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x87ad81",
+    "rpc": "https://froopyland.dymension.xyz/7/dexalor_8891777-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

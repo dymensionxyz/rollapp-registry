@@ -1,0 +1,33 @@
+{
+"chainId": "satusatu_7664496-1",
+"chainName": "satusatu",
+"rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rpc",
+"rest": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/rest",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "satu",
+"baseDenom": "usatu",
+"decimals": 18,
+"logo": "/logos/satusatu_7664496-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "",
+"logo": "/logos/satusatu_7664496-1.png",
+"ibc": {
+"hubChannel": "channel-6416",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x74f370",
+"rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/evmrpc"
+},
+"type": "RollApp",
+"da": "Celestia",
+"description": "",
+"analytics": true
+}

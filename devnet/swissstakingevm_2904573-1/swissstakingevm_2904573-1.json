@@ -1,0 +1,35 @@
+{
+    "chainId": "swissstakingevm_2904573-1",
+    "chainName": "Swiss Staking AG",
+    "rpc": "https://dymension-testnet.swiss-staking.ch/rpc",
+    "rest": "https://dymension-testnet.swiss-staking.ch/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "swiss",
+        "baseDenom": "uswiss",
+        "decimals": 18,
+        "logo": "/logos/swissstakingevm_2904573-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://swiss-staking.ch",
+    "logo": "/logos/swissstakingevm_2904573-1.png",
+    "ibc": {
+      "hubChannel": "channel-6611",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x2c51fd",
+      "rpc": "https://dymension-testnet.swiss-staking.ch/eth"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "LFGGG",
+    "analytics": true,
+    "validator": true
+  }
+  
