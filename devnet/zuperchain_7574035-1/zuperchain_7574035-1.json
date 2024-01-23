@@ -28,7 +28,7 @@
     },
     "type": "RollApp",
     "da": "Avail",
-    "description": "ZuperChain ia a modular general-purpose rollapp powered by Dymension and Avail",
+    "description": "ZuperChain ia a modular general-purpose EVM L2 powered by Dymension and Avail",
     "analytics": true,
     "goldberg": true,
     "availAddress": "5GTGaJ2ZoFckdMzfcqYyF7bezniNAhHRY8tHoJKzYsTcbs8a"
