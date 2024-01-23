@@ -1,6 +1,6 @@
 {
     "chainId": "zuperchain_7574035-1",
-    "chainName": "zuperchain_7574035-1",
+    "chainName": "ZuperChain",
     "rpc": "http://161.97.152.43:26657",
     "rest": "http://161.97.152.43:1317",
     "bech32Prefix": "ethm",
