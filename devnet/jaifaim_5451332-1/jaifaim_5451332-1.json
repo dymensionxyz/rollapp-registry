@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/23/jaifaim_5451332-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "Jaifaim Nodes",
+  "goldberg": true,
+  "availAddress": "5HMx5ShV33msjz6kyAFq5xYQMrnPBTd2Tj8xPSJFruLfUCmU",
   "analytics": true
 }
