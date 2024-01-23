@@ -1,8 +1,8 @@
 {
   "chainId": "arunika_6875752-1",
-  "chainName": "arunika_6875752-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "Arunika",
+  "rpc": "https://froopyland.dymension.xyz/24/arunika_6875752-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/arunika_6875752-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x68ea68",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/24/arunika_6875752-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5GbVkA6LdXDmfyD1wajvJeVUcWakNiVAm5riF26Vd3ujj3rX"
   "description": "",
   "analytics": true
 }
