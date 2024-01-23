@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Nothing",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FS1VLWSDPsnBgqodRSDQbEUVkXaV5WrAvgvttdccucEt2GJ"
 }
