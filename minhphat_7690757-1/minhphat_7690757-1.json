@@ -1,0 +1,33 @@
+{
+  "chainId": "minhphat_7690757-1",
+  "chainName": "minhphat_7690757-1",
+  "rpc": "http://31.220.72.135:26657",
+  "rest": "http://31.220.72.135:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MPB",
+      "baseDenom": "uMPB",
+      "decimals": 18,
+      "logo": "/logos/minhphat_7690757-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/minhphat_7690757-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8432",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x755a05",
+    "rpc": "http://31.220.72.135:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
