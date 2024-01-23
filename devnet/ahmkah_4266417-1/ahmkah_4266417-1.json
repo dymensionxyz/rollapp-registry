@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "Introducing The BARBUT GAME! ?? ?? ",
-  "analytics": true
+  "analytics": true,
+  "active": false
 }

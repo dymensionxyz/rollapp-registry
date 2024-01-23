@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/10/moonsun_8404544-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "moon and sun rising everyday",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DhcBJtaaC93QeRDfyHuaNZ2PRJgxd1FrAE5bb8H2GbJczkk"
 }

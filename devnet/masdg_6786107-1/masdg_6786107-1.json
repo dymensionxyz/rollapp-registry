@@ -1,0 +1,33 @@
+{
+  "chainId": "masdg_6786107-1",
+  "chainName": "Masdg",
+  "rpc": "https://froopyland.dymension.xyz/28/masdg_6786107-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/masdg_6786107-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "masdg",
+      "baseDenom": "umasdg",
+      "decimals": 18,
+      "logo": "/logos/masdg_6786107-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                                                                                                             022",
+  "website": "",
+  "logo": "/logos/masdg_6786107-1.png",
+  "ibc": {
+    "hubChannel": "channel-8208",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x678c3b",
+    "rpc": "https://froopyland.dymension.xyz/28/masdg_6786107-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
