@@ -1,30 +1,30 @@
 {
-  "chainId": "bayurnet_9354863-1",
-  "chainName": "bayurnet_9354863-1",
-  "rpc": "http://65.21.186.67:26657",
-  "rest": "http://65.21.186.67:1317",
+  "chainId": "bayurnet_6381851-1",
+  "chainName": "bayurnet_6381851-1",
+  "rpc": "http://173.249.49.114:26657",
+  "rest": "http://173.249.49.114:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "Byr",
-      "baseDenom": "uByr",
+      "displayDenom": "byr",
+      "baseDenom": "ubyr",
       "decimals": 18,
-      "logo": "/logos/bayurnet_9354863-1.png",
+      "logo": "/logos/bayurnet_6381851-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "https://bayur.net",
-  "logo": "/logos/bayurnet_9354863-1.png",
+  "logo": "/logos/bayurnet_6381851-1.png",
   "ibc": {
-    "hubChannel": "channel-8375",
+    "hubChannel": "channel-8436",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x8ebe6f",
-    "rpc": "http://65.21.186.67:8545"
+    "chainId": "0x61611b",
+    "rpc": "http://173.249.49.114:8545"
   },
   "type": "RollApp",
   "da": "Avail",
