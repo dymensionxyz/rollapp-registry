@@ -4,8 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rpc",
   "rest": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
-  "availAddress": "5FZ3w1YQxPKHVzv58jCh7V1KuA9EV5PLMJwESJE2z6ewb59B"
   "currencies": [
     {
       "displayDenom": "RTL",
@@ -31,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FZ3w1YQxPKHVzv58jCh7V1KuA9EV5PLMJwESJE2z6ewb59B"
 }
