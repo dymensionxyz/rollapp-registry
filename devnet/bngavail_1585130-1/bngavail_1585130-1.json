@@ -1,0 +1,35 @@
+{
+  "chainId": "bngavail_1585130-1",
+  "chainName": "bngavail_1585130-1",
+  "rpc": "http://145.224.88.88:26657"
+  "rest": "http://145.224.88.88:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "diemr",
+      "baseDenom": "udiemr",
+      "decimals": 18,
+      "logo": "/logos/bngavail_1585130-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bngavail_1585130-1.png",
+  "ibc": {
+    "hubChannel": "channel-8398",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x182fea",
+    "rpc": "http://145.224.88.88:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "BNDIEM RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DS4P7TAEg11rZuV7X8HXCUKKJ1BJfk6VFZn48KFtizAeFg9"
+}
