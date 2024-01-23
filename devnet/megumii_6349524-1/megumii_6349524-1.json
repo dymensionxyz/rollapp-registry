@@ -30,5 +30,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Please God",
-  "analytics": true
+  "analytics": true,
+  "availAddress": "5HpS9MnYR4QRTFPjJ1K3tgiEuhjnbiHdvFH7eZb1nd9Svz7C"
 }
