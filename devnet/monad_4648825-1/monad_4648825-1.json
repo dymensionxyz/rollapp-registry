@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "evm/acc",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GUCieHCg4ohRgcQxVKvLbhXYxrRFWaHuRMZoX6Kruq6bfek"
 }
