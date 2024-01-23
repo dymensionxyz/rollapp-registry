@@ -3,6 +3,7 @@
   "chainName": "psychopass",
   "rpc": "https://froopyland.dymension.xyz/26/psychopass_8373556-1/rpc",
   "rest": "https://froopyland.dymension.xyz/26/psychopass_8373556-1/rest",
+  "goldberg": true,
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -28,6 +29,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Psycho Rollapss",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G9CNKiEqzCUbabmGxeAmMfC31hZoSKQbhdhoBFrnVLzx13B  "
 }
