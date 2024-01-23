@@ -27,7 +27,6 @@
     "rpc": "https://froopyland.dymension.xyz/18/rhea_5895088-1/evmrpc"
  },
   "type": "RollApp",
-  "da": "Celestia",
   "da": "Avail",
   "description": "",
   "analytics": true
