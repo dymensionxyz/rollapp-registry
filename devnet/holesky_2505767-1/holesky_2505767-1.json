@@ -1,6 +1,6 @@
 {
   "chainId": "holesky_2505767-1",
-  "chainName": "holesky_2505767-1",
+  "chainName": "Holesky",
   "rpc": "http://173.212.201.112:26657",
   "rest": "http://173.212.201.112:1317",
   "bech32Prefix": "ethm",
