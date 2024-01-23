@@ -1,8 +1,8 @@
 {
   "chainId": "stakeworks_7490312-1",
   "chainName": "Stake.Works | Dymension",
-  "rpc": "http:/avail.stake.works:26657",
-  "rest": "http:/avail.stake.works:1317",
+  "rpc": "http://avail.stake.works:26657",
+  "rest": "http://avail.stake.works:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
