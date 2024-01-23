@@ -1,8 +1,8 @@
 {
   "chainId": "zeycan_3437501-1",
-  "chainName": "Zeycan",
-  "rpc": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/rest",
+  "chainName": "zeycan_3437501-1",
+  "rpc": "https://froopyland.dymension.xyz/24/zeycan_3437501-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/zeycan_3437501-1-b/rpc",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x3473bd",
-    "rpc": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/evmrpc"
+    "rpc": ""
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CaA1BU9CTGBhJqsXQ5zcZtuERzJcM2XahbDkwBKhA2K3P7M"
 }
