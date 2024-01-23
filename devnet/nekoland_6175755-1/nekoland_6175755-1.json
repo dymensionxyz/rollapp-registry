@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/nekoland_6175755-1.jpg",
   "ibc": {
-    "hubChannel": "channel-7142",
-    "channel": "channel-0",
+    "hubChannel": "channel-8309",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {

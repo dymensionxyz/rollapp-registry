@@ -1,0 +1,33 @@
+{
+  "chainId": "overgear_1229724-1",
+  "chainName": "overgear",
+  "rpc": "https://froopyland.dymension.xyz/26/overgear_1229724-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/overgear_1229724-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OVR",
+      "baseDenom": "uOVR",
+      "decimals": 18,
+      "logo": "/logos/overgear_1229724-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://www.overgear.xyz/",
+  "logo": "/logos/overgear_1229724-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8148",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x12c39c",
+    "rpc": "https://froopyland.dymension.xyz/26/overgear_1229724-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Can Overgear To Be?",
+  "analytics": true
+}

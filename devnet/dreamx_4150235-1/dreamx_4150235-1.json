@@ -1,8 +1,8 @@
 {
     "chainId": "dreamx_4150235-1",
     "chainName": "DreamX",
-    "rpc": "https://froopyland.dymension.xyz/19/dreamx_4150235-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/19/dreamx_4150235-1/rest",
+    "rpc": "https://froopyland.dymension.xyz/25/dreamx_4150235-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/25/dreamx_4150235-1-a/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -23,7 +23,7 @@
     },
     "evm": {
         "chainId": "0x3f53db",
-        "rpc": "https://froopyland.dymension.xyz/19/dreamx_4150235-1/evmrpc"
+        "rpc": "https://froopyland.dymension.xyz/25/dreamx_4150235-1-a/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
