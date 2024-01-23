@@ -16,7 +16,7 @@
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/dymensionlover_1201-1.jpg”,
+  "logo": "/logos/dymensionlover_1201-1.jpg",
   "ibc": {
     "hubChannel": "channel-5926",
     "channel": "channel-0",
