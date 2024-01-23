@@ -1,8 +1,8 @@
 {
   "chainId": "arsyanendragalih_7446875-1",
   "chainName": "arsyanendragalih_7446875-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://206.189.11.166:26657",
+  "rest": "http://206.189.11.166:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x71a15b",
-    "rpc": ""
+    "rpc": "http://206.189.11.166:8545"
   },
   "type": "RollApp",
   "da": "Avail",
