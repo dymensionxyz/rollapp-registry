@@ -9,7 +9,7 @@
       "displayDenom": "lch",
       "baseDenom": "ulch",
       "decimals": 18,
-      "logo": "/logos/luckychain_2431891-1.png",
+      "logo": "/logos/luckychain.png",
       "type": "main"
     }
   ],
@@ -24,10 +24,13 @@
   },
   "evm": {
     "chainId": "0x251b93",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/2/ongtrong_3365809-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "goldberg": true,
+  "rewards": true,
+  "analytics": true,
+  "availAddress": "5EZEJKfRf7JRfW2UNCZjfoFWXKvhkU6vm62U8oH1Kz5iGP8k"
 }
