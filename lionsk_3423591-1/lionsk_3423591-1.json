@@ -1,0 +1,34 @@
+{
+  "chainId": "lionsk_3423591-1",
+  "chainName": "lionsk_3423591-1",
+  "rpc": "http://<173.212.240.59>:<26657>",
+  "rest": "http://<173.212.240.59>:<1317>",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LIONSK",
+      "baseDenom": "uLIONSK",
+      "decimals": 18,
+      "logo": "/logos/lionsk_3423591-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lionsk_3423591-1.png",
+  "ibc": {
+    "hubChannel": "channel-8106",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x343d67",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+
