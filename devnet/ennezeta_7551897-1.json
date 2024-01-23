@@ -1,6 +1,7 @@
+💈 networks.json:
 {
   "chainId": "ennezeta_7551897-1",
-  "chainName": "ennezeta",
+  "chainName": "ennezeta_7551897-1",
   "rpc": "http://135.181.202.253:26657",
   "rest": "http://135.181.202.253:1317",
   "bech32Prefix": "ethm",
@@ -15,7 +16,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://twitter.com/EnneZeta",
+  "website": "",
   "logo": "/logos/ennezeta_7551897-1.png",
   "ibc": {
     "hubChannel": "channel-8413",
@@ -28,8 +29,6 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "Fast as a duck Roll up",
+  "description": "",
   "analytics": true
-  "goldberg": true,
-  "availAddress": "5Fs26qoDFMf6Szpc9DrbwgKmwn2nuM4dwZdm4u3Y1S8SWZcT"
 }
