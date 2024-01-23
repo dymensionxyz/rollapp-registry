@@ -27,7 +27,9 @@
     "rpc": ""
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": "true",
   "description": "DYM rollapp",
   "analytics": true
+  "availAddress": "5CVPAzC99vwcKatX6kgAmhDsTM4ZfLJkuAzaPt81663tMRSA"
 }
