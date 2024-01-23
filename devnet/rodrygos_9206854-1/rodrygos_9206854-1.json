@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FW6datuQHMNWMVRhLLpTzqhsAo5Z6m2yyjnpsAgx6sbKCd3",
   "description": "",
   "analytics": true
 }
