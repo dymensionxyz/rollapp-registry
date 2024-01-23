@@ -1,6 +1,6 @@
 {
     "chainId": "mocha-4",
-    "chainName": "celestiatestnet3",
+    "chainName": "Celestia - Mocha Testnet",
     "rpc": "https://rpc-mocha.pops.one",
     "rest": "https://api-mocha.pops.one",
     "explorerUrl": "https://testnet.mintscan.io/celestia-testnet/",
