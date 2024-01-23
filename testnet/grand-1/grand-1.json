@@ -1,6 +1,6 @@
 {
     "chainId": "grand-1",
-    "chainName": "nobletestnet",
+    "chainName": "Noble - testnet",
     "rpc": "https://noble-testnet-rpc.polkachu.com",
     "rest": "https://noble-testnet-api.polkachu.com",
     "explorerUrl": "https://testnet.mintscan.io/noble-testnet",
