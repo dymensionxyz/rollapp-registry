@@ -1,7 +1,7 @@
 {
   "chainId": "lethuan_8368296-1",
   "chainName": "LVT_Node",
-  "rpc": " https://froopyland.dymension.xyz/lethuan_8368296-1/rpc",
+  "rpc": "https://froopyland.dymension.xyz/lethuan_8368296-1/rpc",
   "rest": "https://froopyland.dymension.xyz/lethuan_8368296-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7fb0a8",
-    "rpc": " https://froopyland.dymension.xyz/lethuan_8368296-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/lethuan_8368296-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
