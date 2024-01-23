@@ -1,8 +1,8 @@
 {
   "chainId": "taygun_9193993-1",
   "chainName": "Altarinoglu",
-  "rpc": "https://froopyland.dymension.xyz/25/taygun_9193993-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/25/taygun_9193993-1/rest",
+  "rpc": "http://207.180.201.38:26657",
+  "rest": "http://207.180.201.38:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x8c4a09",
-    "rpc": "https://froopyland.dymension.xyz/25/taygun_9193993-1/evmrpc"
+    "rpc": "http://207.180.201.38:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
   "analytics": true,
   "goldberg": true,
-  "availAddress": "5FvGwFvjQqrqiizRNdAUJLvRpYnAMLhojNdfJ1m568NFuYTL"
+  "availAddress": "5FvGwFvjQqrqiizRNdAUJLvRpYnAMLhojNdfJ1m568NFuYTL",
 }
