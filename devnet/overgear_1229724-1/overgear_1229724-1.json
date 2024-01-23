@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://www.overgear.xyz/",
   "logo": "/logos/overgear_1229724-1.jpg",
   "ibc": {
     "hubChannel": "channel-8148",
@@ -28,6 +28,6 @@
   },
   "type": "RollApp",
   "da": "Celestia",
-  "description": "",
+  "description": "Can Overgear To Be?",
   "analytics": true
 }
