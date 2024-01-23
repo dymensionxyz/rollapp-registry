@@ -3,10 +3,6 @@
     "chainName": "celestiatestnet3",
     "rpc": "https://rpc-mocha.pops.one",
     "rest": "https://api-mocha.pops.one",
-    "evm": {
-        "chainId": "",
-        "rpc": ""
-    },
     "explorerUrl": "https://testnet.mintscan.io/celestia-testnet/",
     "exploreTxUrl": "https://testnet.mintscan.io/celestia-testnet/txs/",
     "bech32Prefix": "celestia",
@@ -23,7 +19,9 @@
     "validatorsLogosStorageDir": "",
     "faucetUrl": "",
     "ibc": {
-        "timeout": 172800000
+        "timeout": 172800000,
+        "hubChannel": "channel-2",
+        "channel": "channel-28"
     },
     "gasPriceSteps": {
         "low": 0.01 ,
@@ -32,6 +30,10 @@
     },
     "logo": "/logos/celestia-logo-purple.png",
     "type": "Regular",
-    "analytics": true,
+    "analytics": false,
     "website": "https://celestia.org/"
 }
+
+
+
+
