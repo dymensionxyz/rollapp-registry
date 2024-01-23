@@ -1,21 +1,21 @@
 {
   "chainId": "holesky_2505767-1",
   "chainName": "holesky_2505767-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://173.212.201.112:26657",
+  "rest": "http://173.212.201.112:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "HLK",
       "baseDenom": "uHLK",
       "decimals": 18,
-      "logo": "/logos/holesky_2505767-1.png",
+      "logo": "/path/to/your/logo.png",
       "type": "main"
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1144240033650458685",
+  "website": "http://link.to.your.website",
   "logo": "/logos/holesky_2505767-1.png",
   "ibc": {
     "hubChannel": "channel-8358",
@@ -23,11 +23,13 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x263c27",
-    "rpc": ""
+    "chainId": "holesky_2505767-1",
+    "rpc": "http://173.212.201.112:26657"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Holesky Testnet",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CAungjLjmWVj7nfm1HFNPrPHHjhNqfMYi1Zad5yoMgprt56"
 }
