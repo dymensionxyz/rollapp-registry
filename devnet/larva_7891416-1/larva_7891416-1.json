@@ -30,5 +30,7 @@
   "da": "Celestia",
   "description": "Cute Larva",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5GBnxb2ZWqw1Ba7VMqEvDLinvviprKtFVPEP6md4a4apqREW"
 }
