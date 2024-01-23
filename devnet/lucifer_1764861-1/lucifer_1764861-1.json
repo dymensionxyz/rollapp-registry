@@ -1,0 +1,33 @@
+{
+  "chainId": "lucifer_1764861-1",
+  "chainName": "Lucifer Chain",
+  "rpc": "http://5.9.65.165:26657/rpc",
+  "rest": "http://5.9.65.165:26657/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LCF",
+      "baseDenom": "uLCF",
+      "decimals": 18,
+      "logo": "/logos/lucifer_1764861-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lucifer_1764861-1.png",
+  "ibc": {
+    "hubChannel": "channel-8473",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1aedfd",
+    "rpc": "http://5.9.65.165:26657/rpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
