@@ -1,0 +1,35 @@
+{
+  "chainId": "ngocdoan_5367226-1",
+  "chainName": "Owlstake testnet",
+  "rpc": "https://dymrpc.owlstake.com",
+  "rest": "https://dymrest.owlstake.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OWL",
+      "baseDenom": "uOWL",
+      "decimals": 18,
+      "logo": "/logos/ngocdoan_5367226-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "explorerUrl": "https://explorermarket.owlstake.com",
+  "faucetUrl": "https://market.owlstake.com",
+  "website": "https://market.owlstake.com",
+  "logo": "/logos/ngocdoan_5367226-1.svg",
+  "ibc": {
+    "hubChannel": "channel-6485",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x51e5ba",
+    "rpc": "https://dymevmrpc.owlstake.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Owlstake NFT Marketplace",
+  "analytics": true,
+  "rewards": true
+}

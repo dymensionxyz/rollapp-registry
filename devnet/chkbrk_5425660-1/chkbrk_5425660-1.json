@@ -1,0 +1,33 @@
+{
+  "chainId": "chkbrk_5425660-1",
+  "chainName": "chkbrk",
+  "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "chik",
+      "baseDenom": "uchik",
+      "decimals": 18,
+      "logo": "/logos/chkbrk_5425660-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chkbrk_5425660-1.png",
+  "ibc": {
+    "hubChannel": "channel-7923",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x52c9fc",
+    "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "welcome to rollup",
+  "analytics": true
+}

@@ -1,0 +1,34 @@
+{
+    "chainId": "engaky_1538-5",
+    "chainName": "ENG",
+    "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/rpc",
+    "rest": "https://froopyland.dymension.xyz/3/engaky_1538-5/rest",
+
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ENG",
+        "baseDenom": "uENG",
+        "decimals": 18,
+        "logo": "/logos/engaky_1538-5.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://x.com/engakyildiz",
+    "logo": "/logos/engaky_1538-5.jpg",
+    "ibc": {
+      "hubChannel": "channel-5377",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x602",
+      "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }

@@ -1,0 +1,33 @@
+{
+  "chainId": "trdm_5340272-1",
+  "chainName": "tRDM",
+  "rpc": "https://froopyland.dymension.xyz/11/trdm_5340272-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/trdm_5340272-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TRDM",
+      "baseDenom": "uTRDM",
+      "decimals": 18,
+      "logo": "/logos/trdm_5340272-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://nodera.tech",
+  "logo": "/logos/trdm_5340272-1.png",
+  "ibc": {
+    "hubChannel": "channel-6351",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x517c70",
+    "rpc": "https://froopyland.dymension.xyz/11/trdm_5340272-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "In Web3 We Trust!",
+  "analytics": true
+}

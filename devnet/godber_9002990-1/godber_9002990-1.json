@@ -1,0 +1,32 @@
+{
+  "chainId": "godber_9002990-1",
+  "chainName": "God",
+  "rpc": "https://froopyland.dymension.xyz/2/godber_9002990-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/godber_9002990-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GOD",
+      "baseDenom": "uGOD",
+      "decimals": 18,
+      "logo": "/logos/godber_9002990-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/godber_9002990-1.png",
+  "ibc": {
+    "hubChannel": "channel-5362",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x895fee",
+    "rpc": "https://froopyland.dymension.xyz/2/godber_9002990-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true
+}

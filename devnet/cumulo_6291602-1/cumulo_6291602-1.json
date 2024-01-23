@@ -1,0 +1,34 @@
+{
+  "chainId": "cumulo_6291602-1",
+  "chainName": "Roller Front-Chain",
+  "rpc": "https://rollapp.rpc.cumulo.com.es",
+  "rest": "https://rollapp.rest.cumulo.com.es",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CUM",
+      "baseDenom": "uCUM",
+      "decimals": 18,
+      "logo": "/logos/cumulo_6291602-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cumulo_6291602-1.png",
+  "ibc": {
+    "hubChannel": "channel-8015",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x600092",
+    "rpc": "https://rollapp.jrpc.cumulo.com.es"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

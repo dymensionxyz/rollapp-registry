@@ -1,0 +1,33 @@
+{
+  "chainId": "senoll_7695811-1",
+  "chainName": "senoll",
+  "rpc": "https://froopyland.dymension.xyz/16/senoll_7695811-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/senoll_7695811-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SNC",
+      "baseDenom": "uSNC",
+      "decimals": 18,
+      "logo": "/logos/photo_2023-10-23_19-56-52.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/photo_2023-10-23_19-56-52.jpg",
+  "ibc": {
+    "hubChannel": "channel-6741",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x756dc3",
+    "rpc": "https://froopyland.dymension.xyz/16/senoll_7695811-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

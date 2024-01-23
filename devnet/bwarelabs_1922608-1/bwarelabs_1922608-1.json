@@ -1,0 +1,34 @@
+{
+  "chainId": "bwarelabs_1922608-1",
+  "chainName": "Bware Labs",
+  "rpc": "https://dym-rollapp-rpc.bwarelabs.com",
+  "rest": "https://dym-rollapp-rest.bwarelabs.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "bwr",
+      "baseDenom": "ubwr",
+      "decimals": 18,
+      "logo": "/logos/bwarelabs_1922608-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bwarelabs_1922608-1.svg",
+  "ibc": {
+    "hubChannel": "channel-6514",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1d5630",
+    "rpc": "https://dym-rollapp-evm.bwarelabs.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

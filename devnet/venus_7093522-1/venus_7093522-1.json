@@ -1,0 +1,32 @@
+{
+  "chainId": "venus_7093522-1",
+  "chainName": "Venus",
+  "rpc": "https://froopyland.dymension.xyz/22/venus_7093522-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/venus_7093522-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "Venus",
+      "baseDenom": "uVENUS",
+      "decimals": 18,
+      "logo": "/logos/cumulo_3513338-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022/1167726300832735353",
+  "logo": "/logos/venus_7093522-1.png",
+  "ibc": {
+    "hubChannel": "channel-5345",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x359bfa",
+    "rpc": "https://froopyland.dymension.xyz/22/venus_7093522-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "zzoo_6351075-1",
+  "chainName": "Zzoo",
+  "rpc": "https://froopyland.dymension.xyz/27/zzoo_6351075-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/zzoo_6351075-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ZOO",
+      "baseDenom": "uZOO",
+      "decimals": 18,
+      "logo": "/logos/zzoo_6351075-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/zzoo_6351075-1.png",
+  "ibc": {
+    "hubChannel": "channel-8223",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x60e8e3",
+    "rpc": "https://froopyland.dymension.xyz/27/zzoo_6351075-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

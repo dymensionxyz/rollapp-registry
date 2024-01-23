@@ -1,0 +1,35 @@
+{
+  "chainId": "decentrio_9171733-1",
+  "chainName": "Decentrio",
+  "rpc": "https://rpc-roller.decentrio.ventures:443",
+  "rest": "https://api-roller.decentrio.ventures:443",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DCT",
+      "baseDenom": "uDCT",
+      "decimals": 18,
+      "logo": "/logos/decentrio_9171733-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://decentrio.ventures",
+  "logo": "/logos/decentrio_9171733-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8003",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8bf315",
+    "rpc": "https://evm_rpc-roller.decentrio.ventures:443"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

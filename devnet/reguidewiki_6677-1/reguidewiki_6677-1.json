@@ -1,0 +1,35 @@
+{
+    "chainId": "reguidewiki_6677-1",
+    "chainName": "ReGuide WIKI",
+    "rpc": "https://froopyland.dymension.xyz/reguidewiki_6677/rpc",
+    "description": "Free building with ReWiki Labs.",
+    "rest": "https://froopyland.dymension.xyz/reguidewiki_6677/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "REG",
+        "baseDenom": "uREG",
+        "decimals": 18,
+        "logo": "/logos/reguidewiki_6677-1.png",
+        "type": "main"
+      }
+    ],
+    "website": "https://reguide.wiki/",
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "logo": "/logos/reguidewiki_6677-1.png",
+    "ibc": {
+      "hubChannel": "channel-5315",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x1a15",
+      "rpc": "https://froopyland.dymension.xyz/reguidewiki_6677/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }
+

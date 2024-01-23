@@ -1,0 +1,34 @@
+{
+  "chainId": "ersrollapp_7722679-1",
+  "chainName": "Ersrollapp",
+  "rpc": "https://froopyland.dymension.xyz/15/ersrollapp_7722679-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/15/ersrollapp_7722679-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tnr",
+      "baseDenom": "utnr",
+      "decimals": 18,
+      "logo": "/logos/ersrollapp_7722679-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ersrollapp_7722679-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6601",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x75d6b7",
+    "rpc": "https://froopyland.dymension.xyz/15/ersrollapp_7722679-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "active": false
+}

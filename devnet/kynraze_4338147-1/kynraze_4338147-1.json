@@ -1,0 +1,36 @@
+{
+  "chainId": "kynraze_4338147-1",
+  "chainName": "Kynraze Hub",
+  "rpc": "https://rpc-kynhub.kynraze.com",
+  "rest": "https://api-kynhub.kynraze.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KYN",
+      "baseDenom": "uKYN",
+      "decimals": 18,
+      "logo": "/logos/kynraze_4338147-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "explorerUrl": "https://testnet.kynraze.com/kynraze",
+  "exploreTxUrl": "https://testnet.kynraze.com/kynraze/tx/",
+  "website": "https://hub.kynraze.com",
+  "logo": "/logos/kynraze_4338147-1.png",
+  "ibc": {
+    "hubChannel": "channel-7357",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4231e3",
+    "rpc": "https://evm-kynhub.kynraze.com"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Discover a new way to enhance your digital experience. Our platform offers a unique blend of features that cater to various needs. Our goal is to provide an all-in-one solution. Experience the future of convenience.",
+  "analytics": true,
+  "validator": true
+}
