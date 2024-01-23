@@ -21,7 +21,7 @@
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-34",
-        "channel": "channel-3",
+        "channel": "channel-3"
     },
     "gasPriceSteps": {
         "low": 0.01,
