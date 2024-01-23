@@ -1,8 +1,8 @@
 {
   "chainId": "galaxybtc_7562582-1",
   "chainName": "galaxybtc_7562582-1",
-  "rpc": "http://161.97.139.96:26657",
-  "rest": "http://161.97.139.96:1317",
+  "rpc": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x736556",
-    "rpc": "http://161.97.139.96:1317"
+    "rpc": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
