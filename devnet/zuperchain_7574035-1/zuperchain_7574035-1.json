@@ -1,8 +1,8 @@
 {
     "chainId": "zuperchain_7574035-1",
     "chainName": "ZuperChain",
-    "rpc": "http://161.97.152.43:26657",
-    "rest": "http://161.97.152.43:1317",
+    "rpc": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x739213",
-      "rpc": "http://161.97.152.43:8545"
+      "rpc": "https://froopyland.dymension.xyz/29/zuperchain_7574035-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
