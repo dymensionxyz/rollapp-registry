@@ -1,0 +1,33 @@
+{
+  "chainId": "luckychain_2431891-1",
+  "chainName": "luckychain_2431891-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lch",
+      "baseDenom": "ulch",
+      "decimals": 18,
+      "logo": "/logos/luckychain_2431891-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/luckychain_2431891-1.png",
+  "ibc": {
+    "hubChannel": "channel-8401",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x251b93",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
