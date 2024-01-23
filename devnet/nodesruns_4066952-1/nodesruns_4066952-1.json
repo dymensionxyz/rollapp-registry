@@ -29,6 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "NodeRun.Com.Tr / Dymension NFT RollApp",
-  "goldberg": true
-  "analytics": true
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5CaFHu8xYG6VgAaHcJvyw9kVS2bp5MzduxYysQuMyo28pR5R"
 }
