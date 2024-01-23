@@ -28,6 +28,6 @@
     "bech32Prefix": "ethm",
     "analytics": true,
     "goldberg": true,
-    "rewards": true
+    "rewards": true,
     "availAddress": "5FuxkUZjsyhYiAFqWxqUpAajSkFpxb33WKrKCKHXqup51DVr"
   }
