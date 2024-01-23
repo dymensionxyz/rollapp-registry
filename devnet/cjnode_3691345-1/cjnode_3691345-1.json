@@ -1,8 +1,8 @@
 {
     "chainId": "cjnode_3691345-1",
     "chainName": "CJNodes",
-    "rpc": "http://45.67.35.241:26657",
-    "rest": "http://45.67.35.241:1317",
+    "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x385351",
-      "rpc": "http://45.67.35.241:8545"
+      "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rpc"
     },
     "type": "RollApp",
     "da": "Avail",
