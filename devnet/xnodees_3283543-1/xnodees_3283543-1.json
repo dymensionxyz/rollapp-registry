@@ -31,5 +31,6 @@
   "description": "number 2 is winner",
   "analytics": true
   "goldberg": true,
+  "rewards": true,
   "availAddress": "5C7M1nFri3LRjZzM2TnwHWLkbWzegYfbQbdgWEzJbRRmeA7P"
 }
