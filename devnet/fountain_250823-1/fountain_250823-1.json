@@ -27,5 +27,7 @@
   "da": "Avail",
   "description": "fountain chain",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5HBish2NFgvbMTqdDAUvm48X7x4HaJkFyjvp73t41vHHP6Q4"
 }
