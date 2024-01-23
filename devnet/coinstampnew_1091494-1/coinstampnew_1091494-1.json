@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/22/coinstampnew_1091494-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5Ev679fh7JWAmNb6kHD1nKHefxVh5bQAm1CVBNYFvtZGQkbR",
+  "description": "Coinstamp",
   "analytics": true,
   "validator": true
 }
