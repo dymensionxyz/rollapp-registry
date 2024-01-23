@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/21/pluton_3676236-1/rpc",
   "rest": "https://froopyland.dymension.xyz/21/pluton_3676236-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "PON",
@@ -31,4 +30,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5HMZ45NfuLEdZN3EffzA6TP7j6TYhMx7xjjLkzixCReBerMn"
 }
