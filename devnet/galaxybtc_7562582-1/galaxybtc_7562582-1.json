@@ -1,6 +1,6 @@
 {
   "chainId": "galaxybtc_7562582-1",
-  "chainName": "galaxyBTC",
+  "chainName": "galaxybtc_7562582-1",
   "rpc": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/rpc",
   "rest": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/rest",
   "bech32Prefix": "ethm",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/28/galaxybtc_7562582-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DXJiR241CjgAfBtKKSoxgXCKUPt9U6W1dQgwh4catLzNcfE"
 }

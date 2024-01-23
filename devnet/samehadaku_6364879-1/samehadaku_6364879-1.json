@@ -1,0 +1,33 @@
+{
+  "chainId": "samehadaku_6364879-1",
+  "chainName": "samehadaku",
+  "rpc": "https://froopyland.dymension.xyz/28/samehadaku_6364879-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/samehadaku_6364879-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SHK",
+      "baseDenom": "uSHK",
+      "decimals": 18,
+      "logo": "/logos/samehadaku_6364879-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/samehadaku_6364879-1.png",
+  "ibc": {
+    "hubChannel": "channel-8308",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x611ecf",
+    "rpc": "https://froopyland.dymension.xyz/28/samehadaku_6364879-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,8 +1,8 @@
 {
   "chainId": "uzo_3952869-1",
-  "chainName": "Uzo",
-  "rpc": "https://froopyland.dymension.xyz/23/uzo_3952869-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/23/uzo_3952869-1/rest",
+  "chainName": "uzo_3952869-1",
+  "rpc": "http://5.78.90.139:26657",
+  "rest": "http://5.78.90.139:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x3c50e5",
-    "rpc": "https://froopyland.dymension.xyz/23/uzo_3952869-1/evmrpc"
+    "rpc": "http://5.78.90.139:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
 }
