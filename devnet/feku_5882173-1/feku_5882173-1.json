@@ -1,8 +1,8 @@
 {
   "chainId": "feku_5882173-1",
   "chainName": "FEKU | feed me bro",
-  "rpc": "https://84.247.184.45:26657",
-  "rest": "https://84.247.184.45:1317",
+  "rpc": "http://84.247.184.45:26657",
+  "rest": "http://84.247.184.45:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x59c13d",
-    "rpc": "https://84.247.184.45:8545"
+    "rpc": "http://84.247.184.45:8545"
   },
   "type": "RollApp",
   "da": "Avail",
