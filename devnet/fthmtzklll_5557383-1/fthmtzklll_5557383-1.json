@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "https://froopyland.dymension.xyz/16/fthmtzklll_5557383-1/evmrpc",
-  "analytics": true
-  "goldberg": true
+  "analytics": true,
+  "goldberg": true,
   "availAddress": "5CkyzLpK7qH3qvjbksc2Yo8jeLSqBvM1tu28H1DqN6LNrYbt"
 }
