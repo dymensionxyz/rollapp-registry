@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "utkububa node",
-  "analytics": true
-  "goldberg": true
+  "analytics": true,
+  "goldberg": true,
   "availAddress": "5G77ZZ91A9qRTrQLnGTwfzUT8nS3PsQHAM38EasnMD1p4yzG"
 }
