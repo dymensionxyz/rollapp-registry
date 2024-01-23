@@ -1,0 +1,36 @@
+{
+  "chainId": "mytestnetrunrollapp_3448-1",
+  "chainName": "TestNetRun",
+  "rpc": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TNR",
+      "baseDenom": "uTNR",
+      "decimals": 18,
+      "logo": "/logos/mytestnetrunrollapp_3448-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/mytestnetrunrollapp_3448-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5294",
+    "channel": "channel-7",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0xd78",
+    "rpc": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Discover and Unlock the HoodRun Advantage; We make the Staking Experience the fastest and safest.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HDgpzsaHMXksQVRafbZDCXCVZoHoc4WqpmGF73XFNVKEcts",
+  "validator": true
+}
+
