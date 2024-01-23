@@ -30,5 +30,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5CkBkjvqBnHJDZwidFtJTXczeduFp9KyuMdc4wvQg9853UPb"
 }
