@@ -1,0 +1,33 @@
+{
+  "chainId": "arkham_9193196-1",
+  "chainName": "Arkham",
+  "rpc": "https://froopyland.dymension.xyz/13/arkham_9193196-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/arkham_9193196-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ARK",
+      "baseDenom": "uARK",
+      "decimals": 18,
+      "logo": "/logos/arkham_9193196-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/arkham_9193196-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-6556",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8c46ec",
+    "rpc": "https://froopyland.dymension.xyz/13/arkham_9193196-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

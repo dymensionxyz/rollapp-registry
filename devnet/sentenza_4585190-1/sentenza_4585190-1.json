@@ -1,0 +1,33 @@
+{
+  "chainId": "sentenza_4585190-1",
+  "chainName": "Sentenza",
+  "rpc": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STZ",
+      "baseDenom": "uSTZ",
+      "decimals": 18,
+      "logo": "/logos/sentenza_4585190-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sentenza_4585190-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7222",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x45f6e6",
+    "rpc": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Sentenza RollApp",
+  "analytics": true
+}

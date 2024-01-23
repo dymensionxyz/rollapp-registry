@@ -1,0 +1,33 @@
+{
+  "chainId": "nodesruns_4066952-1",
+  "chainName": "NodesRuns",
+  "rpc": "https://froopyland.dymension.xyz/22/nodesruns_4066952-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/nodesruns_4066952-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NODR",
+      "baseDenom": "uNODR",
+      "decimals": 18,
+      "logo": "/logos/nodesruns_4066952-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://www.noderun.com.tr",
+  "logo": "/logos/nodesruns_4066952-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7408",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3e0e88",
+    "rpc": "https://froopyland.dymension.xyz/22/nodesruns_4066952-1-b/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "NodeRun.Com.Tr / Dymension NFT RollApp",
+  "analytics": true
+}

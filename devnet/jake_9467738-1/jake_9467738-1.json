@@ -1,0 +1,33 @@
+{
+  "chainId": "jake_9467738-1",
+  "chainName": "Jake",
+  "rpc": "https://froopyland.dymension.xyz/13/jake_9467738-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/jake_9467738-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JKB",
+      "baseDenom": "uJKB",
+      "decimals": 18,
+      "logo": "/logos/jake_9467738-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jake_9467738-1.png",
+  "ibc": {
+    "hubChannel": "channel-6423",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x90775a",
+    "rpc": "https://froopyland.dymension.xyz/13/jake_9467738-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,34 @@
+{
+  "chainId": "aooo_7408480-1",
+  "chainName": "Aooo",
+  "rpc": "https://froopyland.dymension.xyz/4/aooo_7408480-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/4/aooo_7408480-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AOB",
+      "baseDenom": "uAOB",
+      "decimals": 18,
+      "logo": "/logos/aooo_7408480-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aooo_7408480-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5559",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x710b60",
+    "rpc": "https://froopyland.dymension.xyz/4/aooo_7408480-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": true
+}

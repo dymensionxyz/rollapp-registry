@@ -1,0 +1,32 @@
+{
+  "chainId": "vitazrollapp_12346-1",
+  "chainName": "vitaz",
+  "rpc": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAX",
+      "baseDenom": "uRAX",
+      "decimals": 18,
+      "logo": "/logos/vitazrollapp_12346-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/vitazrollapp_12346-1.png",
+  "ibc": {
+    "hubChannel": "channel-5371",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x303a",
+    "rpc": "https://froopyland.dymension.xyz/2/vitazrollapp_12346-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true
+}

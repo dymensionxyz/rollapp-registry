@@ -1,0 +1,33 @@
+{
+  "chainId": "catsinthecups_3444095-1",
+  "chainName": "catsinthecups",
+  "rpc": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "cts",
+      "baseDenom": "ucts",
+      "decimals": 18,
+      "logo": "/logos/catsinthecups_3444095-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/catsinthecups_3444095-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5679",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x348d7f",
+    "rpc": "https://froopyland.dymension.xyz/9/catsinthecups_3444095-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

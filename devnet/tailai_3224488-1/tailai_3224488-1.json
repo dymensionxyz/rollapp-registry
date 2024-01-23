@@ -1,0 +1,32 @@
+{
+    "chainId": "tailai_3224488-1",
+    "chainName": "tailaiRoll",
+    "rpc": "https://froopyland.dymension.xyz/13/tailai_3224488-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/tailai_3224488-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "pool",
+        "baseDenom": "upool",
+        "decimals": 18,
+        "logo": "/logos/tailai_3224488-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "logo": "/logos/tailai_3224488-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-5862",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x343215",
+      "rpc": "https://froopyland.dymension.xyz/13/tailai_3224488-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+  }

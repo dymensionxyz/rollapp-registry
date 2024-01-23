@@ -1,0 +1,33 @@
+{
+  "chainId": "mc_2675275-1",
+  "chainName": "MCApp",
+  "rpc": "https://froopyland.dymension.xyz/11/mc_2675275-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/mc_2675275-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dym",
+      "baseDenom": "udym",
+      "decimals": 18,
+      "logo": "/logos/mc_2675275-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/mc_2675275-1.png",
+  "ibc": {
+    "hubChannel": "channel-6309",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x28d24b",
+    "rpc": "https://froopyland.dymension.xyz/11/mc_2675275-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Welcome to MC RollApp.",
+  "analytics": true
+}

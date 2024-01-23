@@ -1,0 +1,35 @@
+{
+  "chainId": "peertopeer_5575692-1",
+  "chainName": "peertopeer",
+  "rpc": "https://rollapp.dymension-testnet.tm.p2p.org",
+  "rest": "https://rollapp-api.dymension-testnet.tm.p2p.org",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/peertopeer_5575692-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://p2p.org",
+  "logo": "/logos/peertopeer_5575692-1.png",
+  "ibc": {
+    "hubChannel": "channel-6754",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x55140c",
+    "rpc": "https://rollapp-evm.dymension-testnet.tm.p2p.org"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "One of the winners of Cosmos Game of Stakes. We provide a simple, secure and intelligent staking service to help you generate rewards on your blockchain assets across 9+ networks within a single interface. Let's stake together - p2p.org.",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "stephensyy_5959220-1",
+  "chainName": "Step",
+  "rpc": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STEP",
+      "baseDenom": "uSTEP",
+      "decimals": 18,
+      "logo": "/logos/stephensyy_5959220-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/stephensyy_5959220-1.png",
+  "ibc": {
+    "hubChannel": "channel-5721",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5aee34",
+    "rpc": "https://froopyland.dymension.xyz/6/stephensyy_5959220-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
