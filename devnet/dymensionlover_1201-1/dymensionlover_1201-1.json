@@ -9,14 +9,14 @@
       "displayDenom": "MONEY",
       "baseDenom": "uMONEY",
       "decimals": 18,
-      "logo": "/logos/dymensionlover_1201-1.png",
+      "logo": "/logos/dymensionlover_1201-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "website": "",
-  "logo": "/logos/dymensionlover_1201-1.jpg",
+  "logo": "/logos/dymensionlover_1201-1.jpg”,
   "ibc": {
     "hubChannel": "channel-5926",
     "channel": "channel-0",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/dymensionlover_1201-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GxEuYAUQ5WXgdwdbXMJFpGdzAtwswGE7PkFeaJWShPzCcsd"
 }
