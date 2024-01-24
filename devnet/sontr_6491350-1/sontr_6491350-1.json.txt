@@ -28,7 +28,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "sontr",
   "goldberg": true,
   "availAddress": "5DqQWD2YM44ivT6HkhohrizhdmAWxWJPeJzsbXBv9N39oNsP",
   "analytics": true
