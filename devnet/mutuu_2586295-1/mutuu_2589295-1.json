@@ -28,8 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
-  "goldberg": true
+  "description": "Mutu Rollapp",
+  "analytics": true,
+  "goldberg": true,
   "availAddress": "5D7qEami2319s9aGFrK2ofe3xo6RHLT7bCPVUJKND3hrmC7c"
 }
