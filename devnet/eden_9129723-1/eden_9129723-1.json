@@ -1,0 +1,35 @@
+{
+  "chainId": "eden_9129723-1",
+  "chainName": "eden_9129723-1",
+  "rpc": "http://35.243.251.211:26657",
+  "rest": "http://35.243.251.211:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EDYN",
+      "baseDenom": "uEDYN",
+      "decimals": 18,
+      "logo": "/logos/eden_9129723-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://fl.dym.fyi/rollapp/eden_9129723-1",
+  "logo": "/logos/eden_9129723-1.png",
+  "ibc": {
+    "hubChannel": "channel-8569",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8b4efb",
+    "rpc": "http://35.243.251.211:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fs1Fy7eBA7AyQCJaNEmbavjXKET9HTZiRNg5e6MXKNFWG1S"
+}
