@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnkmCkjPswgAsJH4os28JJVnXgYNXrErzT4Pgwt7gnJzd2i"
 }
