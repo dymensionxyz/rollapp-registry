@@ -1,8 +1,8 @@
 {
   "chainId": "coinowo_3744361-1",
   "chainName": "Coinowo",
-  "rpc": "95.111.241.137:2667",
-  "rest": "95.111.241.137:1317",
+  "rpc": "http://95.111.241.137:26657",
+  "rest": "http://95.111.241.137:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x392269",
-    "rpc": "95.111.241.137:8577"
+    "rpc": "http://95.111.241.137:8579"
   },
   "type": "RollApp",
   "da": "Avail",
