@@ -1,7 +1,7 @@
 {
   "chainId": "communityvalidator_3425649-1",
   "chainName": "communityvalidator_3425649-1",
-  "rpc": "",
+  "rpc": "http://193.34.213.6:26657/",
   "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
