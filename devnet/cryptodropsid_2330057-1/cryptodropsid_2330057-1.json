@@ -24,10 +24,11 @@
   "evm": {
     "chainId": "0x238dc9",
     "rpc": "https://froopyland.dymension.xyz/23/cryptodropsid_2330057-1-b/evmrpc"
-  },
+   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "description": "Description of your RollApp",
   "analytics": true,
-  "rewards": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "Your RollApp's Avail address"
 }
