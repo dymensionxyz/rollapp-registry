@@ -1,8 +1,8 @@
 {
   "chainId": "mga_2738306-1",
-  "chainName": "mga_2738306-1",
-  "rpc": "",
-  "rest": "",
+  "chainName": "MGA",
+  "rpc": "http://173.249.36.5:26657",
+  "rest": "http://173.249.36.5:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x29c882",
-    "rpc": ""
+    "rpc": "http://173.249.36.5:8545"
   },
   "type": "RollApp",
   "da": "Avail",
