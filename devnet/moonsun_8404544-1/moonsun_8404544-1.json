@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "moon and sun rising everyday",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DhcBJtaaC93QeRDfyHuaNZ2PRJgxd1FrAE5bb8H2GbJczkk"
 }

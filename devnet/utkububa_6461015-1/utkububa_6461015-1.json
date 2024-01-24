@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/20/utkububa_6461015-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "utkububa node",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G77ZZ91A9qRTrQLnGTwfzUT8nS3PsQHAM38EasnMD1p4yzG"
 }

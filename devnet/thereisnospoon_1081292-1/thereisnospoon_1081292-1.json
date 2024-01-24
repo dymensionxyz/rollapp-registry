@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "thereisnospoon's rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GZXL8YNmvayJf5jx6fgRzSRDomFfxwrcYyZiSXwtxgEnvQV"
 }
