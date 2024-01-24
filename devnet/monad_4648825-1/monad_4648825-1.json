@@ -1,8 +1,8 @@
 {
   "chainId": "monad_4648825-1",
   "chainName": "Nad RollApp",
-  "rpc": "84.247.183.3:26657",
-  "rest": "84.247.183.3:1317",
+  "rpc": "http://84.247.183.3:8545",
+  "rest": "http://84.247.183.3:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x46ef79",
-    "rpc": "84.247.183.3:8545"
+    "rpc": "http://84.247.183.3:8545"
   },
   "type": "RollApp",
   "da": "Avail",
