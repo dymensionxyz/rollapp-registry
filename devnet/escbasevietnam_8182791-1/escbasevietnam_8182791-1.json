@@ -28,7 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Roller ESCBASE Vietnam",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "5DfUBzCrHCSzLVT5Hn1NQTSgrkMJHmXQ9SzqKvpa2ebuBfNL"
 }
