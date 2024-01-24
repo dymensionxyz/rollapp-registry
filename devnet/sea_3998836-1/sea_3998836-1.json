@@ -1,0 +1,35 @@
+{
+  "chainId": "sea_3998836-1",
+  "chainName": "sea_3998836-1",
+  "rpc": "http://167.86.121.11:26657",
+  "rest": "http://167.86.121.11:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SEA",
+      "baseDenom": "uSEA",
+      "decimals": 18,
+      "logo": "/logos/sea_3998836-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sea_3998836-1.png",
+  "ibc": {
+    "hubChannel": "channel-8482",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3d0474",
+    "rpc": "http://167.86.121.11:8485"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5CRopFbUufvGW8Y98hdghEHEPpnjj4mr5dj3WcsQV2UfEtwz"
+  "analytics": true
+}
