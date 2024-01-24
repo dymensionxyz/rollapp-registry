@@ -1,0 +1,35 @@
+{
+  "chainId": "blocksync_9367601-1",
+  "chainName": "blocksync_9367601-1",
+  "rpc": "http://194.163.143.106:26657",
+  "rest": "http://194.163.143.106:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BLS",
+      "baseDenom": "uBLS",
+      "decimals": 18,
+      "logo": "/logos/blocksync_9367601-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://block-sync.com",
+  "logo": "/logos/blocksync_9367601-1.png",
+  "ibc": {
+    "hubChannel": "channel-8530",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8ef031",
+    "rpc": "http://194.163.143.106:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "CUZDAN",
+  "analytics": true
+}
