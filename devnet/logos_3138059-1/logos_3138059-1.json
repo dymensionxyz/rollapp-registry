@@ -31,6 +31,6 @@
   "description": "Trusted Validator",
   "analytics": true,
   "rewards": true,
-  "goldberg": "true",
+  "goldberg": true,
   "availAddress": "5ChxUFfkr6EwJfW3RN3c35bfw2KLezSuYUcdh1N7wfcvaR4X"
 }
