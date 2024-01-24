@@ -27,7 +27,9 @@
       "rpc": "https://froopyland.dymension.xyz/15/nafidurmus_1095910-1/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
+    "goldberg": true,
+    "availAddress": "5Fdy1Ey3J3MAnMgXpWNun8htXrmrfWczQSZqv29NAa93tFtd",
     "description": "nafidurmus",
     "analytics": true
   }

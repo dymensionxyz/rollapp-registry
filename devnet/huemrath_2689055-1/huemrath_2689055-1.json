@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Join to dymension hub",
-  "analytics": true
+  "analytics": true,
   "goldberg": true,
   "availAddress": "5FEZd16cbWCtoYS97s7SmZTLMUUkK9CxhzBCzz3ES471k654"
 }
