@@ -27,9 +27,7 @@
       "rpc": "http://38.242.130.134:8545"
     },
     "type": "RollApp",
-    "da": "Avail",
-	"goldberg": true
-    "availAddress": "5FgZkVxSb4aLs8VkKgnWFoKkTpjwju2jhMVaUuSX9rLSeQdy",
+    "da": "Celestia",
     "description": "",
     "analytics": true
   }
