@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "MarpikuNode",
   "analytics": true
+  "goldberg": true,
+  "availAddress":"5HdR3mQF8v5v3SKmyA71UXBi8VKiFj2hUDHJJy255XiDwvY8"
 }
