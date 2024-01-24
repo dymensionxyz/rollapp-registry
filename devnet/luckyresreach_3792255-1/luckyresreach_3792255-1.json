@@ -30,5 +30,8 @@
   "da": "Celestia",
   "description": "",
   "analytics": true,
-  "validator": true
+  "validator": true,
+   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5CSGvUk9UK9FGj7w8ZaC1BHk2t64CNrKqJYCyCTBwXZPgJqq"
 }
