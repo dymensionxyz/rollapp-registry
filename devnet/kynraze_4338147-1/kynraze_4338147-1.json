@@ -17,7 +17,7 @@
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "explorerUrl": "https://testnet.kynraze.com/kynraze",
   "exploreTxUrl": "https://testnet.kynraze.com/kynraze/tx/",
-  "website": "https://hub.kynraze.com",
+  "website": "https://ecosystem.kynraze.com",
   "logo": "/logos/kynraze_4338147-1.png",
   "ibc": {
     "hubChannel": "channel-7357",
