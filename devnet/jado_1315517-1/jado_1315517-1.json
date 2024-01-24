@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "jado RollApp",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GNiBUhxjL8qjcE5nJahq4Gi9MYNE33oHzHsHZhbWHUqhxjT"
 }
