@@ -1,0 +1,33 @@
+{
+  "chainId": "marpiku_1558919-1",
+  "chainName": "Marpiku",
+  "rpc": "http://126.108.96.133:26657",
+  "rest": "http://126.108.96.133:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MPK",
+      "baseDenom": "uMPK",
+      "decimals": 18,
+      "logo": "/logos/marpiku_1558919-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/marpiku_1558919-1.png",
+  "ibc": {
+    "hubChannel": "channel-8493",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17c987",
+    "rpc": "http://126.108.96.133:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
