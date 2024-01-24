@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/kaikisen_2019592-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DRx56hwmJHKbGDJj5AXMuDmHd7oGMi8oNmfVCece9TGm2LV"
 }
