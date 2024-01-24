@@ -1,0 +1,34 @@
+{
+  "chainId": "denodesapp_7366559-1",
+  "chainName": "deNodes RollApp",
+  "rpc": "https://rpc-rollapp.denodes.xyz",
+  "rest": "https://rest-rollapp.denodes.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DND",
+      "baseDenom": "uDND",
+      "decimals": 18,
+      "logo": "/logos/denodesapp_7366559-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://denodes.xyz/",
+  "logo": "/logos/denodesapp_7366559-1.png",
+  "ibc": {
+    "hubChannel": "channel-6832",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x70679f",
+    "rpc": "https://jsonrpc-rollapp.denodes.xyz"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Blockchain Validator and Infrastructure Provider",
+  "analytics": true,
+  "validator": true
+}
