@@ -26,8 +26,9 @@
     "chainId": "0x84bd13",
     "rpc": "https://froopyland.dymension.xyz/17/ersarollapp_8699155-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Ersarollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DF1X7jQmwsuR9EDw7vLDsDTHLKXYHkEaQevsrsQVzMSzio2"
 }
