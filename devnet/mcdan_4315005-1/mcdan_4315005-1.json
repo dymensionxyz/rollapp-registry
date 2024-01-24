@@ -29,8 +29,8 @@
   "type": "RollApp",
   "da": "Avail",
   "goldberg": true,
-  "availAddress": "5GbiF5ytxnznHJFwoSk2XAJjARqP4RqU1MtTgoQuNF9R29C3"
-  "description": "",
+  "availAddress": "5GbiF5ytxnznHJFwoSk2XAJjARqP4RqU1MtTgoQuNF9R29C3",
+  "description": "Luaga rollapp",
   "analytics": true,
   "rewards": true
 }
