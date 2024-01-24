@@ -1,0 +1,33 @@
+{
+  "chainId": "fiseq_5929539-1",
+  "chainName": "Fiseq",
+  "rpc": "https://froopyland.dymension.xyz/22/fiseq_5929539-1-d/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/fiseq_5929539-1-d/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FSQ",
+      "baseDenom": "uFSQ",
+      "decimals": 18,
+      "logo": "/logos/fiseq_5929539-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/fiseq_5929539-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5944",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5a7a43",
+    "rpc": "https://froopyland.dymension.xyz/22/fiseq_5929539-1-d/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

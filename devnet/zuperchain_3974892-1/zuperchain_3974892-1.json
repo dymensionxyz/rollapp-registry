@@ -1,0 +1,34 @@
+{
+    "chainId": "zuperchain_3974892-1",
+    "chainName": "ZuperChain",
+    "rpc": "https://froopyland.dymension.xyz/21/zuperchain_3974892-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/21/zuperchain_3974892-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ZUPER",
+        "baseDenom": "uZUPER",
+        "decimals": 18,
+        "logo": "/logos/zuperchain_3974892-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "http://ecosystem.zupernetwork.tech/",
+    "logo": "/logos/zuperchain_3974892-1.png",
+    "ibc": {
+      "hubChannel": "channel-7391",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x3ca6ec",
+      "rpc": "https://froopyland.dymension.xyz/21/zuperchain_3974892-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "ZuperChain (previously ZuperNetwork) is a modular general purpose EVM L2 powered by Dymension and Celestia",
+    "analytics": true,
+    "active": false
+  }

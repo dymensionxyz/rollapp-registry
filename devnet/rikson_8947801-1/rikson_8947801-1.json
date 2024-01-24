@@ -1,0 +1,35 @@
+{
+"chainId": "rikson_8947801-1",
+"chainName": "rikson",
+"rpc": "https://froopyland.dymension.xyz/27/rikson_8947801-1/rpc",
+"rest": "https://froopyland.dymension.xyz/27/rikson_8947801-1/rest",
+"bech32Prefix": "ethm",
+"goldberg": true,
+"currencies": [
+{
+"displayDenom": "RKS",
+"baseDenom": "uRKS",
+"decimals": 18,
+"logo": "/logos/rikson_8947801-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "",
+"logo": "/logos/rikson_8947801-1.png",
+"ibc": {
+"hubChannel": "channel-8192",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x888859",
+"rpc": "https://froopyland.dymension.xyz/27/rikson_8947801-1/evmrpc"
+},
+"type": "RollApp",
+"da": "Avail",
+"description": "",
+"analytics": true
+"availAddress": "5GmRysUUq53cQwTVGHT4MHWLWsPRcXYgkTyowGjXByxJs3JF"
+}

@@ -1,0 +1,35 @@
+{
+  "chainId": "myrollapp_160-1",
+  "chainName": "myrollapp_160-1",
+  "rpc": "https://froopyland.dymension.xyz/myrollapp_160-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/myrollapp_160-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MOD",
+      "baseDenom": "uMOD",
+      "decimals": 18,
+      "logo": "/logos/myrollapp_160-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://sbbnode.com/mint/",
+  "logo": "/logos/myrollapp_160-1.png",
+  "ibc": {
+    "hubChannel": "channel-260",
+    "channel": "channel-7",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0xa0",
+    "rpc": "https://froopyland.dymension.xyz/myrollapp_160-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "My Rollapp will allow all users to pay for node services without technical knowledge and for all modular projects",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5D9oxZP6hywZvDAbCXEBBHrfqCh1ExpDPSe6ioRbGGoYQDHt"
+}

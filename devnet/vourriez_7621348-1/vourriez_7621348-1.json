@@ -1,0 +1,33 @@
+{
+  "chainId": "vourriez_7621348-1",
+  "chainName": "Vourriez",
+  "rpc": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "VRZ",
+      "baseDenom": "uVRZ",
+      "decimals": 18,
+      "logo": "/logos/vourriez_7621348-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/vourriez_7621348-1.png",
+  "ibc": {
+    "hubChannel": "channel-7243",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x744ae4",
+    "rpc": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

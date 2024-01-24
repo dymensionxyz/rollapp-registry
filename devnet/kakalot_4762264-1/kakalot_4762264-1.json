@@ -1,0 +1,34 @@
+{
+  "chainId": "kakalot_4762264-1",
+  "chainName": "Kakalot",
+  "rpc": "https://froopyland.dymension.xyz/16/kakalot_4762264-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/kakalot_4762264-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KKL",
+      "baseDenom": "uKKL",
+      "decimals": 18,
+      "logo": "/logos/kakalot_4762264-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kakalot_4762264-1.png",
+  "ibc": {
+    "hubChannel": "channel-6781",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x48aa98",
+    "rpc": "https://froopyland.dymension.xyz/16/kakalot_4762264-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "active": false
+}
