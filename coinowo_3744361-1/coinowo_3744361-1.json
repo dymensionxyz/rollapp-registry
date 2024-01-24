@@ -27,7 +27,9 @@
     "rpc": "95.111.241.137:8577"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ef6dKnC2ZoJqk4rwZCfRw8ASvo2fBx2wJcsVm7ycVxqmSZo"
 }
