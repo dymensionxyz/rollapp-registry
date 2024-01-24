@@ -27,10 +27,7 @@
     "rpc": "https://froopyland.dymension.xyz/12/wallchain_2211622-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Avail",
+  "da": "Celestia",
   "description": "",
   "analytics": true
-  "goldberg": true,
-  "rewards": true,
-  "availAddress": "5Gms54oTkLH28VPr2DK5SxuBuGKPtKsGU7k26PJ8JXUbSNH7"
 }
