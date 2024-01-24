@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/alkadetarollapp_9531828-1.png",
   "ibc": {
-    "hubChannel": "channel-7446",
-    "channel": "channel-2",
+    "hubChannel": "channel-8107",
+    "channel": "channel-3",
     "timeout": 172800000
   },
   "evm": {

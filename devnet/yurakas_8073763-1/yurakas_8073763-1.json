@@ -1,8 +1,8 @@
 {
   "chainId": "yurakas_8073763-1",
   "chainName": "yurakas",
-  "rpc": "https://froopyland.dymension.xyz/25/yurakas_8073763-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/25/yurakas_8073763-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7b3223",
-    "rpc": "https://froopyland.dymension.xyz/25/yurakas_8073763-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/26/yurakas_8073763-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",

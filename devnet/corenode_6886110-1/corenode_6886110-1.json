@@ -1,8 +1,8 @@
 {
   "chainId": "corenode_6886110-1",
   "chainName": "corenode_6886110-1",
-  "rpc": "https://froopyland.dymension.xyz/23/corenode_6886110-1-b/rpc",
-  "rest": "https://froopyland.dymension.xyz/23/corenode_6886110-1-b/rest",
+  "rpc": "https://froopyland.dymension.xyz/28/corenode_6886110-1-c/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/corenode_6886110-1-c/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x6912de",
-    "rpc": "https://froopyland.dymension.xyz/23/corenode_6886110-1-b/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/28/corenode_6886110-1-c/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
+  "goldberg": true,
+  "availAddress": "5CVLYEzRxT7E67658uF2UhoeXAbbZYNiSHtdPsw2KtBwmbRY",
   "analytics": true
 }

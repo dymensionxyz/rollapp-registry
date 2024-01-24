@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://node.sipalingtestnet.com/dymension",
   "logo": "/logos/sipalingtestnet_1315925-1.png",
   "ibc": {
     "hubChannel": "channel-7995",
@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "rewards": true
 }
