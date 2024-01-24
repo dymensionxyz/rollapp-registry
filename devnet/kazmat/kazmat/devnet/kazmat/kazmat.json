@@ -1,0 +1,9 @@
+{
+  "RPC": "http://35.194.14.125:26657",
+  "REST": "http://35.194.14.125:1317",
+  "EVM RPC": "http://35.194.14.125:8545",  // 如果您的RollApp是EVM类型
+  "Logo path": "/logos/kazmat.jpg",
+  "chainName": "Levi",
+  "description": "Levi Ackerman",
+  "website": "https://en.wikipedia.org/wiki/Levi_Ackerman"
+}
