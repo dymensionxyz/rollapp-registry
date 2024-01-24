@@ -1,0 +1,35 @@
+{
+	"chainId": "dgt_6775473-1",
+	"chainName": "dgt",
+	"rpc": "https://froopyland.dymension.xyz/88/dgt_6775473-1/rpc",
+	"rest": "https://froopyland.dymension.xyz/88/dgt_6775473-1/rest",
+	"bech32Prefix": "ethm",
+	"currencies": [
+		{
+			"displayDenom": "dgt",
+			"baseDenom": "udgt",
+			"decimals": 6,
+			"logo": "/logos/dgt_6775473-1.png",
+			"type": "main"
+		}
+	],
+	"coinType": 60,
+	"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+	"logo": "/logos/dgt_6775473-1.png",
+	"ibc": {
+		"hubChannel": "channel-7737",
+		"channel": "channel-1",
+		"timeout": 172800000
+	},
+	"evm": {
+		"chainId": "0x2cc08b",
+		"rpc": "https://froopyland.dymension.xyz/88/dgt_6775473-1/evmrpc"
+	},
+	"type": "RollApp",
+	"da": "Avail",
+	"description": "twitter @shli44784659",
+	"analytics": true,
+	"goldberg": true,
+	"availAddress": "5DnzooiHphbypkZM4Y1nFUAP3KDYk9xqDmD2vm9hZpw5dwAE",
+	"validator": true
+}
