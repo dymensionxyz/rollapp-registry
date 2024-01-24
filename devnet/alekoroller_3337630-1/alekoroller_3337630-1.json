@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://twitter.com/__3JOH22A__",
   "logo": "/logos/alekoroller_3337630-1.png",
   "ibc": {
     "hubChannel": "channel-8446",
@@ -28,8 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "goldberg": true
+  "description": "aleko0o's RollApp",
+  "analytics": true,
+  "goldberg": true,
   "availAddress": "5HC6eSiamLRXnRU4pXqpJrTtaoTpK7VGuLngMk54AFG5VY5a"
-  "analytics": true
 }
