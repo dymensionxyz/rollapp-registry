@@ -27,7 +27,9 @@
       "rpc": "https://froopyland.dymension.xyz/8/punqrollerappp_9965834-1/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
-    "description": "",
-    "analytics": true
+    "da": "Avail",
+    "description": "Enjoy with punq services",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5CBCDhYzobVGLn8QcJ5L325UDcQiR8EDWrAbL7LkJWRg2xWS"
 }

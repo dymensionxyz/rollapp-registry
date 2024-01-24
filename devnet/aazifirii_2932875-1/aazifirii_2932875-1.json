@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/23/aazifirii_2932875-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Blockchain & Cryptocurrency researcher, enthusiast. Contact TG @enzifiri",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HB5qERKh87zUQTYbVCSX3thjJur1Qcg4n8qecKdSNXjdLvy",
   "validator": true
 }

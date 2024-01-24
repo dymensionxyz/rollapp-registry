@@ -1,0 +1,35 @@
+{
+  "chainId": "kriptoescobar_5799668-1",
+  "chainName": "kriptoescobar_5799668-1",
+  "rpc": "http://23.88.125.99:26657",
+  "rest": "http://23.88.125.99:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "krpt",
+      "baseDenom": "ukrpt",
+      "decimals": 18,
+      "logo": "/logos/kriptoescobar_5799668-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kriptoescobar_5799668-1.png",
+  "ibc": {
+    "hubChannel": "channel-8378",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x587ef4",
+    "rpc": "http://23.88.125.99:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true
+  "availAddress": "5CtP5Boja6nNADT7AdbanphcCYspTZ1mLKzgq1GaVjpT9Hpc"
+  "analytics": true
+}
