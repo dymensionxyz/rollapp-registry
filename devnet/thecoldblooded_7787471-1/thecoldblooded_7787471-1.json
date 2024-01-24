@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/22/thecoldblooded_7787471-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
   "description": "",
+  "availAddress": "5DfMgouJchhjwyXBmR4bj9EayktNVvAqhsH8oP3vrYQ75bsP"
   "analytics": true
 }
