@@ -1,0 +1,35 @@
+{
+  "chainId": "segoendook_2267285-1",
+  "chainName": "segoendook_2267285-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SGE",
+      "baseDenom": "uSGE",
+      "decimals": 18,
+      "logo": "/logos/segoendook_2267285-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/segoendook_2267285-1.png",
+  "ibc": {
+    "hubChannel": "channel-8585",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x229895",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+   "goldberg": true,
+  "availAddress": "5G9dhd1R1p54xVWRGM6vQ8m3MtTB5pZCxCmZP9f4VHzxx2Yt"
+}
