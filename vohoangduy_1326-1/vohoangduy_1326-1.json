@@ -25,7 +25,10 @@
     "chainId": "0x52e",
     "rpc": "https://froopyland.dymension.xyz/3/vohoangduy_1326-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "analytics": true
+"type": "RollApp",
+  "da": "Avail",
+  "description": "HoangDuyNode",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E2WG4tSYc214acT7xA2k99HpZscMf1CMzLNZfxPH9SrukXA"
 }
