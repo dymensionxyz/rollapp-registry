@@ -24,8 +24,11 @@
   "evm": {
     "chainId": "0x238dc9",
     "rpc": "http://146.190.150.82:8545"
-  },
+   },
   "type": "RollApp",
-  "da": "Celestia",
-  "analytics": true
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DF8dKekSapURB1Q55xUCTgnfjX53M8xMVoYhLyZsPkRLLKp"
 }
