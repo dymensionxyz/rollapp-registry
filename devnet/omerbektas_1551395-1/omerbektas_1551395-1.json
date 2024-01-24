@@ -1,8 +1,8 @@
 {
   "chainId": "omerbektas_1551395-1",
   "chainName": "omerbektas_1551395-1",
-  "rpc": "http://omerbektas.online:26657",
-  "rest": "http://omerbektas.online:1317",
+  "rpc": "http://135.181.192.137:26657",
+  "rest": "http://135.181.192.137:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x17ac23",
-    "rpc": "http://omerbektas.online:8545"
+    "rpc": "http://135.181.192.137:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
+  "goldberg": true,
+  "availAddress": "5Epjf2TjtCMXXfahr2juqFz7sCoGthE8gCuGheswBt1GfD5k",
   "analytics": true
 }
