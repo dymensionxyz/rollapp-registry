@@ -1,8 +1,8 @@
 {
   "chainId": "nodevalidatorvn_1267255-1",
   "chainName": "Node-Validator-VN",
-  "rpc": "5.75.254.212:26657",
-  "rest": "5.75.254.212:1317",
+  "rpc": "http://5.75.254.212:26657",
+  "rest": "http://5.75.254.212:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,7 +23,7 @@
   },
   "evm": {
     "chainId": "0x135637",
-    "rpc": "5.75.254.212:8545"
+    "rpc": "http://5.75.254.212:8545"
   },
   "type": "RollApp",
   "da": "Avail",
