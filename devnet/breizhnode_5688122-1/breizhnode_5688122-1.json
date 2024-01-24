@@ -1,7 +1,7 @@
 {
   "chainId": "breizhnode_5688122-1",
   "chainName": "BreizhNode",
-  "rpc": ""http://95.111.224.107:26657",
+  "rpc": "http://95.111.224.107:26657",
   "rest": "http://95.111.224.107:1317",
   "bech32Prefix": "ethm",
   "currencies": [
