@@ -26,8 +26,9 @@
     "chainId": "0x11d9be",
     "rpc": "https://froopyland.dymension.xyz/24/basar_1169854-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Basar Rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fjggjrr8spa41a3VsYN8Z9bWw3Jk8zSLkkqkcouNr9eaMqy"
 }
