@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/4/valardohaeris_4091451-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "valardohaeris's rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EbdMQrBdPbHihtYdHrDWAC6qhgJCh64FbP2Atei8DAQuAkj"
 }

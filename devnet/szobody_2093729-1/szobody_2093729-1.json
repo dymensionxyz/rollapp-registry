@@ -9,14 +9,14 @@
       "displayDenom": "SZO",
       "baseDenom": "uSZO",
       "decimals": 18,
-      "logo": "/logos/szobody_2093729-1.png",
+      "logo": "/logos/szobody_2093729-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/szobody_2093729-1.png",
+  "logo": "/logos/szobody_2093729-1.jpg",
   "ibc": {
     "hubChannel": "channel-7902",
     "channel": "channel-0",

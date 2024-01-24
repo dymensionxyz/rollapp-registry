@@ -1,5 +1,5 @@
 {
-    "da": "Celestia",
+    "da": "Avail",
     "chainName": "JOHN-LEGEND",
     "rpc": "https://froopyland.dymension.xyz/john_5858/rpc",
     "rest": "https://froopyland.dymension.xyz/john_5858/rest",
@@ -27,5 +27,7 @@
     ],
     "bech32Prefix": "ethm",
     "analytics": true,
-    "rewards": true
+    "goldberg": true,
+    "rewards": true,
+    "availAddress": "5FuxkUZjsyhYiAFqWxqUpAajSkFpxb33WKrKCKHXqup51DVr"
   }

@@ -30,5 +30,6 @@
   "da": "Celestia",
   "description": "https://linktr.ee/coinhunters",
   "analytics": true,
-  "validator": true
+  "validator": true,
+  "active": false
 }

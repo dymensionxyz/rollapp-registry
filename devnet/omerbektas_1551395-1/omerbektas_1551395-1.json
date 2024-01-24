@@ -1,0 +1,33 @@
+{
+  "chainId": "omerbektas_1551395-1",
+  "chainName": "omerbektas_1551395-1",
+  "rpc": "http://omerbektas.online:26657",
+  "rest": "http://omerbektas.online:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OSB",
+      "baseDenom": "uOSB",
+      "decimals": 18,
+      "logo": "/logos/omerbektas_1551395-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/omerbektas_1551395-1.png",
+  "ibc": {
+    "hubChannel": "channel-8380",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17ac23",
+    "rpc": "http://omerbektas.online:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
