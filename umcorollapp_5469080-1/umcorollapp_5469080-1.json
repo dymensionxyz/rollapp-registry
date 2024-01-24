@@ -2,7 +2,7 @@
   "chainId": "umcorollapp_5469080-1",
   "chainName": "Amaterasu",
   "rpc": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/rest",
+  "rest": "http://your.rest.url:port",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HdPuiJnEVicbp3qSdzGNAmi1xyc7hT8uTpAM8xxHJMySvnh"
 }
