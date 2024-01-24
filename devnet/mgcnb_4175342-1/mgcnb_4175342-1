@@ -9,14 +9,14 @@
       "displayDenom": "ALTR",
       "baseDenom": "uALTR",
       "decimals": 18,
-      "logo": "/logos/2.png",
+      "logo": "/logos/mgcnb_4175342-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/root/mgcnb_4175342-1.json",
+  "logo": "/logos/mgcnb_4175342-1.png",
   "ibc": {
     "hubChannel": "channel-8576",
     "channel": "channel-0",
