@@ -28,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Deploy a simple rollup application with modular technology, using Avail as the DA layer",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5FCoQ7FifNUnU3LYNRZTauzMkMUtbrsKqPLjVB6g3FQojH2Q"
 }
