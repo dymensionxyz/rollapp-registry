@@ -28,8 +28,10 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "https://github.com/honeztwo",
   "analytics": true,
   "rewards": true,
-   "active": true
+  "active": true
+  "goldberg": true 
+  "availAddress": "5HDvFDbHjpeujcRrG8vGU3G8Mm3SS3MiukxXjxH4uckr3EjF"
 }
