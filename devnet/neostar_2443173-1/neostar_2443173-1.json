@@ -1,0 +1,33 @@
+{
+  "chainId": "neostar_2443173-1",
+  "chainName": "neostar_2443173-1",
+  "rpc": "http://172.245.128.18:26657",
+  "rest": "http://172.245.128.18:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NEOS",
+      "baseDenom": "uNEOS",
+      "decimals": 18,
+      "logo": "/logos/neostar_2443173-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/neostar_2443173-1.png",
+  "ibc": {
+    "hubChannel": "channel-8540",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2547a5",
+    "rpc": "http://172.245.128.18:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A neostar rollapp test",
+  "analytics": true
+}
