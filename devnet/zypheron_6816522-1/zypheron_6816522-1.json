@@ -26,8 +26,9 @@
     "chainId": "0x68030a",
     "rpc": "https://froopyland.dymension.xyz/19/zypheron_6816522-1/evmrpc"
   },
-  "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "RollApp experience for Dym",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Cf1UH97vMWECY8ba7ePG62TLxXscL8iFDkU5FAExbGe9tTA"
 }
