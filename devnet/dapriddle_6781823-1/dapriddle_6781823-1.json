@@ -1,6 +1,6 @@
 {
   "chainId": "dapriddle_6781823-1",
-  "chainName": "dapriddle_6781823-1",
+  "chainName": "dapriddle",
   "rpc": "http://95.111.249.103:26657",
   "rest": "http://95.111.249.103:1317",
   "bech32Prefix": "ethm",
