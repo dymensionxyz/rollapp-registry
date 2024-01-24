@@ -1,8 +1,8 @@
 {
     "chainId": "diablox_2144414-1",
     "chainName": "diablox",
-    "rpc": "http://38.242.130.134:26657",
-    "rest": "http://38.242.130.134:1317",
+    "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x20b89e",
-      "rpc": "http://38.242.130.134:8545"
+      "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
