@@ -9,14 +9,14 @@
       "displayDenom": "Neko",
       "baseDenom": "uNeko",
       "decimals": 18,
-      "logo": "/logos/nekosan_9467023-1.png",
+      "logo": "/logos/nekosan_9467023-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/nekosan_9467023-1.png",
+  "logo": "/logos/nekosan_9467023-1.jpg",
   "ibc": {
     "hubChannel": "channel-8470",
     "channel": "channel-0",
@@ -28,7 +28,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "Description of your RollApp",
+  "description": "",
   "analytics": true,
   "goldberg": true,
   "availAddress": "5Cihj965tgwYCRBJY5okavgZPU1xCpsRTtRQBzboDV2bVkxo"
