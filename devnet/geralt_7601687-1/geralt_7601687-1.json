@@ -30,5 +30,6 @@
   "da": "Celestia",
   "description": "We Love Gaming",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "active": false
 }

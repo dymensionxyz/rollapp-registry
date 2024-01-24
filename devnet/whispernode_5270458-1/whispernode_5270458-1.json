@@ -31,5 +31,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true,
-  "validator": true
+  "validator": true,
+  "active": false
 }

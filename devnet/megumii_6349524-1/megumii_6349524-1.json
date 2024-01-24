@@ -1,9 +1,10 @@
 {
   "chainId": "megumii_6349524-1",
-  "chainName": "megumii",
+  "chainName": "megumii chan",
   "rpc": "https://api.dym.kessoku.xyz",
   "rest": "https://rest.dym.kessoku.xyz",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "NVM",
@@ -18,8 +19,8 @@
   "website": "https://dapp.kessoku.xyz/",
   "logo": "/logos/megumii_6349524-1.png",
   "ibc": {
-    "hubChannel": "channel-7506",
-    "channel": "channel-0",
+   "hubChannel": "channel-7932",
+    "channel": "channel-3",
     "timeout": 172800000
   },
   "evm": {

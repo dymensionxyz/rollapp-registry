@@ -1,8 +1,8 @@
 {
     "chainId": "ravi_4547868-1",
     "chainName": "ravi",
-    "rpc": "https://froopyland.dymension.xyz/23/ravi_4547868-1-b/rpc",
-    "rest": "https://froopyland.dymension.xyz/23/ravi_4547868-1-b/rest",
+    "rpc": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/rpc",
+    "rest": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/rest",
     "bech32Prefix": "ethm",
     "currencies": [
         {
@@ -24,7 +24,7 @@
     },
     "evm": {
         "chainId": "0x45651c",
-        "rpc": "https://froopyland.dymension.xyz/23/ravi_4547868-1-b/evmrpc"
+        "rpc": "https://froopyland.dymension.xyz/26/ravi_4547868-1-d/evmrpc"
     },
     "type": "RollApp",
     "da": "Celestia",

@@ -1,8 +1,8 @@
 {
   "chainId": "cumulo_3513338-1",
   "chainName": "Roller Front Chain",
-  "rpc": "https://rollapp.rpc.cumulo.com.es",
-  "rest": "https://rollapp.rest.cumulo.com.es",
+  "rpc": "https://froopyland.dymension.xyz/25/cumulo_3513338-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/cumulo_3513338-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,11 +23,12 @@
   },
   "evm": {
     "chainId": "0x359bfa",
-    "rpc": "https://rollapp.jrpc.cumulo.com.es"
+    "rpc": "https://froopyland.dymension.xyz/25/cumulo_3513338-1-b/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
   "analytics": true,
   "rewards": true,
-  "isValidator": true
+  "isValidator": true,
+  "active": false
 }

@@ -1,8 +1,8 @@
 {
   "chainId": "mieruhito_3317127-1",
   "chainName": "Mieruhito RollApp",
-  "rpc": "https://froopyland.dymension.xyz/15/mieruhito_3317127-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/15/mieruhito_3317127-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/24/mieruhito_3317127-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/mieruhito_3317127-1-a/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x329d87",
-    "rpc": "https://froopyland.dymension.xyz/15/mieruhito_3317127-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/24/mieruhito_3317127-1-a/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",

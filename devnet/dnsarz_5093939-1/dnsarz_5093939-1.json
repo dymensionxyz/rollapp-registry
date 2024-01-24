@@ -4,6 +4,7 @@
   "rpc": "https://rpc-dymension.dnsarz.xyz",
   "rest": "https://api-dymension.dnsarz.xyz",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "DNZ",
