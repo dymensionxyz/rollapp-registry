@@ -1,0 +1,31 @@
+{
+  "chainId": "blustack_23823-2",
+  "chainName": "blustack",
+  "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BLSK",
+      "baseDenom": "uBLSK",
+      "decimals": 18,
+      "logo": "/logos/blustack_23823-2.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "logo": "/logos/blustack_23823-2.jpg",
+  "ibc": {
+    "hubChannel": "channel-5326",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d0f",
+    "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true
+}

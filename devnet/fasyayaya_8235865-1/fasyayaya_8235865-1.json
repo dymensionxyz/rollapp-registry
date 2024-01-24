@@ -1,0 +1,33 @@
+{
+  "chainId": "fasyayaya_8235865-1",
+  "chainName": "Fasyayaya",
+  "rpc": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SYA",
+      "baseDenom": "uSYA",
+      "decimals": 18,
+      "logo": "/logos/fasyayaya_8235865-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fasyayaya_8235865-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7799",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7dab59",
+    "rpc": "https://froopyland.dymension.xyz/23/fasyayaya_8235865-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics":true
+}

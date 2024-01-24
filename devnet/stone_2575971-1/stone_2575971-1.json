@@ -1,0 +1,33 @@
+{
+  "chainId": "stone_2575971-1",
+  "chainName": "Stone",
+  "rpc": "https://froopyland.dymension.xyz/5/stone_2575971-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/5/stone_2575971-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STONE",
+      "baseDenom": "uSTONE",
+      "decimals": 18,
+      "logo": "/logos/stone_2575971-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/stone_2575971-1.png",
+  "ibc": {
+    "hubChannel": "channel-5666",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x274e63",
+    "rpc": "https://froopyland.dymension.xyz/5/stone_2575971-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Mr Stone",
+  "analytics": true
+}

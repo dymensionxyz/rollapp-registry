@@ -1,0 +1,32 @@
+{
+  "chainId": "vnbnodes_6868-1",
+  "chainName": "VNBnodes",
+  "rpc": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/vnbnodes_6868-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/vnbnodes_6868-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5318",
+    "channel": "channel-5",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1ad4",
+    "rpc": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": true
+}

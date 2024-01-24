@@ -1,0 +1,35 @@
+{
+  "chainId": "ideku_9817334-1",
+  "chainName": "Ideku",
+  "rpc": "https://froopyland.dymension.xyz/23/ideku_9817334-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/ideku_9817334-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "IDE",
+      "baseDenom": "uIDE",
+      "decimals": 18,
+      "logo": "/logos/ideku_9817334-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://idekubagus.com",
+  "logo": "/logos/ideku_9817334-1.png",
+  "ibc": {
+    "hubChannel": "channel-7845",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x95ccf6",
+    "rpc": "https://froopyland.dymension.xyz/23/ideku_9817334-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Dymension-RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E77Ri7JsXNCtwbYK5CURr9KKHeHovLequavdJhgrAJBBzAP"
+}

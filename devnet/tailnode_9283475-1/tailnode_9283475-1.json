@@ -1,0 +1,33 @@
+{
+  "chainId": "tailnode_9283475-1",
+  "chainName": "Tailnode",
+  "rpc": "https://froopyland.dymension.xyz/24/tailnode_9283475-1-d/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/tailnode_9283475-1-d/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TND",
+      "baseDenom": "uTND",
+      "decimals": 18,
+      "logo": "/logos/tailnode_9283475-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tailnode_9283475-1.png",
+  "ibc": {
+    "hubChannel": "channel-6363",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8da793",
+    "rpc": "https://froopyland.dymension.xyz/24/tailnode_9283475-1-d/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

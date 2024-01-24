@@ -1,0 +1,33 @@
+{
+  "chainId": "gokean_4997912-1",
+  "chainName": "gokean",
+  "rpc": "https://froopyland.dymension.xyz/6/gokean_4997912-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/gokean_4997912-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GKN",
+      "baseDenom": "uGKN",
+      "decimals": 18,
+      "logo": "/logos/gokean_4997912-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/gokean_4997912-1.png",
+  "ibc": {
+    "hubChannel": "channel-5698",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4c4318",
+    "rpc": "https://froopyland.dymension.xyz/6/gokean_4997912-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "afraddymen_8118671-1",
+  "chainName": "afraddymen_8118671-1",
+  "rpc": "https://froopyland.dymension.xyz/16/afraddymen_8118671-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/16/afraddymen_8118671-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AFRD",
+      "baseDenom": "uAFRD",
+      "decimals": 18,
+      "logo": "/logos/afraddymen_8118671-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/afraddymen_8118671-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6782",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7be18f",
+    "rpc": "https://froopyland.dymension.xyz/16/afraddymen_8118671-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

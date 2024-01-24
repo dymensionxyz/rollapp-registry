@@ -1,0 +1,33 @@
+{
+  "chainId": "qavurdagli_3181994-1",
+  "chainName": "Qavurdagli",
+  "rpc": "https://froopyland.dymension.xyz/13/qavurdagli_3181994-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/qavurdagli_3181994-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "QVR",
+      "baseDenom": "uQVR",
+      "decimals": 18,
+      "logo": "/logos/qavurdagli_3181994-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/qavurdagli_3181994-1.png",
+  "ibc": {
+    "hubChannel": "channel-6058",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x308daa",
+    "rpc": "https://froopyland.dymension.xyz/13/qavurdagli_3181994-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

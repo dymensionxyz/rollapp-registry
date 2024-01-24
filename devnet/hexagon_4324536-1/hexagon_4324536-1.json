@@ -1,0 +1,34 @@
+{
+  "chainId": "hexagon_4324536-1",
+  "chainName": "Hexagon",
+  "rpc": "https://hexagon-rpc.lefey.tech",
+  "rest": "https://hexagon-api.lefey.tech",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HEX",
+      "baseDenom": "uHEX",
+      "decimals": 18,
+      "logo": "/logos/hexagon_4324536-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://github.com/Lefey",
+  "logo": "/logos/hexagon_4324536-1.png",
+  "ibc": {
+    "hubChannel": "channel-6262",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x41fcb8",
+    "rpc": "https://hexagon-jsonrpc.lefey.tech"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}
