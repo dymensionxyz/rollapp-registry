@@ -1,6 +1,6 @@
 {
   "chainId": "frankeugene_7811976-1",
-  "chainName": "frankeugene_7811976-1",
+  "chainName": "frankeugene-rollapp",
   "rpc": "http://frankeugene.fun/avail/rpc",
   "rest": "http://frankeugene.fun/avail/rest",
   "bech32Prefix": "ethm",
