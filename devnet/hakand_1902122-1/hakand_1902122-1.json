@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/12/hakand_1902122-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "hakand rollup",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HdnCHfrf3n1KKtbyGcJXzx34F3CDUwWxxUjndqHaeyNxH2Z"
 }
