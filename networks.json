@@ -1,0 +1,33 @@
+{
+  "chainId": "hoangquan_4487175-1",
+  "chainName": "hoangquan_4487175-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AVL",
+      "baseDenom": "uAVL",
+      "decimals": 18,
+      "logo": "/logos/hoangquan_4487175-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://validator247.com",
+  "logo": "/logos/hoangquan_4487175-1.png",
+  "ibc": {
+    "hubChannel": "channel-8543",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x447807",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
