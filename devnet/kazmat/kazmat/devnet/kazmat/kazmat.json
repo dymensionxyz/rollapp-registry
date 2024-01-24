@@ -6,4 +6,38 @@
   "chainName": "Levi",
   "description": "Levi Ackerman",
   "website": "https://en.wikipedia.org/wiki/Levi_Ackerman"
+
+  "chainId": "1",  // 您需要提供您的链ID
+  "chainName": "Levi",
+  "rpc": "http://35.194.14.125:26657",
+  "rest": "http://35.194.14.125:1317",
+  "bech32Prefix": "your_prefix",  // 您需要提供bech32前缀
+  "currencies": [
+    {
+      "displayDenom": "kaz",  // 您需要提供展示的代币名称
+      "baseDenom": "u",  // 您需要提供基础代币单位
+      "decimals": 18,
+      "logo": "/logos/kazmat.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,  // 您可以根据实际情况修改
+  "faucetUrl": "http://link.to.your.faucet",  // 如果您有水龙头URL，请填写
+  "website": "https://en.wikipedia.org/wiki/Levi_Ackerman",
+  "logo": "/logos/kazmat.jpg",
+  "ibc": {
+    "hubChannel": "your_hub_channel",  // 您需要提供IBC hub通道
+    "channel": "your_channel",  // 您需要提供IBC通道
+    "timeout": 172800000  // 您可以根据实际情况修改
+  },
+  "evm": {
+    "chainId": "1",  // 如果您的RollApp是EVM类型，提供EVM链ID
+    "rpc": "http://35.194.14.125:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Levi Ackerman",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EsfsXpL4EUVHgKpcSkhXwJJsd1o2oUgzPmCgGXX3VJe71Cb"  // 您需要提供您的RollApp的Avail地址
 }
