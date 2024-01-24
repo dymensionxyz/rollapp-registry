@@ -26,8 +26,9 @@
     "chainId": "0x7f1e1a",
     "rpc": "https://froopyland.dymension.xyz/5/gulced_8330778-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "you will never walk alone",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GdpTiyPtHd5Dy1TTJbnctCkgZ6eB5TTiMXYcbz75UKPhP5h"
 }
