@@ -1,5 +1,5 @@
   {
-    "da": "Celestia",
+    "da": "Avail",
     "rpc": "https://froopyland.dymension.xyz/phongdn_1-1/rpc",
     "chainName": "PhongDn",
     "rest": "https://froopyland.dymension.xyz/phongdn_1-1/rest",
@@ -28,5 +28,7 @@
     ],
     "bech32Prefix": "ethm",
     "analytics": true,
+    "goldberg": true,
+    "availAddress": "5GvLUhRxUufFmF4dxoao6KEMCSGDWVtDQHSgf3nqNX7Bmg8m",
     "rewards": true
   }
