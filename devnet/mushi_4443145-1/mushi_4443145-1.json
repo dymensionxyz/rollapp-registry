@@ -1,0 +1,35 @@
+{
+  "chainId": "mushi_4443145-1",
+  "chainName": "Mushi GameCenter",
+  "rpc": "https://dymrpc.xuanphuctech.com",
+  "rest": "https://dymrest.xuanphuctech.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MUI",
+      "baseDenom": "uMUI",
+      "decimals": 18,
+      "logo": "/logos/mushi_4443145-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "explorerUrl": "https://evm-explorer.xuanphuctech.com",
+  "faucetUrl": "https://evm-gamehub.xuanphuctech.com",
+  "website": "https://evm-gamehub.xuanphuctech.com",
+  "logo": "/logos/mushi_4443145-1.svg",
+  "ibc": {
+    "hubChannel": "channel-6486",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x43cc09",
+    "rpc": "https://dymevmrpc.xuanphuctech.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Mushi GameCenter",
+  "analytics": true,
+  "rewards": true
+}

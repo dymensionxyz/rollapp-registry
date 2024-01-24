@@ -1,0 +1,33 @@
+{
+  "chainId": "fitri_7094307-1",
+  "chainName": "Fitri",
+  "rpc": "https://froopyland.dymension.xyz/9/fitri_7094307-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/fitri_7094307-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FTR",
+      "baseDenom": "uFTR",
+      "decimals": 18,
+      "logo": "/logos/fitri_7094307-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fitri_7094307-1.png",
+  "ibc": {
+    "hubChannel": "channel-6125",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6c4023",
+    "rpc": "https://froopyland.dymension.xyz/9/fitri_7094307-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

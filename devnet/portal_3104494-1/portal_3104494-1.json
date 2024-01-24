@@ -1,0 +1,33 @@
+{
+  "chainId": "portal_3104494-1",
+  "chainName": "Portal",
+  "rpc": "https://froopyland.dymension.xyz/10/portal_3104494-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/portal_3104494-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "morty",
+      "baseDenom": "umorty",
+      "decimals": 18,
+      "logo": "/logos/portal_3104494-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/portal_3104494-1.png",
+  "ibc": {
+    "hubChannel": "channel-6285",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2f5eee",
+    "rpc": "https://froopyland.dymension.xyz/10/portal_3104494-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "This is a dymension portal lead to another dimension for Mortys. Built by MortyC",
+  "analytics": true
+}

@@ -1,0 +1,32 @@
+{
+  "chainId": "yho_7037634-1",
+  "chainName": "yho",
+  "rpc": "167.86.70.141:26657",
+  "rest": "167.86.70.141:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "yho",
+      "baseDenom": "uyho",
+      "decimals": 18,
+      "logo": "/logos/cumulo_3513338-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/cgr_7097188-1.png",
+  "ibc": {
+    "hubChannel": "channel-5345",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x359bfa",
+    "rpc": "31.220.83.243:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
