@@ -27,6 +27,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "MANZ chain",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Gs7stBH3RfX5WTDh5p5vB5BwAACq1XwZgJTn8Hf87Zf3YRT"
 }
