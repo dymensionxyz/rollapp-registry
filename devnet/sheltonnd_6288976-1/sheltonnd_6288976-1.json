@@ -28,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Shelton's Rollapp",
+  "goldberg": true,
   "analytics": true,
+  "availAddress": "5C5PyF2bLPiQ5o9aYXRTgV45xteN6Gu8kf6Sx9ZPR3RgEyWm",
   "rewards": true
 }
