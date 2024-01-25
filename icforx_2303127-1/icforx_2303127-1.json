@@ -1,8 +1,8 @@
 {
   "chainId": "icforx_2303127-1",
   "chainName": "Icforx",
-  "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rest",
+  "rpc": "78.46.138.228:26657",
+  "rest": "78.46.138.228:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x232497",
-    "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/evmrpc"
+    "rpc": "78.46.138.228:8545"
   },
   "type": "RollApp",
   "da": "Avail", 
