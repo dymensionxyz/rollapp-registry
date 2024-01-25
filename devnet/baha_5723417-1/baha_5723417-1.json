@@ -1,8 +1,8 @@
 {
   "chainId": "baha_5723417-1",
   "chainName": "baha_5723417-1",
-  "rpc": "http://84.247.183.39",
-  "rest": "http://84.247.183.39",
+  "rpc": "http://84.247.183.39:26657",
+  "rest": "http://84.247.183.39:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x575519",
-    "rpc": "http://84.247.183.39"
+    "rpc": "http://84.247.183.39:8545"
   },
   "type": "RollApp",
   "da": "Avail",
