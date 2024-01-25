@@ -1,8 +1,8 @@
 {
   "chainId": "munivong_8331771-1",
   "chainName": "Munivong Thunder",
-  "rpc": "135.148.122.156:26657",
-  "rest": "135.148.122.156:1317",
+  "rpc": "https://froopyland.dymension.xyz/20/munivong_8331771-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/munivong_8331771-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f21fb",
-    "rpc": "135.148.122.156:8545"
+    "rpc": "https://froopyland.dymension.xyz/20/munivong_8331771-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
