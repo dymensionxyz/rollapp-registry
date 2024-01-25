@@ -1,8 +1,8 @@
 {
   "chainId": "bakkalgazi_5148467-1",
   "chainName": "Bakkalgazi",
-  "rpc": "https://froopyland.dymension.xyz/8/bakkalgazi_5148467-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/bakkalgazi_5148467-1/rest",
+  "rpc": "http://65.108.92.159:26657",
+  "rest": "http://65.108.92.159:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
