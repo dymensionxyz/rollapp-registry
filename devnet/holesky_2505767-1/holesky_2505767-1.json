@@ -23,7 +23,7 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "holesky_2505767-1",
+    "chainId": "0x263c27",
     "rpc": "http://173.212.201.112:26657"
   },
   "type": "RollApp",
