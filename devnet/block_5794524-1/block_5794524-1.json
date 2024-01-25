@@ -1,8 +1,8 @@
 {
   "chainId": "block_5794524-1",
   "chainName": "Blocks Network",
-  "rpc": "https://froopyland.blockpi.network:443/rpc",
-  "rest": "https://froopyland.blockpi.network:443/rest",
+  "rpc": "http://84.247.185.55:26657",
+  "rest": "http://84.247.185.55:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x586adc",
-    "rpc": "https://froopyland.blockpi.network:443/evmrpc"
+    "rpc": "http://84.247.185.55:8545"
   },
   "type": "RollApp",
   "da": "Avail",
