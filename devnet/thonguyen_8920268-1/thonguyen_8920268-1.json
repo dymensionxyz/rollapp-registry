@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/23/thonguyen_8920268-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Crypto Connection",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ea41qjcrNSP9EQMATsSdFwf48uuZU1QwdA5J3xx4uvUNEjb"
 }
