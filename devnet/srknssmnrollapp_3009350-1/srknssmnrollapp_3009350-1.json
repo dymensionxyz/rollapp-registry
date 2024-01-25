@@ -1,6 +1,6 @@
 {
   "chainId": "srknssmnrollapp_3009350-1",
-  "chainName": "Srknssmnrollapp",
+  "chainName": "SRKN NODE",
   "rpc": "http://65.109.143.11:26657",
   "rest": "http://65.109.143.11:1317",
   "bech32Prefix": "ethm",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2deb46",
-    "rpc": "http://65.108.92.159:8545"
+    "rpc": "http://65.109.143.11:8545"
   },
   "type": "RollApp",
   "da": "Avail",
