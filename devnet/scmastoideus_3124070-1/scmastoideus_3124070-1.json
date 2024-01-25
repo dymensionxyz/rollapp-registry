@@ -26,8 +26,10 @@
     "chainId": "0x2fab66",
     "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
+ "type": "RollApp",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5FS1VLWSDPsnBgqodRSDQbEUVkXaV5WrAvgvttdccucEt2GJ"
 }
