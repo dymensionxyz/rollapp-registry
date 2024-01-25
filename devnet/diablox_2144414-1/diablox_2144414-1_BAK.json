@@ -1,8 +1,8 @@
 {
     "chainId": "diablox_2144414-1",
     "chainName": "diablox",
-    "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rest",
+    "rpc": "http://38.242.130.134:26657",
+    "rest": "http://38.242.130.134:1317",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,12 +24,10 @@
     },
     "evm": {
       "chainId": "0x20b89e",
-      "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/evmrpc"
+      "rpc": "http://38.242.130.134:8545"
     },
     "type": "RollApp",
-    "da": "Avail",
-	"goldberg": true,
-    "availAddress": "5FgZkVxSb4aLs8VkKgnWFoKkTpjwju2jhMVaUuSX9rLSeQdy",
+    "da": "Celestia",
     "description": "",
     "analytics": true
   }
