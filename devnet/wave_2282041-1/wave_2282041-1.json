@@ -15,7 +15,7 @@
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-    "website": "",
+    "website": "https://0xwave.com/",
     "logo": "/logos/wave_2282041-1.jpg",
     "ibc": {
       "hubChannel": "channel-6702",
@@ -27,8 +27,10 @@
       "rpc": "https://froopyland.dymension.xyz/16/wave_2282041-1/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "description": "",
     "analytics": true,
-    "validator": true
+    "validator": true,
+    "goldberg": true,
+    "availAddress": "5D7ZVnmQChBUVu7PT3ZojkJUzFXkTTo11qUWWVE6upY2m12P"
   }
