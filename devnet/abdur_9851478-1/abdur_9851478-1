@@ -1,0 +1,35 @@
+{
+  "chainId": "abdur_9851478-1",
+  "chainName": "abdur_9851478-1",
+  "rpc": "http://84.247.189.89:26657",
+  "rest": "http://84.247.189.89:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ABD",
+      "baseDenom": "uABD",
+      "decimals": 18,
+      "logo": "/logos/abdur_9851478-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/abdur_9851478-1.png",
+  "ibc": {
+    "hubChannel": "channel-8603",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x965256",
+    "rpc": "http://http://84.247.189.89:1317:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FEsVcKfNu9ugRjR2mtm6je4s7VNSVReJD3cgA34TwEa7GqU"
+}
