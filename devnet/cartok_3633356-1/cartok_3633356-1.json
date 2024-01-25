@@ -1,8 +1,8 @@
 {
   "chainId": "cartok_3633356-1",
   "chainName": "cartok_3633356-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://84.247.188.230:26657",
+  "rest": "http://84.247.188.230:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
