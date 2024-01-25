@@ -26,8 +26,9 @@
     "chainId": "0x37ec3b",
     "rpc": "http://31.220.95.65:8545"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "allexiz_3664955-1",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GxRgSRnLbBYp6GdUAWCF1wsP4dHqm4k38KcWZSGtpi5LYmH"
 }
