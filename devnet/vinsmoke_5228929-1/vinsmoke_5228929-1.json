@@ -1,0 +1,35 @@
+{
+  "chainId": "vinsmoke_5228929-1",
+  "chainName": "Vinsomke",
+  "rpc": "http://84.247.186.164:26657",
+  "rest": "http://84.247.186.164:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/vinsmoke_5228929-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/vinsmoke_5228929-1.png",
+  "ibc": {
+    "hubChannel": "channel-8549",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4fc981",
+    "rpc": "http://84.247.186.164:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A testnet rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EF9bYV6miNaHi4qVD7H5oeFKFYF9bJ8vYMautihvXjB5SFc"
+}
