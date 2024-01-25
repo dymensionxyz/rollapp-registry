@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Hello, World!",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FyXQmDKGMUiVD157P5Lh6hAe5xVd1wib8sUyzNRKgHFXvHx"
 }
