@@ -6,7 +6,7 @@
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "utest",
+      "displayDenom": "test",
       "baseDenom": "utest",
       "decimals": 18,
       "logo": "/logos/mgcnb_4175342-1.png",
