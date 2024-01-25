@@ -1,0 +1,33 @@
+{
+  "chainId": "hairaa_8328269-1",
+  "chainName": "hairaa",
+  "rpc": "http://164.68.97.134:26657",
+  "rest": "http://164.68.97.134:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "hai",
+      "baseDenom": "uhai",
+      "decimals": 18,
+      "logo": "/logos/hairaa_8328269-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/MagisterEth",
+  "logo": "/logos/hairaa_8328269-1.png",
+  "ibc": {
+    "hubChannel": "channel-8384",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f144d",
+    "rpc": "http://164.68.97.134:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Crypto Enthusiast and Airdrop Hunter, I share the latest airdrop news and tutorials on Twitter, helping followers stay informed and skilled in the world of cryptocurrency",
+  "analytics": true
+}
