@@ -27,8 +27,9 @@
       "rpc": "https://froopyland.dymension.xyz/2/kananrollapp_3503398-1/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
-    "description": "",
+    "da": "Avail",
+    "description": "It is gonna be Amazing",
+    "availAddress": "5CrAY9jup8UhdyMsiPCT5iRYdM2DoyqAfMN1zpDXU3upo6tp",
     "analytics": true,
-    "rewards": true
+    "goldberg": true
   }
