@@ -1,0 +1,35 @@
+{
+  "chainId": "arsyanendragalih_7446875-1",
+  "chainName": "arsyanendragalih_7446875-1",
+  "rpc": "http://206.189.11.166:26657",
+  "rest": "http://206.189.11.166:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ARS",
+      "baseDenom": "uARS",
+      "decimals": 18,
+      "logo": "/logos/arsyanendragalih_7446875-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/arsyanendragalih_7446875-1.png",
+  "ibc": {
+    "hubChannel": "channel-8428",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x71a15b",
+    "rpc": "http://206.189.11.166:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5HgE7VDCXonUbcpFZLTx2MRxKeAmkqfzJgyfWUSLBWDiCxzu"  
+}
