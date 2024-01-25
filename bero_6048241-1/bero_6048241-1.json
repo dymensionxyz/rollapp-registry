@@ -1,8 +1,8 @@
 {
   "chainId": "bero_6048241-1",
   "chainName": "bero_6048241-1",
-  "rpc": "https://froopyland.dymension.xyz/18/bero_6048241-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/18/bero_6048241-1/rest",
+  "rpc": "https://158.220.84.151:26657",
+  "rest": "https://158.220.84.151:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x5c49f1",
-    "rpc": "https://froopyland.dymension.xyz/18/bero_6048241-1/evmrpc"
+    "rpc": "158.220.84.151:8545"
   },
   "type": "RollApp",
   "da": "Avail",
