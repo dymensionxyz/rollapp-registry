@@ -3,7 +3,7 @@
   "chainName": "stakesquid_1971657-1",
   "rpc": "http://143.198.68.180:26657",
   "rest": "http://143.198.68.180:1317",
-  "bech32Prefix": "your_prefix",
+  "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "squid",
