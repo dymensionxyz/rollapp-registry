@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/10/cryptogod_1141440-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "My first Avail RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G174LSTvxHJNBDhXbqWqyLcebK9rn3Tf9yXwVtdtK3hAUH8"
 }
 
