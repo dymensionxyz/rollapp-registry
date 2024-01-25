@@ -27,7 +27,8 @@
     "rpc": "https://froopyland.dymension.xyz/9/knowledge_5654358-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "GOD",
+  "goldberg": true,
+  "availAddress": "5FcHMBtqXjMyKoFQsUxszWhCEwjSnoLVa2U2WBJNSRnWn1gN"
 }
