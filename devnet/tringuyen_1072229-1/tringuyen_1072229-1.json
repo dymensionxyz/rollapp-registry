@@ -26,7 +26,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/tringuyen_1072229-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "description": "VNBnode",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5DUW8pxhVfYuEDvEyf2xB8vLjAM3dxivAh3Uw8rTfxo74Z9w"
 }
