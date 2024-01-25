@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "monivong.store",
+  "website": "monivong.xyz",
   "logo": "/logos/munivong_8331771-1.png",
   "ibc": {
     "hubChannel": "channel-7160",
@@ -27,7 +27,9 @@
     "rpc": "135.148.122.156:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Let's go barber pole",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GYft8SSBtDnzhQ8dt8CrY8pk3xGvUeFSRenRUk8ijTK3zo5"
 }
