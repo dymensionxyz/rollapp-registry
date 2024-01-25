@@ -1,8 +1,8 @@
 {
   "chainId": "bootstrap_9294242-1",
   "chainName": "bootstrap",
-  "rpc": "http://91.151.90.114:26657",
-  "rest": "http://91.151.90.114:1317",
+  "rpc": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x8dd1a2",
-    "rpc": "http://91.151.90.114:8545"
+    "rpc": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
   "analytics": true,
   "goldberg": true,
-  "availAddress": "5CqfEe5NxgnLktZZo7YBeJnawHyHHj3nUiCox32EbztSQyzw",
+  "availAddress": "5CqfEe5NxgnLktZZo7YBeJnawHyHHj3nUiCox32EbztSQyzw"
 }
