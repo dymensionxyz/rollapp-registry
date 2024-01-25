@@ -2,8 +2,8 @@
 {
   "chainId": "vozer_1742048-1",
   "chainName": "Vozer",
-  "rpc": "38.242.225.172:16657",
-  "rest": "38.242.225.172:1317",
+  "rpc": "http://38.242.225.172:16657",
+  "rest": "http://38.242.225.172:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x1a94e0",
-    "rpc": "38.242.225.172:8545"
+    "rpc": "http://38.242.225.172:8545"
   },
   "type": "RollApp",
   "da": "Avail",
