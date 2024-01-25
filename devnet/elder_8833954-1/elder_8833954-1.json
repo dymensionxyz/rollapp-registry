@@ -1,8 +1,8 @@
 {
   "chainId": "elder_8833954-1",
   "chainName": "elder_8833954-1",
-  "rpc": "161.97.86.29:26657",
-  "rest": "161.97.86.29:1317",
+  "rpc": "http://161.97.86.29:26657",
+  "rest": "http://161.97.86.29:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x86cba2",
-    "rpc": "161.97.86.29:8545"
+    "rpc": "http://161.97.86.29:8545"
   },
   "type": "RollApp",
   "da": "Avail",
