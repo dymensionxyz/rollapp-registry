@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Psycho Rollapss",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G9CNKiEqzCUbabmGxeAmMfC31hZoSKQbhdhoBFrnVLzx13B  "
 }
