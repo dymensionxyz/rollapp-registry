@@ -1,8 +1,8 @@
 {
   "chainId": "burcukale_4112966-1",
   "chainName": "burcukale",
-  "rpc": "http://38.242.158.52:26657",
-  "rest": "38.242.158.52:1317",
+  "rpc": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3ec246",
-    "rpc": "38.242.158.52:8545"
+    "rpc": "https://froopyland.dymension.xyz/12/burcukale_4112966-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
