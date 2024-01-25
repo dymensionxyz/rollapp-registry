@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/12/satusatu_7664496-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "I am a developer and admin of KudasaiJp, the largest crypto community in Japan",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H8eVFaad7tHqJdn8FUj4H3qPkeetvmSk9ktpbL5wwqkN6Yf",
   "validator": true
 }
