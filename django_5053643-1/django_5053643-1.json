@@ -15,7 +15,6 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
   "logo": "/logos/django_5053643-1.png",
   "ibc": {
     "hubChannel": "channel-5496",
@@ -31,6 +30,5 @@
   "description": "",
   "analytics": true,
   "goldberg": true,
-  "availAddress": "5GYU1Knj4DTEFJaSGVBar2P6xZkdyV3B3gsh76YfDArequNw",
-  "rewards": true
+  "availAddress": "5GYU1Knj4DTEFJaSGVBar2P6xZkdyV3B3gsh76YfDArequN"
 }
