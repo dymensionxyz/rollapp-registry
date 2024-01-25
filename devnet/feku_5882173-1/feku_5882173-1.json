@@ -1,8 +1,8 @@
 {
   "chainId": "feku_5882173-1",
-  "chainName": "FEKU",
-  "rpc": "https://froopyland.dymension.xyz/26/feku_5882173-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/26/feku_5882173-1/rest",
+  "chainName": "FEKU | feed me bro",
+  "rpc": "https://rpc.fekufeedmebro.xyz",
+  "rest": "https://rest.fekufeedmebro.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x59c13d",
-    "rpc": "https://froopyland.dymension.xyz/26/feku_5882173-1/evmrpc"
+    "rpc": "https://evmrpc.fekufeedmebro.xyz"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "CHANGING LIFE",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DDJCMuv9Y72mdRTb8uyqRR8mUkbV84XtHsmnEfc11qwVrPR"
 }
