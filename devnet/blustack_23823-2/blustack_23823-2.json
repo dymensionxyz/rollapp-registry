@@ -1,6 +1,6 @@
 {
   "chainId": "blustack_23823-2",
-  "chainName": "blustack",
+  "chainName": "blustack_23823-2",
   "rpc": "https://109.123.248.163:26557",
   "rest": "https://109.123.248.163:1317",
   "bech32Prefix": "ethm",
@@ -27,7 +27,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "analytics": true
+  "analytics": true,
   "goldberg": true,
   "availAddress": "5DyEMLFsbYPra2YBoxupfnPLTKnF6tdyRgi2SJRUsHmchE83"
 }
