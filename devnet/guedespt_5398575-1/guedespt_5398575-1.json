@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5EhGe752cuK2A953NTQUZirVsE9z1fKfSY2FY6JymRVfa4sa",
   "description": "Guedes PT",
   "analytics": true
 }
