@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/21/huginn_9261738-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
+  "goldberg": true,
+  "availAddress": "5H3zAZR2McmiGokvH76a7a23rEFTjLuRN8n1nZxL2uDT3nfv",
   "analytics": true,
   "validator": true
 }

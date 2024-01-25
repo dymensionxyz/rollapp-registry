@@ -20,15 +20,15 @@
     "faucetUrl": "",
     "ibc": {
         "timeout": 172800000,
-        "hubChannel": "channel-34",
-        "channel": "channel-3"
+        "hubChannel": "channel-3",
+        "channel": "channel-34"
     },
     "gasPriceSteps": {
         "low": 0.01,
         "average": 0.025,
         "high": 0.03
     },
-    "logo": "/logos/usdc-logo.svg",
+    "logo": "/logos/noble-icon.png",
     "type": "Regular",
     "analytics": false,
     "website": ""

@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/22/ezgi_8783143-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+ "description": "Reddawn",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnEemvanfhdRVaUP5t62sdovVpBxS8zWLhjQzxnNUg1ddhj"
 }
