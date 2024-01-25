@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/starny_7826575-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5EHPjmMiJNjRC63V59mh1wz9o9eF8VRsSq8fUMY5QvcwvJzY",
   "description": "",
   "analytics": true
 }

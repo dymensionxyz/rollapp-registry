@@ -30,6 +30,8 @@
     "da": "Avail",
     "description": "Rollapps by Hexnodes",
     "analytics": true,
+    "goldberg": true,
+    "availAddress": "5CMQ8DHwTjUeKXoabpEYtAfaxYddzUfATdCP7WRkSUu1VumT",
     "rewards": true,
     "validator": true
   }
