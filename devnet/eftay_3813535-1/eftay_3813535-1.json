@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/21/eftay_3813535-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Rues Community",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H1T2DoNdEPR3i8YmKDDXyAy3nHMv16AD7bPpVVGah1TqDsq"
 }
