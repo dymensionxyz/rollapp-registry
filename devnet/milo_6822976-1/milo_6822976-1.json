@@ -1,8 +1,8 @@
 {
   "chainId": "milo_6822976-1",
   "chainName": "milo_6822976-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/milo_6822976-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/milo_6822976-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x681c40",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/milo_6822976-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
