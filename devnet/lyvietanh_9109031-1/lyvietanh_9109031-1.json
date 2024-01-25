@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/23/lyvietanh_9109031-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Dc5qTgGJvjoGSPMEjk35Y9PrGB1vx7hjLeAhQBvyVx8JytV"
 }
