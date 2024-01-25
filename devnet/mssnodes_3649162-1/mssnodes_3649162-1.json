@@ -26,7 +26,9 @@
     "rpc": "https://froopyland.dymension.xyz/5/mssnodes_3649162-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DCNC21sM8CqcLmj5KQXtY119JNgux95w6Ftc4tM8muWgGQQ"
 }
