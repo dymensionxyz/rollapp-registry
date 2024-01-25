@@ -1,8 +1,8 @@
 {
   "chainId": "srknssmnrollapp_3009350-1",
   "chainName": "Srknssmnrollapp",
-  "rpc": "https://froopyland.dymension.xyz/8/srknssmnrollapp_3009350-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/srknssmnrollapp_3009350-1/rest",
+  "rpc": "http://65.109.143.11:26657",
+  "rest": "http://65.109.143.11:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2deb46",
-    "rpc": "https://froopyland.dymension.xyz/8/srknssmnrollapp_3009350-1/evmrpc"
+    "rpc": "http://65.108.92.159:8545"
   },
   "type": "RollApp",
   "da": "Avail",
