@@ -1,0 +1,33 @@
+{
+  "chainId": "dieuts_5683049-1",
+  "chainName": "dieuts",
+  "rpc": "http://37.27.52.240:26657",
+  "rest": "http://37.27.52.240:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dts",
+      "baseDenom": "udts",
+      "decimals": 18,
+      "logo": "/logos/dieuts_5683049-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://intonode.xyz/",
+  "logo": "/logos/dieuts_5683049-1.png",
+  "ibc": {
+    "hubChannel": "channel-8628",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x56b769",
+    "rpc": "http://37.27.52.240:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "happy to join",
+  "analytics": true
+}
