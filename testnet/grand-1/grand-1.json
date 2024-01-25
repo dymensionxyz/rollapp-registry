@@ -1,6 +1,6 @@
 {
     "chainId": "grand-1",
-    "chainName": "nobletestnet",
+    "chainName": "Noble - testnet",
     "rpc": "https://noble-testnet-rpc.polkachu.com",
     "rest": "https://noble-testnet-api.polkachu.com",
     "explorerUrl": "https://testnet.mintscan.io/noble-testnet",
@@ -21,7 +21,7 @@
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-34",
-        "channel": "channel-3",
+        "channel": "channel-3"
     },
     "gasPriceSteps": {
         "low": 0.01,
