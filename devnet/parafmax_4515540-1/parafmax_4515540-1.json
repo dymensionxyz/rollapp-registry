@@ -1,0 +1,33 @@
+{
+  "chainId": "parafmax_4515540-1",
+  "chainName": "Parafmax",
+  "rpc": "https://froopyland.dymension.xyz/22/parafmax_4515540-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/22/parafmax_4515540-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "prf",
+      "baseDenom": "uprf",
+      "decimals": 18,
+      "logo": "/logos/parafmax_4515540-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/parafmax_4515540-1.png",
+  "ibc": {
+    "hubChannel": "channel-7451",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x44e6d4",
+    "rpc": "https://froopyland.dymension.xyz/22/parafmax_4515540-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Happy and role",
+  "analytics": true
+}

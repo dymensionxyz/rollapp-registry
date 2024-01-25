@@ -1,0 +1,35 @@
+{
+  "chainId": "stakepoolrollapp_7073886-1",
+  "chainName": "StakePool",
+  "rpc": "https://rollapp.dymension.stakepool.dev.br/",
+  "rest": "https://rollapp.dymension.stakepool.dev.br/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dym",
+      "baseDenom": "udym",
+      "decimals": 18,
+      "logo": "/logos/stakepoolrollapp_7073886-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/stakepoolrollapp_7073886-1.png",
+  "ibc": {
+    "hubChannel": "channel-7050",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6bf05e",
+    "rpc": "https://rollapp.dymension.stakepool.dev.br/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "StakePool is a public blockchain infrastructure operator headquartered in Brazil. It offers non-custodial delegation services with high levels of reliability and availability.",
+  "analytics": true,
+  "rewards": true,
+  "validator": true
+}

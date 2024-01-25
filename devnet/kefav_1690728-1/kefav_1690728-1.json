@@ -1,0 +1,33 @@
+{
+    "chainId": "kefav_1690728-1",
+    "chainName": "kefav_1690728-1",
+    "rpc": "https://rpc.kekzor.xyz",
+    "rest": "https://rest.kekzor.xyz",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "kek",
+            "baseDenom": "ukek",
+            "decimals": 18,
+            "logo": "/logos/kefav_1690728-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://dym-meme.web.app/",
+    "logo": "/logos/kefav_1690728-1.png",
+    "ibc": {
+        "hubChannel": "channel-7247",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x19cc68",
+        "rpc": "https://jsonrpc.kekzor.xyz"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "Vote your favorite meme",
+    "analytics": true
+}
