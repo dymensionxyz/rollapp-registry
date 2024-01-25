@@ -1,8 +1,8 @@
 {
   "chainId": "gracecampo_8565643-1",
   "chainName": "gracecampo",
-  "rpc": "http://gracecampo.online/rollapp/rpc",
-  "rest": "http://gracecampo.online/rollapp/rest",
+  "rpc": "http://rpc.gracecampo.online",
+  "rest": "http://rest.gracecampo.online",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x82b38b",
-    "rpc": "http://gracecampo.online/rollapp/evm"
+    "rpc": "http://evm.gracecampo.online"
   },
   "type": "RollApp",
   "da": "Avail",
