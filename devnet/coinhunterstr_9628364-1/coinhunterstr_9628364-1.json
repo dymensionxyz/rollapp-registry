@@ -26,9 +26,10 @@
     "chainId": "0x92eacc",
     "rpc": "https://froopyland.dymension.xyz/24/coinhunterstr_9628364-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+   "type": "RollApp",
+  "da": "Avail",
+  "description": "Validator | Node Runner | We are building the future.",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "5E7RvG9HW1jdYRYXTUKnMNC1wpip5M4gb4x5L33JJWkgwpCj"
 }
