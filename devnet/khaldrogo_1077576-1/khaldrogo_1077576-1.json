@@ -27,7 +27,7 @@
     "rpc": "https://froopyland.dymension.xyz/23/khaldrogo_1077576-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Avail"
+  "da": "Avail",
   "description": "",
   "analytics": true,
   "goldberg": true,
