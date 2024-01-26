@@ -1,0 +1,33 @@
+{
+  "chainId": "congtinh_9423519-1",
+  "chainName": "congtinh_9423519-1",
+  "rpc": "http://31.220.95.112:26657",
+  "rest": "http://31.220.95.112:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tinh",
+      "baseDenom": "utinh",
+      "decimals": 18,
+      "logo": "/logos/congtinh_9423519-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/congtinh_9423519-1.png",
+  "ibc": {
+    "hubChannel": "channel-8776",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8fca9f",
+    "rpc": "http://31.220.95.112:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
