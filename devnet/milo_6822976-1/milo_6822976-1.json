@@ -1,8 +1,8 @@
 {
   "chainId": "milo_6822976-1",
   "chainName": "milo",
-  "rpc": "https://miladsol.xyz:26657",
-  "rest": "https://miladsol.xyz:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x681c40",
-    "rpc": "https://miladsol.xyz:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
