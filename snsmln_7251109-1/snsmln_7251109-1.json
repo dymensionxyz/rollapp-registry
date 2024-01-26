@@ -1,0 +1,33 @@
+{
+  "chainId": "snsmln_7251109-1",
+  "chainName": "sns_chain",
+  "rpc": "https://sns-dimension.freemyip.com:10001",
+  "rest": "https://sns-dimension.freemyip.com:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SNS",
+      "baseDenom": "uSNS",
+      "decimals": 18,
+      "logo": "/logos/snsmln_7251109-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/snsmln_7251109-1.png",
+  "ibc": {
+    "hubChannel": "channel-7421",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6ea4a5",
+    "rpc": "https://sns-dimension.freemyip.com:10004"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
