@@ -1,8 +1,8 @@
 {
   "chainId": "koalabear_5569552-1",
   "chainName": "koalabear_5569552-1",
-  "rpc": "http://rpc.avail.koalanodes.xyz:26657",
-  "rest": "http://rpc.avail.koalanodes.xyz:1317",
+  "rpc": "https://rpc.avail.koalanodes.xyz",
+  "rest": "https://rest.avail.koalanodes.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x54fc10",
-    "rpc": "http://rpc.avail.koalanodes.xyz:8545"
+    "rpc": "https://rpcevm.avail.koalanodes.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
