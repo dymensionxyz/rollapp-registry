@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5Hig1HXp7yuUQLH45BdxaC1FxsQxWdKuMJnz7HEikAHQoxLT"
   "description": "StakePool is a public blockchain infrastructure operator headquartered in Brazil. It offers non-custodial delegation services with high levels of reliability and availability.",
   "analytics": true,
   "rewards": true,
