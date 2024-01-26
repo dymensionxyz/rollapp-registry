@@ -1,0 +1,34 @@
+{
+  "chainId": "cosmostation_2326144-1",
+  "chainName": "Cosmostation",
+  "rpc": "https://dymension-rollapp.cosmostation.io/rpc",
+  "rest": "https://dymension-rollapp.cosmostation.io/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "cst",
+      "baseDenom": "ucst",
+      "decimals": 18,
+      "logo": "/logos/cosmostation_2326144-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://www.cosmostation.io",
+  "logo": "/logos/cosmostation_2326144-1.png",
+  "ibc": {
+    "hubChannel": "channel-8741",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x237e80",
+    "rpc": "https://dymension-rollapp.cosmostation.io/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "availAddress":"5CQ2uKse6WeTvtyzzmLfwgCoBmqHpUCe1pTqvbYU3zi11tpo",
+  "description": "Cosmostation rollapp",
+  "analytics": true
+}
