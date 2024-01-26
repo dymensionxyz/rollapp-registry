@@ -30,5 +30,6 @@
   "da": "Avail",
   "availAddress":"5CQ2uKse6WeTvtyzzmLfwgCoBmqHpUCe1pTqvbYU3zi11tpo",
   "description": "Cosmostation rollapp",
+  "goldberg": true,
   "analytics": true
 }
