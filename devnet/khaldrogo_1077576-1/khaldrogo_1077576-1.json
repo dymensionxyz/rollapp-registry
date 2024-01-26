@@ -27,9 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/23/khaldrogo_1077576-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5GpPFQuXeLuFJ2b59Fjhj22nmvBLw8wsTVgY3qADqZQitSZX"
 }
 

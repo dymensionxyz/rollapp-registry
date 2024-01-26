@@ -4,7 +4,6 @@
     "rpc": "https://froopyland.dymension.xyz/27/sychonix_4126408-1-b/rpc",
     "rest": "https://froopyland.dymension.xyz/27/sychonix_4126408-1-b/rest",
     "bech32Prefix": "ethm",
-    "goldberg": true,
     "currencies": [
       {
         "displayDenom": "SYNX",
@@ -16,7 +15,7 @@
     ],
     "coinType": 60,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-    "website": "",
+    "website": "https://sychonix.me",
     "logo": "/logos/sychonix_4126408-1.png",
     "ibc": {
       "hubChannel": "channel-8145",
@@ -26,9 +25,11 @@
     "evm": {
       "chainId": "0x3ef6c8",
       "rpc": "https://froopyland.dymension.xyz/27/sychonix_4126408-1-b/evmrpc"
-    },
-    "type": "RollApp",
-    "da": "Avail",
-    "description": "",
-    "analytics": true
-  }
+   },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fh76ixZwqc3kBpuJ9K62f6MUdzP4VbHPtaXYJg3MBk9SpiG"
+}
