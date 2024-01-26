@@ -1,8 +1,8 @@
 {
   "chainId": "jackerchan_1218418-1",
   "chainName": "jackerchan_1218418-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://rpc.phonemail.lol/",
+  "rest": "https://rest.phonemail.lol/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x129772",
-    "rpc": ""
+    "rpc": "https://rpc.phonemail.lol/"
   },
   "type": "RollApp",
   "da": "Avail",
