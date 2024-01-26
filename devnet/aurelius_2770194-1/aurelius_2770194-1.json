@@ -1,0 +1,33 @@
+{
+  "chainId": "aurelius_2770194-1",
+  "chainName": "aurelius_2770194-1",
+  "rpc": "http://161.97.132.116:26657",
+  "rest": "http://161.97.132.116:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ALS",
+      "baseDenom": "uALS",
+      "decimals": 18,
+      "logo": "/logos/aurelius_2770194-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aurelius_2770194-1.png",
+  "ibc": {
+    "hubChannel": "channel-8784",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2a4512",
+    "rpc": "http://161.97.132.116:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
