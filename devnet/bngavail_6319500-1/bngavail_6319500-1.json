@@ -1,5 +1,5 @@
 {
-  "chainId": "bngavail_6319500-1,
+  "chainId": "bngavail_6319500-1",
   "chainName": "bngavail_6319500-1",
   "rpc": "http://88.179.232.84:26657"
   "rest": "http:/88.179.232.84:1317",
