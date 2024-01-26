@@ -1,0 +1,33 @@
+{
+  "chainId": "sulemns_5749772-1",
+  "chainName": "sulemns_5749772-1",
+  "rpc": "http://24.199.97.95:26657",
+  "rest": "http://24.199.97.95:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "slmn",
+      "baseDenom": "uslmn",
+      "decimals": 18,
+      "logo": "/logos/sulemns_5749772-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sulemns_5749772-1.png",
+  "ibc": {
+    "hubChannel": "channel-8551",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x57bc0c",
+    "rpc": "http://24.199.97.95:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
