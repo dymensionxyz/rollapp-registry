@@ -30,5 +30,6 @@
   "da": "Avail",
   "description": "GLnetwork for navigating",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5DJh1dA6PfQ4ToywWp9RG1924MZgE2YvJpz4iexFeRAVi4oM"
 }

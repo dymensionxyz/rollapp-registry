@@ -1,8 +1,8 @@
 {
   "chainId": "tiaozhange_8909696-1",
   "chainName": "tiaozhange",
-  "rpc": "https://froopyland.dymension.xyz/13/tiaozhange_8909696-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/tiaozhange_8909696-1/rest",
+  "rpc": "http://43.156.73.64:26657",
+  "rest": "http://43.156.73.64:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x87f380",
-    "rpc": "https://froopyland.dymension.xyz/13/tiaozhange_8909696-1/evmrpc"
+    "rpc": "http://43.156.73.64:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Epn5KUKqT759Y3369t8MxmyGhQNUqay8ds1aUaTRQkEud5D"
 }

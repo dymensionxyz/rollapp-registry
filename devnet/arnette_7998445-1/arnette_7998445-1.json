@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/arnette_7998445-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5H3E3Uk575egNvPyFKVgQ76VXJPaMpxNFqbbC2912iAFtEVw",
+  "description": "arnette",
   "analytics": true
 }
