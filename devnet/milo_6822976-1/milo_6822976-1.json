@@ -1,0 +1,36 @@
+{
+  "chainId": "milo_6822976-1",
+  "chainName": "milo",
+  "rpc": "https://45.59.120.178:26657",
+  "rest": "https://45.59.120.178:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/milo_6822976-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/milo_6822976-1.png",
+  "ibc": {
+    "hubChannel": "channel-8435",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x681c40",
+    "rpc": "https://45.59.120.178:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "availAddress": "5D7E1icNPo3rvzfs1c6nJC5ykACE8g4GMHiPWwRk7cxVfoPj" ,
+  "analytics": true ,
+  "goldberg": true
+}
+
