@@ -1,8 +1,8 @@
 {
   "chainId": "bootstrap_9294242-1",
   "chainName": "bootstrap",
-  "rpc": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/rest",
+  "rpc": "http://91.151.90.114:26657",
+  "rest": "http://91.151.90.114:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8dd1a2",
-    "rpc": "https://froopyland.dymension.xyz/11/bootstraprollapp_9294242-1/evmrpc"
+    "rpc": "http://91.151.90.114:8545"
   },
   "type": "RollApp",
   "da": "Avail",
