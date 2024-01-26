@@ -1,8 +1,18 @@
 {
   "chainId": "ggjr_5453645-1",
   "chainName": "ggjr_5453645-1",
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "rpc": "http://38.242.213.183:26657",
+  "rest": "http://38.242.213.183:1317",
+=======
   "rpc": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/rpc",
   "rest": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/rest",
+>>>>>>> 24fa35dc412f6e0b51ca6c92087ec1f8e6aac5ae
+=======
+  "rpc": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/rest",
+>>>>>>> 24fa35dc412f6e0b51ca6c92087ec1f8e6aac5ae
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +34,21 @@
   },
   "evm": {
     "chainId": "0x53374d",
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "rpc": "http://38.242.213.183:8545"
+=======
     "rpc": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/evmrpc"
+>>>>>>> 24fa35dc412f6e0b51ca6c92087ec1f8e6aac5ae
+=======
+    "rpc": "https://froopyland.dymension.xyz/27/ggjr_5453645-1/evmrpc"
+>>>>>>> 24fa35dc412f6e0b51ca6c92087ec1f8e6aac5ae
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5F3rpuk9coWGgTujPh3XruRVyhXo6k9JLPYxGPDiH1NDV6J9"
+
 }

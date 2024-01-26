@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/25/gcr_5069493-1-c/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "GCR - Global Coin Research",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ge55JPDMgB3dRUuRxeYWSiRbdR39c8pf1FmmMxT9ufDzqri"
 }

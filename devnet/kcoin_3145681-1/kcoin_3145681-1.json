@@ -1,8 +1,8 @@
 {
   "chainId": "kcoin_3145681-1",
   "chainName": "kcoin",
-  "rpc": "https://froopyland.dymension.xyz/13/kcoin_3145681-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/kcoin_3145681-1/rest",
+  "rpc": "http://119.28.112.175:26657",
+  "rest": "http://119.28.112.175:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x2fffd1",
-    "rpc": "https://froopyland.dymension.xyz/13/kcoin_3145681-1/evmrpc"
+    "rpc": "http://119.28.112.175:8545"
   },
-  "type": "RollApp",
-  "da": "Celestia",
+    "type": "RollApp",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FUEHMTmFuMvkQzPgn4G275wiQDqQ6HYMHFeCaZcHvrNxCmZ"
 }
