@@ -1,0 +1,33 @@
+{
+  "chainId": "leonnode_6566716-1",
+  "chainName": "leonnode_6566716-1",
+  "rpc": "http://84.247.128.239:26657",
+  "rest": "http:///84.247.128.239:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "leon",
+      "baseDenom": "uleon",
+      "decimals": 18,
+      "logo": "/logos/leonnode_6566716-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/leonnode_6566716-1.png",
+  "ibc": {
+    "hubChannel": "channel-8768",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x64333c",
+    "rpc": "http://84.247.128.239:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
