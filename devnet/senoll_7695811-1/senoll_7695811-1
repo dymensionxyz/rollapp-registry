@@ -26,9 +26,10 @@
     "chainId": "0x756dc3",
     "rpc": "https://froopyland.dymension.xyz/16/senoll_7695811-1/evmrpc"
   },
-  "da": "Avail",
-  "description": "We are building the future with Avail, join us",
-  "analytics": true,
-  "goldberg": true,
-  "availAddress": "5F4cb7TN8ynNu3nL1kS1zBZrQRSCh4NCn6NiufFU9T8c8nkc"
+    "type": "RollApp",
+    "da": "Avail",
+    "goldberg": true,
+    "availAddress": "5F4cb7TN8ynNu3nL1kS1zBZrQRSCh4NCn6NiufFU9T8c8nkc",
+    "description": "senoll",
+    "analytics": true"
 }
