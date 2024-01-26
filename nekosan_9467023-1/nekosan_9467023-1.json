@@ -1,8 +1,8 @@
 {
   "chainId": "nekosan_9467023-1",
   "chainName": "nekosan_9467023-1",
-  "rpc": "http://217.76.53.108:26657",
-  "rest": "http://217.76.53.108:1317",
+  "rpc": "https://froopyland.dymension.xyz/nekosan_9467023-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/nekosan_9467023-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x90748f",
-    "rpc": "http://217.76.53.108:8545"
+    "rpc": "https://froopyland.dymension.xyz/nekosan_9467023-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "Description of your RollApp",
-  "analytics": true,
+  "description": "",
+  "analytics": true
   "goldberg": true,
   "availAddress": "5Cihj965tgwYCRBJY5okavgZPU1xCpsRTtRQBzboDV2bVkxo"
 }
