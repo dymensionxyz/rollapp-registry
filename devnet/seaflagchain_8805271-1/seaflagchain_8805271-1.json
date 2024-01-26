@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x97292d",
-    "rpc": "https://froopyland.dymension.xyz/13/seaflagchain_8805271-1/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/seaflagchain_8805271-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
