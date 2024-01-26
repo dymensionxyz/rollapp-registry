@@ -1,0 +1,35 @@
+{ 
+  "chainId": "oxgen_1077114-1",
+  "chainName": "oxgen_1077114-1",
+  "rpc": "https://51.159.82.67:26657",
+  "rest": "http://51.159.82.67:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    { 
+      "displayDenom": "oxt",
+      "baseDenom": "uoxt",
+      "decimals": 18,
+      "logo": "/logos/oxgen_1077114-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "0xgen.online",
+  "logo": "/logos/oxgen_1077114-1.png",
+  "ibc": {
+    "hubChannel": "channel-8579",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x106f7a",
+    "rpc": "http://51.159.82.67:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "ox",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CtaRhyUsqQ1HVQiHESmhwPuE6k25X11U1KVW1henrW7iRgh"
+}

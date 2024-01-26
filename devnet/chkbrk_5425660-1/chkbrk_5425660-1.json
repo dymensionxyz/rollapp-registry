@@ -1,8 +1,8 @@
 {
   "chainId": "chkbrk_5425660-1",
-  "chainName": "chkbrk",
-  "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rpc",
-  "rest": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/rest",
+  "chainName": "chkbrk_5425660-1",
+  "rpc": "http://192.162.23.11:26657",
+  "rest": "http://192.162.23.11:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x52c9fc",
-    "rpc": "https://froopyland.dymension.xyz/25/chkbrk_5425660-1-d/evmrpc"
+    "rpc": "http://192.162.23.11:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "welcome to rollup",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CSNZNXof1Mv5idqyMFQ1XFubMMxAZuv5AoC6D8FjdjozWBf"
 }

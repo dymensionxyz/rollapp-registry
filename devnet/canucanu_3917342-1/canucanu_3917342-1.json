@@ -1,8 +1,8 @@
 {
   "chainId": "canucanu_3917342-1",
-  "chainName": "Canucanu",
-  "rpc": "https://froopyland.dymension.xyz/10/canucanu_3917342-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/10/canucanu_3917342-1/rest",
+  "chainName": "canucanu",
+  "rpc": "http://49.13.80.77:26657",
+  "rest": "http://49.13.80.77:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x3bc61e",
-    "rpc": "https://froopyland.dymension.xyz/10/canucanu_3917342-1/evmrpc"
+    "rpc": "http://49.13.80.77:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "PLAY ANIMALCROSSING",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress" "5H4MJubMMq5E8NudXsVpRCr8vWYYcRRXnjqwocR5tRHfyzGt"
 }

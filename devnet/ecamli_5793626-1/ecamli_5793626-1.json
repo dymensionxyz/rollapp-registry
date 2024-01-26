@@ -1,8 +1,8 @@
 {
   "chainId": "ecamli_5793626-1",
   "chainName": "Ecamli",
-  "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rest",
+  "rpc": "http://135.181.25.166:26657",
+  "rest": "http://135.181.25.166:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x58675a",
-    "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/evmrpc"
+    "rpc": "http://135.181.25.166:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ESFn2qvwbCzVfb6NsBcVMkCn6QzUC2VvmEDJs4k6n4yGqzo"
 }
