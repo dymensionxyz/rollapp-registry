@@ -4,7 +4,6 @@
   "rpc": "https://rpc-dymension.dnsarz.xyz",
   "rest": "https://api-dymension.dnsarz.xyz",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "DNZ",
@@ -29,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "If I die before I wake, I pray the Lord my soul to take",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E4r5VCBXc2aggo288mvYrHVtDP9bCySCtZaGjEbCUfJj7Xr"
 }

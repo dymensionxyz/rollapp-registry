@@ -27,8 +27,9 @@
     "rpc": "https://dym-rollapp-evm.bwarelabs.com"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "5CCfVPwewuS9Gh5sSHHporp1QWRde6PGTpAjtZENTpgVQv8n"
 }

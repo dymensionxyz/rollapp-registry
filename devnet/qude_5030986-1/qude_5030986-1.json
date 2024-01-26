@@ -26,8 +26,9 @@
     "chainId": "0x4cc44a",
     "rpc": "https://froopyland.dymension.xyz/17/qude_5030986-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "QUDE Dymension Rollup on Avail DA",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CaWg4HcU4NBDSVDinSM7GkUPCPr8zLUe7koFpUZrNEsv8Pj"
 }

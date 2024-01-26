@@ -3,7 +3,6 @@
   "chainName": "psychopass",
   "rpc": "https://froopyland.dymension.xyz/26/psychopass_8373556-1/rpc",
   "rest": "https://froopyland.dymension.xyz/26/psychopass_8373556-1/rest",
-  "goldberg": true,
   "bech32Prefix": "ethm",
   "currencies": [
     {
