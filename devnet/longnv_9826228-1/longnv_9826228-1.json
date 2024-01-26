@@ -1,8 +1,8 @@
 {
   "chainId": "longnv_9826228-1",
   "chainName": "longnv_9826228-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://128.140.78.172:26657",
+  "rest": "http://128.140.78.172:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x95efb4",
-    "rpc": ""
+    "rpc": "http://128.140.78.172:8545"
   },
   "type": "RollApp",
   "da": "Avail",
