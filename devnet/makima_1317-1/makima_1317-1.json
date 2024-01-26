@@ -15,8 +15,8 @@
       }
     ],
     "coinType": 60,
-    "explorerUrl": "https://explorer.nodexcapital.com/makima",
-    "exploreTxUrl": "https://explorer.nodexcapital.com/makima/tx/",
+    "explorerUrl": "https://explorer.nodex.one/makima",
+    "exploreTxUrl": "https://explorer.nodex.one/makima/tx/",
     "website": "https://github.com/sxlmnwb",
     "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
     "logo": "/logos/makima_1317-1.png",
@@ -32,5 +32,7 @@
     "type": "RollApp",
     "da": "Avail",
     "analytics": true,
-    "rewards": true
+    "rewards": true,
+    "goldberg": true,
+    "availAddress": "5DstyFiZj4cy5VrX6HRMN89L9iBUR7ezPSicStPWNykbTwYG"
   }

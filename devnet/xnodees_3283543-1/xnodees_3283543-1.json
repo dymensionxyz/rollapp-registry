@@ -27,7 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/28/xnodees_3283543-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "number 2 is winner",
+  "analytics": true,
+  "goldberg": true,
+  "rewards": true,
+  "availAddress": "5C7M1nFri3LRjZzM2TnwHWLkbWzegYfbQbdgWEzJbRRmeA7P"
 }

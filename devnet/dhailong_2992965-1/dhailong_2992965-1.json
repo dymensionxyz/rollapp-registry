@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/dhailong_2992965-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CUY7ZBPGoPZUd41hM3efzayKKsaDm2FLQQVX4QM7FPkftYE"
 }

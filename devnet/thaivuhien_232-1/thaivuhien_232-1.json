@@ -1,5 +1,7 @@
 {
-    "da": "Celestia",
+    "da": "Avail",
+    "goldberg": true,
+    "availAddress": "5DWiZ3dRixfFiG3qM9xxRFJk53wLzeXfck8xDaSFcowRAk8Q",
     "rpc": "https://froopyland.dymension.xyz/thaivuhien_232-1/rpc",
     "rest": "https://froopyland.dymension.xyz/thaivuhien_232-1/rest",
     "evm": {
