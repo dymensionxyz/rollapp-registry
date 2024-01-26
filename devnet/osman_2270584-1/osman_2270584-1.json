@@ -1,8 +1,8 @@
 {
   "chainId": "osman_2270584-1",
   "chainName": "0xosman",
-  "rpc": "https://froopyland.dymension.xyz/18/osman_2270584-1-a/rpc",
-  "rest": "https://froopyland.dymension.xyz/18/osman_2270584-1-a/rest",
+  "rpc": "http://167.86.66.177:26657",
+  "rest": "http://167.86.66.177:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x22a578",
-    "rpc": "https://froopyland.dymension.xyz/18/osman_2270584-1-a/evmrpc"
+    "rpc": "http://167.86.66.177:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "0xosman rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ENqqLHYhhz8Xqc4L5vHddETaZQCGcH6rbFSXFMXD1DGAmJG"
 }
