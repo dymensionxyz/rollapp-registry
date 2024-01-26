@@ -1,0 +1,35 @@
+{
+  "chainId": "escbasevietnam_8182791-1",
+  "chainName": "Roller ESCBASE Vietnam",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ESC",
+      "baseDenom": "uESC",
+      "decimals": 18,
+      "logo": "/logos/escbasevietnam_8182791-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/escbasevietnam_8182791-1.png",
+  "ibc": {
+    "hubChannel": "channel-8594",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7cdc07",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Roller ESCBASE Vietnam",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DfUBzCrHCSzLVT5Hn1NQTSgrkMJHmXQ9SzqKvpa2ebuBfNL"
+}
