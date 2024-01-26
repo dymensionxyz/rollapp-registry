@@ -26,7 +26,7 @@
     "chainId": "0x82e041",
     "rpc": "https://froopyland.dymension.xyz/16/cnsask_8577089-1/evmrpc"
   },
-  "type": "RollApp"
+  "type": "RollApp",
   "da": "Avail",
   "description": "cnsask_8577089-1",
   "analytics": true,
