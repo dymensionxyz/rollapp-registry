@@ -26,8 +26,10 @@
     "rpc": "https://dymension-evmrpc-rollap.stavr.tech"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "rewards": true,
+  "da": "Avail",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H3e4LrWYeaoMEUWXgkuvHXCAYSGHXKA2PhajoPAW53tx6Zm",
+  "rewards": true,
   "validator": true
 }

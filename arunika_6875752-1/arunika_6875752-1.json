@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/24/arunika_6875752-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5GbVkA6LdXDmfyD1wajvJeVUcWakNiVAm5riF26Vd3ujj3rX"
   "description": "",
   "analytics": true
 }
