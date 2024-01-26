@@ -1,8 +1,8 @@
 {
   "chainId": "seaflagchain_8805271-1",
   "chainName": "seaflagchain",
-  "rpc": "https://froopyland.dymension.xyz/13/seaflagchain_8805271-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/seaflagchain_8805271-1/rest",
+  "rpc": "https://froopyland.dymension.xyz/seaflagchain_8805271-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/seaflagchain_8805271-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x97292d",
-    "rpc": "https://froopyland.dymension.xyz/13/seaflagchain_8805271-1.jpg/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/13/seaflagchain_8805271-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
