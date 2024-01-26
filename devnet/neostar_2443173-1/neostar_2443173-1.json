@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/neostar_2443173-1.png",
   "ibc": {
-    "hubChannel": "channel-8540",
-    "channel": "channel-0",
+    "hubChannel": "channel-8599",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
