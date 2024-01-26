@@ -1,8 +1,8 @@
 {
   "chainId": "abyss_9747778-1",
   "chainName": "Abyss",
-  "rpc": "http://38.242.129.140:26657",
-  "rest": "http://38.242.129.140:1317",
+  "rpc": "https://axelart.urusthelight.xyz",
+  "rest": "https://axelar.urusthelight.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x94bd42",
-    "rpc": "http://38.242.129.140:8545"
+    "rpc": "https://avail.urusthelight.xyz"
   },
   "goldberg": true,
   "availAddress": "5CqXBbEnHu6FKokCjqF5i6nTTyRtiscqrb2iqUBRF5Z4oM2D",
