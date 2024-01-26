@@ -1,0 +1,33 @@
+{
+  "chainId": "caviblocks_7357151-1",
+  "chainName": "caviblocks_7357151-1",
+  "rpc": "http://31.220.93.48:26657",
+  "rest": "http://31.220.93.48:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CAVI",
+      "baseDenom": "uCAVI",
+      "decimals": 18,
+      "logo": "/logos/caviblocks_7357151-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/caviblocks_7357151-1.png",
+  "ibc": {
+    "hubChannel": "channel-8675",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7042df",
+    "rpc": "http://31.220.93.48:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
