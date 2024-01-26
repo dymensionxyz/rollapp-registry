@@ -26,7 +26,7 @@
     "chainId": "0x756dc3",
     "rpc": "https://froopyland.dymension.xyz/16/senoll_7695811-1/evmrpc"
   },
-"da": "Avail Available",
+  "da": "Avail",
   "description": "We are building the future with Avail, join us",
   "analytics": true,
   "goldberg": true,
