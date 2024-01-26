@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "zentsu layer",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G68igjehHDxaU77WRGQEkqdfkAWxRY6TfjgSMRy6XHGJB9n"
 }
