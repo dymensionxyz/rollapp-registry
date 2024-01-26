@@ -1,0 +1,33 @@
+{
+  "chainId": "minhtuc_7129713-1",
+  "chainName": "minhtuc_7129713-1",
+  "rpc": "http://109.123.246.185:26657",
+  "rest": "http://109.123.246.185:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tuc",
+      "baseDenom": "utuc",
+      "decimals": 18,
+      "logo": "/logos/minhtuc_7129713-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/minhtuc_7129713-1.png",
+  "ibc": {
+    "hubChannel": "channel-8787",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6cca71",
+    "rpc": "http://109.123.246.185:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
