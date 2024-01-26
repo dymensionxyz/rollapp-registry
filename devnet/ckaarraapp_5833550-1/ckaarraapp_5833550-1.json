@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "This is the fastest rollapp on the WORLD. TRY IT !",
-  "analytics": true
-  "goldberg": true
-  "availAddress": "5DRvctg1WkMM3x55Mogx67SLCrKn28XRHAFTtem6MwxcnfjY "
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DRvctg1WkMM3x55Mogx67SLCrKn28XRHAFTtem6MwxcnfjY"
 }
