@@ -1,0 +1,35 @@
+{
+  "chainId": "bngavail_6319500-1,
+  "chainName": "bngavail_6319500-1",
+  "rpc": "http://88.179.232.84:26657"
+  "rest": "http:/88.179.232.84:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "bngava",
+      "baseDenom": "ubngava",
+      "decimals": 18,
+      "logo": "/logos/bngavail_6319500-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bngavail_6319500-1.png",
+  "ibc": {
+    "hubChannel": "channel-8398",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x182fea",
+    "rpc": "http://88.179.232.84:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "BNAVAIL RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CPsUzMeLvQrj1z1pCqskBk5zmZ1sNFzFPvcg37tmqFQWE48"
+}
