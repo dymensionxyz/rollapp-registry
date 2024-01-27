@@ -1,0 +1,28 @@
+{
+"chainId": "phuclongle_4330792-1",
+  "chainName": "phuclongle_4330792-1",
+  "rpc": "http://84.247.133.105:26657",
+  "rest": "http://84.247.133.105:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PLL",
+      "baseDenom": "uPLL",
+      "decimals": 18,
+      "logo": "/logos/phuclongle_4330792-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/phuclongle_4330792-1.png",
+  "ibc": {
+    "hubChannel": "channel-8911",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x421528",
+    "rpc": "http://84.247.133.105:8545"
+  },
