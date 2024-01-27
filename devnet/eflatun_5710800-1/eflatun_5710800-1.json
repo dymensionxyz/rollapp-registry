@@ -1,0 +1,35 @@
+{
+  "chainId": "eflatun_5710800-1",
+  "chainName": "eflatun_5710800-1",
+  "rpc": "http://161.97.73.149:26657",
+  "rest": "http://161.97.73.149:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "eft",
+      "baseDenom": "ueft",
+      "decimals": 18,
+      "logo": "/logos/eflatun_5710800-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/eflatun_5710800-1.png",
+  "ibc": {
+    "hubChannel": "channel-8339",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5723d0",
+    "rpc": "http://161.97.73.149:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5Fk2oa7cVCM2kSLvGeiFVr4TiHkgW657PEBU2LP5LveTtg4R",
+  "analytics": true
+}

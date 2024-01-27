@@ -1,0 +1,35 @@
+{
+  "chainId": "jackerchan_1218418-1",
+  "chainName": "jackerchan_1218418-1",
+  "rpc": "https://rpc.phonemail.lol:26657",
+  "rest": "https://rest.phonemail.lol:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "jac",
+      "baseDenom": "ujac",
+      "decimals": 18,
+      "logo": "/logos/jackerchan_1218418-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jackerchan_1218418-1.png",
+  "ibc": {
+    "hubChannel": "channel-8790",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x129772",
+    "rpc": "https://rpc.phonemail.lol:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FNQ3yXFE1jPwGpUb7R6R5EAxQYgnVgJdtH5JHJsd7XLRVK4",
+  "description": "Jackerchan Roller App",
+  "analytics": true
+}

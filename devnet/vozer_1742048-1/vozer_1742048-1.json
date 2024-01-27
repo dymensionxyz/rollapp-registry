@@ -1,0 +1,36 @@
+{
+  "chainId": "vozer_1742048-1",
+  "chainName": "Vozer",
+  "rpc": "http://38.242.225.172:16657",
+  "rest": "http://38.242.225.172:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/vozer_1742048-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "www.voz.vn",
+  "logo": "/logos/vozer_1742048-1.png",
+  "ibc": {
+    "hubChannel": "channel-8472",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1a94e0",
+    "rpc": "http://38.242.225.172:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Vozer in Dymenson",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GVxCCAY1b4MhzyNygqsWtnmCu9MRppoJGjXXfpHjZmYGNnQ"
+
+}
