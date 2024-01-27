@@ -1,8 +1,8 @@
 {
   "chainId": "dymlab_5025749-1",
   "chainName": "dymlab_5025749-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "75.119.141.44:26657",
+  "rest": "75.119.141.44:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4cafd5",
-    "rpc": ""
+    "rpc": "75.119.141.44:8545"
   },
   "type": "RollApp",
   "da": "Avail",
