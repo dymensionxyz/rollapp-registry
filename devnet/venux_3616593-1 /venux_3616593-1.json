@@ -1,8 +1,8 @@
 {
   "chainId": "venux_3616593-1",
   "chainName": "venux_3616593-1",
-  "rpc": "http://95.217.203.60:26657",
-  "rest": "http://95.217.203.60:1317",
+  "rpc": "http://95.111.240.61:26657",
+  "rest": "http://95.111.240.61:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x372f51",
-    "rpc": "http://95.217.203.60:8545"
+    "rpc": "http://95.111.240.61:8545"
   },
   "type": "RollApp",
   "da": "Avail",
