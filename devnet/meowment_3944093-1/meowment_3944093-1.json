@@ -15,6 +15,8 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "explorerUrl": "https://explorer.meowment.xyz/Meowment",
+  "exploreTxUrl": "https://explorer.meowment.xyz/Meowment/tx/",
   "website": "portal.meowment.xyz",
   "logo": "/logos/meowment_3944093-1.png",
   "ibc": {
