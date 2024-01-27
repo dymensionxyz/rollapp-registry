@@ -1,8 +1,8 @@
 {
   "chainId": "karamustafa_5568016-1",
   "chainName": "karamustafa_5568016-1",
-  "rpc": "http://173.212.204.174",
-  "rest": "http://173.212.204.174",
+  "rpc": "https://froopyland.dymension.xyz/12/karamustafa_5568016-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/12/karamustafa_5568016-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
