@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rpc",
   "rest": "https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "JRG",
@@ -16,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://jarangoyang-blockexplorer.vercel.app",
   "logo": "/logos/jarangoyang_6379967-1.jpg",
   "ibc": {
     "hubChannel": "channel-6671",
@@ -29,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "modular chains enjoooyer",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EFLo8Ez9rSsoi3eRga7MZMvPt34EVokDjSAX6Y1c7yyz7TG",
   "rewards": true
 }

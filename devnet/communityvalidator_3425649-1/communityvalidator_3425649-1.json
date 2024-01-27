@@ -1,0 +1,35 @@
+{
+  "chainId": "communityvalidator_3425649-1",
+  "chainName": "communityvalidator_3425649-1",
+  "rpc": "http://193.34.213.6:26657",
+  "rest": "http://193.34.213.6:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "cvt",
+      "baseDenom": "ucvt",
+      "decimals": 18,
+      "logo": "/logos/communityvalidator_3425649-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://community-validator.org/",
+  "logo": "/logos/communityvalidator_3425649-1.png",
+  "ibc": {
+    "hubChannel": "channel-8590",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x344571",
+    "rpc": "http://193.34.213.6:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "CV",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DyGiQnXpxfUFjVaZS1oWqcWHnosTr5L7dX8kqum11mSNtc1"
+}

@@ -28,8 +28,9 @@
       "rpc": "https://froopyland.dymension.xyz/reguidewiki_6677/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "analytics": true,
-    "rewards": true
+    "goldberg": true,
+    "availAddress": "5F1DBTeP4R1njgtK2cB6JuyaBx9ZhRod3exNBc8R9UKKpFUA"
   }
 

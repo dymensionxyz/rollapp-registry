@@ -1,0 +1,35 @@
+{
+  "chainId": "progenitor_6307246-1",
+  "chainName": "progenitor_6307246-1",
+  "rpc": "http://84.247.161.13:26657",
+  "rest": "http://84.247.161.13:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "prg",
+      "baseDenom": "uprg",
+      "decimals": 18,
+      "logo": "/logos/progenitor_6307246-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/progenitor_6307246-1.png",
+  "ibc": {
+    "hubChannel": "channel-8414",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x603dae",
+    "rpc": "http://84.247.161.13:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Blockchain & Cryptocurrency researcher, enthusiast. Contact TG @Progenitor",
+  "goldberg": true,
+  "availAddress": "5CyVN28Rdk78o6W6HrWGiFT9Cqvf1LmpW3kH4VbaQ5UhwBBp",
+  "analytics": true
+}

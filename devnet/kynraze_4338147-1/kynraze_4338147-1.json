@@ -17,7 +17,7 @@
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "explorerUrl": "https://testnet.kynraze.com/kynraze",
   "exploreTxUrl": "https://testnet.kynraze.com/kynraze/tx/",
-  "website": "https://hub.kynraze.com",
+  "website": "https://ecosystem.kynraze.com",
   "logo": "/logos/kynraze_4338147-1.png",
   "ibc": {
     "hubChannel": "channel-7357",
@@ -32,5 +32,7 @@
   "da": "Avail",
   "description": "Discover a new way to enhance your digital experience. Our platform offers a unique blend of features that cater to various needs. Our goal is to provide an all-in-one solution. Experience the future of convenience.",
   "analytics": true,
-  "validator": true
+  "validator": true,
+  "goldberg": true,
+  "availAddress": "5GYsUVQaPsPigD5YHqLYNDHrL6t2oBw2aDFNo9rnJjPfEYcW"
 }
