@@ -1,1 +1,33 @@
-
+{
+  "chainId": "taiproapp_7011790-1",
+  "chainName": "taiproapp_7011790-1",
+  "rpc": "http://81.0.247.172:26657",
+  "rest": "http://81.0.247.172:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TPR",
+      "baseDenom": "uTPR",
+      "decimals": 18,
+      "logo": "/logos/taiproapp_7011790-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/taiproapp_7011790-1.png",
+  "ibc": {
+    "hubChannel": "channel-8765",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6afdce",
+    "rpc": "81.0.247.172:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
