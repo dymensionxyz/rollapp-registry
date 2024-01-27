@@ -1,6 +1,6 @@
 {
   "chainId": "kalyzom_8150940-1",
-  "chainName": "kalyzom_8150940-1",
+  "chainName": "kaly chain",
   "rpc": "http://5.189.172.185:26657",
   "rest": "http://5.189.172.185:1317",
   "bech32Prefix": "ethm",
@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Kaly rollapp",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5CoV3JyrpQZKTHfWBgvi4VBCinvUuUDu15quDaZfKyqBpnZF"
 }
