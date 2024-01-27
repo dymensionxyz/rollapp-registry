@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Amiya developer",
+  "goldberg": true,
+  "availAddress": "5D4ZvvxNpX29idEuhRcTrGDD6f46cFbeEW2GjWV1EW1ioNTx",
   "analytics": true
 }
