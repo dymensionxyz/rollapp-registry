@@ -1,8 +1,8 @@
 {
   "chainId": "ftmrollapp_3233784-1",
   "chainName": "FLYTOMOON-NODE",
-  "rpc": "95.111.241.238:26657",
-  "rest": "95.111.241.238:1317",
+  "rpc": "http://95.111.241.238:26657",
+  "rest": "http://95.111.241.238:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3157f8",
-    "rpc": "95.111.241.238:8545"
+    "rpc": "http://95.111.241.238:8545"
   },
   "type": "RollApp",
   "da": "Avail",
