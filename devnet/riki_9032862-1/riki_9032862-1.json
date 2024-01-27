@@ -1,6 +1,6 @@
 {
   "chainId": "riki_9032862-1",
-  "chainName": "riki_9032862-1",
+  "chainName": "riki",
   "rpc": "http://84.247.179.97:26657",
   "rest": "http://84.247.179.97:1317",
   "bech32Prefix": "ethm",
