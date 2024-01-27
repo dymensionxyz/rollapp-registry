@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/icforx_2303127-1.png",
   "ibc": {
-    "hubChannel": "channel-5502",
+    "hubChannel": "channel-8905",
     "channel": "channel-0",
     "timeout": 172800000
   },
