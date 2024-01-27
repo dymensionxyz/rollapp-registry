@@ -1,15 +1,15 @@
 {
   "chainId": "venus_3563382-1",
   "chainName": "venus_3563382-1",
-  "rpc": "http://157.230.99.130:26657",
-  "rest": "http://157.230.99.130:1317",
+  "rpc": "https://froopyland.dymension.xyz/17/venus_3563382-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/venus_3563382-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "vns",
       "baseDenom": "uvns",
       "decimals": 18,
-      "logo": "/logos/venus_3563382-1.png",
+      "logo": "/logos/venus_3563382-1.jpg",
       "type": "main"
     }
   ],
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x365f76",
-    "rpc": "http://157.230.99.130:8545"
+    "rpc": "https://froopyland.dymension.xyz/17/venus_3563382-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
