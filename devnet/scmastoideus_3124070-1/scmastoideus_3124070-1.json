@@ -1,8 +1,8 @@
 {
   "chainId": "scmastoideus_3124070-1",
   "chainName": "scmastoideus_3124070-1",
-  "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/rest",
+  "rpc": "http://31.220.84.212:26657",
+  "rest": "http://31.220.84.212:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x2fab66",
-    "rpc": "https://froopyland.dymension.xyz/16/scmastoideus_3124070-1/evmrpc"
+    "rpc": "http://31.220.84.212:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5FS1VLWSDPsnBgqodRSDQbEUVkXaV5WrAvgvttdccucEt2GJ"
 }

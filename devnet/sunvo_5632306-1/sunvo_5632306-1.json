@@ -1,8 +1,8 @@
 {
   "chainId": "sunvo_5632306-1",
   "chainName": "Sunvo",
-  "rpc": "https://froopyland.dymension.xyz/13/sunvo_5632306-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/13/sunvo_5632306-1/rest",
+  "rpc": "http://43.156.163.179:26657",
+  "rest": "http://43.156.163.179:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x55f132",
-    "rpc": "https://froopyland.dymension.xyz/13/sunvo_5632306-1/evmrpc"
+    "rpc": "http://43.156.163.179:8545"
   },
   "type": "RollApp",
   "da": "Avail",
