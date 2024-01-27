@@ -1,0 +1,33 @@
+{
+  "chainId": "syskey_5399698-1",
+  "chainName": "Syskey",
+  "rpc": "http://108.166.206.198:26657",
+  "rest": "http://108.166.206.198:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SYS",
+      "baseDenom": "uSYS",
+      "decimals": 18,
+      "logo": "/logos/syskey_5399698-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/syskey_5399698-1.png",
+  "ibc": {
+    "hubChannel": "channel-6156",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x526492",
+    "rpc": "http://108.166.206.198:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
