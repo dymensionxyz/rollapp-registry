@@ -1,8 +1,8 @@
 {
   "chainId": "luckychain_2431891-1",
   "chainName": "luckychain_2431891-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://froopyland.dymension.xyz/14/ace_5736254-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/ace_5736254-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
