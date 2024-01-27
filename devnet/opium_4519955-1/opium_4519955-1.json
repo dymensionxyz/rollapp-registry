@@ -1,0 +1,35 @@
+{
+  "chainId": "opium_4519955-1",
+  "chainName": "opium",
+  "rpc": "http://173.249.3.49:26657",
+  "rest": "http://173.249.3.49:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OPM",
+      "baseDenom": "uOPM",
+      "decimals": 18,
+      "logo": "/logos/opium_4519955-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/opium_4519955-1.png",
+  "ibc": {
+    "hubChannel": "channel-8939",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x44f813",
+    "rpc": "http://173.249.3.49:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "opium rollup",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HpB3iiDQ4z7wzsc9XBwK8a2sv5MGpwxFxuvycioo2QXmyq5"
+}
