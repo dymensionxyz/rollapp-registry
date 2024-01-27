@@ -16,7 +16,7 @@
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/venus_3563382-1.png",
+  "logo": "/logos/venus_3563382-1.jpg",
   "ibc": {
     "hubChannel": "channel-6777",
     "channel": "channel-0",
@@ -30,6 +30,6 @@
   "da": "Avail",
   "description": "",
   "goldberg": true,
-  "analytics": true,
-  "availAddress": "5Ca1ZFcEJHLEc8XWZs37CeyZ4svBNi9Wpn6cMAX7BwGgDt5m"
-  }
+  "availAddress": "5Ca1ZFcEJHLEc8XWZs37CeyZ4svBNi9Wpn6cMAX7BwGgDt5m",
+  "analytics": true
+}
