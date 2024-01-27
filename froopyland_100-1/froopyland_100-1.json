@@ -1,6 +1,6 @@
 {
  "chainId": "annasot_8398004-1",
-  "chainName": "?PureNodes??",
+  "chainName": "PureNodes",
   "rpc": "http://149.102.148.183:26657",
   "rest": "http://149.102.148.183:1317",
   "bech32Prefix": "ethm",
