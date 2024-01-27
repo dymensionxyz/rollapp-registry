@@ -1,0 +1,33 @@
+{
+  "chainId": "chamatamunew_8306540-1",
+  "chainName": "Chamatamunew",
+  "rpc": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "chmt",
+      "baseDenom": "uchmt",
+      "decimals": 18,
+      "logo": "/logos/chamatamunew_8306540-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chamatamunew_8306540-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8039",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7ebf6c",
+    "rpc": "https://froopyland.dymension.xyz/25/chamatamunew_8306540-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

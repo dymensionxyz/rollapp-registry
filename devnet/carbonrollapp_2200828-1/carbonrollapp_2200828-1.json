@@ -1,0 +1,33 @@
+{
+  "chainId": "carbonrollapp_2200828-1",
+  "chainName": "Carbonrollapp",
+  "rpc": "https://froopyland.dymension.xyz/25/carbonrollapp_2200828-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/carbonrollapp_2200828-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CTNR",
+      "baseDenom": "uCTNR",
+      "decimals": 18,
+      "logo": "/logos/carbonrollapp_2200828-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                                                             022",
+  "website": "",
+  "logo": "/logos/carbonrollapp_2200828-1.png",
+  "ibc": {
+    "hubChannel": "channel-8040",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2194fc",
+    "rpc": "https://froopyland.dymension.xyz/25/carbonrollapp_2200828-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
