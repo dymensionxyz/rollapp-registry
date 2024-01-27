@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "hitzatak_1190989-1",
+  "chainName": "hitzatak_1190989-1",
+  "rpc": "http://158.220.104.84:26657",
+  "rest": "http://158.220.104.84:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HITZ",
+      "baseDenom": "uHITZ",
+      "decimals": 18,
+      "logo": "/logos/hitzatak_1190989-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hitzatak_1190989-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8862",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x122c4d",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
