@@ -1,0 +1,35 @@
+{
+  "chainId": "thuongdh_6695025-1",
+  "chainName": "ThuongDZai",
+  "rpc": "http://195.201.148.24:26657",
+  "rest": "http://195.201.148.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "THUONG",
+      "baseDenom": "uTHUONG",
+      "decimals": 18,
+      "logo": "/logos/thuongdh_6695025-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/thuongdh_6695025-1.png",
+  "ibc": {
+    "hubChannel": "channel-8696",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x662871",
+    "rpc": "http://195.201.148.24:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "1st rollapp from HN",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FCmAiUpdKSTWbTc6QUGpjatg9KAe3Q16YuBWLfm3NyeTkQT"
+}
