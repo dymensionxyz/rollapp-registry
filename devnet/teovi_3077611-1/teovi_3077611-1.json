@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Teo Teo & Vi Vi Apple",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HgaLHrNgEpBvbY7Vm8C4rsMB7ykNwscrd5xq3CMMzQU5PCg"
 }
