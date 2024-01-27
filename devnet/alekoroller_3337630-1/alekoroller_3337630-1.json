@@ -1,0 +1,35 @@
+{
+  "chainId": "alekoroller_3337630-1",
+  "chainName": "alekoroller_3337630-1",
+  "rpc": "http://194.163.138.90:26657",
+  "rest": "http://194.163.138.90:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ALK",
+      "baseDenom": "uALK",
+      "decimals": 18,
+      "logo": "/logos/alekoroller_3337630-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/__3JOH22A__",
+  "logo": "/logos/alekoroller_3337630-1.png",
+  "ibc": {
+    "hubChannel": "channel-8446",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x32ed9e",
+    "rpc": "http://194.163.138.90:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "aleko0o's RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HC6eSiamLRXnRU4pXqpJrTtaoTpK7VGuLngMk54AFG5VY5a"
+}

@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/11/tranngocnhi_5072236-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FvVj2tcyAMy8JNb2jxturHSMuUfXD5deHLdd9ufJJxwVXpi",
   "description": "TranNgocNhinumber1",
   "analytics": true
 }

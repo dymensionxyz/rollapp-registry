@@ -1,0 +1,36 @@
+{
+    "chainId": "availish_3855826-1",
+    "chainName": "availish_3855826-1",
+    "rpc": "http://31.220.15.253:26657",
+    "rest": "http://31.220.15.253:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ASH",
+        "baseDenom": "uASH",
+        "decimals": 18,
+        "logo": "/logos/availish_3855826-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/availish_3855826-1.png",
+    "ibc": {
+      "hubChannel": "channel-8476",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x3ad5d2",
+      "rpc": "http://31.220.15.253:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "Avail testnet rollapp",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5Ei4NM8fF2RpCSp5LR2muQhkRMxLXkPypXo3wpKgPjhLrZuZ"
+  }
+  
