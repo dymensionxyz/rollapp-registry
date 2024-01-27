@@ -1,35 +1,35 @@
 {
-    "chainId": "diablox_2144414-1",
-    "chainName": "diablox",
-    "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rest",
-    "bech32Prefix": "ethm",
-    "currencies": [
-      {
-        "displayDenom": "dbx",
-        "baseDenom": "udbx",
-        "decimals": 18,
-        "logo": "/logos/diablox_2144414-1.png",
-        "type": "main"
-      }
-    ],
-    "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-    "website": "",
-    "logo": "/logos/diablox_2144414-1.png",
-    "ibc": {
-      "hubChannel": "channel-8191",
-      "channel": "channel-0",
-      "timeout": 172800000
-    },
-    "evm": {
-      "chainId": "0x20b89e",
-      "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/evmrpc"
-    },
-    "type": "RollApp",
-    "da": "Avail",
-	"goldberg": true,
-    "availAddress": "5FgZkVxSb4aLs8VkKgnWFoKkTpjwju2jhMVaUuSX9rLSeQdy",
-    "description": "",
-    "analytics": true
-  }
+  "chainId": "diablox_2144414-1",
+  "chainName": "diablox",
+  "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/diablox_2144414-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dbx",
+      "baseDenom": "udbx",
+      "decimals": 18,
+      "logo": "/logos/diablox_2144414-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/diablox_2144414-1.png",
+  "ibc": {
+    "hubChannel": "channel-8191",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x20b89e",
+    "rpc": "https://froopyland.dymension.xyz/27/diablox_2144414-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FgZkVxSb4aLs8VkKgnWFoKkTpjwju2jhMVaUuSX9rLSeQdy",
+  "description": "",
+  "analytics": true
+}
