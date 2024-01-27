@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "For the fun of it",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DFowzvs24Hxir1rFMC3R7fJyeoeDUstC4n4LReqMLfap9u1"
 }
