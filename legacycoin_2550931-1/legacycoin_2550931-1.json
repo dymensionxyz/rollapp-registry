@@ -1,0 +1,35 @@
+{
+    "chainId": "legacycoin_2550931-1",
+    "chainName": "legacycoin_2550931-1",
+    "rpc": "http://31.223.12.160:26657",
+    "rest": "http://31.223.12.160:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "LGC",
+        "baseDenom": "uLGC",
+        "decimals": 18,
+        "logo": "/logos/legacycoin_2550931-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/legacycoin_2550931-1.png",
+    "ibc": {
+      "hubChannel": "channel-7206",
+      "channel": "channel-2",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x26ec93",
+      "rpc": "http://31.223.12.160:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "goldberg": true,
+    "availAddress": "5DLLCJPJNo7nmD2CA9xKwjHEJNkWeAvsyjFLtD8sLo3KKANd",
+    "analytics": true
+  }
