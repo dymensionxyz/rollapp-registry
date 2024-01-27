@@ -1,8 +1,8 @@
 {
   "chainId": "marsapp_1608860-1",
-  "chainName": "marsapp_1608860-1",
-  "rpc": "144.91.115.107:26657",
-  "rest": "144.91.115.107:1317",
+  "chainName": "MARS1F",
+  "rpc": "http://144.91.115.107:26657",
+  "rest": "http://144.91.115.107:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x188c9c",
-    "rpc": "144.91.115.107:8545"
+    "rpc": "http://144.91.115.107:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
    "goldberg": true,
   "availAddress": "5E4KjxxYZXiT1DdhaFX12HzKDpQRSPg5A7kbRs9NWoq95fjs"
 }
