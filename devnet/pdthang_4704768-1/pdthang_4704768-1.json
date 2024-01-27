@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/14/pdthang_4704768-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "This is my chain",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Cu8i9ptqvujg85QM5TPw3xhQ8mHVZ7y7C6ULNXTzzFGB9p7"
 }
