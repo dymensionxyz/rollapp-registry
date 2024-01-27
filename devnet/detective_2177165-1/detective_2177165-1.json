@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x21388d",
-    "rpc": ""
+    "rpc": "95.217.12.95:8545"
   },
   "goldberg": true,
   "availAddress": "5FjhJ8C6eByj96NbDEfJzm2RcYrbSkJb5Zgx1iM4nr2fB5Nb",
