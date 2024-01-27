@@ -4,6 +4,7 @@
 "rpc": "https://froopyland.dymension.xyz/27/rikson_8947801-1/rpc",
 "rest": "https://froopyland.dymension.xyz/27/rikson_8947801-1/rest",
 "bech32Prefix": "ethm",
+"goldberg": true,
 "currencies": [
 {
 "displayDenom": "RKS",
@@ -27,7 +28,8 @@
 "rpc": "https://froopyland.dymension.xyz/27/rikson_8947801-1/evmrpc"
 },
 "type": "RollApp",
-"da": "Celestia",
+"da": "Avail",
 "description": "",
 "analytics": true
+"availAddress": "5GmRysUUq53cQwTVGHT4MHWLWsPRcXYgkTyowGjXByxJs3JF"
 }

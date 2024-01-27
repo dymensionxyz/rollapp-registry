@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "stake with us quadblock.net",
-  "analytics": true
+  "description": "stake with us: https://quadblock.net",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GR6xRNcbXyp4eQFUyfA4WUJVrnqxSPCQb8NakQ41VNZm5FM"
 }

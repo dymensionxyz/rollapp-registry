@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/23/squishyclown_3198391-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "Wojak Game NFT Minting Page",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H3TC4AaWPJmLTSTrFAtccMV5gwFvqjmryLpaifw1GgCkwHE"
   "active": true
 }
