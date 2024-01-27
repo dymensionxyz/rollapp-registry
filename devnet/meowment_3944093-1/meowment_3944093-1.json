@@ -32,7 +32,6 @@
   "da": "Avail",
   "description": "Meow meow~",
   "analytics": true,
-  "validator": true,
   "goldberg": true,
   "availAddress": "5CtqGennXRXKhrNLhc7EQpjoBzvEXB5CB7iKSy3Sg4W5Nj7B"
 }
