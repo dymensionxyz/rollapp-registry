@@ -1,8 +1,8 @@
 {
   "chainId": "hutter_4894324-1",
   "chainName": "hutter_4894324-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://65.21.243.9:26657",
+  "rest": "http://65.21.243.9:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
