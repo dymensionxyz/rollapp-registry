@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/myfennarirollapp_9412493-1.png",
   "ibc": {
-    "hubChannel": "channel-5543",
+    "hubChannel": "channel-8734",
     "channel": "channel-0",
     "timeout": 172800000
   },
