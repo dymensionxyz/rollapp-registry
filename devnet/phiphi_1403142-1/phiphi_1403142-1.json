@@ -2,7 +2,7 @@
   "chainId": "phiphi_1403142-1",
   "chainName": "phiphi_1403142-1",
   "rpc": "http://5.75.229.217:26657",
-  "rest": "http://5.75.229.217:1317/",
+  "rest": "http://5.75.229.217:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
