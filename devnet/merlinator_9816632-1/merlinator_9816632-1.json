@@ -1,0 +1,33 @@
+{
+  "chainId": "merlinator_9816632-1",
+  "chainName": "The Merlinator",
+  "rpc": "https://84.247.180.118:26657",
+  "rest": "https://84.247.180.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MLN",
+      "baseDenom": "uMLN",
+      "decimals": 18,
+      "logo": "/logos/merlinator_9816632-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/merlinator_9816632-1.png",
+  "ibc": {
+    "hubChannel": "channel-8450",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x95ca38",
+    "rpc": "https://84.247.180.118:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "In a world where games are magical, the players are wizards!",
+  "analytics": true
+}
