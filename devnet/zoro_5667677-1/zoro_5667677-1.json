@@ -1,8 +1,8 @@
 {
   "chainId": "zoro_5667677-1",
-  "chainName": "zoro_5667677-1",
-  "rpc": "http://194.233.67.97/26657",
-  "rest": "http://194.233.67.97/1317",
+  "chainName": "Zoro",
+  "rpc": "https://froopyland.dymension.xyz/24/zoro_5667677-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/zoro_5667677-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x567b5d",
-    "rpc": "http://194.233.67.97/8545"
+    "rpc": "https://froopyland.dymension.xyz/24/zoro_5667677-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
