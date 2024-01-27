@@ -29,6 +29,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "My Rollapp submission for Avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EWuVK9myQrGMZHwgoTnvKrEuwGLvr7KnGimwCuXTSRmSnXz"
   "analytics": true
 }
