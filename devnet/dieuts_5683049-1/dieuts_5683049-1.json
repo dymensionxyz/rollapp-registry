@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "happy to join",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H1HyFeFqP7iUFug5dYtiouSWD3h3fssS4E2UdDKZXbYducs"
 }
