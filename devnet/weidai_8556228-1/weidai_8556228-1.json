@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Weidai",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ff1daCwLakKLgzXc1nds9HnumyaSft3UP5XEcGZhYzbcgkM"
 }
