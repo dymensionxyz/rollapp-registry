@@ -1,8 +1,8 @@
 {
   "chainId": "chiricato_6350855-1",
   "chainName": "chiricato_6350855-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://173.212.248.41:26657",
+  "rest": "http://173.212.248.41:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x60e807",
-    "rpc": ""
+    "rpc": "http://173.212.248.41:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Doe2S32c2vKbuaXKx1kSHJcM4rJpbG17CUHnB66D84nE3gn"
 }
