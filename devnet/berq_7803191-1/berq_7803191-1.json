@@ -26,8 +26,9 @@
     "chainId": "0x771137",
     "rpc": "https://froopyland.dymension.xyz/26/berq_7803191-1-b/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Testing Avail Goldberg ",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DRmzK1zUtNxFtVSazUiGrAHvYaypLczQnWiawDufMLu9ARN"
 }
