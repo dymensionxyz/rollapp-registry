@@ -9,14 +9,14 @@
       "displayDenom": "GNZN",
       "baseDenom": "uGNZN",
       "decimals": 18,
-      "logo": "/logos/gonluzenginrollapp_6211025-1.jpg",
+      "logo": "/logos/gonluzenginrollapp_6211025-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/gonluzenginrollapp_6211025-1.jpg",
+  "logo": "/logos/gonluzenginrollapp_6211025-1.png",
   "ibc": {
     "hubChannel": "channel-6621",
     "channel": "channel-0",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/15/gonluzenginrollapp_6211025-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true
+  "goldberg": true
+  "availAddress": "5CPD8SNzWiaqTsNLP7JgZMDtKuFk4K2L8PvFsGV15DHEi1GY"
 }

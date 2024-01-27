@@ -1,0 +1,35 @@
+{
+  "chainId": "atlas_2182791-1",
+  "chainName": "atlas_2182791-1",
+  "rpc": "http://62.171.142.178:26657",
+  "rest": "http://62.171.142.178:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "atls",
+      "baseDenom": "uatls",
+      "decimals": 18,
+      "logo": "/logos/atlas_2182791-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://atlas-2182791-1-dymension.vercel.app/",
+  "logo": "/logos/atlas_2182791-1.png",
+  "ibc": {
+    "hubChannel": "channel-8479",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x214e87",
+    "rpc": "http://62.171.142.178:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+   "goldberg": true,
+  "availAddress": "5D5cyweVb1W5zUAXcUzKR98tV7ZXCXBCJ8kXikp7AZRCerdr",
+  "analytics": true
+}

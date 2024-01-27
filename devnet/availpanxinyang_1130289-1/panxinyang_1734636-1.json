@@ -1,0 +1,35 @@
+  {
+    "chainId": "availpanxinyang_1130289-1",
+    "chainName": "panxinyang-avail",
+    "rpc": "http://135.181.104.51:26657",
+    "rest": "http://135.181.104.51:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "apxy",
+        "baseDenom": "uapxy",
+        "decimals": 18,
+        "logo": "/logos/panxinyang_1734636-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://mint-words-app-f49j.vercel.app/",
+    "logo": "/logos/panxinyang_1734636-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-8405",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "1130289",
+      "rpc": "http://135.181.104.51:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "For avail testnet",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5G72Qe9iuPipKUdmuRHct8usF5MrnZ9S5a87fcvewZBTKsPt"
+  }

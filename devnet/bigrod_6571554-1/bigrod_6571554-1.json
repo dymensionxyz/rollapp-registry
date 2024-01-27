@@ -1,0 +1,35 @@
+{
+  "chainId": "bigrod_6571554-1",
+  "chainName": "bigrod",
+  "rpc": "https://dym-rpc.tws.im",
+  "rest": "https://dym-rest.tws.im",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BGD",
+      "baseDenom": "uBGD",
+      "decimals": 18,
+      "logo": "/logos/bigrod_6571554-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bigrod_6571554-1.png",
+  "ibc": {
+    "hubChannel": "channel-8437",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x644622",
+    "rpc": "https://dym-evm.tws.im"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FnGxs6MJL6hecQ1grabi4rnitrb3VMTuV4qBPm1EpkbyJSh",
+  "description": "bigrod dym",
+  "analytics": true
+}
