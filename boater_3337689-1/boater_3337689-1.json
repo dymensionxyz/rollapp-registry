@@ -1,7 +1,7 @@
 {
   "chainId": "boater_3337689-1",
   "chainName": "boater_3337689-1",
-  "rpc": "http://95.217.156.91:8545",
+  "rpc": "http://95.217.156.91:26657",
   "rest": "http://95.217.156.91:1317",
   "bech32Prefix": "ethm",
   "currencies": [
