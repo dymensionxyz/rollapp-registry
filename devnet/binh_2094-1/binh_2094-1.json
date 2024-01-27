@@ -26,6 +26,7 @@
     "rpc": "https://froopyland.dymension.xyz/2/binh_2094-1/evmrpc"
   },
   "type": "RollApp",
+  "rewards": true,
   "da": "Avail",
   "description": "My RollApp",
   "analytics": true,
