@@ -1,0 +1,33 @@
+{
+  "chainId": "berrylab_2034442-1",
+  "chainName": "berrylab_2034442-1",
+  "rpc": "https://berryrollup.berrylab,cloud:26657",
+  "rest": "https://berryrollup.berrylab,cloud:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "berry",
+      "baseDenom": "uberry",
+      "decimals": 18,
+      "logo": "/logos/berrylab_2034442-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://node.berrylab.xyz",
+  "logo": "/logos/berrylab_2034442-1-logo.svg",
+  "ibc": {
+    "hubChannel": "channel-8958",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1f0b0a",
+    "rpc": "https://berryrollup.berrylab,cloud:8645"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "We're a team of tech enthusiasts who are passionate about shaping the future of web3. At BerryLab, we believe in keeping things simple yet effective. Our team is dedicated to providing top-notch node and validation services, ensuring projects we chose to run the nodes, run smoothly and efficiently.",
+  "analytics": true
+}
