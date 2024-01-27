@@ -1,0 +1,35 @@
+{
+  "chainId": "morpheus_3668365-1",
+  "chainName": "morpheus_3668365-1",
+  "rpc": "http://37.27.22.30:26657",
+  "rest": "http://37.27.22.30:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mrp",
+      "baseDenom": "umrp",
+      "decimals": 18,
+      "logo": "/logos/morpheus_3668365-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/morpheus_3668365-1.png",
+  "ibc": {
+    "hubChannel": "channel-8641",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x37f98d",
+    "rpc": "http://37.27.22.30:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5GjoKrEpD3A7q8FPd1AcY3hCmPJ3UeqxP4XBZP416uoxqvGa",
+  "analytics": true
+}
