@@ -1,0 +1,35 @@
+{
+  "chainId": "intruder_8053312-1",
+  "chainName": "intruder_8053312-1",
+  "rpc": "http://146.190.127.239:26657",
+  "rest": "http://146.190.127.239:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "INT",
+      "baseDenom": "uINT",
+      "decimals": 18,
+      "logo": "/logos/intruder_8053312-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/intruder_8053312-1.png",
+  "ibc": {
+    "hubChannel": "channel-8859",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7ae240",
+    "rpc": "http://146.190.127.239:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5FWpeTjyGnnytMc3KDBMrSYDyAjBR82k2WXGynJu7fKt51B2",
+  "analytics": true
+}
