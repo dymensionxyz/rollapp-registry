@@ -1,8 +1,8 @@
 {
   "chainId": "hardcore_6577068-1",
   "chainName": "hardcore_6577068-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "26657",
+  "rest": "1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x645bac",
-    "rpc": ""
+    "rpc": "8545"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "availAddress" : "5GKb7227Fzpc69zjgnHbDZhhnCNDmR9qmphfpszJWvKxrVxn",
+  "description": "Hello World",
+  "analytics": true,
+  "goldberg": true
 }
