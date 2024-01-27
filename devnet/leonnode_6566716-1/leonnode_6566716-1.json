@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Leon's rollapp",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5F3zz869zjA7RdSK6syCbpbEtVMiCfzyJW8xdunbfE7u9z5U"
 }
