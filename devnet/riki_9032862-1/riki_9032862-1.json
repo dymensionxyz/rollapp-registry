@@ -29,6 +29,8 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "make a better future with my rollapp",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GxxNPd4eE3T9uKyK4N7tjd8nKaVKMkPhKSR9BSbPX73yyE3"
 }
 
