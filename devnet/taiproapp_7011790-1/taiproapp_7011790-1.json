@@ -28,6 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "make to new build",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FZA3M4sejVCeL1SpbQH6vh8niEeSfdkRNrW6hVrXnbcjjCS",
+  "rewards": true
 }
