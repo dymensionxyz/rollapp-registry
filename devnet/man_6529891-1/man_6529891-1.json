@@ -1,0 +1,33 @@
+{
+  "chainId": "man_6529891-1",
+  "chainName": "man_6529891-1",
+  "rpc": "http://34.170.125.95:26657",
+  "rest": "http://34.170.125.95:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "man",
+      "baseDenom": "uman",
+      "decimals": 18,
+      "logo": "/logos/man_6529891-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "coinbreze.com",
+  "logo": "/logos/man_6529891-1.png",
+  "ibc": {
+    "hubChannel": "channel-7965",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x63a363",
+    "rpc": "http://34.170.125.95:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Hand written nft minging site",
+  "analytics": true
+}
