@@ -1,8 +1,8 @@
 {
   "chainId": "sigmaoctanis_3753007-1",
   "chainName": "sigmaoctanis_3753007-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://94.250.201.240:26657",
+  "rest": "http://94.250.201.240:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x39442f",
-    "rpc": ""
+    "rpc": "http://94.250.201.240:8545"
   },
   "type": "RollApp",
   "da": "Avail",
