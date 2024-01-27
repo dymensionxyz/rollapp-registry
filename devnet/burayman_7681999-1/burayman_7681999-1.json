@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/7/burayman_7681999-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true 
+  "goldberg": true,
+  "availAddress": "5DZbnrkFFJfAVUF7SM6ztrVJGcZF43qz63QZA2kmxfwy7DXs
 }

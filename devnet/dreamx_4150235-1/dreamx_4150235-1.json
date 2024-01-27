@@ -29,5 +29,7 @@
     "da": "Avail",
     "description": "Welcome to play",
     "analytics": true,
-    "rewards": true
+    "rewards": true,
+    "goldberg": true,
+    "availAddress": "5FUJgCSE61xU3NkDDYM9n9VTXtJMpfizEaRK1U2sSEMmLNJz"
 }
