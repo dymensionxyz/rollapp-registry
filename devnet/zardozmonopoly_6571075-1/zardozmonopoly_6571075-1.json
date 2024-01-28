@@ -27,8 +27,9 @@
     "chainId": "0x644443",
     "rpc": "https://froopyland.dymension.xyz/3/zardozmonopoly_6571075-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "opportunity",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Gmwc7S1ARDXyn3EEevmTrNDMzSnii3sZB6esnK8ExBHnCe7"
 }

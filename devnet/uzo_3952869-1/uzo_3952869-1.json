@@ -28,6 +28,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
-}
+  "description": "uzo's rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FRxNcqooCrFDzyw2vzPK65C6jq4wF9um2W156DKWSuMbRRm"

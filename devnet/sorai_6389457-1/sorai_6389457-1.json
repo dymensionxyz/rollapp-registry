@@ -1,0 +1,35 @@
+{
+  "chainId": "sorai_6389457-1",
+  "chainName": "sorai_6389457-1",
+  "rpc": "http://172.188.82.45:26657",
+  "rest": "http://172.188.82.45:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SOR",
+      "baseDenom": "uSOR",
+      "decimals": 18,
+      "logo": "/logos/sorai_6389457-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sorai_6389457-1.png",
+  "ibc": {
+    "hubChannel": "channel-8498",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x617ed1",
+    "rpc": "http://172.188.82.45:1317:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FetrKmDnqjzo8ftco9FRv937PmSh8eFKnUGBZexcmWrZuUc"
+}

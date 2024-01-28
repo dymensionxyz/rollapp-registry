@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/26/patoni_9962328-1/rpc",
   "rest": "https://froopyland.dymension.xyz/26/patoni_9962328-1/rest",
   "bech32Prefix": "ethm",
-  "goldber": true,
   "currencies": [
     {
       "displayDenom": "ICA",
@@ -15,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "faucetUrl": "https://faucet.patoni.online/",
+  "website": "https://patoni.online/",
   "logo": "/logos/patoni_9962328-1.png",
   "ibc": {
     "hubChannel": "channel-8125",
@@ -29,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Coinflip for degens",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5D2Nv4UE3bHBxC8vAuUzJyAns8WnNpT5Fz6QYPFmLESj6Gjd"
 }

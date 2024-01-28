@@ -27,7 +27,9 @@
     "rpc": "https://evm.testnet.cn:223"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "A Crazy Rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DXSCKeufhohobicdD1UbkCd4FhTXz32eRcfSyaYU1cJM3Sn"
 }

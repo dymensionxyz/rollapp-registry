@@ -14,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "faucetUrl": "https://faucet.lynchnode.tech",
+  "website": "https://www.lynchnode.tech",
   "logo": "/logos/redblank_3440319-1.jpeg",
   "ibc": {
     "hubChannel": "channel-8168",
@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "LynchNode on Dymension",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CXvThwkg5TGiUyZMXShGaAw7w13mwDvpUanW6KcuKimxpaj"
 }
