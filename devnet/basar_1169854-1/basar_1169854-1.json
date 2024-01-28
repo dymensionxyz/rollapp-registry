@@ -26,6 +26,7 @@
     "chainId": "0x11d9be",
     "rpc": "https://froopyland.dymension.xyz/24/basar_1169854-1/evmrpc"
   },
+  "type": "RollApp",
   "da": "Avail",
   "description": "Basar Rollapp",
   "analytics": true,
