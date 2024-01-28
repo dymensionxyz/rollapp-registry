@@ -2,7 +2,7 @@
   "chainId": "tuan_2373215-1",
   "chainName": "tuan_2373215-1",
   "rpc": "http://178.18.240.54:26657",
-  "rest": "http://IP178.18.240.54:1317",
+  "rest": "http://178.18.240.54:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x24365f",
-    "rpc": "178.18.240.54:8545"
+    "rpc": "http://178.18.240.54:8545"
   },
   "type": "RollApp",
   "da": "Avail",
