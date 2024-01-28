@@ -18,7 +18,7 @@
   "website": "http://sfc.mericade.com/",
   "logo": "/logos/seaflagchain_8805271-1.jpg",
   "ibc": {
-    "hubChannel": "channel-8231",
+    "hubChannel": "channel-8616",
     "channel": "channel-0",
     "timeout": 172800000
   },
