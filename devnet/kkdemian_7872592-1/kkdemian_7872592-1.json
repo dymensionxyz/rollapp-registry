@@ -1,8 +1,8 @@
 {
   "chainId": "kkdemian_7872592-1",
   "chainName": "kkdemian_7872592-1",
-  "rpc": "https://froopyland.dymension.xyz/22/kkdemian_7872592-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/22/kkdemian_7872592-1/rest",
+  "rpc": "http://45.146.6.133:26657",
+  "rest": "http://45.146.6.133:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x782050",
-    "rpc": "https://froopyland.dymension.xyz/9/kkdemian_7872592-1/evmrpc"
+    "rpc": "http://45.146.6.133:8545"
   },
   "type": "RollApp",
   "da": "Avail",
