@@ -24,9 +24,9 @@
         "channel": "channel-28"
     },
     "gasPriceSteps": {
-        "low": 0.01 ,
-        "average": 0.02,
-        "high": 0.1 
+        "low": 0.05 ,
+        "average": 0.1,
+        "high": 0.2 
     },
     "logo": "/logos/celestia-logo-purple.svg",
     "type": "Regular",
