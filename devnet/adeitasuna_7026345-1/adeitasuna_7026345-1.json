@@ -1,0 +1,33 @@
+{
+  "chainId": "adeitasuna_7026345-1",
+  "chainName": "adeitasuna_7026345-1",
+  "rpc": "http://51.77.245.24:26657",
+  "rest": "http://51.77.245.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ADEI",
+      "baseDenom": "uADEI",
+      "decimals": 18,
+      "logo": "/logos/adeitasuna_7026345-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/adeitasuna_7026345-1.png",
+  "ibc": {
+    "hubChannel": "channel-8878",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6b36a9",
+    "rpc": "http://51.77.245.24:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
