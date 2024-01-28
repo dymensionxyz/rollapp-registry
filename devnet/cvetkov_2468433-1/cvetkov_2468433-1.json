@@ -1,0 +1,33 @@
+{
+  "chainId": "cvetkov_2468433-1",
+  "chainName": "cvetkov",
+  "rpc": "https://froopyland.dymension.xyz/10/cvetkov_2468433-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/cvetkov_2468433-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "kov",
+      "baseDenom": "ukov",
+      "decimals": 18,
+      "logo": "/logos/cvetkov_2468433-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cvetkov_2468433-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6258",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x25aa51",
+    "rpc": "https://froopyland.dymension.xyz/10/cvetkov_2468433-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

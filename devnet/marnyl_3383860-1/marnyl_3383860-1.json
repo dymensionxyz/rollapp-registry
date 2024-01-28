@@ -1,0 +1,33 @@
+{
+  "chainId": "marnyl_3383860-1",
+  "chainName": "marnyl",
+  "rpc": "https://froopyland.dymension.xyz/17/marnyl_3383860-1-a/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/marnyl_3383860-1-a/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TNR",
+      "baseDenom": "uTNR",
+      "decimals": 18,
+      "logo": "/logos/marnyl_3383860-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/marnyl_3383860-1.png",
+  "ibc": {
+    "hubChannel": "channel-6890",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x33a234",
+    "rpc": "https://froopyland.dymension.xyz/17/marnyl_3383860-1-a/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

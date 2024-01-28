@@ -1,0 +1,33 @@
+{
+  "chainId": "gamer_4666349-1",
+  "chainName": "GAMER",
+  "rpc": "https://froopyland.dymension.xyz/23/gamer_4666349-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/gamer_4666349-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GAME",
+      "baseDenom": "uGAME",
+      "decimals": 18,
+      "logo": "/logos/gamer_4666349-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://rollapp-fawn.vercel.app/",
+  "logo": "/logos/gamer_4666349-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7767",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4733ed",
+    "rpc": "https://froopyland.dymension.xyz/23/gamer_4666349-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "We Love Gaming",
+  "analytics": true
+}

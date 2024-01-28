@@ -1,0 +1,33 @@
+{
+  "chainId": "zr_4248580-1",
+  "chainName": "Dzmitry1812",
+  "rpc": "https://froopyland.dymension.xyz/17/zr_4248580-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/zr_4248580-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ZOR",
+      "baseDenom": "uZOR",
+      "decimals": 18,
+      "logo": "/logos/zr_4248580-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/zr_4248580-1.png",
+  "ibc": {
+    "hubChannel": "channel-6774",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x40d404",
+    "rpc": "https://froopyland.dymension.xyz/17/zr_4248580-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

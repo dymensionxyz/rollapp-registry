@@ -1,0 +1,33 @@
+{
+  "chainId": "imuttablex_7009663-1",
+  "chainName": "Imuttablex",
+  "rpc": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/imuttablex_7009663-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/imuttablex_7009663-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7285",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6af57f",
+    "rpc": "https://froopyland.dymension.xyz/20/imuttablex_7009663-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+  }

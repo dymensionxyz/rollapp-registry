@@ -1,0 +1,33 @@
+{
+  "chainId": "syd_2850314-1",
+  "chainName": "Syd the RollApp Cat",
+  "rpc": "https://froopyland.dymension.xyz/9/syd_2850314-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/9/syd_2850314-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "syd",
+      "baseDenom": "usyd",
+      "decimals": 18,
+      "logo": "/logos/syd_2850314-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/syd_2850314-1.png",
+  "ibc": {
+    "hubChannel": "channel-6201",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2b7e0a",
+    "rpc": "https://froopyland.dymension.xyz/9/syd_2850314-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

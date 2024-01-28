@@ -1,0 +1,33 @@
+{
+  "chainId": "mywalkierollap_3228751-1",
+  "chainName": "Mywalkierollap",
+  "rpc": "https://froopyland.dymension.xyz/18/mywalkierollap_3228751-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/mywalkierollap_3228751-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wlk",
+      "baseDenom": "uwlk",
+      "decimals": 18,
+      "logo": "/logos/mywalkierollap_3228751-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/mywalkierollap_3228751-1.png",
+  "ibc": {
+    "hubChannel": "channel-7058",
+    "channel": "channel-6",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x31444f",
+    "rpc": "https://froopyland.dymension.xyz/18/mywalkierollap_3228751-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

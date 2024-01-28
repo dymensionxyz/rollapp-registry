@@ -1,0 +1,35 @@
+{
+  "chainId": "sicardii_1748361-1",
+  "chainName": "SİCARDİ",
+  "rpc": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SCRD",
+      "baseDenom": "uSCRD",
+      "decimals": 18,
+      "logo": "/logos/sicardii_1748361-1.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/sicardii_1748361-1.jpeg",
+  "ibc": {
+    "hubChannel": "channel-5946",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1aad89",
+    "rpc": "https://froopyland.dymension.xyz/8/sicardii_1748361-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "rewards": false
+}
+

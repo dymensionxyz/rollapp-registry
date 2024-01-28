@@ -1,0 +1,33 @@
+{
+    "chainId": "cjnode_3691345-1",
+    "chainName": "CJNodes",
+    "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "BOK",
+        "baseDenom": "uBOK",
+        "decimals": 18,
+        "logo": "/logos/cjnode_3691345-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/cjnode_3691345-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-7404",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x385351",
+      "rpc": "https://froopyland.dymension.xyz/21/cjnode_3691345-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "MAKING THINGS EASIER",
+    "analytics": true
+  } 

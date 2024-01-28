@@ -1,0 +1,33 @@
+{
+  "chainId": "dnsarz_5093939-1",
+  "chainName": "Dnsarz",
+  "rpc": "https://rpc-dymension.dnsarz.xyz",
+  "rest": "https://api-dymension.dnsarz.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DNZ",
+      "baseDenom": "uDNZ",
+      "decimals": 18,
+      "logo": "/logos/dnsarz_5093939-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://dnsarz.xyz",
+  "logo": "/logos/dnsarz_5093939-1.svg",
+  "ibc": {
+    "hubChannel": "channel-6964",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4dba33",
+    "rpc": "https://evmrpc-dymension.dnsarz.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

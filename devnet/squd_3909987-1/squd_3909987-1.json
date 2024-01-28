@@ -1,0 +1,33 @@
+{
+  "chainId": "squd_3909987-1",
+  "chainName": "squd",
+  "rpc": "https://froopyland.dymension.xyz/17/squd_3909987-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/squd_3909987-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "squd",
+      "baseDenom": "usqud",
+      "decimals": 18,
+      "logo": "/logos/squd_3909987-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/squd_3909987-1.png",
+  "ibc": {
+    "hubChannel": "channel-6916",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3ba963",
+    "rpc": "https://froopyland.dymension.xyz/17/squd_3909987-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

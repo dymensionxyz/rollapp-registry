@@ -1,0 +1,33 @@
+{
+  "chainId": "frostpuppy_7087346-1",
+  "chainName": "Frostpuppy",
+  "rpc": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FRX",
+      "baseDenom": "uFRX",
+      "decimals": 18,
+      "logo": "/logos/frostpuppy_7087346-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/frostpuppy_7087346-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7005",
+    "channel": "channel-3",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6c24f2",
+    "rpc": "https://froopyland.dymension.xyz/18/frostpuppy_7087346-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "freeze da world",
+  "analytics": true
+}

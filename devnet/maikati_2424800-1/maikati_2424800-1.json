@@ -1,0 +1,33 @@
+{
+    "chainId": "maikati_2424800-1",
+    "chainName": "maikati",
+    "rpc": "https://rollappevm-26657-maikati.bk7bbm.oss-acorn.io",
+    "rest": "https://rollappevm-1317-maikati.bk7bbm.oss-acorn.io",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "mai",
+            "baseDenom": "umai",
+            "decimals": 18,
+            "logo": "/logos/maikati_2424800-1.jpg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/maikati_2424800-1.jpg",
+    "ibc": {
+        "hubChannel": "channel-7289",
+        "timeout": 172800000,
+        "channel": "channel-0"
+    },
+    "evm": {
+        "chainId": "0x24ffe0",
+        "rpc": "https://rollappevm-maikati.bk7bbm.oss-acorn.io"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "analytics": true,
+    "rewards": true
+}

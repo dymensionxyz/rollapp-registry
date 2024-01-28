@@ -1,0 +1,34 @@
+{
+  "chainId": "ougogolchain_9161250-1",
+  "chainName": "Ougogolchain",
+  "rpc": "https://froopyland.dymension.xyz/10/ougogolchain_9161250-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/10/ougogolchain_9161250-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "OUG",
+      "baseDenom": "uOUG",
+      "decimals": 18,
+      "logo": "/logos/ougogolchain_9161250-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ougogolchain_9161250-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6136",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8bca22",
+    "rpc": "https://froopyland.dymension.xyz/10/ougogolchain_9161250-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
+
