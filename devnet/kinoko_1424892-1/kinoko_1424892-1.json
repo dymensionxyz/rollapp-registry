@@ -29,5 +29,6 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "kinoko world",
-  "analytics": true
+  "analytics": true,
+  "availAddress": "5DJYdnj3KM9owvzT2tkdmFjuuTug7ePmbs7jdfnzdaaJQLTY"
 }
