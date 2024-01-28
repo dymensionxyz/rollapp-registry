@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/7/fire_9301627-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Fire in the hole",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GpM1p6ZritxEqK5LRSMN7XbuWhRr12UZY52c7ejx9SvALwV"
 }
