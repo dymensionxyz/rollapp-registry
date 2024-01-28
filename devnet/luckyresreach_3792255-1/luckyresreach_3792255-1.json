@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/9/luckyresreach_3792255-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
   "analytics": true,
-  "validator": true
+  "validator": true,
+  "description": "Lucky Research community, Trusted Validator, Retroactive",
+  "goldberg": true,
+  "availAddress": "5CSGvUk9UK9FGj7w8ZaC1BHk2t64CNrKqJYCyCTBwXZPgJqq"
 }

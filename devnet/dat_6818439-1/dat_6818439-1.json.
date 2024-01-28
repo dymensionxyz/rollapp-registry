@@ -1,0 +1,35 @@
+{
+  "chainId": "dat_6818439-1",
+  "chainName": "dat_6818439-1",
+  "rpc": "http://167.86.127.3:26657",
+  "rest": "http://167.86.127.3:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RIN",
+      "baseDenom": "uRIN",
+      "decimals": 18,
+      "logo": "/logos/dat_6818439-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dat_6818439-1.png",
+  "ibc": {
+    "hubChannel": "channel-8767",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x680a87",
+    "rpc": "http://167.86.127.3:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GbQ8cE7hrfpEwxpquAX5LUoZxfW455vCEyLJ8o2WtRuxqFR"
+}

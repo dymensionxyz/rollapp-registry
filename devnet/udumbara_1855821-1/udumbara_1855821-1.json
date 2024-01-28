@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/3/udumbara_1855821-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5DsjPBMJm51UsuhQEkPm4ipH3bdjaVBevTERTWU7jXEvfCow"
 }

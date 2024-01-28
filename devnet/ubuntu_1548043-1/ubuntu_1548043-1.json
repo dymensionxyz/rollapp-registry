@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/24/ubuntu_1548043-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Ubuntu for Arsyanendragalih",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CykCKY8Vj5zNEhrcdCz1xPJY3yzXNdrPFK1Cw1VKBdwWNJ8"
 }

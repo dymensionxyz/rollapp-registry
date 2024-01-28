@@ -1,34 +1,35 @@
 {
-    "chainId": "meww_5192460-1",
-    "chainName": "MEWW CHAIN",
-    "rpc": "https://froopyland.dymension.xyz/18/meww_5192460-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/18/meww_5192460-1/rest",
-    "bech32Prefix": "ethm",
-    "currencies": [
-      {
-        "displayDenom": "MEWW",
-        "baseDenom": "uMEWW",
-        "decimals": 18,
-        "logo": "/logos/meww_5192460-1.jpg",
-        "type": "main"
-      }
-    ],
-    "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-    "website": "https://meww.xyz/",
-    "logo": "/logos/meww_5192460-1.jpg",
-    "ibc": {
-      "hubChannel": "channel-6767",
-      "channel": "channel-2",
-      "timeout": 172800000
-    },
-    "evm": {
-      "chainId": "0x4f3b0c",
-      "rpc": "https://meww.xyz/faucet-rpc"
-    },
-    "type": "RollApp",
-    "da": "Avail",
-    "description": "MEWW PROJECT COMIN TO DYMENSION",
-    "analytics": true
-  }
-  
+  "chainId": "meww_5192460-1",
+  "chainName": "MEWW CHAIN",
+  "rpc": "https://froopyland.dymension.xyz/18/meww_5192460-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/18/meww_5192460-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MEWW",
+      "baseDenom": "uMEWW",
+      "decimals": 18,
+      "logo": "/logos/meww_5192460-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://meww.xyz/",
+  "logo": "/logos/meww_5192460-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6767",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4f3b0c",
+    "rpc": "https://meww.xyz/faucet-rpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "MEWW PROJECT COMIN TO DYMENSION",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FnsDajB28csTR2gAo426QtopdKxG5zfVXBUJNGJps9m78gZ"
+}

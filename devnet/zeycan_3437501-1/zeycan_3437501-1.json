@@ -26,8 +26,9 @@
     "chainId": "0x3473bd",
     "rpc": "https://froopyland.dymension.xyz/9/zeycan_3437501-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "AIRDROP FOR ALL",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CaA1BU9CTGBhJqsXQ5zcZtuERzJcM2XahbDkwBKhA2K3P7M"
 }

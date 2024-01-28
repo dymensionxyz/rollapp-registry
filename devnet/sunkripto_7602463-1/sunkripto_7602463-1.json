@@ -1,22 +1,22 @@
 {
   "chainId": "sunkripto_7602463-1",
-  "chainName": "Sunkripto",
-  "rpc": "https://froopyland.dymension.xyz/21/sunkripto_7602463-1-a/rpc",
-  "rest": "https://froopyland.dymension.xyz/21/sunkripto_7602463-1-a/rest",
+  "chainName": "sunkripto_7602463-1",
+  "rpc": "95.111.247.11:26657",
+  "rest": "95.111.247.11:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "SUNKX",
       "baseDenom": "uSUNKX",
       "decimals": 18,
-      "logo": "/logos/sunkripto_7602463-1.jpg",
+      "logo": "/logos/sunkripto_7602463-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/sunkripto_7602463-1.jpg",
+  "logo": "/logos/sunkripto_7602463-1.png",
   "ibc": {
     "hubChannel": "channel-5653",
     "channel": "channel-0",
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x74011f",
-    "rpc": "https://froopyland.dymension.xyz/21/sunkripto_7602463-1-a/evmrpc"
+    "rpc": ""
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
+  "goldberg": true,
+  "availAddress": "5GzojzB1YWU45XiovD8KoLBxjkgroG8i5AYZGJoRi41Poq1k",
   "analytics": true
 }
