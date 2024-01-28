@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/20/nekoland_6175755-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Rollapp for us from us",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HKwhBBj4QMieLUkSE4opkjouDw4n2q84Cyv64iK5BgatvX2"
 }

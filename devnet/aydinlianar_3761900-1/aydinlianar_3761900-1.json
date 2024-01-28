@@ -1,8 +1,9 @@
+@@ -0,0 +1,35 @@
 {
   "chainId": "aydinlianar_3761900-1",
-  "chainName": "Aydinlianar",
-  "rpc": "https://froopyland.dymension.xyz/25/aydinlianar_3761900-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/25/aydinlianar_3761900-1/rest",
+  "chainName": "aydinlianar_3761900-1",
+  "rpc": "http://65.21.60.112:26657",
+  "rest": "http://65.21.60.112:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +25,12 @@
   },
   "evm": {
     "chainId": "0x3966ec",
-    "rpc": "https://froopyland.dymension.xyz/25/aydinlianar_3761900-1/evmrpc"
+    "rpc": "http://65.21.60.112:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FedYbWBKtn1V97Nd4trbyfXbSjty45Qu1xCN2oJLDrSyXtp"
 }
