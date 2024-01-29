@@ -3,7 +3,6 @@
   "chainName": "diamondhands",
   "rpc": "http://31.220.100.140:26657",
   "rest": "http://31.220.100.140:1317",
-  "evm": "http://31.220.100.140:8545",
   "bech32Prefix": "ethm",
   "currencies": [
     {
