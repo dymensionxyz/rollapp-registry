@@ -1,0 +1,33 @@
+{
+  "chainId": "fook_3728907-1",
+  "chainName": "fook_3728907-1",
+  "rpc": "http://185.194.217.229:26657",
+  "rest": "http://185.194.217.229:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FOOK",
+      "baseDenom": "uFOOK",
+      "decimals": 18,
+      "logo": "/logos/fook_3728907-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://dune.com/fookin_no_wan",
+  "logo": "/logos/fook_3728907-1.png",
+  "ibc": {
+    "hubChannel": "channel-8964",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x38e60b",
+    "rpc": "http://185.194.217.229:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "fookinnowan is web3 enthusiast who looking to make contribution in the space",
+  "analytics": true
+}
