@@ -1,0 +1,35 @@
+{
+  "chainId": "boater_3337689-1",
+  "chainName": "boater_3337689-1",
+  "rpc": "http://95.217.156.91:26657",
+  "rest": "http://95.217.156.91:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "boater",
+      "baseDenom": "uboater",
+      "decimals": 18,
+      "logo": "/logos/boater_3337689-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/boater_3337689-1.png",
+  "ibc": {
+    "hubChannel": "channel-8819",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x32edd9",
+    "rpc": "http://95.217.156.91:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HBbxYfaChrez7GHGnAkVgifrFZ2gHXA64LLcdNPvNVbc3MQ"
+}
