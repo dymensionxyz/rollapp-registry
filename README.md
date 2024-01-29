@@ -8,7 +8,7 @@ This repository is dedicated to the listing process of RollApps on the [Portal](
 
 Please follow the instructions for listing a RollApp:
 
-1. Make sure to have successfully deployed and are running a RollApp instance.
+1. Make sure you have successfully deployed and are running a RollApp instance.
 
 2. Fund the Faucet and test the IBC connection by submitting an IBC transfer of your RollApp token to the Dymension Hub faucet with the following command:
 
@@ -60,7 +60,7 @@ Please follow the instructions for listing a RollApp:
     roller config export
     ```
 
-10. Copy paste the JSON output to the `<RollApp-ID>.json` and fill in the following fields:
+10. Copy and paste the JSON output to the `<RollApp-ID>.json` file, and fill in the following fields:
 
     - RPC: `"http://<your-ip-or-domain>:<port>" (default port 26657)`
     - REST: ` "http://<your-ip-or-domain>:<port>" (default port 1317)`
