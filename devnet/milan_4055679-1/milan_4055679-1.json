@@ -16,7 +16,7 @@
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/milan_4055679-1.png",jpg
+  "logo": "/logos/milan_4055679-1.jpg",jpg
   "ibc": {
     "hubChannel": "channel-6801",
     "channel": "channel-0",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/17/milan_4055679-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5CfWHuen3eFQM6XbyXzrUCQSdKcT2mdEPAnzvaPFPaCWkL77",
   "description": "",
   "analytics": true
 }
