@@ -1,8 +1,9 @@
 {
   "chainId": "drollapp_2480108-1",
-  "chainName": "drollapp_2480108-1",
+  "chainName": "diamondhands",
   "rpc": "http://31.220.100.140:26657",
   "rest": "http://31.220.100.140:1317",
+  "evm": "http://31.220.100.140:8545",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -14,9 +15,8 @@
     }
   ],
   "coinType": 60,
-  "chainName":"DiamondHands",
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "http://31.220.100.140:81/",
   "logo": "/logos/drollapp_2480108-1.png",
   "ibc": {
     "hubChannel": "channel-8897",
