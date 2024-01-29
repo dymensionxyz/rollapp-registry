@@ -1,6 +1,6 @@
 {
   "chainId": "drollapp_2480108-1",
-  "chainName": "diamondhands",
+  "chainName": "drollapp_2480108-1",
   "rpc": "http://31.220.100.140:26657",
   "rest": "http://31.220.100.140:1317",
   "bech32Prefix": "ethm",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25d7ec",
-    "rpc": ""
+    "rpc": "http://31.220.100.140:26657"
   },
   "type": "RollApp",
   "da": "Avail",
