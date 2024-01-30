@@ -31,5 +31,5 @@
   "description": "",
   "goldberg": true,
   "availAddress": "5E9MiN6VpB8AJ5UCNZiBdRkeKNYyVJkUAAk1LESuD17qLLk5",
-  "analytics": true,
+  "analytics": true
 }
