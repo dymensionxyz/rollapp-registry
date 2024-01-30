@@ -1,7 +1,7 @@
 {
     "chainId": "theta-testnet-001",
     "chainName": "Cosmos Hub - testnet",
-    "rpc": "https://rpc-cosmos-testnet.alphab.ai",
+    "rpc": "https://rpc.cosmoshub.test-eu1.ccvalidators.com",
     "rest": "https://api-cosmos-testnet.alphab.ai",
     "explorerUrl": "https://testnet.mintscan.io/cosmoshub-testnet",
     "exploreTxUrl": "https://testnet.mintscan.io/cosmoshub-testnet/txs/",
