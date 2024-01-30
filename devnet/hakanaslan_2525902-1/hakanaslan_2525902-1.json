@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "hakanaslan",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FkFfV8FMre3TP2ScbmKNYr2T6SnTWThv7Lu7J8VejHeHumo"
 }

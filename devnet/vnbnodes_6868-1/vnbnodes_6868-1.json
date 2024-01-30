@@ -17,8 +17,8 @@
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "logo": "/logos/vnbnodes_6868-1.jpg",
   "ibc": {
-    "hubChannel": "channel-5318",
-    "channel": "channel-5",
+    "hubChannel": "channel-8441",
+    "channel": "channel-6",
     "timeout": 172800000
   },
   "evm": {
@@ -26,7 +26,9 @@
     "rpc": "https://froopyland.dymension.xyz/3/vnbnodes_6868-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GsBfb5iGcT5vtUwbNjZF3F14E3fjWxPVmrWGUvoVXxFhA9F",
   "rewards": true
 }

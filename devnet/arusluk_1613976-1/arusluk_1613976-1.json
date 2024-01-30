@@ -26,8 +26,10 @@
     "chainId": "0x18a098",
     "rpc": "https://froopyland.dymension.xyz/12/arusluk_1613976-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+
+  "da": "Avail",
+  "description": "forever modüller",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DPm6B3km2NRqSeCbmiuk71kqX54LSkoTpsbKcS1VCpkH1md"
 }

@@ -31,4 +31,6 @@
   "description": "vitalikbuterinlox",
   "analytics": true,
   "rewards": true
+  "goldberg": true,
+  "availAddress": "5GuzVF1AzPncHMG8awSLLmnx2YjciyKCG4np5xkTpp41sdxZ"
 }

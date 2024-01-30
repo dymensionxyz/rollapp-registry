@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/6/luo_3881685-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "Try it, gain experience",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FnGqBADvb1MKXA4izhJZzfpmh4v11z9dUgLfHTaGLzcJgeQ"
+  "description": "Luo RollApp",
   "analytics": true
 }
