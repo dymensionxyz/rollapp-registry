@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x12dd1d",
-    "rpc": "http://148.113.6.168:8545"
+    "rpc": "ttps://fl.dym.fyi/rollapp/lankou_1236253-1"
   },
   "type": "RollApp",
   "da": "Avail",
