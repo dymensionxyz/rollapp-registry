@@ -9,7 +9,7 @@
     "currencies": [
         {
             "displayDenom": "ATOM",
-            "baseDenom": "uATOM",
+            "baseDenom": "uatom",
             "decimals": 6,
             "logo": "/logos/cosmos-hub-logo.svg",
             "type": "main"
