@@ -1,0 +1,35 @@
+{
+    "chainId": "celestia",
+    "chainName": "Celestia",
+    "rpc": "",
+    "rest": "",
+    "explorerUrl": "",
+    "exploreTxUrl": "txs/",
+    "bech32Prefix": "celestia",
+    "currencies": [
+        {
+            "displayDenom": "TIA",
+            "baseDenom": "utia",
+            "decimals": 6,
+            "logo": "/logos/celestia-logo-purple.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "validatorsLogosStorageDir": "",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "",
+        "channel": ""
+    },
+    "gasPriceSteps": {
+        "low": 0.01,
+        "average": 0.02,
+        "high": 0.1
+    },
+    "logo": "/logos/celestia-logo-purple.svg",
+    "type": "Regular",
+    "analytics": false,
+    "website": "https://celestia.org/"
+}
