@@ -1,0 +1,37 @@
+{
+    "chainId": "8453",
+    "chainName": "Base - Testnet",
+    "rpc": "",
+    "rest": "",
+    "evm": {
+        "chainId": "",
+        "rpc": ""
+    },
+    "explorerUrl": "",
+    "exploreTxUrl": "",
+    "bech32Prefix": "",
+    "currencies": [
+        {
+            "displayDenom": "",
+            "baseDenom": "",
+            "decimals": 18,
+            "logo": "/logos/Base_Symbol_Blue.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "validatorsLogosStorageDir": "hub",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/Base_Symbol_Blue.png",
+    "type": "Hub",
+    "analytics": false,
+    "website": ""
+}
