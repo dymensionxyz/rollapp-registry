@@ -1,21 +1,28 @@
 {
-    "chainId": "42161",
-    "chainName": "Arbitrum - Testnet",
+    "chainId": "421613",
+    "chainName": "Arbitrum Goerli",
     "rpc": "",
     "rest": "",
     "evm": {
-        "chainId": "",
+        "chainId": "0x67015",
         "rpc": ""
     },
-    "explorerUrl": "",
-    "exploreTxUrl": "",
+    "explorerUrl": "https://goerli.arbiscan.io/",
+    "exploreTxUrl": "https://goerli.arbiscan.io/tx/",
     "bech32Prefix": "",
     "currencies": [
         {
-            "displayDenom": "",
-            "baseDenom": "",
+            "displayDenom": "ETH",
+            "baseDenom": "wei",
             "decimals": 18,
-            "logo": "/logos/arbitrum-arb-logo.svg",
+            "logo": "/logos/ethereum-eth-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "usdc",
+            "decimals": 18,
+            "logo": "/logos/usdc-logo.svg",
             "type": "main"
         }
     ],
@@ -33,5 +40,5 @@
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "Hub",
     "analytics": false,
-    "website": ""
+    "website": "https://arbitrum.io/"
 }
