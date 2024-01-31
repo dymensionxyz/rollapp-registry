@@ -1,14 +1,14 @@
 {
-    "chainId": "5",
-    "chainName": "ETH Goerli Testnet",
+    "chainId": "base-84531",
+    "chainName": "Base Goerli",
     "rpc": "",
     "rest": "",
     "evm": {
-        "chainId": "0x5",
+        "chainId": "0x14A33",
         "rpc": ""
     },
-    "explorerUrl": "https://goerli.etherscan.io/",
-    "exploreTxUrl": "https://goerli.etherscan.io/tx/",
+    "explorerUrl": "https://goerli.basescan.org/",
+    "exploreTxUrl": "https://goerli.basescan.org/tx/",
     "bech32Prefix": "",
     "currencies": [
         {
@@ -37,8 +37,8 @@
         "average": 20000000000,
         "high": 20000000000
     },
-    "logo": "/logos/ethereum-eth-logo.svg",
+    "logo": "/logos/Base_Symbol_Blue.png",
     "type": "Hub",
     "analytics": false,
-    "website": "https://ethereum.org/"
+    "website": "https://base.org/"
 }

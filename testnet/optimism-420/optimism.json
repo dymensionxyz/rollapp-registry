@@ -1,14 +1,14 @@
 {
-    "chainId": "421613",
-    "chainName": "Arbitrum Goerli",
+    "chainId": "optimism-420",
+    "chainName": "Optimism Goerli",
     "rpc": "",
     "rest": "",
     "evm": {
-        "chainId": "0x67015",
+        "chainId": "0x1A4",
         "rpc": ""
     },
-    "explorerUrl": "https://goerli.arbiscan.io/",
-    "exploreTxUrl": "https://goerli.arbiscan.io/tx/",
+    "explorerUrl": "https://goerli-optimism.etherscan.io/",
+    "exploreTxUrl": "https://goerli-optimism.etherscan.io/tx/",
     "bech32Prefix": "",
     "currencies": [
         {
@@ -37,8 +37,8 @@
         "average": 20000000000,
         "high": 20000000000
     },
-    "logo": "/logos/arbitrum-arb-logo.svg",
+    "logo": "/logos/optimism-ethereum-op-logo.svg",
     "type": "Hub",
     "analytics": false,
-    "website": "https://arbitrum.io/"
+    "website": "https://www.optimism.io/"
 }

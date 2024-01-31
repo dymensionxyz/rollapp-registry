@@ -1,14 +1,14 @@
 {
-    "chainId": "84531",
-    "chainName": "Base Goerli",
+    "chainId": "arbitrum-421613",
+    "chainName": "Arbitrum Goerli",
     "rpc": "",
     "rest": "",
     "evm": {
-        "chainId": "0x14A33",
+        "chainId": "0x67015",
         "rpc": ""
     },
-    "explorerUrl": "https://goerli.basescan.org/",
-    "exploreTxUrl": "https://goerli.basescan.org/tx/",
+    "explorerUrl": "https://goerli.arbiscan.io/",
+    "exploreTxUrl": "https://goerli.arbiscan.io/tx/",
     "bech32Prefix": "",
     "currencies": [
         {
@@ -37,8 +37,8 @@
         "average": 20000000000,
         "high": 20000000000
     },
-    "logo": "/logos/Base_Symbol_Blue.png",
+    "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "Hub",
     "analytics": false,
-    "website": "https://base.org/"
+    "website": "https://arbitrum.io/"
 }
