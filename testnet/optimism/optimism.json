@@ -1,0 +1,44 @@
+{
+    "chainId": "420",
+    "chainName": "Optimism Goerli",
+    "rpc": "",
+    "rest": "",
+    "evm": {
+        "chainId": "0x1A4",
+        "rpc": ""
+    },
+    "explorerUrl": "https://goerli-optimism.etherscan.io/",
+    "exploreTxUrl": "https://goerli-optimism.etherscan.io/tx/",
+    "bech32Prefix": "",
+    "currencies": [
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "wei",
+            "decimals": 18,
+            "logo": "/logos/ethereum-eth-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "usdc",
+            "decimals": 18,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "validatorsLogosStorageDir": "hub",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/optimism-ethereum-op-logo.svg",
+    "type": "Hub",
+    "analytics": false,
+    "website": "https://www.optimism.io/"
+}
