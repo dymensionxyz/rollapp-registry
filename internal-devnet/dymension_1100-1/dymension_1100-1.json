@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rpc": "http://34.207.72.130:26657",
-    "rest": "http://34.207.72.130:1317",
+    "rpc": "https://34.207.72.130:26657",
+    "rest": "https://34.207.72.130:1317",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "http://34.207.72.130:8545"
+        "rpc": "https://34.207.72.130:8545"
     },
     "explorerUrl": "https://testnet.dymension.explorers.guru/",
     "exploreTxUrl": "https://testnet.dymension.explorers.guru/tx/",
