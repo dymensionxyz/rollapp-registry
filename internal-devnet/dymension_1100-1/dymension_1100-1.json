@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rpc": "https://34.207.72.130:26657",
-    "rest": "https://34.207.72.130:1317",
+    "rpc": "https://froopyland.dymension.xyz/29/gentes1_2_24/rpc",
+    "rest": "https://froopyland.dymension.xyz/29/gentes1_2_24/rest",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://34.207.72.130:8545"
+        "rpc": "https://froopyland.dymension.xyz/29/gentes1_2_24/evmrpc"
     },
     "explorerUrl": "https://testnet.dymension.explorers.guru/",
     "exploreTxUrl": "https://testnet.dymension.explorers.guru/tx/",
