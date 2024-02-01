@@ -1,10 +1,10 @@
 {
-    "chainId": "mocha-4",
-    "chainName": "Celestia - Mocha Testnet",
-    "rpc": "https://rpc.celestia.test-eu1.ccvalidators.com",
-    "rest": "https://rest.celestia.test-eu1.ccvalidators.com",
-    "explorerUrl": "https://testnet.mintscan.io/celestia-testnet/",
-    "exploreTxUrl": "https://testnet.mintscan.io/celestia-testnet/txs/",
+    "chainId": "celestia",
+    "chainName": "Celestia",
+    "rpc": "",
+    "rest": "",
+    "explorerUrl": "",
+    "exploreTxUrl": "txs/",
     "bech32Prefix": "celestia",
     "currencies": [
         {
@@ -20,20 +20,16 @@
     "faucetUrl": "",
     "ibc": {
         "timeout": 172800000,
-        "hubChannel": "channel-2",
-        "channel": "channel-28"
+        "hubChannel": "",
+        "channel": ""
     },
     "gasPriceSteps": {
-        "low": 0.01 ,
+        "low": 0.01,
         "average": 0.02,
-        "high": 0.1 
+        "high": 0.1
     },
     "logo": "/logos/celestia-logo-purple.svg",
     "type": "Regular",
     "analytics": false,
     "website": "https://celestia.org/"
 }
-
-
-
-
