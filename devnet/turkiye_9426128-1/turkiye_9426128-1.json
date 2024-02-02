@@ -26,8 +26,9 @@
     "chainId": "0x8fd4d0",
     "rpc": "https://froopyland.dymension.xyz/21/turkiye_9426128-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "izmiradami",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EL222TEnb3tGhGbQe4TWmBgRsg9R1aT2NKypdVm8x8Ug1X8"
 }
