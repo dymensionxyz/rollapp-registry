@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/21/marilyn_5525101-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HooZc7niNVjXeFLZmnn4SYtkAQFwmA5YL7ej2tAkLy8dTN4",
 "active": false
 }
