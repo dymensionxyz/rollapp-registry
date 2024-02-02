@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "goldberg": true,
+  "description": "FLC rollapp",
+  "analytics": true,
+  "availAddress": "5HjWA7Tc2a9CEQghM2gx5pX1diyFFNfutvQG51Qv7si5LUgJ"
 }
