@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Step",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E4EYebo3RbcTj6mKQ3X2Ym3pCgQVjDjixcpnnwUJCzyk5k7"
 }
