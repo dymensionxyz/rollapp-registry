@@ -1,0 +1,35 @@
+{
+    "chainId": "jikio_8533248-1",
+    "chainName": "Jikio",
+    "rpc": "http://5.75.248.157:26657",
+    "rest": "http://5.75.248.157:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "JIKIO",
+        "baseDenom": "uJIKIO",
+        "decimals": 18,
+        "logo": "/logos/jikio_8533248-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/jikio_8533248-1.png",
+    "ibc": {
+      "hubChannel": "channel-9176",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x823500",
+      "rpc": "http://5.75.248.157:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5GsuH3PfosgPo7pd8J2KPadSo5riQXaxzFYZsdE2zwbVASt4"
+  }
