@@ -26,6 +26,7 @@
     "chainId": "0x669b36",
     "rpc": "https://froopyland.dymension.xyz/17/harunn_6724406-1/evmrpc"
   },
+  "type": "RollApp",
   "da": "Avail",
   "description": "perfect airdrop",
   "analytics": true,

@@ -28,8 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "description": "PierreXP RollApp",
+  "analytics": true,
   "goldberg": true,
-  "availAddress": "5EZ8jtqJCofGMAwikbggevSJK2gedrnAvaSbbWWJcCsV5eR6",
-  "description": "",
-  "analytics": true
+  "availAddress": "5EZ8jtqJCofGMAwikbggevSJK2gedrnAvaSbbWWJcCsV5eR6"
 }

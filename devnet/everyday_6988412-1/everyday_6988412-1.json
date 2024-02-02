@@ -1,22 +1,22 @@
 {
   "chainId": "everyday_6988412-1",
-  "chainName": "Everyday",
-  "rpc": "https://froopyland.dymension.xyz/5/everyday_6988412-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/5/everyday_6988412-1/rest",
+  "chainName": "everyday_6988412-1",
+  "rpc": "http://43.133.62.40:26657",
+  "rest": "http://43.133.62.40:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "EVER",
       "baseDenom": "uEVER",
       "decimals": 18,
-      "logo": "/logos/everyday_6988412-1.png",
+      "logo": "/path/to/your/logo.png",
       "type": "main"
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "faucetUrl": "https://discord.com/channels/1065831819154563132/1171414018028740698",
   "website": "",
-  "logo": "/logos/everyday_6988412-1.png",
+  "logo": "/path/to/your/logo.png",
   "ibc": {
     "hubChannel": "channel-5688",
     "channel": "channel-0",
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x6aa27c",
-    "rpc": "https://froopyland.dymension.xyz/5/everyday_6988412-1/evmrpc"
+    "rpc": "http://43.133.62.40:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DJNgF8RHMxsJzMDKGcFued3mQBB7F7DRKT8tCoGEkHgGc2L"
 }
