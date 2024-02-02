@@ -1,0 +1,35 @@
+{
+  "chainId": "hoangkhoi_9077261-1",
+  "chainName": "hoangkhoi_9077261-1",
+  "rpc": "http://134.122.102.20:26657",
+  "rest": "http://134.122.102.20:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "avl",
+      "baseDenom": "uavl",
+      "decimals": 18,
+      "logo": "/logos/hoangkhoi_9077261-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hoangkhoi_9077261-1.png",
+  "ibc": {
+    "hubChannel": "channel-8793",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8a820d",
+    "rpc": "http://134.122.102.20:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5DJLfat5h6PNRH678BbrA82kE2vLtMQKK1Dq3fj9XYr5Rbg2"
+}

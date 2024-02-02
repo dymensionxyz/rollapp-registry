@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/14/umbros_1188624-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5HJusnMJWdyriTsa9xd9NweHEZUdaaMoc2AJk6Vjq1uGQvL3", 
   "description": "",
   "analytics": true
 }
-
