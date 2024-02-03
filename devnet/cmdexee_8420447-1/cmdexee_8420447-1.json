@@ -26,8 +26,9 @@
     "chainId": "0x807c5f",
     "rpc": "https://froopyland.dymension.xyz/21/cmdexee_8420447-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Convert to Avail Cmdexe",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GQnb2DgfSTgLV6S6CPxFNgQwKvbgwXktNLdvhZgevGx2f8T"
 }
