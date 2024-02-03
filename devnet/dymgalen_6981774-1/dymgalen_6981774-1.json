@@ -26,9 +26,10 @@
     "chainId": "0x6a888e",
     "rpc": "https://froopyland.dymension.xyz/18/dymgalen_6981774-1/evmrpc"
   },
-  "da": "Avail",
-  "description": "availgalen",
-  "analytics": true,
-  "goldberg": true,
-  "availAddress": "5DvHYiSucAcvhCydgqULvGSnVB2EL4u9nFoRCRKQTrLeykqA"
+  "type": "RollApp",                                                                                                                                       
+  "da": "Avail",                                                                                                                                        
+  "description": "",                                                                                                                                       
+  "analytics": true, 
+  "goldberg" : true,
+  "availAddress" : "5DvHYiSucAcvhCydgqULvGSnVB2EL4u9nFoRCRKQTrLeykqA"
 }
