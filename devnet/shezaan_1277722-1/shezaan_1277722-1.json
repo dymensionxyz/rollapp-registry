@@ -4,6 +4,7 @@
   "rpc": "https://froopyland.dymension.xyz/27/shezaan_1277722-1-b/rpc",
   "rest": "https://froopyland.dymension.xyz/27/shezaan_1277722-1-b/rest",
   "bech32Prefix": "ethm",
+  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "FFX",
@@ -28,6 +29,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Web3 Surfer",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GjGnotKs8Jwf4Ut4ohfEqCG2UaZwtx5s2JbnAu478Sa5stS"
 }

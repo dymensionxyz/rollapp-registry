@@ -27,7 +27,9 @@
     "rpc": "https://rollapp-evm.nodejumper.io"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5D1yz1LGFkxY1wt2BKNRPcUD89eTb9SPpezieihKoUKzXF4q",
   "description": "",
   "analytics": true,
   "validator": true

@@ -30,5 +30,6 @@
   "da": "Avail",
   "description": "NomadNode are cool validator ☸️⚛️ NomadNode created for longterm server machine & validating",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5FpqZzg2F27EAVwcYWLLW798C9a7APWVF2REivnu7vH74bBM"
 }

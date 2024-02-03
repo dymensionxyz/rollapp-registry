@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/3/myrollenes_8374670-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "stake for modular future",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5Hp8bxARekt75UwPwojNniLLGjPKGANxfnKoW2rqqERSWtjS"
 }

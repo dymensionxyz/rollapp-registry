@@ -1,0 +1,35 @@
+{
+  "chainId": "wedo_4381150-1",
+  "chainName": "wedo_4381150-1",
+  "rpc": "http://46.250.224.158:26657",
+  "rest": "http://46.250.224.158:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WDO",
+      "baseDenom": "uWDO",
+      "decimals": 18,
+      "logo": "/logos/wedo_4381150-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/wedo_4381150-1.png",
+  "ibc": {
+    "hubChannel": "channel-8511",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x42d9de",
+    "rpc": "http://46.250.224.158:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CaDa6UzKM69xJbNY8B6BLJU4WHvX7oKmTCkVJxpHMLUbz1b"
+}

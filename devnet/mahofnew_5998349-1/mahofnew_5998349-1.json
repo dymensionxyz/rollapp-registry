@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/25/mahofnew_5998349-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5Gbi5Pt4X7rmw9wesUNNQdbQoc68sjPsGeoRWsMUQCpxupp6",
   "description": "MAHOF RollApp",
   "analytics": true
 }
