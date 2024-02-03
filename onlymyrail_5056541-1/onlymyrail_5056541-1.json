@@ -2,8 +2,8 @@ networks.json:
 {
   "chainId": "onlymyrail_5056541-1",
   "chainName": "Onlymyrail",
-  "rpc": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/rest",
+  "rpc": "https://78.47.35.215:26657",
+  "rest": "https://78.47.35.215:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -19,13 +19,13 @@ networks.json:
   "website": "",
   "logo": "/logos/onlymyrail_5056541-1.png",
   "ibc": {
-    "hubChannel": "channel-6237",
-    "channel": "channel-0",
+    "hubChannel": "channel-9231",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
     "chainId": "0x4d281d",
-   "rpc": "https://froopyland.dymension.xyz/9/onlymyrail_5056541-1/evmrpc"
+   "rpc": "https://78.47.35.215:8545"
   },
   "type": "RollApp",
   "da": "Avail",
