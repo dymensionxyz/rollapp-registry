@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/3/pierreneter_20-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5G7NpybgyF3Rid1jE37pcUkXMrLAtbQZbDKGds84ai5kH6sT",
   "analytics": true,
   "rewards": true
 }
