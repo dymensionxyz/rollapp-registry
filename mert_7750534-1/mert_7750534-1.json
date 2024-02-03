@@ -28,7 +28,9 @@ networks.json:
     "rpc": "https://froopyland.dymension.xyz/4/mert_7750534-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "availAddress": "5FC9Km26P3fGbK8jJKQeMpaPMTqdDjT5iHHJd5SDLZGquFhk",
+  "validator": true
 }
