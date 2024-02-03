@@ -1,0 +1,33 @@
+{
+  "chainId": "zodiac_6849449-1",
+  "chainName": "Zodiac",
+  "rpc": "http://155.133.23.122:26657",
+  "rest": "http://155.133.23.122:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "zzz",
+      "baseDenom": "uzzz",
+      "decimals": 18,
+      "logo": "/logos/zodiac_6849449-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/zodiac_6849449-1.png",
+  "ibc": {
+    "hubChannel": "channel-9223",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6883a9",
+    "rpc": "http://155.133.23.122:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
