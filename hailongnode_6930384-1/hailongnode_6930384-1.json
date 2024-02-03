@@ -1,0 +1,33 @@
+{
+  "chainId": "hailongnode_6930384-1",
+  "chainName": "hailongnode_6930384-1",
+  "rpc": "https://hailongnode.vinaddns.com:26657",
+  "rest": "https://hailongnode.vinaddns.com:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "xxx",
+      "baseDenom": "uxxx",
+      "decimals": 18,
+      "logo": "/logos/hailongnode_6930384-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/hailongnode_6930384-1.png",
+  "ibc": {
+    "hubChannel": "channel-5522",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x69bfd0",
+    "rpc": "https://hailongnode.vinaddns.com:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
