@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/agentr_6377203-1.jpg",
   "ibc": {
-    "hubChannel": "channel-6819",
-    "channel": "channel-0",
+    "hubChannel": "channel-9276",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
