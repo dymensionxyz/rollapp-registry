@@ -1,0 +1,33 @@
+{
+  "chainId": "thorrollapp_5165606-1",
+  "chainName": "thorrollapp_5165606-1",
+  "rpc": "http://84.247.141.129:26657",
+  "rest": "http://84.247.141.129:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "THR",
+      "baseDenom": "uTHR",
+      "decimals": 18,
+      "logo": "/logos/thorrollapp_5165606-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/thorrollapp_5165606-1.png",
+  "ibc": {
+    "hubChannel": "channel-9177",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4ed226",
+    "rpc": "http://84.247.141.129:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Thor empowers decentralized applications by seamlessly running on the Web3 infrastructure. As a robust node, Thor ensures efficient and secure transaction processing, enhancing the reliability and scalability of blockchain ecosystems.",
+  "analytics": true
+}
