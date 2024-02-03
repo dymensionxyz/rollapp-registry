@@ -1,0 +1,36 @@
+{
+  "chainId": "taka_8657996-1",
+  "chainName": "taka",
+  "rpc": "http://37.60.246.110:26657",
+  "rest": "http://37.60.246.110:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GAS",
+      "baseDenom": "uGAS",
+      "decimals": 18,
+      "logo": "/logos/taka_8657996-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/taka_8657996-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-9222",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x841c4c",
+    "rpc": "http://37.60.246.110:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5FsJcAjWqEm3yxjxRqyEUUPtYxLKELps9StPxoswj2naVChZ"
+}
+
