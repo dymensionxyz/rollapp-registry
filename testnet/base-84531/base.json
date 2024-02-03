@@ -1,0 +1,44 @@
+{
+    "chainId": "base-84531",
+    "chainName": "Base Goerli",
+    "rpc": "",
+    "rest": "",
+    "evm": {
+        "chainId": "0x14A33",
+        "rpc": ""
+    },
+    "explorerUrl": "https://goerli.basescan.org/",
+    "exploreTxUrl": "https://goerli.basescan.org/tx/",
+    "bech32Prefix": "",
+    "currencies": [
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "wei",
+            "decimals": 18,
+            "logo": "/logos/ethereum-eth-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "usdc",
+            "decimals": 18,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "validatorsLogosStorageDir": "hub",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/Base_Symbol_Blue.png",
+    "type": "Hub",
+    "analytics": false,
+    "website": "https://base.org/"
+}

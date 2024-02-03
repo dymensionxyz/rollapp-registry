@@ -26,10 +26,11 @@
     "chainId": "0x92de47",
     "rpc": "https://froopyland.dymension.xyz/25/mymucaorollapp_9625159-1-b/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Mucahit",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ENcDwXtbcJmEKuKwdPsb88DRDaTe7FgTL7Cj36cJHutNdda"
 }
 
 

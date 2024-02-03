@@ -1,12 +1,8 @@
 {
     "chainId": "theta-testnet-001",
-    "chainName": "cosmoshubtestnet",
-    "rpc": "https://rpc.sentry-01.theta-testnet.polypore.xyz",
-    "rest": "https://rest.sentry-01.theta-testnet.polypore.xyz",
-    "evm": {
-        "chainId": "",
-        "rpc": ""
-    },
+    "chainName": "Cosmos Hub - testnet",
+    "rpc": "https://rpc.cosmoshub.test-eu1.ccvalidators.com",
+    "rest": "https://api-cosmos-testnet.alphab.ai",
     "explorerUrl": "https://testnet.mintscan.io/cosmoshub-testnet",
     "exploreTxUrl": "https://testnet.mintscan.io/cosmoshub-testnet/txs/",
     "bech32Prefix": "cosmos",
@@ -23,7 +19,9 @@
     "validatorsLogosStorageDir": "",
     "faucetUrl": "",
     "ibc": {
-        "timeout": 172800000
+        "timeout": 172800000,
+        "hubChannel": "channel-4",
+        "channel": "channel-3557"
     },
     "gasPriceSteps": {
         "low": 0.01,
@@ -32,6 +30,6 @@
     },
     "logo": "/logos/cosmos-hub-logo.svg",
     "type": "Regular",
-    "analytics": true,
+    "analytics": false,
     "website": "https://cosmos.network/"
 }

@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/22/fredz_3748987-1/rpc",
   "rest": "https://froopyland.dymension.xyz/22/fredz_3748987-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "FDZ",
@@ -31,4 +30,6 @@
   "da": "Avail",
   "description": "",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5HmnWwvsX8sMpudM6JALuFiNfUQV7cfW8Nq8DtCpXZf7BHNw"
 }

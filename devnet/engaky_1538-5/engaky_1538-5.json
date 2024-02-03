@@ -27,8 +27,9 @@
       "chainId": "0x602",
       "rpc": "https://froopyland.dymension.xyz/3/engaky_1538-5/evmrpc"
     },
-    "type": "RollApp",
-    "da": "Celestia",
-    "description": "",
-    "analytics": true
+    "da": "Avail",
+  "description": "ENG Avail RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EPSSCchkjqRCSHcj3PXSWXjPwy1biCin53W8y8EygkPyzT8"
   }

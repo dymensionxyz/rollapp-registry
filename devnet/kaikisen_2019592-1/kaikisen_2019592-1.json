@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
+  "website": "https://portal.dymension.xyz/rollapp/kaikisen_2019592-1",
   "logo": "/logos/kaikisen_2019592-1.png",
   "ibc": {
     "hubChannel": "channel-5917",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/kaikisen_2019592-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Best Rollup on Dymension",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DRx56hwmJHKbGDJj5AXMuDmHd7oGMi8oNmfVCece9TGm2LV"
 }
