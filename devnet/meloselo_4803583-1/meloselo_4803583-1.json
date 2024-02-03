@@ -1,7 +1,7 @@
 {
   "chainId": "meloselo_4803583-1",
   "chainName": "meloselo_4803583-1",
-  "rpc": http://37.60.240.191:26657,
+  "rpc": "http://37.60.240.191:26657",
   "rest": "http://37.60.240.191:1317",
   "bech32Prefix": "ethm",
   "currencies": [
