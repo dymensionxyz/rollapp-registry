@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/15/gonluzenginrollapp_6211025-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CPD8SNzWiaqTsNLP7JgZMDtKuFk4K2L8PvFsGV15DHEi1GY"
 }
