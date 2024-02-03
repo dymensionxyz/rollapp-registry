@@ -1,13 +1,3 @@
-Welcome!
-
-This server is hosted by Contabo. If you have any questions or need help,
-please don't hesitate to contact us at support@contabo.com.
-
-Last login: Sat Feb  3 13:22:40 2024 from 188.119.54.80
-root@vmi1607817:~# screen -r
-[detached from 1221.rol]
-root@vmi1607817:~# roller config export
-💈 networks.json:
 {
   "chainId": "temhem_3191890-1",
   "chainName": "temhem_3191890-1",
