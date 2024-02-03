@@ -3,7 +3,7 @@
   "chainName": "Frinchy Tacata",
   "rpc": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/rpc",
   "rest": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/rest",
-  "bech32Prefix": "ethm",
+  "bech32Prefix": "ufrin",
   "currencies": [
     {
       "displayDenom": "FRIN",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "Let's go barber pole",
-  "analytics": true
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FNWqDk3hpYYXQmEx2evWnLPGk8tZAegXGzvru2xvr2x6K4Z"
 }
