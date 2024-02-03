@@ -1,6 +1,6 @@
 {
   "chainId": "naoopnode_6469521-1",
-  "chainName": "naoopnode_6469521-1",
+  "chainName": "naoopnode",
   "rpc": "http://38.242.141.120:26657",
   "rest": "http://38.242.141.120:1317",
   "bech32Prefix": "ethm",
