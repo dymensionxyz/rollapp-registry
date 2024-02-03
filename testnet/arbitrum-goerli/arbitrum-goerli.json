@@ -4,7 +4,7 @@
     "explorerUrl": "https://goerli.arbiscan.io/",
     "exploreTxUrl": "https://testnet.axelarscan.io/gmp/",
     "evm": {
-        "chainId": "0x66EED",
+        "chainId": "0x66EED"
     },
     "currencies": [
         {
