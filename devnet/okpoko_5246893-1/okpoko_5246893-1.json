@@ -1,8 +1,8 @@
 {
   "chainId": "okpoko_5246893-1",
-  "chainName": "okpoko_5246893-1",
-  "rpc": "http://173.249.25.82:26657",
-  "rest": "http://173.249.25.82:1317",
+  "chainName": "Okpoko",
+  "rpc": "https://froopyland.dymension.xyz/25/okpoko_5246893-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/okpoko_5246893-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x500fad",
-    "rpc": "http://173.249.25.82:8545"
+    "rpc": "https://froopyland.dymension.xyz/25/okpoko_5246893-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
