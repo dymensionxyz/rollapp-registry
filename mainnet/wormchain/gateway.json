@@ -1,8 +1,8 @@
 {
     "chainId": "wormchain",
     "chainName": "Gateway",
-    "rpc": "",
-    "rest": "",
+    "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world/",
+    "rest": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world/lcd/",
     "explorerUrl": "https://wormhole.com/explorer",
     "exploreTxUrl": "https://wormhole.com/explorer?txId=",
     "bech32Prefix": "wormhole",
