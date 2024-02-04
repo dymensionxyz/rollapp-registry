@@ -1,8 +1,8 @@
 {
     "chainId": "kava_2222-10",
     "chainName": "Kava",
-    "rpc": "",
-    "rest": "",
+    "rpc": "https://rpc.data.kava.io",
+    "rest": "https://api.data.kava.io/",
     "active": false,
     "explorerUrl": "https://kavascan.com/",
     "exploreTxUrl": "https://kavascan.com/tx/",
@@ -25,7 +25,6 @@
     ],
     "coinType": 118,
     "validatorsLogosStorageDir": "",
-    "faucetUrl": "",
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "",
