@@ -1,0 +1,33 @@
+{
+  "chainId": "zams_5377072-1",
+  "chainName": "zams_5377072-1",
+  "rpc": "http://195.201.89.131:26657",
+  "rest": "http://195.201.89.131:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ZMS",
+      "baseDenom": "uZMS",
+      "decimals": 18,
+      "logo": "/logos/zams_5377072-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/zams_5377072-1.png",
+  "ibc": {
+    "hubChannel": "channel-9258",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x520c30",
+    "rpc": "195.201.89.131:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
