@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/24/ahmkah_6032043-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Introducing The BARBUT GAME! ?? ?? ",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress":"5DHoty5apfEM7vPMEpFwDc2ze5rDs5PDEaDkKU9MPiXx4cnW"
 }

@@ -1,0 +1,35 @@
+{
+  "chainId": "alicizmecioglu_1588810-1",
+  "chainName": "alicizmecioglu_1588810-1",
+  "rpc": "http://38.242.237.71:26667",
+  "rest": "http://38.242.237.71:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AVL",
+      "baseDenom": "uAVL",
+      "decimals": 18,
+      "logo": "/logos/availibty_4294228-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/availibty_4294228-1.png",
+  "ibc": {
+    "hubChannel": "channel-8535",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x418654",
+    "rpc": "http://38.242.237.71:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5FZoyELqmHLm2jgnPLSsniqMtrWLTaefRpYdp9KYYNZgu9At",
+  "analytics": true
+}

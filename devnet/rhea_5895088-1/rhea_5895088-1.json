@@ -25,9 +25,12 @@
   "evm": {
     "chainId": "0x59f3b0",
     "rpc": "https://froopyland.dymension.xyz/18/rhea_5895088-1/evmrpc"
-  },
+ },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FFGLK95DiUaeJMfm8xeXctNV4nmjNo6bMFZaXPKvobnhthG"
 }

@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/kamuscrypto_4697521-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Kamus Crypto is an Indonesian crypto education platform and community. Join us at https://t.me/kamuscrypto",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H3rYZ3Arrz6nj5YfXcxXyzftTzNMhNkijmHQ5LQdjBppKpc"
 }
