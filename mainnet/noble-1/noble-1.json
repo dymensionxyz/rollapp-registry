@@ -6,6 +6,7 @@
     "explorerUrl": "mintscan.io/noble/",
     "exploreTxUrl": "mintscan.io/noble/txs/",
     "bech32Prefix": "noble",
+    "active": false,
     "currencies": [
         {
             "displayDenom": "USDC",
@@ -27,5 +28,5 @@
         "high": 0.2
     },
     "logo": "/logos/noble-icon.png",
-    "type": "Regular",
+    "type": "Regular"
 }

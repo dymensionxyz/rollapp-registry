@@ -1,8 +1,8 @@
 {
     "chainId": "cosmoshub-4",
     "chainName": "Cosmos Hub",
-    "rpc": "https://cosmoshub-rpc.lavenderfive.com:443",
-    "rest": "https://cosmoshub-api.lavenderfive.com:443",
+    "rpc": "https://cosmoshub-rpc.lavenderfive.com",
+    "rest": "https://cosmoshub-api.lavenderfive.com",
     "explorerUrl": "https://www.mintscan.io/cosmos/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
     "active": false,
