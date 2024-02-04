@@ -28,8 +28,8 @@
   },
     "type": "RollApp",
     "da": "Avail",
-    "goldberg": true,
+    "goldberg": "true",
     "availAddress": "5F4cb7TN8ynNu3nL1kS1zBZrQRSCh4NCn6NiufFU9T8c8nkc",
     "description": "senoll",
-    "analytics": true"
+    "analytics": true
 }
