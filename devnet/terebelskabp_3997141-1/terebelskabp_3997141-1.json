@@ -1,6 +1,6 @@
 {
   "chainId": "terebelskabp_3997141-1",
-  "chainName": "Terebelskabp",
+  "chainName": "Terebelska POPLAWSKI team",
   "rpc": "https://froopyland.dymension.xyz/28/terebelskabp_3997141-1/rpc",
   "rest": "https://froopyland.dymension.xyz/28/terebelskabp_3997141-1/rest",
   "bech32Prefix": "ethm",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/28/terebelskabp_3997141-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "goldberg": true,
+  "description": "poplawski nie ma zartuf",
+  "availAddress": "5G42n9T2aUebpq3HTQh2fA3YhTaA97mnB9WPBnsLfgfTu1jN",
   "analytics": true
 }
