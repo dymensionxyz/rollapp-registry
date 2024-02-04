@@ -1,0 +1,35 @@
+{
+  "chainId": "phinhung_4138798-1",
+  "chainName": "phinhung_4138798-1",
+  "rpc": "http://84.247.184.98:26657",
+  "rest": "http://84.247.184.98:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PHN",
+      "baseDenom": "uPHN",
+      "decimals": 18,
+      "logo": "/logos/phinhung_4138798-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/phinhung_4138798-1.png",
+  "ibc": {
+    "hubChannel": "channel-9265",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3f272e",
+    "rpc": "http://84.247.184.98:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Avail clash of nodes with Dymension RollApps",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Dq6WN3ZRNNTRLbR58gGVufFX6hTU5ZQK9jknwCfUeEZTuz1"
+}
