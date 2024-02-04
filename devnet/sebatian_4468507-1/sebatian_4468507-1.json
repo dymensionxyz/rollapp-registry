@@ -1,0 +1,35 @@
+{
+  "chainId": "sebatian_4468507-1",
+  "chainName": "SEBATIAN",
+  "rpc": "http://84.247.162.109:26657",
+  "rest": "http://84.247.162.109:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "seba",
+      "baseDenom": "useba",
+      "decimals": 18,
+      "logo": "/logos/sebatian_4468507-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sebatian_4468507-1.png",
+  "ibc": {
+    "hubChannel": "channel-8683",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x442f1b",
+    "rpc": "http://84.247.162.109:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EkJMVaWC7b2KcR5eRnz3UaE8FeLSmCW2azXiYsvbJGLQzi2"
+}
