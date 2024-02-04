@@ -16,6 +16,10 @@
             "type": "main"
         }
     ],
+    "ibc": {
+        "hubChannel": "",
+        "channel: ""
+    },
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "EVM",
     "website": "https://arbitrum.io/"
