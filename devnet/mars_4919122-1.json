@@ -1,0 +1,35 @@
+{
+  "chainId": "mars_4919122-1",
+  "chainName": "mars_4919122-1",
+  "rpc": "http:/78.153.130.112:26657",
+  "rest": "http:/78.153.130.112:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dym",
+      "baseDenom": "udym",
+      "decimals": 18,
+      "logo": "logos/mars_4919122-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "logos/mars_4919122-1.png",
+  "ibc": {
+    "hubChannel": "channel-9243",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4b0f52",
+    "rpc": "http:/78.153.130.112:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A NFT",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Dbxm4EKgKFHaBDWkB6qrt3DLafcCc2U8nK5QBQ35hfRd8Bj"
+}
