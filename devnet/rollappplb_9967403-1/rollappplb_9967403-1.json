@@ -1,36 +1,36 @@
 {
-	  "chainId": "rollappplb_9967403-1",
-	    "chainName": "rollappplb",
-	      "rpc": "http://161.97.100.85:26657",
-	        "rest": "http://161.97.100.85:1317",
-		  "bech32Prefix": "ethm",
-		    "currencies": [
-			        {
-					      "displayDenom": "PLB",
-					            "baseDenom": "uPLB",
-						          "decimals": 18,
-							        "logo": "/logos/rollappplb_9967403-1.png",
-								      "type": "main"
-								          }
-									    ],
-									      "coinType": 60,
-									        "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-										  "website": "https://github.com/398202646",
-										    "logo": "/logos/rollappplb_9967403-1.png",
-										      "ibc": {
-											          "hubChannel": "channel-9212",
-												      "channel": "channel-0",
-												          "timeout": 172800000
-													    },
-													      "evm": {
-														          "chainId": "0x98172b",
-															      "rpc": "http://161.97.100.85:8545"
-															        },
-																  "type": "RollApp",
-																    "da": "Avail",
-																      "description": "my first rollapp",
-																        "analytics": true,
-																	  "goldberg": true,
-																	    "availAddress": "5CDPi426Eyth18q2jP4GAtSTcgqs5RgmPFGKBwJLTVrYjCwi"
+	"chainId": "rollappplb_9967403-1",
+	"chainName": "rollappplb",
+	"rpc": "http://161.97.100.85:26657",
+	"rest": "http://161.97.100.85:1317",
+	"bech32Prefix": "ethm",
+	"currencies": [
+		{
+			"displayDenom": "PLB",
+			"baseDenom": "uPLB",
+			"decimals": 18,
+			"logo": "/logos/rollappplb_9967403-1.png",
+			"type": "main"
+		}
+	],
+	"coinType": 60,
+	"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+	"website": "https://github.com/398202646",
+	"logo": "/logos/rollappplb_9967403-1.png",
+	"ibc": {
+		"hubChannel": "channel-9212",
+		"channel": "channel-0",
+		"timeout": 172800000
+	},
+	"evm": {
+		"chainId": "0x98172b",
+		"rpc": "http://161.97.100.85:8545"
+	},
+	"type": "RollApp",
+	"da": "Avail",
+	"description": "my first rollapp",
+	"analytics": true,
+	"goldberg": true,
+	"availAddress": "5CDPi426Eyth18q2jP4GAtSTcgqs5RgmPFGKBwJLTVrYjCwi"
 }
 
