@@ -1,0 +1,33 @@
+{
+  "chainId": "magicmouns_7220503-1",
+  "chainName": "magicmouns_7220503-1",
+  "rpc": "http://81.0.249.102:26657",
+  "rest": "http://81.0.249.102:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MCM",
+      "baseDenom": "uMCM",
+      "decimals": 18,
+      "logo": "/logos/magicmouns_7220503-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/magicmouns_7220503-1.png",
+  "ibc": {
+    "hubChannel": "channel-9275",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6e2d17",
+    "rpc": "http://81.0.249.102:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
