@@ -1,0 +1,36 @@
+{
+         "chainId": "krews_5203950-1",
+         "chainName": "krews_5203950-1",
+         "rpc": "https://rpc-dym.krews.xyz/",
+         "rest": "https://rest-dym.krews.xyz/",
+         "bech32Prefix": "ethm",
+         "currencies": [
+           {
+             "displayDenom": "KREWS",
+             "baseDenom": "uKREWS",
+             "decimals": 18,
+             "logo": "/logos/krews_5203950-1.png",
+             "type": "main"
+           }
+         ],
+         "coinType": 60,
+         "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+         "website": "https://krews.xyz",
+         "logo": "/logos/krews_5203950-1.png",
+         "ibc": {
+           "hubChannel": "channel-8393",
+           "channel": "channel-0",
+           "timeout": 172800000
+         },
+         "evm": {
+           "chainId": "0x4f67ee",
+           "rpc": "https://evm-rpc-dym.krews.xyz/"
+         },
+         "type": "RollApp",
+         "da": "Avail",
+         "description": "",
+         "analytics": true,
+         "goldberg": true,
+         "availAddress": "5CQMjPm1jSY8gmftnxZVvYVCBLnpseCNANZxMVw4fkD3R7Bz"
+       }
+       
