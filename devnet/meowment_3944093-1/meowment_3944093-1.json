@@ -15,7 +15,9 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "meowment.xyz",
+  "explorerUrl": "https://explorer.meowment.xyz/Meowment",
+  "exploreTxUrl": "https://explorer.meowment.xyz/Meowment/tx/",
+  "website": "portal.meowment.xyz",
   "logo": "/logos/meowment_3944093-1.png",
   "ibc": {
     "hubChannel": "channel-5966",
@@ -27,7 +29,9 @@
     "rpc": "https://evm.dymension.meowment.xyz"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Meow meow~",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CtqGennXRXKhrNLhc7EQpjoBzvEXB5CB7iKSy3Sg4W5Nj7B"
 }
