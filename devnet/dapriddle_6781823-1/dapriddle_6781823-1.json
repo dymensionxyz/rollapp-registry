@@ -1,0 +1,33 @@
+{
+  "chainId": "dapriddle_6781823-1",
+  "chainName": "dapriddle",
+  "rpc": "http://95.111.249.103:26657",
+  "rest": "http://95.111.249.103:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DAP",
+      "baseDenom": "uDAP",
+      "decimals": 18,
+      "logo": "/logos/dapriddle_6781823-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://dapriddle.eth.limo/",
+  "logo": "/logos/dapriddle_6781823-1.png",
+  "ibc": {
+    "hubChannel": "channel-8608",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x677b7f",
+    "rpc": "http://95.111.249.103:8555"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "dapriddle Dymension RollApp on Avail! Easy setup!",
+  "analytics": true
+}
