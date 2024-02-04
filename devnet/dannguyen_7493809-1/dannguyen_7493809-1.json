@@ -1,0 +1,35 @@
+{
+  "chainId": "dannguyen_7493809-1",
+  "chainName": "dannguyen_7493809-1",
+  "rpc": "http://84.247.184.99:26657",
+  "rest": "http://84.247.184.99:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DAN",
+      "baseDenom": "uDAN",
+      "decimals": 18,
+      "logo": "/logos/dannguyen_7493809-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dannguyen_7493809-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-9292",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7258b1",
+    "rpc": "http://84.247.184.99:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Rollapp Dymension and Avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GbKWzG9wVLMar4ek8mxFNUu9RkcbUaX49mR86f15ozF3A7g"
+}
