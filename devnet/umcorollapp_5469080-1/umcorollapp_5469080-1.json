@@ -1,0 +1,33 @@
+{
+  "chainId": "umcorollapp_5469080-1",
+  "chainName": "Amaterasu",
+  "rpc": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "UMCO",
+      "baseDenom": "uUMCO",
+      "decimals": 18,
+      "logo": "/logos/umcorollapp_5469080-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/umcorollapp_5469080-1.png",
+  "ibc": {
+    "hubChannel": "channel-5727",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x537398",
+    "rpc": "https://froopyland.dymension.xyz/6/umcorollapp_5469080-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,35 @@
+{
+  "chainId": "tecnodes_2378012-1",
+  "chainName": "Tecnodes",
+  "rpc": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TNT",
+      "baseDenom": "uTNT",
+      "decimals": 18,
+      "logo": "/logos/tecnodes_2378012-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tecnodes_2378012-1.png",
+  "ibc": {
+    "hubChannel": "channel-6690",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x24491c",
+    "rpc": "https://froopyland.dymension.xyz/24/tecnodes_2378012-1-c/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "discord: tecnodes",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G94G9H4TQiBpfpPn18F4pd4Q3o3vvcjT3oqDzNR1mTKPAhU"
+}

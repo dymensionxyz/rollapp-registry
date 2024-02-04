@@ -1,0 +1,35 @@
+{
+  "chainId": "holesky_2505767-1",
+  "chainName": "Holesky",
+  "rpc": "http://173.212.201.112:26657",
+  "rest": "http://173.212.201.112:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HLK",
+      "baseDenom": "uHLK",
+      "decimals": 18,
+      "logo": "/logos/Holesky.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1144240033650458685",
+  "website": "https://portal.dymension.xyz/rollapp/holesky_2505767-1/statistics",
+  "logo": "/logos/Holesky.jpg",
+  "ibc": {
+    "hubChannel": "channel-8358",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x263c27",
+    "rpc": "http://173.212.201.112:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Holesky Testnet",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CAungjLjmWVj7nfm1HFNPrPHHjhNqfMYi1Zad5yoMgprt56"
+}

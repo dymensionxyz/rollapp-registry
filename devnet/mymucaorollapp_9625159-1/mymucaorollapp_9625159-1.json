@@ -1,0 +1,36 @@
+{
+  "chainId": "mymucaorollapp_9625159-1",
+  "chainName": "Mucahit",
+  "rpc": "https://froopyland.dymension.xyz/25/mymucaorollapp_9625159-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/mymucaorollapp_9625159-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ZEY",
+      "baseDenom": "uZEY",
+      "decimals": 18,
+      "logo": "/logo/mymucaorollapp_9625159-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://dymucahit.nicepage.io/",
+  "logo": "/logo/mymucaorollapp_9625159-1.png",
+  "ibc": {
+    "hubChannel": "channel-5529",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x92de47",
+    "rpc": "https://froopyland.dymension.xyz/25/mymucaorollapp_9625159-1-b/evmrpc"
+  },
+  "da": "Avail",
+  "description": "Mucahit",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ENcDwXtbcJmEKuKwdPsb88DRDaTe7FgTL7Cj36cJHutNdda"
+}
+
+

@@ -1,0 +1,35 @@
+{
+  "chainId": "gokolata_7846916-1",
+  "chainName": "gokolata_7846916-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "gklt",
+      "baseDenom": "ugklt",
+      "decimals": 18,
+      "logo": "/logos/gokolata_7846916-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/gokolata_7846916-1.png",
+  "ibc": {
+    "hubChannel": "channel-8494",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x77bc04",
+    "rpc": "http://34.118.41.86:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G1Nc9xGnJbdy2V6ovinuxgwuQzuuZSkcFFEk6v7iuUZCDTL"
+}

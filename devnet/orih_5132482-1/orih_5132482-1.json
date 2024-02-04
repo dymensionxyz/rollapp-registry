@@ -1,0 +1,35 @@
+{
+  "chainId": "orih_5132482-1",
+  "chainName": "Orih Urah",
+  "rpc": "https://froopyland.dymension.xyz/26/orih_5132482-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/orih_5132482-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RAX",
+      "baseDenom": "uRAX",
+      "decimals": 18,
+      "logo": "/logos/orih_5132482-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/orih_5132482-1.png",
+  "ibc": {
+    "hubChannel": "channel-8090",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4e50c2",
+    "rpc": "https://froopyland.dymension.xyz/26/orih_5132482-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5CFYn5KoN1daLELoBNN33a1jDvttChFagx7g71nz8D1yT2CC",
+  "description": "",
+  "analytics": true
+}

@@ -1,0 +1,33 @@
+{
+    "chainId": "williamha_6320649-1",
+    "chainName": "williamha",
+    "rpc": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/rpc",
+    "rest": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "WIL",
+        "baseDenom": "uWIL",
+        "decimals": 18,
+        "logo": "/logos/williamha_6320649-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/williamha_6320649-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-6942",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x607209",
+      "rpc": "https://froopyland.dymension.xyz/18/williamha_6320649-1-a/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+  }

@@ -1,0 +1,35 @@
+{
+  "chainId": "tuanphamit_9894234-1",
+  "chainName": "tuanphamit_9894234-1",
+  "rpc": "http://185.217.125.110:26657",
+  "rest": "http://185.217.125.110:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TPIT",
+      "baseDenom": "uTPIT",
+      "decimals": 18,
+      "logo": "/logos/tuanphamit_9894234.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tuanphamit_9894234.png",
+  "ibc": {
+    "hubChannel": "channel-8828",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x96f95a",
+    "rpc": "http://185.217.125.110:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EFC5He8rBDXPmz6NzvZErkNQhu7z5rJypuN6Eq7hdfn3SQR"
+}
