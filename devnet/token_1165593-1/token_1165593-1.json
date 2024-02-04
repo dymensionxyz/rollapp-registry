@@ -26,3 +26,7 @@
     "chainId": "0x11c919",
     "rpc": "http://49.13.160.106:8545"
   },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
