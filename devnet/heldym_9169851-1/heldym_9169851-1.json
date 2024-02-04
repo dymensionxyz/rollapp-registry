@@ -1,0 +1,35 @@
+{
+  "chainId": "heldym_9169851-1",
+  "chainName": "heldym_9169851-1",
+  "rpc": "http://37.60.248.176:26657",
+  "rest": "http://37.60.248.176:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HDM",
+      "baseDenom": "uHDM",
+      "decimals": 18,
+      "logo": "/logos/heldym_9169851-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/heldym_9169851-1.png",
+  "ibc": {
+    "hubChannel": "channel-9294",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8bebbb",
+    "rpc": "http://37.60.248.176:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5F4cNz2wcatH3Z2bd6gQ88EyFEmsQm7qMujvXmwvU6xiF769",
+  "description": "",
+  "analytics": true
+}
