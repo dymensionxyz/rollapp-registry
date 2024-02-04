@@ -1,8 +1,8 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rpc": "-",
     "rest": "-",
+    "rpc": "-",
     "evm": {
         "chainId": "0x44C",
         "rpc": "-"
