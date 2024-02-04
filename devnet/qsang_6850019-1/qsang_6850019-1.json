@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "5EEgi2AXHZSoSDRcouGfMSh7DQAj3gsmrwsMpXMuip638UFC",
-  "analytics": true
+  "description": "qsang_6850019-1",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EEgi2AXHZSoSDRcouGfMSh7DQAj3gsmrwsMpXMuip638UFC"
 }
