@@ -1,0 +1,35 @@
+{
+  "chainId": "aconi_8303721-1",
+  "chainName": "Aconi",
+  "rpc": "http://192.9.136.248:26657",
+  "rest": "http://192.9.136.248:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BTC",
+      "baseDenom": "uBTC",
+      "decimals": 18,
+      "logo": "/logos/aconi_8303721-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/aconi_8303721-1.png",
+  "ibc": {
+    "hubChannel": "channel-9216",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7eb469",
+    "rpc": "http://192.9.136.248:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HePcEzbnnRnH6PQvpX9ePaSrL11NSEVcH1g7HsJBZ7ZPNhr"
+}
