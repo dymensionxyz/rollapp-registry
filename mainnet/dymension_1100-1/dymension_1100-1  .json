@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rest": "-",
     "rpc": "-",
+    "rest": "-",
     "evm": {
         "chainId": "0x44C",
-        "rpc": ""
+        "rpc": "-"
     },
     "explorerUrl": "",
     "exploreTxUrl": "",
