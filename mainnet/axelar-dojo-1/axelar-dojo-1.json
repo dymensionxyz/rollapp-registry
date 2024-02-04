@@ -1,0 +1,34 @@
+{
+    "chainId": "axelar-dojo-1",
+    "chainName": "Axelar",
+    "rpc": "https://rpc-axelar.imperator.co:443",
+    "rest": "https://lcd-axelar.imperator.co:443",
+    "explorerUrl": "https://axelarscan.io/",
+    "exploreTxUrl": "https://axelarscan.io/tx/",
+    "active": false,
+    "bech32Prefix": "axelar",
+    "currencies": [
+        {
+            "displayDenom": "AXL",
+            "baseDenom": "uaxl",
+            "decimals": 6,
+            "logo": "/logos/axelar-chain-logo.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "validatorsLogosStorageDir": "",
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "",
+        "channel": ""
+    },
+    "gasPriceSteps": {
+        "low": 0.007,
+        "average": 0.007,
+        "high": 0.1
+    },
+    "logo": "/logos/axelar-chain-logo.png",
+    "type": "Regular",
+    "website": "https://axelar.network/"
+}
