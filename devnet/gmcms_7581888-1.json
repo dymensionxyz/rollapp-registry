@@ -1,0 +1,35 @@
+{
+  "chainId": "gmcms_7581888-1",
+  "chainName": "gmc-multisender",
+  "rpc": "http://35.197.77.128:26657",
+  "rest": "http://35.197.77.128:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GMCMS",
+      "baseDenom": "uGMCMS",
+      "decimals": 18,
+      "logo": "/logos/gmcms_7581888-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://multi-sender-bsc-jay.vercel.app/",
+  "logo": "/logos/gmcms_7581888-1.png",
+  "ibc": {
+    "hubChannel": "channel-8142",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x73b0c0",
+    "rpc": "http://35.197.77.128:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Multi-sender is a web3 app that allows you to send tokens to large number of address in single click",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G9iVmcspqkYuGWCqHvTbMxvbuQyH3Qzu43ArwRfcNGEhXy4"
+}
