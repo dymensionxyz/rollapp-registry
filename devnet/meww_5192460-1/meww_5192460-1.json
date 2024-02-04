@@ -18,8 +18,8 @@
   "website": "https://meww.xyz/",
   "logo": "/logos/meww_5192460-1.jpg",
   "ibc": {
-    "hubChannel": "channel-6767",
-    "channel": "channel-2",
+    "hubChannel": "channel-9308",
+    "channel": "channel-8",
     "timeout": 172800000
   },
   "evm": {
