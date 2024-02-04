@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/16/conan_3024376-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "This is My Rollapp",
-  "analytics": true
+  "da": "Avail",
+  "description": "This is Conan Rollapp",
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5FsxSDenEV59uNFx1AwpHWz1HvKojcJSTUd4S7kYqwBo3dwQ"
 }

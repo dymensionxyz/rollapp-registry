@@ -1,8 +1,8 @@
 {
     "chainId": "mocha-4",
     "chainName": "Celestia - Mocha Testnet",
-    "rpc": "https://mocha.celestia.rpc.cumulo.me",
-    "rest": "https://mocha.api.cumulo.me",
+    "rpc": "https://rpc.celestia.test-eu1.ccvalidators.com",
+    "rest": "https://rest.celestia.test-eu1.ccvalidators.com",
     "explorerUrl": "https://testnet.mintscan.io/celestia-testnet/",
     "exploreTxUrl": "https://testnet.mintscan.io/celestia-testnet/txs/",
     "bech32Prefix": "celestia",

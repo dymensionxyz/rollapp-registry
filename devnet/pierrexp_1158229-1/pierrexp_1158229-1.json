@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/10/pierrexp_1158229-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "PierreXP RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EZ8jtqJCofGMAwikbggevSJK2gedrnAvaSbbWWJcCsV5eR6"
 }
-

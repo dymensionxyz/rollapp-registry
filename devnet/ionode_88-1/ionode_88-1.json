@@ -30,5 +30,7 @@
   "da": "Avail",
   "description": "Professional PoS Network Validator, Highly Secured and 24/7 Monitored",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5DLDqtEM8uCojxmCr9LbzriAUb9xqcw4wjfRsxnQpMMVX8wX"
 }

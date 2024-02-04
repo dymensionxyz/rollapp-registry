@@ -1,0 +1,35 @@
+{
+  "chainId": "erichuang_3785368-1",
+  "chainName": "erichuang_3785368-1",
+  "rpc": "http://194.13.81.92:26657",
+  "rest": "http://194.13.81.92:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ERC",
+      "baseDenom": "uERC",
+      "decimals": 18,
+      "logo": "/logos/erichuang_3785368-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/erichuang_3785368-1.png",
+  "ibc": {
+    "hubChannel": "channel-8673",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x39c298",
+    "rpc": "http://194.13.81.92:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FCu7o3TDWfjR9zrJJUEyVYgtmBnAEG97s6yeN7Gw4zWSdwA"
+}

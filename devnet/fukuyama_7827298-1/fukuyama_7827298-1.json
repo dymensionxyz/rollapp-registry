@@ -1,0 +1,36 @@
+{
+  "chainId": "fukuyama_7827298-1",
+  "chainName": "fukuyama_7827298-1",
+  "rpc": "http://65.109.227.251:26657",
+  "rest": "http://65.109.227.251:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FKU",
+      "baseDenom": "uFKU",
+      "decimals": 18,
+      "logo": "/logos/fukuyama_7827298-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/fukuyama_7827298-1.png",
+  "ibc": {
+    "hubChannel": "channel-8485",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x776f62",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G1V54mAzZsPc89SLuQXGLypYn4y9rkm8QhJKWFgw1v9n1LC"
+  
+}

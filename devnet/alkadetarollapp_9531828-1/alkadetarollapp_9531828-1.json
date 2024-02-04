@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/24/alkadetarollapp_9531828-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5ERrWCTXb41ckD1FLBaLQKT1SUCrGo91GHpj5tanGUA142VP",
+  "description": "alkadeta",
   "analytics": true
 }

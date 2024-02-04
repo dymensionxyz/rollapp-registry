@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/16/bigbrain_9782597-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5D9pm2Q2mPGJQ7fVZPYy4CF4ssjTKBTHJSpQtvvM2rtLVMbF"
 }

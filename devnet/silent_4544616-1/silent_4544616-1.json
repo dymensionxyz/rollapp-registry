@@ -1,0 +1,35 @@
+{
+  "chainId": "silent_4544616-1",
+  "chainName": "silent_4544616-1",
+  "rpc": "http://49.13.128.209:26657",
+  "rest": "http://49.13.128.209:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "slt",
+      "baseDenom": "uslt",
+      "decimals": 18,
+      "logo": "/logos/silent_4544616-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/silent_4544616-1.svg",
+  "ibc": {
+    "hubChannel": "channel-8399",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x455868",
+    "rpc": "http://49.13.128.209:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Rollapp from silent validator, have fun",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FNCfhKSVBbHgFNferwgms4iJv2N2Z1xGo25wFkYdfL79a1r"
+}

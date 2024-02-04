@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/3/byfalib_6334-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "We Love Crypto",
+  "da": "Avail",
+  "description": "byfalib",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5DV2JzUUAwZmki7252RHG2iTUopagA7qXMhn1XfPMRef5AnF"
 }

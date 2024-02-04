@@ -1,34 +1,35 @@
 {
   "chainId": "optimysthico_9372020-1",
-  "chainName": "optimysthico",
-  "rpc": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/rest",
+  "chainName": "OptiMysthico",
+  "rpc": "http://149.102.137.76:26657",
+  "rest": "http://149.102.137.76:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "OMO",
       "baseDenom": "uOMO",
       "decimals": 18,
-      "logo": "/logos/optimysthico_9372020-1-logo.jpg",
+      "logo": "/logos/optimysthico_9372020-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/optimysthico_9372020-1-logo.jpg",
+  "logo": "/logos/optimysthico_9372020-1.png",
   "ibc": {
     "hubChannel": "channel-5399",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "optimysthico_9372020-1",
-    "rpc": "https://froopyland.dymension.xyz/4/optimysthico_9372020-1/evmrpc"
+    "chainId": "0x8f0174",
+    "rpc": "http://149.102.137.76:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5HRAsumCES9U7mSb5Rv9FYdnfC5mLip3WBPqV54SdtE26teF"
 }
