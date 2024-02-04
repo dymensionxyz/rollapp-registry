@@ -1,0 +1,36 @@
+{
+	  "chainId": "mikethoue_1967084-1",
+	    "chainName": "mikethoue_1967084-1",
+	      "rpc": "http://144.91.72.156:26657",
+	        "rest": "http://144.91.72.156:1317",
+		  "bech32Prefix": "ethm",
+		    "currencies": [
+			        {
+					      "displayDenom": "miket",
+					            "baseDenom": "umiket",
+						          "decimals": 18,
+							        "logo": "/logos/mikethoue_1967084-1.png",
+								      "type": "main"
+								          }
+									    ],
+									      "coinType": 60,
+									        "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+										  "website": "",
+										    "logo": "/logos/mikethoue_1967084-1.png",
+										      "ibc": {
+											          "hubChannel": "channel-9297",
+												      "channel": "channel-0",
+												          "timeout": 172800000
+													    },
+													      "evm": {
+														          "chainId": "0x1e03ec",
+															      "rpc": "http://144.91.72.156:8545"
+															        },
+																  "type": "RollApp",
+																    "da": "Avail",
+																      "description": "mikethoue is me",
+																        "analytics": true
+																	"goldberg": true,
+
+																	"availAddress": "5ECZ5FY6w4X69qtE7ku61vHewkxq3eqJPDMs6KYi6tHQicoc"
+}
