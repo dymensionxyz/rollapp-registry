@@ -9,8 +9,8 @@
     "currencies": [
         {
             "displayDenom": "USDC",
-            "baseDenom": "0x254d06f33bDc5b8ee05b2ea472107E300226659A",
-            "bridgeDenom": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+            "baseDenom": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+            "bridgeDenom": "0x254d06f33bDc5b8ee05b2ea472107E300226659A",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
             "type": "main"
