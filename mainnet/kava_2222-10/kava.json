@@ -3,6 +3,7 @@
     "chainName": "Kava",
     "rpc": "",
     "rest": "",
+    "active": false,
     "explorerUrl": "https://kavascan.com/",
     "exploreTxUrl": "https://kavascan.com/tx/",
     "bech32Prefix": "kava",

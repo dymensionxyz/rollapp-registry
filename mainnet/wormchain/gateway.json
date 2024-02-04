@@ -16,8 +16,6 @@
         }
     ],
     "coinType": 118,
-    "validatorsLogosStorageDir": "",
-    "faucetUrl": "",
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "",
@@ -30,6 +28,6 @@
     },
     "logo": "/logos/solana-sol-logo.svg",
     "type": "Regular",
-    "analytics": false,
+    "active": false,
     "website": "https://solana.com/"
 }

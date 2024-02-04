@@ -4,7 +4,8 @@
     "rpc": "",
     "rest": "",
     "explorerUrl": "",
-    "exploreTxUrl": "/txs/",
+    "exploreTxUrl": "",
+    "active": false,
     "bech32Prefix": "cosmos",
     "currencies": [
         {
@@ -16,8 +17,6 @@
         }
     ],
     "coinType": 118,
-    "validatorsLogosStorageDir": "",
-    "faucetUrl": "",
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "",
@@ -30,6 +29,5 @@
     },
     "logo": "/logos/cosmos-hub-logo.svg",
     "type": "Regular",
-    "analytics": false,
     "website": "https://cosmos.network/"
 }

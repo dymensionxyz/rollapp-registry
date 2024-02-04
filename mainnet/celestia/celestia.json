@@ -4,7 +4,8 @@
     "rpc": "",
     "rest": "",
     "explorerUrl": "",
-    "exploreTxUrl": "txs/",
+    "exploreTxUrl": "",
+    "active": false,
     "bech32Prefix": "celestia",
     "currencies": [
         {
@@ -30,6 +31,5 @@
     },
     "logo": "/logos/celestia-logo-purple.svg",
     "type": "Regular",
-    "analytics": false,
     "website": "https://celestia.org/"
 }
