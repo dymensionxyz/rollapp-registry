@@ -18,7 +18,7 @@
     ],
     "ibc": {
         "hubChannel": "",
-        "channel: ""
+        "channel": ""
     },
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "EVM",
