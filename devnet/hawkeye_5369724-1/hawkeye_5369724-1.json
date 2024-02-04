@@ -1,0 +1,33 @@
+{
+  "chainId": "hawkeye_5369724-1",
+  "chainName": "HawkEye",
+  "rpc": "http://172.105.214.177:26657",
+  "rest": "http://172.105.214.177:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HKE",
+      "baseDenom": "uHKE",
+      "decimals": 18,
+      "logo": "/logos/hawkeye_5369724-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://evmverse.xyz/",
+  "logo": "/logos/hawkeye_5369724-1.png",
+  "ibc": {
+    "hubChannel": "channel-9242",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x51ef7c",
+    "rpc": "http://172.105.214.177:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
