@@ -24,7 +24,6 @@
         }
     ],
     "coinType": 118,
-    "validatorsLogosStorageDir": "",
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "",
