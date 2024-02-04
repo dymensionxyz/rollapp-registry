@@ -1,0 +1,35 @@
+{
+  "chainId": "pyang_8508122-1",
+  "chainName": "pyang_8508122-1",
+  "rpc": “http://107.175.101.227:26657”, 
+  "rest": "http://107.175.101.227:1317”,
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "doge",
+      "baseDenom": "udoge",
+      "decimals": 18,
+      "logo": "/logos/pyang_8508122-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/pyang_8508122-1.png",
+  "ibc": {
+    "hubChannel": "channel-9230",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x81d2da",
+    "rpc": "http://107.175.101.227:8545”
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+"goldberg": true,
+"availAddress": "5DFbdM2LU2y9HVAkcXechTX81wGN2sdu665Z8iKCcfSfEbf2"
+}
