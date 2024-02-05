@@ -1,7 +1,7 @@
 
 {
   "chainId": "zerochain_4323630-1",
-  "chainName": "zerochain_4323630-1",
+  "chainName": "zerochain",
   "rpc": "http://84.247.186.183:26657",
   "rest": "http://84.247.186.183:1317",
   "bech32Prefix": "ethm",
