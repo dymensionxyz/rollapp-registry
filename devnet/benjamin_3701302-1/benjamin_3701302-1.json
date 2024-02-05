@@ -24,8 +24,11 @@
   "evm": {
     "chainId": "0x387a36",
     "rpc": "https://froopyland.dymension.xyz/12/benjamin_3701302-1/evmrpc"
-  },
+ },
   "type": "RollApp",
-  "da": "Celestia",
-  "analytics": true
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H8o5fatT8Frcdh17gnxQ73L3tQTQLKwFCWNxNJmJEjFJEnq"
 }
