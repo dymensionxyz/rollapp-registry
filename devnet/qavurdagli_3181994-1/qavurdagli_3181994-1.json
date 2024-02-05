@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/13/qavurdagli_3181994-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "avail",
   "description": "",
   "analytics": true
+  "goldberg": true
+  "availAddress": "5HW8Po2vBWnXGAsnNTp5a48J2WtZQfXNBY4ZUd1WJ3FWXGwQ"
 }
