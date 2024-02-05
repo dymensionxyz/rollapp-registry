@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Playing around with Avail DA",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DU74ZUMDFjwrU5KA6nC8rQisFLFEWuesakgso9NSRtUCb7L"
 }
