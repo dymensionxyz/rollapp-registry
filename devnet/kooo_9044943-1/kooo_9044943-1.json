@@ -1,0 +1,36 @@
+{
+  "chainId": "kooo_9044943-1",
+  "chainName": "kooo_9044943-1",
+  "rpc": "http://62.72.47.43:26657",
+  "rest": "http://62.72.47.43:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KOO",
+      "baseDenom": "uKOO",
+      "decimals": 18,
+      "logo": "/logos/kooo_9044943-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kooo_9044943-1.png",
+  "ibc": {
+    "hubChannel": "channel-8506",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8a03cf",
+    "rpc": "http://62.72.47.43:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "koootest",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GsytGyxUBRM5JVZrHJjuEx8uZnAd2KChuCDYaAUeK6KxBYB"
+
+}
