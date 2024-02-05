@@ -6,8 +6,8 @@
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "SFC",
-      "baseDenom": "uSFC",
+      "displayDenom": "sfc",
+      "baseDenom": "usfc",
       "decimals": 18,
       "logo": "/logos/seaflagchain_8805271-1.jpg",
       "type": "main"
