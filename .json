@@ -1,0 +1,35 @@
+{
+  "chainId": "grizenode_2728923-1",
+  "chainName": "grizenode_2728923-1",
+  "rpc": "http://173.249.7.58:26657",
+  "rest": "http://173.249.7.58:1317",
+  "bech32Prefix": "ethm", 
+  "currencies": [
+    {
+      "displayDenom": "GRZ",
+      "baseDenom": "uGRZ",
+      "decimals": 18,
+      "logo": "/logos/grizenode_2728923-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "", 
+  "logo": "/logos/grizenode_2728923-1.png",
+  "ibc": {
+    "hubChannel": "channel-9217",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+  "chainId": "0x29a3db",
+  "rpc": "http://173.249.7.58>:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5EXanvzKEfKrMjnJVCTCsMLoAaRrwnBZJwETcAFy8AdN2BuP"
+}
