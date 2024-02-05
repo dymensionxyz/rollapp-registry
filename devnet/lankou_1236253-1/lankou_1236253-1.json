@@ -1,0 +1,35 @@
+{
+  "chainId": "lankou_1236253-1",
+  "chainName": "lankou_1236253-1",
+  "rpc": "http://148.113.6.168:26656",
+  "rest": "http://148.113.6.168:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lankou",
+      "baseDenom": "ulankou",
+      "decimals": 18,
+      "logo": "/logos/lankou_1236253-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://fl.dym.fyi/rollapp/lankou_1236253-1/",
+  "logo": "/logos/lankou_1236253-1.png",
+  "ibc": {
+    "hubChannel": "channel-8631",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x12dd1d",
+    "rpc": "http://148.113.6.168:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5DZywoD7iAarZKVSTia4bCedpWxwrnj2nHd7FPwAK1Si8K1m",
+  "description": "",
+  "analytics": true
+}
