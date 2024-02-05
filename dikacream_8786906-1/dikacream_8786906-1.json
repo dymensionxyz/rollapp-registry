@@ -1,0 +1,36 @@
+root@DikaCream:~# cd rollapp-registry
+root@DikaCream:~/rollapp-registry# export ROLLAPP_ID=dikacream_8786906-1
+root@DikaCream:~/rollapp-registry# roller config export
+💈 networks.json:
+{
+  "chainId": "dikacream_8786906-1",
+  "chainName": "dikacream_8786906-1",
+  "rpc": "http://65.21.241.31:26657",
+  "rest": "http://65.21.241.31:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dika",
+      "baseDenom": "udika",
+      "decimals": 18,
+      "logo": "/logos/dikacream_8786906-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dikacream_8786906-1.png",
+  "ibc": {
+    "hubChannel": "channel-9140",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8613da",
+    "rpc": "http://65.21.241.31:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
