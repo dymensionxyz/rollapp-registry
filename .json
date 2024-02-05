@@ -1,8 +1,8 @@
 {
   "chainId": "grizenode_2728923-1",
   "chainName": "grizenode_2728923-1",
-  "rpc": "http://<IP_VPS>:26657",
-  "rest": "http://<IP_VPS>:1317",
+  "rpc": "173.249.7.58:26657",
+  "rest": "173.249.7.58:1317",
   "bech32Prefix": "ethm", 
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
   "chainId": "0x29a3db",
-  "rpc": "http://<IP_VPS>:8545"
+  "rpc": "173.249.7.58>:8545"
   },
   "type": "RollApp",
   "da": "Avail",
