@@ -1,0 +1,33 @@
+{
+  "chainId": "donchicken_2358483-1",
+  "chainName": "donchicken_2358483-1",
+  "rpc": "http://158.220.120.113:26657",
+  "rest": "http://158.220.120.113:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "don",
+      "baseDenom": "udon",
+      "decimals": 18,
+      "logo": "/logos/donchicken_2358483-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "donchiken",
+  "logo": "/logos/donchicken_2358483-1.png",
+  "ibc": {
+    "hubChannel": "channel-9232",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x23fcd3",
+    "rpc": "http://158.220.120.113:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "donchicken rollapp",
+  "analytics": true
+}
