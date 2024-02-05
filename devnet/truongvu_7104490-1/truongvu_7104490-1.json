@@ -1,0 +1,35 @@
+{
+  "chainId": "truongvu_7104490-1",
+  "chainName": "truongvu_7104490-1",
+  "rpc": "http://84.247.184.97:26657",
+  "rest": "http://84.247.184.97:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TVU",
+      "baseDenom": "uTVU",
+      "decimals": 18,
+      "logo": "/logos/truongvu_7104490-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/truongvu_7104490-1.png",
+  "ibc": {
+    "hubChannel": "channel-9224",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6c67ea",
+    "rpc": "http://84.247.184.97:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "create a chain with dymenstion and avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EZV7HmQPiNp9MQzQ2vvU2Dzvvxv8ZV1tWqqyLwWHVy4hEHE"
+}
