@@ -1,0 +1,35 @@
+{
+  "chainId": "tuan_2373215-1",
+  "chainName": "tuan_2373215-1",
+  "rpc": "http://178.18.240.54:26657",
+  "rest": "http://178.18.240.54:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "LAT",
+      "baseDenom": "uLAT",
+      "decimals": 18,
+      "logo": "/logos/tuan_2373215-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/tuan_2373215-1.png",
+  "ibc": {
+    "hubChannel": "channel-8660",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x24365f",
+    "rpc": "http://178.18.240.54:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5EXG1oJc49sT5pcDy1tFzLoNfevbd54k2JK8qXW6qoHA6wsV",
+  "analytics": true
+}
