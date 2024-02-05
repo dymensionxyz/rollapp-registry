@@ -1,0 +1,33 @@
+{
+  "chainId": "breizhnode_5688122-1",
+  "chainName": "BreizhNode",
+  "rpc": "http://95.111.224.107:26657",
+  "rest": "http://95.111.224.107:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BZH",
+      "baseDenom": "uBZH",
+      "decimals": 18,
+      "logo": "/logos/breizhnode_5688122-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@breizh-node",
+  "logo": "/logos/breizhnode_5688122-1.png",
+  "ibc": {
+    "hubChannel": "channel-8538",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x56cb3a",
+    "rpc": "http://95.111.224.107:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "BreizhNode is a trusted PoS validator and shares accessible node installation guides for beginners and experts alike",
+  "analytics": true
+}
