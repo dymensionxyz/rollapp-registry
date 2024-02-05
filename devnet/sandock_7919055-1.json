@@ -1,0 +1,35 @@
+{
+  "chainId": "sandock_7919055-1",
+  "chainName": "sandock_7919055-1",
+  "rpc": "http://144.91.109.143:26657",
+  "rest": "http://144.91.109.143:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "sand",
+      "baseDenom": "usand",
+      "decimals": 18,
+      "logo": "/logos/sandock_7919055-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sandock_7919055-1.png",
+  "ibc": {
+    "hubChannel": "channel-9330",
+    "channel": "channel-2",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x78d5cf",
+    "rpc": "http://144.91.109.143:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E5JuEgEzHXQLAS72XLprn9jYWBR5Liu3FKxWBkGRvA1wNwC"
+}
