@@ -1,0 +1,34 @@
+{
+    "chainId": "gregorsamsa_2021746-1",
+    "chainName": "gregorsamsa",
+    "rpc": "https://froopyland.blockpi.network:443/rpc/v1/public",
+    "rest": "https://froopyland.blockpi.network:443/lcd/v1/public",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "gsa",
+        "baseDenom": "ugsa",
+        "decimals": 18,
+        "logo": "/logos/gregorsamsa_2021746-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://vitwit.com/",
+    "logo": "/logos/gregorsamsa_2021746-1.png",
+    "ibc": {
+      "hubChannel": "channel-8340",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x1ed972",
+      "rpc": ""
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "rollapp deployed on Avail",
+    "analytics": true
+  }
+  
