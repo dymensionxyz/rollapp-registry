@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/22/bishamonten_7172286-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fdw2YSqGX8qsXCrEnF6yEoHT9vsFeh2FkN1mUjXz8SPbsDn"
 }
