@@ -1,0 +1,35 @@
+{
+  "chainId": "emberstake_3838714-1",
+  "chainName": "emberstake_3838714-1",
+  "rpc": "http://dym-avail.emberstake.xyz:31357",
+  "rest": "http://dym-avail.emberstake.xyz:31358",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EMBR",
+      "baseDenom": "uEMBR",
+      "decimals": 18,
+      "logo": "/logos/emberstake_3838714-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/emberstake_3838714-1.png",
+  "ibc": {
+    "hubChannel": "channel-9316",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3a92fa",
+    "rpc": "http://dym-avail.emberstake.xyz:31359"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Playing around with Avail DA",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DU74ZUMDFjwrU5KA6nC8rQisFLFEWuesakgso9NSRtUCb7L"
+}
