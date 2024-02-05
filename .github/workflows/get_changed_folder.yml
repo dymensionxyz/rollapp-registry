@@ -55,6 +55,9 @@ jobs:
               "testnet")
                 save_network_api="https://savenetworkrequest-p7gld3dazq-uc.a.run.app"
                 ;;
+              "mainnet")
+                save_network_api="https://savenetworkrequest-xqbg2swtrq-uc.a.run.app"
+                ;;
               *)
             esac
                     
