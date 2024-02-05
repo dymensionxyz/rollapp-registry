@@ -1,0 +1,35 @@
+{
+    "chainId": "tytynoderunner_4789706-1",
+    "chainName": "TyTy NodeRunner",
+    "rpc": "http://65.108.198.183:20657",
+    "rest": "http://65.108.198.183:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "TYTY",
+        "baseDenom": "uTYTY",
+        "decimals": 18,
+        "logo": "/logos/tytynoderunner_4789706-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/tytynoderunner_4789706-1.png",
+    "ibc": {
+      "hubChannel": "channel-8452",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x4915ca",
+      "rpc": "http://65.108.198.183:8045"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "Go Go Avail",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5EA5fkUb82bAyXReRmX51TCJHPAax1SQqN6tPT5kZtjEDp9t"
+  }
