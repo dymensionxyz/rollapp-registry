@@ -1,0 +1,35 @@
+{
+  "chainId": "lodestar_8787009-1",
+  "chainName": "lodestar_8787009-1",
+  "rpc": "http://37.60.250.163:26657",
+  "rest": "http://37.60.250.163:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "STAR",
+      "baseDenom": "uSTAR",
+      "decimals": 18,
+      "logo": "/logos/lodestar_8787009-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lodestar_8787009-1.png",
+  "ibc": {
+    "hubChannel": "channel-9328",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x861441",
+    "rpc": "http://37.60.250.163:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Lodestar rollup to explore facilitating defi (but to start, probably pepe nfts)",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G78qxmNEBW7gJVbBzwye7Fjq8vhzbxdfkY4bbEMBrrEvkXx"
+}
