@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/22/peterpan_4753248-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "RollApp PeterPan",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Cr2uAjzYhkiW6mfBbWoDRZethuQ4vhyRC3c3Pzwo97EUJV6"
 }
