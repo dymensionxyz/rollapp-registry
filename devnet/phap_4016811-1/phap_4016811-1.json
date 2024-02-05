@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/phap_4016811-1.png",
   "ibc": {
-    "hubChannel": "channel-8828",
+    "hubChannel": "channel-9253",
     "channel": "channel-0",
     "timeout": 172800000
   },
