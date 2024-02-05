@@ -1,0 +1,35 @@
+{
+  "chainId": "stakeworks_7490312-1",
+  "chainName": "Stake.Works | Dymension",
+  "rpc": "http://avail.stake.works:26657",
+  "rest": "http://avail.stake.works:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/stakeworks_7490312-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://stake.works",
+  "logo": "/logos/stakeworks_7490312-1.png",
+  "ibc": {
+    "hubChannel": "channel-8368",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x724b08",
+    "rpc": "http:/avail.stake.works:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Stake.Works, independent node operators, active since 2018. We’re supporting projects on the Polygon, Polkadot and Cosmos ecosystems.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FxoSE3aFcJZJRZT9TRGZfusPuR6ig5nHkYDTJqXAjLNd1BE"
+}
