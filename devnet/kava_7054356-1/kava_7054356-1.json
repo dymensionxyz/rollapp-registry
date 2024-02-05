@@ -1,0 +1,35 @@
+{
+  "chainId": "kava_7054356-1",
+  "chainName": "kava_7054356-1",
+  "rpc": "http://84.247.184.100:26657",
+  "rest": "http://84.247.184.100:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KVA",
+      "baseDenom": "uKVA",
+      "decimals": 18,
+      "logo": "/logos/kava_7054356-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kava_7054356-1.png",
+  "ibc": {
+    "hubChannel": "channel-9343",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6ba414",
+    "rpc": "http://84.247.184.100:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "welcome to my Rollapp.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HBji9CkmNzsr9dXDYtfpCuuFw3mG14imtYUoRwG79eBPD8u"
+}
