@@ -1,0 +1,33 @@
+{
+  "chainId": "bibebong_8007741-1",
+  "chainName": "bibebong_8007741-1",
+  "rpc": "http://194.163.174.191:26657",
+  "rest": "http://194.163.174.191:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "bibi",
+      "baseDenom": "ubibi",
+      "decimals": 18,
+      "logo": "/logos/bibebong_8007741-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "bi",
+  "logo": "/logos/bibebong_8007741-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-9310",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7a303d",
+    "rpc": "http://194.163.174.191:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "from bibi with love",
+  "analytics": true
+}
