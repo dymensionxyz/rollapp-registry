@@ -1,0 +1,36 @@
+
+{
+  "chainId": "zerochain_4323630-1",
+  "chainName": "zerochain",
+  "rpc": "http://84.247.186.183:26657",
+  "rest": "http://84.247.186.183:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "zro",
+      "baseDenom": "uzro",
+      "decimals": 18,
+      "logo": "/logos/zerochain_4323630-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://zc.mericade.com/",
+  "logo": "/logos/zerochain_4323630-1.png",
+  "ibc": {
+    "hubChannel": "channel-8870",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x41f92e",
+    "rpc": "http://84.247.186.183:8545"
+  },
+   "type": "RollApp",
+  "da": "Avail",
+  "description": "zerochain is here to create revolution in crypto space",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Cnt5grpXw5Ax4FLGfQ8UMMThpKhjFncLM3ocw3BqbJxiPqG"
+}
