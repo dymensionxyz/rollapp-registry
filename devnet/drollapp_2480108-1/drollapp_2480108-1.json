@@ -18,13 +18,13 @@
   "website": "http://31.220.100.140:81/",
   "logo": "/logos/drollapp_2480108-1.png",
   "ibc": {
-    "hubChannel": "channel-8897",
-    "channel": "channel-0",
+    "hubChannel": "channel-9364",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
     "chainId": "0x25d7ec",
-    "rpc": "http://31.220.100.140:26657"
+    "rpc": "http://31.220.100.140:8545"
   },
   "type": "RollApp",
   "da": "Avail",
