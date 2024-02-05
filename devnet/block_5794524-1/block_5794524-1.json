@@ -1,0 +1,35 @@
+{
+  "chainId": "block_5794524-1",
+  "chainName": "Blocks Network",
+  "rpc": "http://84.247.185.55:26657",
+  "rest": "http://84.247.185.55:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BLN",
+      "baseDenom": "uBLN",
+      "decimals": 18,
+      "logo": "/logos/block_5794524-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/block_5794524-1.png",
+  "ibc": {
+    "hubChannel": "channel-8461",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x586adc",
+    "rpc": "http://84.247.185.55:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Place to experience the best blockchain experience using RollApps!!",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CwihqH6tT4D5zcrxxfBNjN3HqF4iFSuqTZ1zFdJaXV45XdE"
+}
