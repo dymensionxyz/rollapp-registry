@@ -1,0 +1,33 @@
+{
+  "chainId": "weirdnode_7290436-1",
+  "chainName": "WeirdNode",
+  "rpc": "https://37.60.227.155:26657",
+  "rest": "https://37.60.227.155:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WRD",
+      "baseDenom": "uWRD",
+      "decimals": 18,
+      "logo": "/logos/weirdnode_7290436-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/weirdnode_7290436-1.png",
+  "ibc": {
+    "hubChannel": "channel-9237",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6f3e44",
+    "rpc": "https://37.60.227.155:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
