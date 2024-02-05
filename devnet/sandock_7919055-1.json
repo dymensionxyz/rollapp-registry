@@ -2,7 +2,7 @@
   "chainId": "sandock_7919055-1",
   "chainName": "sandock_7919055-1",
   "rpc": "http://144.91.109.143:26657",
-  "rest": "http://144.91.109.143;1317",
+  "rest": "http://144.91.109.143:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
