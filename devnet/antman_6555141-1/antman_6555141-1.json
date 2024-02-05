@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/28/antman_6555141-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "My Rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E1hni6WPGYm5FvQnzK7dK1VgkpXrsQ8gDdANzM9dWYUCqwd"
 }
