@@ -1,0 +1,35 @@
+{
+  "chainId": "chiricato_6350855-1",
+  "chainName": "chiricato_6350855-1",
+  "rpc": "http://173.212.248.41:26657",
+  "rest": "http://173.212.248.41:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "tanle",
+      "baseDenom": "utanle",
+      "decimals": 18,
+      "logo": "/logos/chiricato_6350855-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chiricato_6350855-1.png",
+  "ibc": {
+    "hubChannel": "channel-8797",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x60e807",
+    "rpc": "http://173.212.248.41:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Doe2S32c2vKbuaXKx1kSHJcM4rJpbG17CUHnB66D84nE3gn"
+}
