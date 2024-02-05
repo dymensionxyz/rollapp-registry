@@ -1,0 +1,35 @@
+{
+  "chainId": "goldenstrok_9756699-1",
+  "chainName": "Vitek7373",
+  "rpc": "http://65.21.14.11:21657/",
+  "rest": "http://65.21.14.11:21317/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GSTRK",
+      "baseDenom": "uGSTRK",
+      "decimals": 18,
+      "logo": "/logos/goldenstrok_9756699-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/goldenstrok_9756699-1.png",
+  "ibc": {
+    "hubChannel": "channel-8497",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x94e01b",
+    "rpc": "http://65.21.14.11:21545/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnbpG7XUuzNZHCcahpqTkLd87kAoBNEUMjNTBBLsLMW3neU"
+}
