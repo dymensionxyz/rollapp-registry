@@ -1,0 +1,35 @@
+{
+  "chainId": "stkd_6704855-1",
+  "chainName": "stkd",
+  "rpc": "http://rollapp.stkd.io:26657",
+  "rest": "http://rollapp.stkd.io:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "stkd",
+      "baseDenom": "ustkd",
+      "decimals": 18,
+      "logo": "/logos/stkd_6704855-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://www.stkd.io",
+  "logo": "/logos/stkd_6704855-1.png",
+  "ibc": {
+    "hubChannel": "channel-8544",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x664ed7",
+    "rpc": "http://rollapp.stkd.io:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fqfid8CXyXXYdsYbCY9NwxtMmhe1esoPHhtXSNwpQPhorxH"
+}
