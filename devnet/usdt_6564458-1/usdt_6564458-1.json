@@ -1,0 +1,35 @@
+{
+  "chainId": "usdt_6564458-1",
+  "chainName": "usdt_6564458-1",
+  "rpc": "http://84.247.184.101:26657",
+  "rest": "http://84.247.184.101:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "UDYM",
+      "baseDenom": "uUDYM",
+      "decimals": 18,
+      "logo": "/logos/usdt_6564458-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/usdt_6564458-1.png",
+  "ibc": {
+    "hubChannel": "channel-9318",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x642a6a",
+    "rpc": "http://84.247.184.101:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A node from Avail clash of nodes program.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ekb2BFf1kKG8A5LMtg1bnY3cuN1XH3avkbhsazuGibrStDz"
+}
