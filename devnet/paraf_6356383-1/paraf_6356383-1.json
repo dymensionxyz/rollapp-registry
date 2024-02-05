@@ -25,9 +25,15 @@
   "evm": {
     "chainId": "0x60fd9f",
     "rpc": "https://froopyland.dymension.xyz/24/paraf_6356383-1-b/evmrpc"
+ },
+  "evm": {
+    "chainId": "0x6912de",
+    "rpc": "http://IP-YAZ:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "Paraf",
+  "goldberg": true,
+  "availAddress": "5DJWsLoZzJZtwKDdfUXUQFHx2RtV3UMYtKfA43weUokq89fc",
   "analytics": true
 }
