@@ -1,0 +1,35 @@
+{
+  "chainId": "seaflagchain_8805271-1",
+  "chainName": "seaflagchain",
+  "rpc": "http://185.249.225.24:26657",
+  "rest": "http://185.249.225.24:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "sfc",
+      "baseDenom": "usfc",
+      "decimals": 18,
+      "logo": "/logos/seaflagchain_8805271-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://sfc.mericade.com/",
+  "logo": "/logos/seaflagchain_8805271-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8616",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x865b97",
+    "rpc": "http://185.249.225.24:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Endless wave rollsup in Sea",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FHW2spjqgn5aGsRXHbyczJ2Bw4Hnq1foWjw2LbRTUEPDxrf"
+}
