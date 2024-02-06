@@ -1,0 +1,35 @@
+{
+  "chainId": "guedespt_5398575-1",
+  "chainName": "guedesPT",
+  "rpc": "http://84.91.146.60:26657",
+  "rest": "http://84.91.146.60:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/guedespt_5398575-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/guedespt_5398575-1.png",
+  "ibc": {
+    "hubChannel": "channel-8643",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x52602f",
+    "rpc": "http://84.91.146.60:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5EhGe752cuK2A953NTQUZirVsE9z1fKfSY2FY6JymRVfa4sa",
+  "description": "Guedes PT",
+  "analytics": true
+}
