@@ -1,0 +1,33 @@
+{
+  "chainId": "acronimu_6453461-1",
+  "chainName": "acronimu_6453461-1",
+  "rpc": "http://104.251.219.130:26657",
+  "rest": "http://104.251.219.130:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ACRO",
+      "baseDenom": "uACRO",
+      "decimals": 18,
+      "logo": "/logos/acronimu_6453461-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/acronimu_6453461-1.png",
+  "ibc": {
+    "hubChannel": "channel-9236",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6278d5",
+    "rpc": "http://104.251.219.130:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "sugi pula",
+  "analytics": true
+}
