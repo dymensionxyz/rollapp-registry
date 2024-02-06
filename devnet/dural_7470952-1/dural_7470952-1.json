@@ -1,0 +1,34 @@
+{
+  "chainId": "dural_7470952-1",
+  "chainName": "dural_7470952-1",
+  "rpc": "http://149.102.158.91:26657",
+  "rest": "http://149.102.158.91:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "drl",
+      "baseDenom": "udrl",
+      "decimals": 18,
+      "logo": "/logos/dural_7470952-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dural_7470952-1.png",
+  "ibc": {
+    "hubChannel": "channel-8872",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x71ff68",
+    "rpc": "http://149.102.158.91:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5CXFZrPN74RErG5ny69ZRDELJ2tjywVX1pXuRjp3wR6s5t2E",
+  "analytics": true
