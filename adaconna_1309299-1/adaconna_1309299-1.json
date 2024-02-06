@@ -1,0 +1,35 @@
+{
+  "chainId": "adaconna_1309299-1",
+  "chainName": "Adaconna",
+  "rpc": "http://194.60.201.42:10545",
+  "rest": "http://194.60.201.42:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NNA",
+      "baseDenom": "uNNA",
+      "decimals": 18,
+      "logo": "/logos/adaconna_1309299-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "",
+  "website": "",
+  "logo": "/logos/adaconna_1309299-1.png",
+  "ibc": {
+    "hubChannel": "channel-8927",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x13fa73",
+    "rpc": "http://194.60.201.42:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5F4SJq5XZdfAn5jJiux4MBTQsDbeLxbikU5JQr2qwg6gp66X"
+}
