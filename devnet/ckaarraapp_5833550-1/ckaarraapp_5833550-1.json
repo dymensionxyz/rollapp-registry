@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://ckaarraa.vercel.app/",
   "logo": "/logos/ckaarraapp_5833550-1.png",
   "ibc": {
     "hubChannel": "channel-6327",
@@ -27,9 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/11/ckaarraapp_5833550-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "avail",
+  "da": "Avail",
   "description": "This is the fastest rollapp on the WORLD. TRY IT !",
-  "analytics": true
-  "goldberg": true
-  "availAddress": "5DRvctg1WkMM3x55Mogx67SLCrKn28XRHAFTtem6MwxcnfjY "
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DRvctg1WkMM3x55Mogx67SLCrKn28XRHAFTtem6MwxcnfjY"
 }
