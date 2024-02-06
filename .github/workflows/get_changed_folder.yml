@@ -46,11 +46,17 @@ jobs:
             # Fetch rollapp env
             env=$(echo $file | cut -d'/' -f1)
             case $env in
+              "internal-devnet")
+                save_network_api="https://savenetworkrequest-lmw4daeqdq-uc.a.run.app"
+                ;;
               "devnet")
                 save_network_api="https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
                 ;;
-              "internal-devnet")
-                save_network_api="https://savenetworkrequest-lmw4daeqdq-uc.a.run.app"
+              "testnet")
+                save_network_api="https://savenetworkrequest-p7gld3dazq-uc.a.run.app"
+                ;;
+              "mainnet")
+                save_network_api="https://savenetworkrequest-xqbg2swtrq-uc.a.run.app"
                 ;;
               *)
             esac

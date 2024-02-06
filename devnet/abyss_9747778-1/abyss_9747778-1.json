@@ -1,0 +1,35 @@
+{
+  "chainId": "abyss_9747778-1",
+  "chainName": "Abyss",
+  "rpc": "https://axelart.urusthelight.xyz",
+  "rest": "https://axelar.urusthelight.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "abyss",
+      "baseDenom": "uabyss",
+      "decimals": 18,
+      "logo": "/logos/abyss_9747778-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://fluidity-31d46e.spheron.app/",
+  "logo": "/logos/abyss_9747778-1.png",
+  "ibc": {
+    "hubChannel": "channel-8707",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x94bd42",
+    "rpc": "https://avail.urusthelight.xyz"
+  },
+  "goldberg": true,
+  "availAddress": "5CqXBbEnHu6FKokCjqF5i6nTTyRtiscqrb2iqUBRF5Z4oM2D",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}

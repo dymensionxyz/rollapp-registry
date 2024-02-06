@@ -1,8 +1,8 @@
 {
   "chainId": "blustack_23823-2",
-  "chainName": "blustack",
-  "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rpc",
-  "rest": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/rest",
+  "chainName": "blustack_23823-2",
+  "rpc": "https://109.123.248.163:26557",
+  "rest": "https://109.123.248.163:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,9 +23,11 @@
   },
   "evm": {
     "chainId": "0x5d0f",
-    "rpc": "https://froopyland.dymension.xyz/8/blustack_23823-2-a/evmrpc"
+    "rpc": "https://109.123.248.163:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "analytics": true
+  "da": "Avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DyEMLFsbYPra2YBoxupfnPLTKnF6tdyRgi2SJRUsHmchE83"
 }

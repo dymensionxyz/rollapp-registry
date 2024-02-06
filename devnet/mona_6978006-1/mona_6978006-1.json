@@ -4,6 +4,7 @@
     "rpc": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/rpc",
     "rest": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/rest",
     "bech32Prefix": "ethm",
+    "golberg": true,
     "currencies": [
         {
             "displayDenom": "mna",
@@ -27,7 +28,8 @@
         "rpc": "https://froopyland.dymension.xyz/27/mona_6978006-1-a/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
+    "da": "Avail",
     "description": "",
-    "analytics": true
+    "analytics": true,
+    "rewards": true
 }

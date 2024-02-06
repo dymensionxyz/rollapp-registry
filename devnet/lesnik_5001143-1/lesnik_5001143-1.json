@@ -26,8 +26,10 @@
     "rpc": "https://dymension-jsonrpc-rollapp.utsa.tech"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HgrnoHWxig7XCpqYP2Hya7wXEfyJD619QPoBcPvnKLeDmV5",
   "rewards": true,
   "validator": true
 }

@@ -1,0 +1,35 @@
+{
+    "chainId": "grand-1",
+    "chainName": "Noble - testnet",
+    "rpc": "https://noble-testnet-rpc.polkachu.com",
+    "rest": "https://noble-testnet-api.polkachu.com",
+    "explorerUrl": "https://testnet.mintscan.io/noble-testnet",
+    "exploreTxUrl": "https://testnet.mintscan.io/noble-testnet/txs/",
+    "bech32Prefix": "noble",
+    "currencies": [
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "validatorsLogosStorageDir": "",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-3",
+        "channel": "channel-34"
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/noble-icon.png",
+    "type": "Regular",
+    "analytics": false,
+    "website": ""
+}

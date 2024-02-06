@@ -1,0 +1,35 @@
+{
+  "chainId": "monad_4648825-1",
+  "chainName": "Nad RollApp",
+  "rpc": "http://84.247.183.3:26657",
+  "rest": "http://84.247.183.3:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MONAD",
+      "baseDenom": "uMONAD",
+      "decimals": 18,
+      "logo": "/logos/monad_4648825-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/monad_4648825-1.png",
+  "ibc": {
+    "hubChannel": "channel-8502",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x46ef79",
+    "rpc": "http://84.247.183.3:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "evm/acc",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GUCieHCg4ohRgcQxVKvLbhXYxrRFWaHuRMZoX6Kruq6bfek"
+}

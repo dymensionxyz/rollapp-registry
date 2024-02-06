@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/3/mustache_9298263-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5DwDW2iJ4PskcbXWc6DurRUrHmmGwhh2Dh5QnazMHWzrN35m"
 }

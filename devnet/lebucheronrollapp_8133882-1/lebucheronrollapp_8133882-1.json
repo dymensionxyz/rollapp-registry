@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/9/lebucheronrollapp_8133882-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5HTN3nytR4n5PkuzU18XDyGiMmfQGtobTxnBcSr8uPyeANZD",
   "description": "",
   "analytics": true
 }

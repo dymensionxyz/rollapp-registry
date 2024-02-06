@@ -27,9 +27,11 @@
         "rpc": "https://froopyland.dymension.xyz/26/gopysingh_7113370-1-B/evmrpc"
     },
     "type": "RollApp",
-    "da": "Celestia",
-    "description": "",
+    "da": "Avail",
+    "description": "its a dapp that provide testnet faucet with that help user can get faucet ",
     "analytics": true,
+    "goldberg": true,
     "active": true
+    "availAddress": "5FYjnoWJoaVesGgP3ksSpUcADXQnAwtGRqLYXgZYdw3EGtT3"
     
 }

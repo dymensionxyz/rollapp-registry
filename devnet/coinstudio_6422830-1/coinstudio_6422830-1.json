@@ -1,0 +1,35 @@
+{
+  "chainId": "coinstudio_6422830-1",
+  "chainName": "coinstudio_6422830-1",
+  "rpc": "http://135.181.78.183:26657",
+  "rest": "http://135.181.78.183:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "COIN",
+      "baseDenom": "uCOIN",
+      "decimals": 18,
+      "logo": "/logos/coinstudio_6422830-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/coinstudio_6422830-1.png",
+  "ibc": {
+    "hubChannel": "channel-8391",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x62012e",
+    "rpc": "http://135.181.78.183:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "CoinStudio Dymension Rollup on Avail DA",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GvCnAJ64fPA5JZQVWLfNedb6WfiDAHffaTCpqRAgPKjM9VN"
+}

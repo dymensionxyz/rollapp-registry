@@ -26,8 +26,9 @@
     "chainId": "0x57192c",
     "rpc": "https://froopyland.dymension.xyz/5/mehmetxh_5708076-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "run avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5D33EBjzdicUXkcPKy5UdBpiUPaMeeZPn1hcpAVexvaekSPF"
 }

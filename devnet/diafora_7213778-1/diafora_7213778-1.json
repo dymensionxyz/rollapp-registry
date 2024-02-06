@@ -18,8 +18,8 @@
   "website": "https://diafora.site",
   "logo": "/logos/diafora_7213778-1.png",
   "ibc": {
-    "hubChannel": "channel-5393",
-    "channel": "channel-0",
+    "hubChannel": "channel-8230",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/11/diafora_7213778-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HBxiE18dacg6xijKJGfPKXWgRcHfBYC5K2Jz73ZeeKr8gVu"
 }

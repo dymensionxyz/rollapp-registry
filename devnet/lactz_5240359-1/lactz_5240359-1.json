@@ -1,0 +1,33 @@
+{
+  "chainId": "lactz_5240359-1",
+  "chainName": "lactz",
+  "rpc": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lac",
+      "baseDenom": "ulac",
+      "decimals": 18,
+      "logo": "/logos/lactz_5240359-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lactz_5240359-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8324",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4ff627",
+    "rpc": "https://froopyland.dymension.xyz/28/lactz_5240359-1-b/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

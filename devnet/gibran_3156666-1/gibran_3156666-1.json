@@ -25,13 +25,15 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "roller relayer status",
+    "chainId": "0x302aba",
     "rpc": "https://froopyland.dymension.xyz/25/gibran_3156666-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5C5hQyMzS5vjhmbAYBscXD2ybWnrW6QwFKNrUDpk9PUUQnVp",
   "rewards": true,
   "active": true
 }
