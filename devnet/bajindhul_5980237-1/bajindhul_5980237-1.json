@@ -27,7 +27,9 @@
     "rpc": "http://128.199.183.42:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Bajindhul cuk jaran !",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GMwY4rkdmPRBuUfx1ynrYdbwMmt9F6UAk9NTGck4X6VvHdT"
 }
