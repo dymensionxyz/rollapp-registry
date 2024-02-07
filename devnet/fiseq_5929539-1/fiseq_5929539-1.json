@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/22/fiseq_5929539-1-d/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "fiseq",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CRwtqzUfnRPq34sDkj7bxjWpD52UaCVM7xDvbP6R25y8rWZ"
 }
