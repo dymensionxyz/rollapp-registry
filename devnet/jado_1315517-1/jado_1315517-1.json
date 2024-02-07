@@ -1,0 +1,35 @@
+{
+  "chainId": "jado_1315517-1",
+  "chainName": "jado_1315517-1",
+  "rpc": "http://49.12.59.175:26657",
+  "rest": "http://49.12.59.175:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "jad",
+      "baseDenom": "ujad",
+      "decimals": 18,
+      "logo": "/logos/jado_1315517-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/jado_1315517-1.png",
+  "ibc": {
+    "hubChannel": "channel-8542",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1412bd",
+    "rpc": "http://49.12.59.175:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "jado RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GNiBUhxjL8qjcE5nJahq4Gi9MYNE33oHzHsHZhbWHUqhxjT"
+}
