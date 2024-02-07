@@ -1,0 +1,33 @@
+{
+  "chainId": "discr_9047053-1",
+  "chainName": "Stanbran",
+  "rpc": "https://91.189.129.97",
+  "rest": "https://91.189.129.97",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "REW",
+      "baseDenom": "uREW",
+      "decimals": 18,
+      "logo": "/logos/discr_9047053-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/discr_9047053-1.png",
+  "ibc": {
+    "hubChannel": "channel-8338",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8a0c0d",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
