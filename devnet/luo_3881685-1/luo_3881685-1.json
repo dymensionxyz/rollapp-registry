@@ -1,8 +1,8 @@
 {
   "chainId": "luo_3881685-1",
   "chainName": "Luo",
-  "rpc": "https://froopyland.dymension.xyz/6/luo_3881685-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/6/luo_3881685-1/rest",
+  "rpc": "https://207.180.250.156:26657",
+  "rest": "https://207.180.250.156:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -18,18 +18,18 @@
   "website": "",
   "logo": "/logos/luo_3881685-1.png",
   "ibc": {
-    "hubChannel": "channel-5730",
-    "channel": "channel-0",
+    "hubChannel": "channel-8942",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
     "chainId": "0x3b3ad5",
-    "rpc": "https://froopyland.dymension.xyz/6/luo_3881685-1/evmrpc"
+    "rpc": "https://207.180.250.156:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "goldberg": true,
-  "availAddress": "5FnGqBADvb1MKXA4izhJZzfpmh4v11z9dUgLfHTaGLzcJgeQ"
+  "availAddress": "5D8ARnj4irQM9Mhkj4WnVSMo4NkWn1iyBfPxjUjaHy8DppTj"
   "description": "Luo RollApp",
   "analytics": true
 }
