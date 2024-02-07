@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/6/exodus_3220944-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GstFg3Lzsx6HEBc3kifqafdM7pQZk6Xi7q9KhZRqxH1j4yg"
 }
