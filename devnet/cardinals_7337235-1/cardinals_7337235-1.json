@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/26/cardinals_7337235-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fxgn4eNYWCFXM8KL3BtXYcdoMFYb3NV9KbHzpwXzbtty3wU"
 }

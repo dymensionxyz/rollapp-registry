@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/18/bero_6048241-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Ersan Rollapp",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E7UaRGqg1Dtt5CMDcetyvLwWvH5LhnsK995JGnX1KVnd3vq"
 }

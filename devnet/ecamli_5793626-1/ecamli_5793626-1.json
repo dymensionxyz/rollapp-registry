@@ -1,8 +1,8 @@
 {
   "chainId": "ecamli_5793626-1",
   "chainName": "Ecamli",
-  "rpc": "http://135.181.25.166:26657",
-  "rest": "http://135.181.25.166:1317",
+  "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -18,13 +18,13 @@
   "website": "",
   "logo": "/logos/ecamli_5793626-1.png",
   "ibc": {
-    "hubChannel": "channel-5931",
-    "channel": "channel-0",
+    "hubChannel": "channel-9227",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
     "chainId": "0x58675a",
-    "rpc": "http://135.181.25.166:8545"
+    "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
