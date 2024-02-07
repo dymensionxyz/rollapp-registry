@@ -1,6 +1,6 @@
 {
   "chainId": "gonygogo_5700745-1",
-  "chainName": "Gonygogo",
+  "chainName": "Gony GoGo",
   "rpc": "https://froopyland.dymension.xyz/28/gonygogo_5700745-1/rpc",
   "rest": "https://froopyland.dymension.xyz/28/gonygogo_5700745-1/rest",
   "bech32Prefix": "ethm",
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/28/gonygogo_5700745-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "just GoGo!",
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5ExmSodM6e2Xh8UW837kxyEvvm75JrGQoyrRZPhGeBhnBwVb"
 }
