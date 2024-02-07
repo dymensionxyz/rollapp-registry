@@ -1,0 +1,36 @@
+{
+    "chainId": "dymension_1100-1",
+    "chainName": "Dymension",
+    "rest": "-",
+    "rpc": "-",
+    "evm": {
+        "chainId": "0x44C",
+        "rpc": "-"
+    },
+    "explorerUrl": "",
+    "exploreTxUrl": "",
+    "bech32Prefix": "dym",
+    "currencies": [
+        {
+            "displayDenom": "DYM",
+            "baseDenom": "adym",
+            "decimals": 18,
+            "logo": "/logos/dymension-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "validatorsLogosStorageDir": "hub",
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/dymension-logo.svg",
+    "type": "Hub",
+    "analytics": true,
+    "website": "https://portal.dymension.xyz"
+}
