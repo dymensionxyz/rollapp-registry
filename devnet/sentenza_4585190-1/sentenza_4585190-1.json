@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/20/sentenza_4585190-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Sentenza RollApp",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GmoaH6THP8cau4ahmb19TzG33fYE5agDhphMP5M1mUKxP4H"
 }
