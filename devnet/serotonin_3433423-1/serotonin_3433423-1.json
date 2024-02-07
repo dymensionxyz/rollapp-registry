@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnAqLHeKXa1BezwK9P1xNSYBqJWWnGocPAviWme4ePt7F3j" 
 }
