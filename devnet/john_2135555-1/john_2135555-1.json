@@ -1,0 +1,33 @@
+{
+    "da": "Avail",
+    "chainName": "JOHN-LEGEND",
+    "rpc": "https://froopyland.dymension.xyz/john_5858/rpc",
+    "rest": "https://froopyland.dymension.xyz/john_5858/rest",
+    "evm": {
+      "chainId": "0x209603",
+      "rpc": "https://froopyland.dymension.xyz/john_5858/evmrpc"
+    },
+    "coinType": 60,
+    "type": "RollApp",
+    "ibc": {
+      "timeout": 172800000,
+      "channel": "channel-0",
+      "hubChannel": "channel-5332"
+    },
+    "logo": "/logos/john_2135555-1.png",
+    "chainId": "john_2135555-1",
+    "currencies": [
+      {
+        "baseDenom": "uJOHN",
+        "decimals": 18,
+        "logo": "/logos/john_2135555-1.png",
+        "displayDenom": "JOHN",
+        "type": "main"
+      }
+    ],
+    "bech32Prefix": "ethm",
+    "analytics": true,
+    "goldberg": true,
+    "rewards": true,
+    "availAddress": "5EZ7E4ng9sbW8NHHTtRVTjw78AY9w59zUUPEQzaoAVkeThkN"
+  }

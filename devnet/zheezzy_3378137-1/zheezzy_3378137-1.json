@@ -1,0 +1,35 @@
+{
+  "chainId": "zheezzy_3378137-1",
+  "chainName": "Zheezzy",
+  "rpc": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "zheez",
+      "baseDenom": "uzheez",
+      "decimals": 18,
+      "logo": "/logos/zheezzy_3378137-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/zheezzy_3378137-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8207",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x338bd9",
+    "rpc": "https://froopyland.dymension.xyz/27/zheezzy_3378137-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Thank You",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DPyVetW4LcMVjBHVJVyGWTv5D3ZKDnqKS3mdqwZK1TTzzSf"
+}

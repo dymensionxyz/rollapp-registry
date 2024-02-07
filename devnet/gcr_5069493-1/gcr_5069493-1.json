@@ -1,0 +1,35 @@
+{
+  "chainId": "gcr_5069493-1",
+  "chainName": "Gcr",
+  "rpc": "https://froopyland.dymension.xyz/25/gcr_5069493-1-c/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/gcr_5069493-1-c/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/gcr_5069493-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "website": "",
+  "logo": "/logos/gcr_5069493-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-5744",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4d5ab5",
+    "rpc": "https://froopyland.dymension.xyz/25/gcr_5069493-1-c/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "GCR - Global Coin Research",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ge55JPDMgB3dRUuRxeYWSiRbdR39c8pf1FmmMxT9ufDzqri"
+}

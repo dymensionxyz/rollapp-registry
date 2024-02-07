@@ -1,0 +1,35 @@
+{
+  "chainId": "ennezeta_7551897-1",
+  "chainName": "ennezeta",
+  "rpc": "http://135.181.202.253:26657",
+  "rest": "http://135.181.202.253:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ENZ",
+      "baseDenom": "uENZ",
+      "decimals": 18,
+      "logo": "/logos/ennezeta_7551897-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/EnneZeta",
+  "logo": "/logos/ennezeta_7551897-1.png",
+  "ibc": {
+    "hubChannel": "channel-8413",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x733b99",
+    "rpc": "http://135.181.202.253:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Fast as a duck Roll up",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5Fs26qoDFMf6Szpc9DrbwgKmwn2nuM4dwZdm4u3Y1S8SWZcT"
+}

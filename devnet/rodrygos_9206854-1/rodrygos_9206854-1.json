@@ -1,0 +1,35 @@
+{
+  "chainId": "rodrygos_9206854-1",
+  "chainName": "Rodrygos21",
+  "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RODY",
+      "baseDenom": "uRODY",
+      "decimals": 18,
+      "logo": "/logos/rodrygos_9206854-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://faucet.rodrygos21.my.id/",
+  "website": "https://rodrygos21.my.id/",
+  "logo": "/logos/rodrygos_9206854-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6550",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8c7c46",
+    "rpc": "https://froopyland.dymension.xyz/14/rodrygos_9206854-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FW6datuQHMNWMVRhLLpTzqhsAo5Z6m2yyjnpsAgx6sbKCd3",
+  "description": "",
+  "analytics": true
+}

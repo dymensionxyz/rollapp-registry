@@ -1,0 +1,35 @@
+{
+	"chainId": "cummy_2339612-1",
+	"chainName": "Cummy",
+	"rpc": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rpc",
+	"rest": "https://froopyland.dymension.xyz/28/cummy_2339612-1/rest",
+	"bech32Prefix": "ethm",
+	"currencies": [
+		{
+			"displayDenom": "cumm",
+			"baseDenom": "ucumm",
+			"decimals": 18,
+			"logo": "/logos/cummy_2339612-1.jpg",
+			"type": "main"
+		}
+	],
+	"coinType": 60,
+	"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                             022",
+	"website": "",
+	"logo": "/logos/cummy_2339612-1.jpg",
+	"ibc": {
+		"hubChannel": "channel-8337",
+		"channel": "channel-0",
+		"timeout": 172800000
+	},
+	"evm": {
+		"chainId": "0x23b31c",
+		"rpc": "https://froopyland.dymension.xyz/28/cummy_2339612-1/evmrpc"
+	},
+	"type": "RollApp",
+	"da": "Avail",
+	"description": "",
+	"analytics": true,
+	"goldberg": true,
+        "availAddress": "5FC18piHyFJ9Tr8Hex1tN1EXiPhyLqr5QG6p93rU6n1WEfd1"
+}

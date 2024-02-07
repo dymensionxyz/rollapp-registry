@@ -1,0 +1,35 @@
+{
+  "chainId": "namastereborn_6147597-1",
+  "chainName": "Namastereborn",
+  "rpc": "https://froopyland.dymension.xyz/25/namastereborn_6147597-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/namastereborn_6147597-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NMS",
+      "baseDenom": "uNMS",
+      "decimals": 18,
+      "logo": "/logos/namastereborn_6147597-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/namastereborn_6147597-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8023",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5dce0d",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "https://froopyland.dymension.xyz/25/namastereborn_6147597-1/evmrpc",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5D2PFfzfrPxYmhJTaooAMBB66NLFUNAjRDSFrqmNa5FSDdeX"
+}

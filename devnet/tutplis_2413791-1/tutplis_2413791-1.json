@@ -1,0 +1,35 @@
+{
+  "chainId": "tutplis_2413791-1",
+  "chainName": "Pickles",
+  "rpc": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "wes",
+      "baseDenom": "uwes",
+      "decimals": 18,
+      "logo": "/logos/lazım-min.jpeg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/lazım-min.jpeg",
+  "ibc": {
+    "hubChannel": "channel-6772",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x24d4df",
+    "rpc": "https://froopyland.dymension.xyz/17/tutplis_2413791-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HR1LGrqPbgCQMrKqur4yF3Yown6D6d51SZEisAbEhbVcD9i"
+}

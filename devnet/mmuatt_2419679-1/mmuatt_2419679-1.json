@@ -1,0 +1,35 @@
+{
+  "chainId": "mmuatt_2419679-1",
+  "chainName": "mmuatt",
+  "rpc": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MMT",
+      "baseDenom": "uMMT",
+      "decimals": 18,
+      "logo": "/logos/mmuatt_2419679-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/mmuatt_2419679-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8151",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x24ebdf",
+    "rpc": "https://froopyland.dymension.xyz/27/mmuatt_2419679-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GWn4sKMnxdsGxgeXJwYe9Nc3aBc4FCtEDJJe1M9e3KCbJ5A",
+}

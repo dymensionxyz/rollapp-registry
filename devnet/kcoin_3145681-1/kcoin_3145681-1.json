@@ -1,0 +1,35 @@
+{
+  "chainId": "kcoin_3145681-1",
+  "chainName": "kcoin",
+  "rpc": "http://119.28.112.175:26657",
+  "rest": "http://119.28.112.175:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KCS",
+      "baseDenom": "uKCS",
+      "decimals": 18,
+      "logo": "/logos/kcoin_3145681-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/kcoin_3145681-1.png",
+  "ibc": {
+    "hubChannel": "channel-6549",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2fffd1",
+    "rpc": "http://119.28.112.175:8545"
+  },
+    "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FUEHMTmFuMvkQzPgn4G275wiQDqQ6HYMHFeCaZcHvrNxCmZ"
+}

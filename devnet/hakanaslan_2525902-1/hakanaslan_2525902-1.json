@@ -1,0 +1,35 @@
+{
+  "chainId": "hakanaslan_2525902-1",
+  "chainName": "Hakanaslan",
+  "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HKN",
+      "baseDenom": "uHKN",
+      "decimals": 18,
+      "logo": "/logos/hakanaslan_2525902-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hakanaslan_2525902-1.png",
+  "ibc": {
+    "hubChannel": "channel-8078",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x268ace",
+    "rpc": "https://froopyland.dymension.xyz/27/hakanaslan_2525902-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "hakanaslan",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FkFfV8FMre3TP2ScbmKNYr2T6SnTWThv7Lu7J8VejHeHumo"
+}

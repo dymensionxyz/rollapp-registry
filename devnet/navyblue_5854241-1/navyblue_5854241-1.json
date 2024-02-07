@@ -1,0 +1,33 @@
+{
+    "chainId": "navyblue_5854241-1",
+    "chainName": "navyblue",
+    "rpc": "https://froopyland.dymension.xyz/13/navyblue_5854241-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/13/navyblue_5854241-1/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "demone",
+            "baseDenom": "udemone",
+            "decimals": 18,
+            "logo": "/logos/navyblue_5854241-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/navyblue_5854241-1.png",
+    "ibc": {
+        "hubChannel": "channel-6447",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x595421",
+        "rpc": "https://froopyland.dymension.xyz/13/navyblue_5854241-1/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "",
+    "analytics": true
+}

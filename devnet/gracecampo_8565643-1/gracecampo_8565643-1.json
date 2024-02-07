@@ -1,0 +1,35 @@
+{
+  "chainId": "gracecampo_8565643-1",
+  "chainName": "gracecampo",
+  "rpc": "https://rpc.gracecampo.online",
+  "rest": "https://rest.gracecampo.online",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GRAC",
+      "baseDenom": "uGRAC",
+      "decimals": 18,
+      "logo": "/logos/gracecampo_8565643-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://gracecampo.online",
+  "logo": "/logos/gracecampo_8565643-1.png",
+  "ibc": {
+    "hubChannel": "channel-8453",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x82b38b",
+    "rpc": "http://evm.gracecampo.online"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GLLi9Lzqg9VciFaRinJyot5egKfcFBJSTqYQFjEaHH1PPsT"
+}

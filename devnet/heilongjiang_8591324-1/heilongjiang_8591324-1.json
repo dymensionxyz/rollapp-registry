@@ -1,0 +1,34 @@
+{
+  "chainId": "heilongjiang_8591324-1",
+  "chainName": "Heilongjiang",
+  "rpc": "https://froopyland.dymension.xyz/14/heilongjiang_8591324-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/14/heilongjiang_8591324-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "long",
+      "baseDenom": "ulong",
+      "decimals": 18,
+      "logo": "/logos/heilongjiang_8591324-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/heilongjiang_8591324-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-6449",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8317dc",
+    "rpc": "https://froopyland.dymension.xyz/14/heilongjiang_8591324-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
+

@@ -1,0 +1,35 @@
+{
+  "chainId": "szobody_2093729-1",
+  "chainName": "Szobody",
+  "rpc": "https://froopyland.dymension.xyz/24/szobody_2093729-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/szobody_2093729-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SZO",
+      "baseDenom": "uSZO",
+      "decimals": 18,
+      "logo": "/logos/szobody_2093729-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/szobody_2093729-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7902",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1ff2a1",
+    "rpc": "https://froopyland.dymension.xyz/24/szobody_2093729-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CM64ZJRUn7ZaRnY34yu7kXNZUEZgaTzfVSJnjSYeG3jyy2T"
+}

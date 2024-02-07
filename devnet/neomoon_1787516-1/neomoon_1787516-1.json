@@ -1,0 +1,33 @@
+{
+    "chainId": "neomoon_1787516-1",
+    "chainName": "Neomoon",
+    "rpc": "https://dymrollapp-rpc.coanda.live",
+    "rest": "https://dymrollapp-rest.coanda.live",
+    "bech32Prefix": "ethm",
+    "currencies": [
+        {
+            "displayDenom": "moon",
+            "baseDenom": "umoon",
+            "decimals": 18,
+            "logo": "/logos/neomoon_1787516-1.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://coanda.live",
+    "logo": "/logos/neomoon_1787516-1.png",
+    "ibc": {
+        "hubChannel": "channel-6750",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+        "chainId": "0x1b467c",
+        "rpc": "https://dymrollapp-jsonrpc.coanda.live"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "Empowering dym network with safe, swift and seamless Apps",
+    "analytics": true
+}
