@@ -1,8 +1,8 @@
 {
   "chainId": "frankeugene_7811976-1",
-  "chainName": "frankeugene-rollapp",
-  "rpc": "http://frankeugene.fun/avail/rpc",
-  "rest": "http://frankeugene.fun/avail/rest",
+  "chainName": "frankeugene_7811976-1",
+  "rpc": "https://rpc.frankeugene.fun",
+  "rest": "https://rest.frankeugene.fun",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,11 +24,11 @@
   },
   "evm": {
     "chainId": "0x773388",
-    "rpc": "http://frankeugene.fun/avail/evm"
+    "rpc": "https://evm.frankeugene.fun"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "3072 Game Dapp",
   "analytics": true,
   "goldberg": true,
   "availAddress": "5GKsac6c5hbxGQ9E1Fn2WsoebR1Hk8o6Hn68q9fuTKD6sXic"
