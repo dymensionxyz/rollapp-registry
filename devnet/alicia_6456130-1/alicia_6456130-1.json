@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/11/alicia_6456130-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Alicia's RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CuAtGAFGJk3A1KYLYwFucUr7pTe7rXei47t4aiegWRBWzMu"
 }
 

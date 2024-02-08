@@ -26,8 +26,9 @@
     "chainId": "0x93294b",
     "rpc": "https://froopyland.dymension.xyz/26/kendinecrypto_9644363-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "kendinecrypto avail rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EL5SFLC1JDNEbhXi9aD4XdHden8kKC6WiqRzWz3knnC3zqb"
 }

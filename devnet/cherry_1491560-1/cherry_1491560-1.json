@@ -1,0 +1,35 @@
+{
+  "chainId": "cherry_1491560-1",
+  "chainName": "cherry_1491560-1",
+  "rpc": "http://37.27.42.54:26657",
+  "rest": "http://37.27.42.54:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CHRY",
+      "baseDenom": "uCHRY",
+      "decimals": 18,
+      "logo": "/logos/cherry_1491560-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cherry_1491560-1.png",
+  "ibc": {
+    "hubChannel": "channel-8812",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x16c268",
+    "rpc": "http://37.27.42.54:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HCGJp4JUKDqvhzcjwHv8YnrZVEs2wpskP4yKfsyo6tM7x1F"
+}

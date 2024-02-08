@@ -1,33 +1,35 @@
 {
-    "chainId": "rantel_1555255-1",
-    "chainName": "rantel",
-    "rpc": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rpc",
-    "rest": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rest",
-    "bech32Prefix": "ethm",
-    "currencies": [
-      {
-        "displayDenom": "RTL",
-        "baseDenom": "uRTL",
-        "decimals": 18,
-        "logo": "/logo/rantel_1555255.jpg",
-        "type": "main"
-      }
-    ],
-    "coinType": 60,
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-    "website": "https://linktr.ee/rantel",
-    "logo": "/logo/rantel_1555255.jpg",
-    "ibc": {
-      "hubChannel": "channel-8004",
-      "channel": "channel-0",
-      "timeout": 172800000
-    },
-    "evm": {
-      "chainId": "0x17bb37",
-      "rpc": "https://froopyland.dymension.xyz/25/rantel_1555255-1/evmrpc"
-    },
-    "type": "RollApp",
-    "da": "Celestia",
-    "description": "",
-    "analytics": true
-  }
+  "chainId": "rantel_1555255-1",
+  "chainName": "rantel",
+  "rpc": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/rantel_1555255-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RTL",
+      "baseDenom": "uRTL",
+      "decimals": 18,
+      "logo": "/logos/rantel_1555255.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://linktr.ee/rantel",
+  "logo": "/logos/rantel_1555255.jpg",
+  "ibc": {
+    "hubChannel": "channel-8004",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17bb37",
+    "rpc": "https://froopyland.dymension.xyz/25/rantel_1555255-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Playing for fun",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FZ3w1YQxPKHVzv58jCh7V1KuA9EV5PLMJwESJE2z6ewb59B"
+}

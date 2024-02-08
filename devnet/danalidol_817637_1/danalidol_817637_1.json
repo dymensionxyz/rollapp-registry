@@ -1,0 +1,35 @@
+{
+  "chainId": "danalidol_8171637-1",
+  "chainName": "danalidol_8171637-1",
+  "rpc": "http://38.242.209.157:26657",
+  "rest": "http://38.242.209.157:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "idol",
+      "baseDenom": "uidol",
+      "decimals": 18,
+      "logo": "/logos/danalidol_8171637-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/danalidol_8171637-1.png",
+  "ibc": {
+    "hubChannel": "channel-8667",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7cb075",
+    "rpc": "http://38.242.209.157:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "availproject.org",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CX13eUdR7XFLQbdd8qRzg8DTaUsSowAq6d7VFfUNxpeQwRB"
+}

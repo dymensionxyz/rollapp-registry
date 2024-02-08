@@ -18,8 +18,8 @@
   "website": "",
   "logo": "/logos/ecamli_5793626-1.png",
   "ibc": {
-    "hubChannel": "channel-5931",
-    "channel": "channel-0",
+    "hubChannel": "channel-9227",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/8/ecamli_5793626-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ESFn2qvwbCzVfb6NsBcVMkCn6QzUC2VvmEDJs4k6n4yGqzo"
 }
