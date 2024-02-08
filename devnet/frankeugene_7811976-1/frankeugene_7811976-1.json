@@ -1,0 +1,35 @@
+{
+  "chainId": "frankeugene_7811976-1",
+  "chainName": "frankeugene_7811976-1",
+  "rpc": "https://rpc.frankeugene.fun",
+  "rest": "https://rest.frankeugene.fun",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FRUG",
+      "baseDenom": "uFRUG",
+      "decimals": 18,
+      "logo": "/logos/frankeugene_7811976-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/frankeugene_7811976-1.png",
+  "ibc": {
+    "hubChannel": "channel-8457",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x773388",
+    "rpc": "https://evm.frankeugene.fun"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "3072 Game Dapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GKsac6c5hbxGQ9E1Fn2WsoebR1Hk8o6Hn68q9fuTKD6sXic"
+}
