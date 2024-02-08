@@ -28,8 +28,9 @@
     "rpc": "https://dymevmrpc.owlstake.com"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5E76kg7pV6mva3Hq63oTiiMwP4ybJngjqv7FVgX8nTugoaei",
   "description": "Owlstake NFT Marketplace",
-  "analytics": true,
-  "rewards": true
+  "analytics": true
 }
