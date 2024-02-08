@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/24/secard_1563833-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "SECARD rollapp",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "validator": true,
+  "availAddress": "5D58exFNHjsz5MDxqNZNFaFAJJqXtoNzxHeLTbjuYnQ3aQUJ"
 }
