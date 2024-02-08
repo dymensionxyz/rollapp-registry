@@ -1,0 +1,35 @@
+{
+  "chainId": "sontr_6491350-1",
+  "chainName": "sontr_6491350-1",
+  "rpc": "http://165.232.41.109:26657",
+  "rest": "http://165.232.41.109:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "str",
+      "baseDenom": "ustr",
+      "decimals": 18,
+      "logo": "/logos/sontr_6491350-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sontr_6491350-1.png",
+  "ibc": {
+    "hubChannel": "channel-8486",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x630cd6",
+    "rpc": "http://165.232.41.109:8445"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "sontr",
+  "goldberg": true,
+  "availAddress": "5DqQWD2YM44ivT6HkhohrizhdmAWxWJPeJzsbXBv9N39oNsP",
+  "analytics": true
+}

@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "RuesCommunityBBX",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DXcDA9V31n23ENaDY3rdf3D6Q2z44RpQQDT96XXPXU7ue1A"
 }

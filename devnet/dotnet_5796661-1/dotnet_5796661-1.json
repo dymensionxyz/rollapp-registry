@@ -1,0 +1,35 @@
+{
+  "chainId": "dotnet_5796661-1",
+  "chainName": "Roller DOTNET Vietnam",
+  "rpc": "104.248.246.132:26657",
+  "rest": "104.248.246.132:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DOT",
+      "baseDenom": "uDOT",
+      "decimals": 18,
+      "logo": "/logos/dotnet_5796661-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/dotnet_5796661-1.png",
+  "ibc": {
+    "hubChannel": "channel-8691",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x587335",
+    "rpc": "104.248.246.132:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Roller DOTNET Vietnam",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FcKP2FEmmyMJrXssbgZavG3CoXk1qxNfC36GhAA3pKbnx6U"
+}

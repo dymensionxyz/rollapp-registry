@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/11/ckaarraapp_5833550-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "avail",
+  "description": "This is the fastest rollapp on the WORLD. TRY IT !",
   "analytics": true
+  "goldberg": true
+  "availAddress": "5DRvctg1WkMM3x55Mogx67SLCrKn28XRHAFTtem6MwxcnfjY "
 }

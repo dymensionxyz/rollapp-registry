@@ -24,11 +24,11 @@
         "channel": "channel-34"
     },
     "gasPriceSteps": {
-        "low": 0.01,
-        "average": 0.025,
-        "high": 0.03
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
     },
-    "logo": "/logos/usdc-logo.svg",
+    "logo": "/logos/noble-icon.png",
     "type": "Regular",
     "analytics": false,
     "website": ""
