@@ -1,0 +1,33 @@
+{
+    "chainId": "cosmoshub-4",
+    "chainName": "Cosmos Hub",
+    "rpc": "https://cosmoshub-rpc.lavenderfive.com",
+    "rest": "https://cosmoshub-api.lavenderfive.com",
+    "explorerUrl": "https://www.mintscan.io/cosmos/",
+    "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
+    "active": false,
+    "bech32Prefix": "cosmos",
+    "currencies": [
+        {
+            "displayDenom": "ATOM",
+            "baseDenom": "uatom",
+            "decimals": 6,
+            "logo": "/logos/cosmos-hub-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "",
+        "channel": ""
+    },
+    "gasPriceSteps": {
+        "low": 0.01,
+        "average": 0.025,
+        "high": 0.03
+    },
+    "logo": "/logos/cosmos-hub-logo.svg",
+    "type": "Regular",
+    "website": "https://cosmos.network/"
+}
