@@ -1,8 +1,8 @@
 {
     "chainId": "anynodes_6822400-1",
     "chainName": "AnyNodes",
-    "rpc": "http:/198.135.53.221:26657",
-    "rest": "http:/198.135.53.221:1317",
+    "rpc": "https://anynodes.org/avail-dym/rpc",
+    "rest": "https://anynodes.org/avail-dym/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x681a00",
-      "rpc": "http:/198.135.53.221:8545"
+      "rpc": "https://anynodes.org/avail-dym/evmrpc"
     },
     "type": "RollApp",
     "da": "Avail",
