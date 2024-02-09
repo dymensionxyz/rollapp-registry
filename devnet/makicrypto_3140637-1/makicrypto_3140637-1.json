@@ -1,8 +1,8 @@
 {
   "chainId": "makicrypto_3140637-1",
   "chainName": "makicrypto_3140637-1",
-  "rpc": "http://146.70.74.212:26657",
-  "rest": "http://146.70.74.212:1317",
+  "rpc": "http://185.215.166.14:26657",
+  "rest": "http://185.215.166.14:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2fec1d",
-    "rpc": "http://146.70.74.212:8545"
+    "rpc": "http://185.215.166.14:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
