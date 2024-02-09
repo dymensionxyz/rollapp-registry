@@ -1,0 +1,33 @@
+{
+  "chainId": "sargesmith_2051571-1",
+  "chainName": "sargesmith",
+  "rpc": "http://84.247.142.67:26657",
+  "rest": "http://84.247.142.67:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SAR",
+      "baseDenom": "uSAR",
+      "decimals": 18,
+      "logo": "/logos/sargesmith_2051571-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "⁠Dymension⁠🚰・froopyland-faucet",
+  "website": "https://twitter.com/ShittuIsraelOl2",
+  "logo": "/logos/sargesmith_2051571-1.png",
+  "ibc": {
+    "hubChannel": "channel-9209",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1f4df3",
+    "rpc": "http://84.247.142.67:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "sargesmith is a blockchain, security, node operator and enthusiast",
+  "analytics": true
+}
