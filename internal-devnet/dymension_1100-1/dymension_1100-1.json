@@ -1,11 +1,11 @@
 {
-    "chainId": "blumbus_111-1",
-    "chainName": "Dymension Blumbus",
-    "rpc": "https://blumbus.blockpi.network/rpc/v1/6da67406c258d5e7849590c843ae7d7324d03079",
-    "rest": "https://blumbus.blockpi.network/lcd/v1/6da67406c258d5e7849590c843ae7d7324d03079",
+    "chainId": "dymension_1100-1",
+    "chainName": "Dymension",
+    "rpc": "https://froopyland.dymension.xyz/29/gentes1_2_24/rpc",
+    "rest": "https://froopyland.dymension.xyz/29/gentes1_2_24/rest",
     "evm": {
-        "chainId": "0x6F",
-        "rpc": "https://blumbus-evm.blockpi.network/v1/rpc/dbeb685fec89bc544f4316bd1b70e9eb4c23df89"
+        "chainId": "0x44C",
+        "rpc": "https://froopyland.dymension.xyz/29/gentes1_2_24/evmrpc"
     },
     "explorerUrl": "https://testnet.dymension.explorers.guru/",
     "exploreTxUrl": "https://testnet.dymension.explorers.guru/tx/",
@@ -21,7 +21,7 @@
     ],
     "coinType": 60,
     "validatorsLogosStorageDir": "hub",
-    "faucetUrl": "https://discord.com/channels/956961633165529098/1196803789911498763",
+    "faucetUrl": "",
     "ibc": {
         "timeout": 172800000
     },
