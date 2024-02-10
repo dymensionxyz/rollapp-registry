@@ -1,8 +1,8 @@
 {
   "chainId": "etrxcrypto_2189889-1",
-  "chainName": "Etrxcrypto",
-  "rpc": "http://68.183.187.140:26657",
-  "rest": "http://68.183.187.140:1317",
+  "chainName": "etrxcrypto_2189889-1",
+  "rpc": "https://froopyland.dymension.xyz/26/etrxcrypto_2189889-1-b/rpc",
+  "rest": "https://froopyland.dymension.xyz/26/etrxcrypto_2189889-1-b/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
   "logo": "/logos/etrxcrypto_2189889-1.png",
   "ibc": {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x216a41",
-    "rpc": "https://68.183.187.140:8545"
+    "rpc": "https://froopyland.dymension.xyz/26/etrxcrypto_2189889-1-b/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+  "da": "Avail",
+  "description": "Home for ETRx Crypto",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5EtN2uBebKgdxLXhhHSMTu9ZbwiuEiWm8N3RrV1gbaHBC7nu"
 }
