@@ -26,8 +26,11 @@
     "rpc": "https://froopyland.dymension.xyz/mytestnetrunrollapp_3448-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "description": "Discover and Unlock the HoodRun Advantage; We make the Staking Experience the fastest and safest.",
   "analytics": true,
-  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5HDgpzsaHMXksQVRafbZDCXCVZoHoc4WqpmGF73XFNVKEcts",
   "validator": true
 }
+

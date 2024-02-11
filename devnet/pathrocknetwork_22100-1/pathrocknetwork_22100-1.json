@@ -26,9 +26,10 @@
     "chainId": "0x5654",
     "rpc": "https://froopyland.dymension.xyz/10/pathrocknetwork_22100-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
+ "type": "RollApp",
+  "da": "Avail",
+  "description": "pathrocknetwork",
   "analytics": true,
-  "validator": true
+  "goldberg": true,
+  "availAddress": "5DMP384FztUPmgd9peviop6xzJkvaVg2smUJYKYJHoD9J5se"
 }

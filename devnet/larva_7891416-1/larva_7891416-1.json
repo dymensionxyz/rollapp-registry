@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/2/larva_7891416-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Cute Larva",
   "analytics": true,
-  "rewards": true
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5GBnxb2ZWqw1Ba7VMqEvDLinvviprKtFVPEP6md4a4apqREW"
 }

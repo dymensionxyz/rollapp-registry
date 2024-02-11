@@ -7,8 +7,8 @@
         "chainId": "0x6F",
         "rpc": "https://blumbus-evm.blockpi.network/v1/rpc/dbeb685fec89bc544f4316bd1b70e9eb4c23df89"
     },
-    "explorerUrl": "https://explorer.silknodes.io/blumbus/",
-    "exploreTxUrl": "https://explorer.silknodes.io/blumbus/tx/",
+    "explorerUrl": "https://testnet.dymension.explorers.guru/",
+    "exploreTxUrl": "https://testnet.dymension.explorers.guru/tx/",
     "bech32Prefix": "dym",
     "currencies": [
         {

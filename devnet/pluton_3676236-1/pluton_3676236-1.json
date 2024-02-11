@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x38184c",
-    "rpc": ""
+    "rpc": "https://froopyland.dymension.xyz/21/pluton_3676236-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "https://froopyland.dymension.xyz/21/pluton_3676236-1/evmrpc",
-  "analytics": true
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HMZ45NfuLEdZN3EffzA6TP7j6TYhMx7xjjLkzixCReBerMn"
 }

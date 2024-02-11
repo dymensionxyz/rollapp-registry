@@ -27,6 +27,8 @@
     "rpc": "https://froopyland.dymension.xyz/4/linettedo_2371756-1/evmrpc"
   },
   "type": "RollApp",
+  "goldberg": true,
+  "availAddress": "5FF3X4VSSggeMkt4q5gEQHoQZmydTaznj72qr2ri87eYNMMP",
   "da": "Avail",
   "description": "",
   "analytics": true,
