@@ -1,8 +1,8 @@
 {
   "chainId": "marsapp_1608860-1",
-  "chainName": "MAR_APP",
-  "rpc": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/rest",
+  "chainName": "MARS1F",
+  "rpc": "http://144.91.115.107:26657",
+  "rest": "http://144.91.115.107:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,6 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
   "logo": "/logos/marsapp_1608860-1.png",
   "ibc": {
     "hubChannel": "channel-5354",
@@ -23,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x188c9c",
-    "rpc": "https://froopyland.dymension.xyz/2/marsapp_1608860-1/evmrpc"
+    "rpc": "http://144.91.115.107:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "description": "",
   "analytics": true,
-  "rewards": true
+   "goldberg": true,
+  "availAddress": "5E4KjxxYZXiT1DdhaFX12HzKDpQRSPg5A7kbRs9NWoq95fjs"
 }
