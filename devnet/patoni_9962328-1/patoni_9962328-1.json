@@ -23,7 +23,7 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x5654",
+    "chainId": "0x980358",
     "rpc": "https://froopyland.dymension.xyz/26/patoni_9962328-1/evmrpc"
   },
   "type": "RollApp",
