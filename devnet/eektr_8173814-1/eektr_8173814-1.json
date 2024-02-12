@@ -1,8 +1,8 @@
 {
   "chainId": "eektr_8173814-1",
   "chainName": "eektr_8173814-1",
-  "rpc": "http://62.171.168.114:26657",
-  "rest": "http://62.171.168.114:1317",
+  "rpc": "https://rpc.eektravail.click/",
+  "rest": "https://rest.eektravail.click/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
