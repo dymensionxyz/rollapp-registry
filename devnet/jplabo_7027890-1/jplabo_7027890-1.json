@@ -1,0 +1,35 @@
+{
+    "chainId": "jplabo_7027890-1",
+    "chainName": "jplabo_7027890-1",
+    "rpc": "http://161.97.69.244:26657",
+    "rest": "http://161.97.69.244:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "DYM",
+        "baseDenom": "uDYM",
+        "decimals": 18,
+        "logo": "/logos/jplabo_7027890-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/jplabo_7027890-1.png",
+    "ibc": {
+      "hubChannel": "channel-8814",
+      "channel": "channel-1",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x115A1",
+      "rpc": "http://161.97.69.244:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "This is jplabo RollApp.",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5D8GhuuzAw1PogxTKcZwD6E9e2NamodetdwmHM58wM9SJ1Xx"
+  }
