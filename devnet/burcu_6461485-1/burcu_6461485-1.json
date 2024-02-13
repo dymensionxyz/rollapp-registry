@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/4/burcu_6461485-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ES2EeFSn6ZS3NeYmqYMtUiss8KHu9H7z8s6QUk8PBSYWvcc",
   "rewards": true
 }
