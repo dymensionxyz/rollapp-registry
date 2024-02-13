@@ -1,0 +1,33 @@
+{
+  "chainId": "billion_8019247-1",
+  "chainName": "Billion",
+  "rpc": "194.34.232.174:26657",
+  "rest": "194.34.232.174/1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BLN",
+      "baseDenom": "uBLN",
+      "decimals": 18,
+      "logo": "/logos/billion_8019247-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://y.at/warning.eye.web.eye.warning",
+  "logo": "/logos/billion_8019247-1.png",
+  "ibc": {
+    "hubChannel": "channel-9642",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7a5d2f",
+    "rpc": "194.34.232.174:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Billion the rollapp for Billionaires",
+  "analytics": true
+}
