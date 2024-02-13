@@ -1,0 +1,22 @@
+{
+  "chainId": "minez_3511577-1",
+  "chainName": "minez_3511577-1",
+  "rpc": "http://217.76.62.205:26657",
+  "rest": "http://217.76.62.205:1317",
+  "chainName": "minezz",
+  "rpc": "https://froopyland.dymension.xyz/29/minez_3511577-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/29/minez_3511577-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+},
+  "evm": {
+    "chainId": "0x4aa581",
+    "rpc": "http://217.76.62.205:8545"
+    "rpc": "https://froopyland.dymension.xyz/29/minez_3511577-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "I'LL BE BACK",
+  "analytics": true
+}
