@@ -1,0 +1,32 @@
+{
+    "chainId": "noble-1",
+    "chainName": "Noble",
+    "rpc": "https://noble-rpc.polkachu.com",
+    "rest": "https://noble-api.polkachu.com",
+    "explorerUrl": "mintscan.io/noble/",
+    "exploreTxUrl": "mintscan.io/noble/txs/",
+    "bech32Prefix": "noble",
+    "active": false,
+    "currencies": [
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "",
+        "channel": ""
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/noble-icon.png",
+    "type": "Regular"
+}
