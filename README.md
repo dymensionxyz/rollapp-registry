@@ -42,7 +42,7 @@ Please follow the instructions for listing a RollApp:
     export ROLLAPP_ID=<RollApp-ID-HERE>
     ```
 
-7. Create the appropraite folders and files:
+7. Create the appropriate folders and files:
 
     ```
     cd devnet
@@ -67,7 +67,7 @@ Please follow the instructions for listing a RollApp:
     - EVM RPC \*(ONLY FOR EVM ROLLAPPS): `"http://<your-ip-or-domain>:<port>" (default port 8545)`
     - Logo path: `"/logos/<RollApp-ID>-logo.svg"`
       
-    Optinal fields:
+    Optional fields:
     - chainName: from `<RollApp-ID>`to your RollApp's name as it will appear on the Portal
     - description: add `"<Your RollApp description>",` to be displayed on the portal
     - website: add `"<your-RollApp's-url>",` to be displayed on the portal
@@ -93,4 +93,4 @@ Please follow the instructions for listing a RollApp:
 
 A community moderator will then begin a conversation with you in Discord. Please follow attentively to get the listing process fulfilled quickly.
 
-If you have any question please feel free to reach out to the coreteam and community on Discord. We're here for you!
+If you have any question please feel free to reach out to the core team and community on Discord. We're here for you!
