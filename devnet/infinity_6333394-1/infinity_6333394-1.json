@@ -1,0 +1,35 @@
+{
+  "chainId": "infinity_6333394-1",
+  "chainName": "Infinity",
+  "rpc": "http://84.247.191.59:26657",
+  "rest": "http://84.247.191.59:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "INF",
+      "baseDenom": "uINF",
+      "decimals": 18,
+      "logo": "/logos/infinity_6333394-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/infinity_6333394-1.png",
+  "ibc": {
+    "hubChannel": "channel-9194",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x60a3d2",
+    "rpc": "84.247.191.59:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Safe app of dymension",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ecfa5mb1fJdpXSebSXqYVa8NCuPV5c6cbKVh1PKgNZxoYfv"
+}
