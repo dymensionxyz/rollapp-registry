@@ -1,0 +1,36 @@
+{
+  "chainId": "ademesin_9251334-1",
+  "chainName": "ademesin",
+  "rpc": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ASX",
+      "baseDenom": "uASX",
+      "decimals": 18,
+      "logo": "/logos/ademesin_9251334-1.PNG",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ademesin_9251334-1.PNG",
+  "ibc": {
+    "hubChannel": "channel-8323",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8d2a06",
+    "rpc": "https://froopyland.dymension.xyz/28/ademesin_9251334-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GsMLhLPjJcsDUCEDQCZ5hJ4bt432ns6Gzsebymetg8AwrJH",
+  "validator": true
+}

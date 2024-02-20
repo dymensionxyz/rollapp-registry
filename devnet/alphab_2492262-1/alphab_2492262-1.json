@@ -1,0 +1,34 @@
+{
+  "chainId": "alphab_2492262-1",
+  "chainName": "alphab",
+  "rpc": "https://rpc-rollap.alphab.ai",
+  "rest": "https://api-rollap.alphab.ai",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "int",
+      "baseDenom": "uint",
+      "decimals": 18,
+      "logo": "/logos/alphab_2492262-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/alphab_2492262-1.png",
+  "ibc": {
+    "hubChannel": "channel-7194",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x260766",
+    "rpc": "https://alphab.ai/rpc/eth/alphab_rollap"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true,
+  "validator": true
+}

@@ -1,0 +1,33 @@
+{
+  "chainId": "chupi_7234924-1",
+  "chainName": "chupi",
+  "rpc": "https://froopyland.dymension.xyz/27/chupi_7234924-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/27/chupi_7234924-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CHUP",
+      "baseDenom": "uCHUP",
+      "decimals": 18,
+      "logo": "/logos/chupi_7234924-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/chupi_7234924-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8170",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6e656c",
+    "rpc": "https://froopyland.dymension.xyz/27/chupi_7234924-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

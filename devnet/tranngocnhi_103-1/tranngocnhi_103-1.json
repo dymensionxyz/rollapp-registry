@@ -1,0 +1,33 @@
+{
+  "chainId": "tranngocnhi_103-1",
+  "chainName": "Tranngocnhi",
+  "rpc": "https://froopyland.dymension.xyz/3/tranngocnhi_103-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/3/tranngocnhi_103-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TNN",
+      "baseDenom": "uTNN",
+      "decimals": 18,
+      "logo": "/logos/tranngocnhi_103-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "logo": "/logos/tranngocnhi_103-1.png",
+  "ibc": {
+    "hubChannel": "channel-5309",
+    "channel": "channel-8",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x67",
+    "rpc": "https://froopyland.dymension.xyz/3/tranngocnhi_103-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "analytics": true,
+  "rewards": false,
+  "active": false
+}

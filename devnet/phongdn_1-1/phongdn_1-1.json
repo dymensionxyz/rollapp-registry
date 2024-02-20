@@ -1,0 +1,34 @@
+  {
+    "da": "Avail",
+    "rpc": "https://froopyland.dymension.xyz/phongdn_1-1/rpc",
+    "chainName": "PhongDn",
+    "rest": "https://froopyland.dymension.xyz/phongdn_1-1/rest",
+    "evm": {
+      "chainId": "0x1",
+      "rpc": "https://froopyland.dymension.xyz/phongdn_1-1/evmrpc"
+    },
+    "description": "Mr. PDN's personal project",
+    "type": "RollApp",
+    "coinType": 60,
+    "ibc": {
+      "timeout": 172800000,
+      "channel": "channel-0",
+      "hubChannel": "channel-2"
+    },
+    "logo": "/logos/phongdn_1_1.png",
+    "chainId": "phongdn_1-1",
+    "currencies": [
+      {
+        "baseDenom": "uRAX",
+        "decimals": 18,
+        "logo": "/logos/phongdn_1_1.png",
+        "displayDenom": "RAX",
+        "type": "main"
+      }
+    ],
+    "bech32Prefix": "ethm",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5GvLUhRxUufFmF4dxoao6KEMCSGDWVtDQHSgf3nqNX7Bmg8m",
+    "rewards": true
+  }

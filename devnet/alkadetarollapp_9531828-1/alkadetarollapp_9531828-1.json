@@ -1,0 +1,35 @@
+{
+  "chainId": "alkadetarollapp_9531828-1",
+  "chainName": "alkadeta",
+  "rpc": "https://froopyland.dymension.xyz/24/alkadetarollapp_9531828-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/alkadetarollapp_9531828-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "alka",
+      "baseDenom": "ualka",
+      "decimals": 18,
+      "logo": "/logos/alkadetarollapp_9531828-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/alkadetarollapp_9531828-1.png",
+  "ibc": {
+    "hubChannel": "channel-8107",
+    "channel": "channel-3",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x9171b4",
+    "rpc": "https://froopyland.dymension.xyz/24/alkadetarollapp_9531828-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5ERrWCTXb41ckD1FLBaLQKT1SUCrGo91GHpj5tanGUA142VP",
+  "description": "alkadeta",
+  "analytics": true
+}

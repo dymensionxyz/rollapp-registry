@@ -1,0 +1,33 @@
+{
+  "chainId": "wulahu_1612227-1",
+  "chainName": "wulahu",
+  "rpc": "https://froopyland.dymension.xyz/17/wulahu_1612227-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/17/wulahu_1612227-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "dym",
+      "baseDenom": "udym",
+      "decimals": 18,
+      "logo": "/logos/wulahu_1612227-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/wulahu_1612227-1.png",
+  "ibc": {
+    "hubChannel": "channel-6739",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1899c3",
+    "rpc": "https://froopyland.dymension.xyz/17/wulahu_1612227-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}

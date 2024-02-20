@@ -1,0 +1,34 @@
+{
+  "chainId": "contributiondao_8542414-1",
+  "chainName": "Contributiondao",
+  "rpc": "https://rpc-froopyland-dymension.contributiondao.com",
+  "rest": "https://rest-froopyland-dymension.contributiondao.com",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CDAO",
+      "baseDenom": "uCDAO",
+      "decimals": 18,
+      "logo": "/logos/contributiondao_8542414-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://contributiondao.com/",
+  "logo": "/logos/contributiondao_8542414-1.png",
+  "ibc": {
+    "hubChannel": "channel-8013",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8258ce",
+    "rpc": "https://evmrpc-froopyland-dymension.contributiondao.com"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Bootstrapping Quality Talents and Onboarding Users to the Projects for making opportunities in Web 3.0 accessible to everyone.",
+  "analytics": true,
+  "validator": true
+}

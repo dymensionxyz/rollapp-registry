@@ -1,0 +1,36 @@
+{
+  "chainId": "squishyclown_3198391-1",
+  "chainName": "The Wojak Game",
+  "rpc": "https://froopyland.dymension.xyz/23/squishyclown_3198391-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/23/squishyclown_3198391-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SQUI",
+      "baseDenom": "uSQUI",
+      "decimals": 18,
+      "logo": "/logos/squishyclown_3198391-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://www.squishyclown.xyz/",
+  "logo": "/logos/squishyclown_3198391-1.png",
+  "ibc": {
+    "hubChannel": "channel-7794",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x30cdb7",
+    "rpc": "https://froopyland.dymension.xyz/23/squishyclown_3198391-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Wojak Game NFT Minting Page",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H3TC4AaWPJmLTSTrFAtccMV5gwFvqjmryLpaifw1GgCkwHE"
+  "active": true
+}
