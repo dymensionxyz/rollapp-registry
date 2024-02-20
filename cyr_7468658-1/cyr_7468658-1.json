@@ -1,8 +1,8 @@
 {
   "chainId": "cyr_7468658-1",
   "chainName": "cyr_7468658-1",
-  "rpc": "http://178.18.247.6:26657",
-  "rest": "http://178.18.247.6:1317",
+  "rpc": "https://twqchain.xyz/rpc",
+  "rest": "https://twqchain.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x71f672",
-    "rpc": "http://178.18.247.6:8545"
+    "rpc": "https://twqchain.xyz/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
