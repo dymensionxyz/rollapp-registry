@@ -1,8 +1,8 @@
 {
   "chainId": "pierreneter_20-1",
   "chainName": "Pierreneter",
-  "rpc": "https://froopyland.dymension.xyz/3/pierreneter_20-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/3/pierreneter_20-1/rest",
+  "rpc": "http://dym-fl-1.p10node.com:26657",
+  "rest": "http://dym-fl-1.p10node.com:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x14",
-    "rpc": "https://froopyland.dymension.xyz/3/pierreneter_20-1/evmrpc"
+    "rpc": "http://dym-fl-1.p10node.com:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5G7NpybgyF3Rid1jE37pcUkXMrLAtbQZbDKGds84ai5kH6sT",
   "analytics": true,
   "rewards": true
 }
