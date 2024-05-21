@@ -1,0 +1,33 @@
+{
+  "chainId": "ralymov_2252407-1",
+  "chainName": "electric-wizard-chain",
+  "rpc": "http://65.109.124.23:26657",
+  "rest": "http://65.109.124.23:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AVL",
+      "baseDenom": "uAVL",
+      "decimals": 18,
+      "logo": "/logos/ralymov_2252407-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://alymov.dev/",
+  "logo": "/logos/ralymov_2252407-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8404",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x225e77",
+    "rpc": "http://65.109.124.23:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "test",
+  "analytics": true
+}
