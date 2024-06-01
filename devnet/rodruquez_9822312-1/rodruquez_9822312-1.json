@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/12/rodruquez_9822312-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "rodruquez",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EXLp6Uj1kTy7KU8W7zkV9dkw9iFjksfcDXLAat9XRPZrMik"
 }
