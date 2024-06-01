@@ -1,0 +1,16 @@
+{
+  "chainId": "visroll_4230090-1",
+  "chainName": "visroll",
+  "rpc": "https://rollappevm-26657-visroll.bk7bbm.oss-acorn.io",
+  "rest": "https://rollappevm-1317-visroll.bk7bbm.oss-acorn.io",
+  "bech32Prefix": "ethm",
+  "currencies": [{ "baseDenom": "uVRT", "displayDenom": "VRT", "type": "main", "decimals": 18, "logo": "/logos/visroll_4230090-1.png" }],
+  "coinType": 60,
+  "logo": "/logos/visroll_4230090-1.png",
+  "ibc": { "hubChannel": "", "timeout": 172800000, "channel": "channel-0" },
+  "evm": { "chainId": "0x408bca", "rpc": "https://rollappevm-8545-visroll.bk7bbm.oss-acorn.io" },
+  "type": "RollApp",
+  "da": "celestia",
+  "analytics": true,
+  "rewards": true
+}
