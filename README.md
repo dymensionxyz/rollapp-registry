@@ -81,7 +81,7 @@ Please follow the instructions for listing a RollApp:
     git push -u origin main
     ```
 
-12. Create a PR to https://github.com/dymensionXYZ/rollapp-registry.
+12. Create a PR to https://github.com/dymensionxyz/rollapp-registry/tree/main/devnet.
 
     For a demonstration of a step-by-step guide to creating a PR please follow the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or watch this helpful [youtube video](https://www.youtube.com/watch?v=a_FLqX3vGR4).
 
