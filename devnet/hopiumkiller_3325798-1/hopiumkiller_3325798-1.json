@@ -1,0 +1,33 @@
+{
+  "chainId": "hopiumkiller_3325798-1",
+  "chainName": "hopiumkiller_3325798-1",
+  "rpc": "http://167.86.117.218:26657",
+  "rest": "http://167.86.117.218:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HOK",
+      "baseDenom": "uHOK",
+      "decimals": 18,
+      "logo": "/logos/hopiumkiller_3325798-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hopiumkiller_3325798-1.png",
+  "ibc": {
+    "hubChannel": "channel-8902",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x32bf66",
+    "rpc": "http://167.86.117.218:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
