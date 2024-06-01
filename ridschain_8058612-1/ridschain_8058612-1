@@ -1,0 +1,33 @@
+{
+  "chainId": "ridschain_8058612-1",
+  "chainName": "ridschain_8058612-1",
+  "rpc": "http://62.171.174.205:26657",
+  "rest": "http://62.171.174.205:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "RDS",
+      "baseDenom": "uRDS",
+      "decimals": 18,
+      "logo": "/logos/ridschain_8058612-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ridschain_8058612-1.png",
+  "ibc": {
+    "hubChannel": "channel-9226",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7af6f4",
+    "rpc": "http://62.171.174.205:1317"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
