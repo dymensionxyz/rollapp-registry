@@ -1,0 +1,33 @@
+{
+  "chainId": "korage_7027239-1",
+  "chainName": "korage_7027239-1",
+  "rpc": "http://37.60.239.147:26657",
+  "rest": "http://37.60.239.147:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KRG",
+      "baseDenom": "uKRG",
+      "decimals": 18,
+      "logo": "/logos/korage_7027239-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://chat.whatsapp.com/CpH0FSKbgJ2CZa251ZYxtP",
+  "logo": "/logos/korage_7027239-1.png",
+  "ibc": {
+    "hubChannel": "channel-9207",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6b3a27",
+    "rpc": "http://37.60.239.147:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Korage is a PoS validator and shares installation node guides to beginners",
+  "analytics": true
+}
