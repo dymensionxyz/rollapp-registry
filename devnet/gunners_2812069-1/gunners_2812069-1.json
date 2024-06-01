@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5GuTSY7gJH3imR62G1nzM2wBjLL6AdKyyWgbHHDkLEzYrdju",
   "description": "Two-Gun Tumble, Western PVP shooter.",
   "analytics": true,
   "rewards": true,
