@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/9/koltigin_1540493-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Always forward with the Anatolian Team",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CwAzDdtkhYUVHnGeUcob8k2uyJPHH2TxXGhwEdCnnUZqxpc"
 }
