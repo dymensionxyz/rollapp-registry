@@ -1,0 +1,35 @@
+{
+    "chainId": "anynodes_6822400-1",
+    "chainName": "AnyNodes",
+    "rpc": "https://anynodes.org/avail-dym/rpc",
+    "rest": "https://anynodes.org/avail-dym/rest",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "ANY",
+        "baseDenom": "uANY",
+        "decimals": 18,
+        "logo": "/logos/anynodes_6822400-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/anynodes_6822400-1.png",
+    "ibc": {
+      "hubChannel": "channel-9300",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x681a00",
+      "rpc": "https://anynodes.org/avail-dym/evmrpc"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "we run anynodes",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5F4XYqC4wcJgTR9N3UmPoG8uZEvmJXGmrw2ABASzzrCktZWD"
+}
