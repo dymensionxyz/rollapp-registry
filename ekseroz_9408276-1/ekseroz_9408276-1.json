@@ -1,0 +1,33 @@
+{
+  "chainId": "ekseroz_9408276-1",
+  "chainName": "ekseroz_9408276-1",
+  "rpc": "http://116.202.108.39:26657",
+  "rest": "http://116.202.108.39:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ERK",
+      "baseDenom": "uERK",
+      "decimals": 18,
+      "logo": "/logos/ekseroz_9408276-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ekseroz_9408276-1.png",
+  "ibc": {
+    "hubChannel": "channel-7441",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8f8f14",
+    "rpc": "http://116.202.108.39:1317"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
