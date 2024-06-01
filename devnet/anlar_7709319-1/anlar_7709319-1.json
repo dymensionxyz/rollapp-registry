@@ -1,0 +1,35 @@
+{
+  "chainId": "anlar_7709319-1",
+  "chainName": "anlar_7709319-1",
+  "rpc": "http:/95.217.188.226:26657",
+  "rest": "http:/95.217.188.226:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "alr",
+      "baseDenom": "ualr",
+      "decimals": 18,
+      "logo": "/logos/anlar_7709319-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/anlar_7709319-1.png",
+  "ibc": {
+    "hubChannel": "channel-8554",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x75a287",
+    "rpc": "http:/95.217.188.226:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5H9MkZcakkxRbtPzq33iKfzrJPQir4rL96yDM1nCq9A4jTPr",
+  "analytics": true
+}
