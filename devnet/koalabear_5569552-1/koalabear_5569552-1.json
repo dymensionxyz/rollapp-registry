@@ -1,0 +1,35 @@
+{
+  "chainId": "koalabear_5569552-1",
+  "chainName": "koalabear_5569552-1",
+  "rpc": "https://rpc.avail.koalanodes.xyz",
+  "rest": "https://rest.avail.koalanodes.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KLA",
+      "baseDenom": "uKLA",
+      "decimals": 18,
+      "logo": "/logos/koalabear_5569552-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://faucet.avail.koalanodes.xyz",
+  "website": "https://app.avail.koalanodes.xyz",
+  "logo": "/logos/koalabear_5569552-1.png",
+  "ibc": {
+    "hubChannel": "channel-8609",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x54fc10",
+    "rpc": "https://rpcevm.avail.koalanodes.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5F4cJFpr4WDa5rN6xN6aPuCPbNq6nNZhwESXKZCzcuGrTfJq"
+}
