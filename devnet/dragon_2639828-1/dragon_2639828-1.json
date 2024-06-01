@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/6/dragon_2639828-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "Dragon World",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FtCc48tdNZzivV9UopnoWNTuidMYykFgEG3wo8XhSq5xA6D"
 }
