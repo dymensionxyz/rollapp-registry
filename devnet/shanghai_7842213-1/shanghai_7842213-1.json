@@ -1,0 +1,36 @@
+{
+  "chainId": "shanghai_7842213-1",
+  "chainName": "SHH Roller",
+  "rpc": "https://v1.ac094.xyz/rpc",
+  "rest": "https://v1.ac094.xyz/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SHH",
+      "baseDenom": "uSHH",
+      "decimals": 18,
+      "logo": "/logos/shanghai_7842213-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/shanghai_7842213-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8499",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x77a9a5",
+    "rpc": "https://v1.ac094.xyz/evm/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "welcome to my dymension world,The internet of Rollapps,let's explorer modular blockchains world.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GByZAzmEYZsorYurQeC5GkV3MLzDKmErrdPdy4EyEP5NRtQ"
+}
+
