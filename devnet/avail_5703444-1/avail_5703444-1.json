@@ -1,0 +1,33 @@
+{
+  "chainId": "avail_5703444-1",
+  "chainName": "avail_5703444-1",
+  "rpc": "http://83.171.249.252:26657",
+  "rest": "http://83.171.249.252:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "avail",
+      "baseDenom": "uavail",
+      "decimals": 18,
+      "logo": "/logos/avail_5703444-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/avail_5703444-1.png",
+  "ibc": {
+    "hubChannel": "channel-8777",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x570714",
+    "rpc": "http://83.171.249.252:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
