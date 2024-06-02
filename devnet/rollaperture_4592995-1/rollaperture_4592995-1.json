@@ -1,0 +1,33 @@
+{
+  "chainId": "rollaperture_4592995-1",
+  "chainName": "rollaperture_4592995-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "APER",
+      "baseDenom": "uAPER",
+      "decimals": 18,
+      "logo": "/logos/rollaperture_4592995-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rollaperture_4592995-1.png",
+  "ibc": {
+    "hubChannel": "channel-7878",
+    "channel": "channel-4",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x461563",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
