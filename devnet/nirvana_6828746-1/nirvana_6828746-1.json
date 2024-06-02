@@ -1,0 +1,33 @@
+{
+  "chainId": "nirvana_6828746-1",
+  "chainName": "nirvana_6828746-1",
+  "rpc": "http://194.233.65.95:26657",
+  "rest": "http://194.233.65.95:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NEER",
+      "baseDenom": "uNEER",
+      "decimals": 18,
+      "logo": "/logos/nirvana_6828746-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/nirvana_6828746-1.png",
+  "ibc": {
+    "hubChannel": "channel-7832",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6832ca",
+    "rpc": "http://194.233.65.95:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
