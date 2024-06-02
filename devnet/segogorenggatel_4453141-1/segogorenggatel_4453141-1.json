@@ -1,0 +1,33 @@
+{
+  "chainId": "segogorenggatel_4453141-1",
+  "chainName": "segogorenggatel_4453141-1",
+  "rpc": "http://45.79.198.63:26657",
+  "rest": "http://45.79.198.63:1337",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SGG",
+      "baseDenom": "uSGG",
+      "decimals": 18,
+      "logo": "/logos/segogorenggatel_4453141-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/segogorenggatel_4453141-1.png",
+  "ibc": {
+    "hubChannel": "channel-8252",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x43f315",
+    "rpc": "http://45.79.198.63:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
