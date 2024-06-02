@@ -1,0 +1,33 @@
+{
+  "chainId": "egemen_6513143-1",
+  "chainName": "egemen_6513143-1",
+  "rpc": "http://164.68.118.243:26657",
+  "rest": "http://164.68.118.243:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "EGM",
+      "baseDenom": "uEGM",
+      "decimals": 18,
+      "logo": "/logos/egemen_6513143-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/egemen_6513143-1.png",
+  "ibc": {
+    "hubChannel": "channel-6539",
+    "channel": "channel-1",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6361f7",
+    "rpc": "http://164.68.118.243:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
