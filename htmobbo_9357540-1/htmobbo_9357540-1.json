@@ -1,0 +1,43 @@
+{\rtf1\ansi\ansicpg1254\cocoartf2757
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\b\fs26 \cf0 \{\
+  "chainId": "htmobbo_9357540-1",\
+  "chainName": "htmobbo_9357540-1",\
+  "rpc": "159.203.19.12
+\f1\b0 :26657:26657
+\f0\b ",\
+  "rest": "159.203.19.12:1317\'94,\
+  "bech32Prefix": "ethm",\
+  "currencies": [\
+    \{\
+      "displayDenom": "htb",\
+      "baseDenom": "uhtb",\
+      "decimals": 18,\
+      "logo": "/logos/htmobbo_9357540-1.png",\
+      "type": "main"\
+    \}\
+  ],\
+  "coinType": 60,\
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",\
+  "website": "",\
+  "logo": "/logos/htmobbo_9357540-1.png",\
+  "ibc": \{\
+    "hubChannel": "channel-7359",\
+    "channel": "channel-0",\
+    "timeout": 172800000\
+  \},\
+  "evm": \{\
+    "chainId": "0x8ec8e4",\
+    "rpc": "159.203.19.12:8545\'94\
+  \},\
+  "type": "RollApp",\
+  "da": "Celestia",\
+  "description": "",\
+  "analytics": true\
+\}}
