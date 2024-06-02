@@ -1,0 +1,33 @@
+{
+  "chainId": "monkeygold_1802968-1",
+  "chainName": "Roller Front Chain",
+  "rpc": "159.69.19.165:26657",
+  "rest": "159.69.19.165:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MKG",
+      "baseDenom": "uMKG",
+      "decimals": 18,
+      "logo": "/logos/monkeygold_1802968-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/monkeygold_1802968-1.png",
+  "ibc": {
+    "hubChannel": "channel-7822",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1b82d8",
+    "rpc": "159.69.19.165:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
