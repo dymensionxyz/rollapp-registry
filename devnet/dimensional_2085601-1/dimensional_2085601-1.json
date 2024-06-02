@@ -4,7 +4,6 @@
   "rpc": "https://froopyland.dymension.xyz/25/dimensional_2085601-1/rpc",
   "rest": "https://froopyland.dymension.xyz/25/dimensional_2085601-1/rest",
   "bech32Prefix": "ethm",
-  "goldberg": true,
   "currencies": [
     {
       "displayDenom": "DMSL",
@@ -29,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "This rollapp opens a dimensional gate for users. Use wisely or may be lost in 3d space of staking, pooling, swapping!",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GBN1Y8LEooBL6ssU3p4WUvruVuEFwJjrQBG9pA3fTrVRC6F"
 }
