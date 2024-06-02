@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/14/tungstepn_3180871-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "description": "This is my rollapp",
+  "da": "Avail",
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5EqWFoApUvDsiFSjfC9eWpYrsjcqwxeWjT2dVBKYyo1Arns6"
 }
