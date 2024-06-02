@@ -27,7 +27,10 @@
     "rpc": "https://dymension-jsonrpc-rollapp.siriusnodes.uk"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5D8EK5mj7L23X6ytR1Vr2BYoVsfJKSYA1QutF5jmXenYqX5Z",
+  "rewards": true,
   "description": "",
   "analytics": true
 }
