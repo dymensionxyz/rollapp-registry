@@ -1,0 +1,33 @@
+{
+  "chainId": "nnh_3372998-1",
+  "chainName": "nnh_3372998-1",
+  "rpc": "http://172.172.243.94:26657",
+  "rest": "http://172.172.243.94:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "NNH",
+      "baseDenom": "uNNH",
+      "decimals": 18,
+      "logo": "/logos/nnh_3372998-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/nnh_3372998-1.png",
+  "ibc": {
+    "hubChannel": "channel-9298",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3377c6",
+    "rpc": "172.172.243.94:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
