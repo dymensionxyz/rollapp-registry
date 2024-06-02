@@ -14,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
+  "faucetUrl": "https://dymension-faucet.koltigin.fun/",
+  "website": "https://dymension.koltigin.fun/",
   "logo": "/logos/koltigin_1540493-1.png",
   "ibc": {
     "hubChannel": "channel-6041",
