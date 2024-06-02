@@ -1,0 +1,35 @@
+{
+  "chainId": "slazenger_2374548-1",
+  "chainName": "slazenger_2374548-1",
+  "rpc": "http://49.13.147.217:26657",
+  "rest": "http://49.13.147.217:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SLZ",
+      "baseDenom": "uSLZ",
+      "decimals": 18,
+      "logo": "/logos/slazenger_2374548-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/slazenger_2374548-1.png",
+  "ibc": {
+    "hubChannel": "channel-8581",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x243b94",
+    "rpc": "http://49.13.147.217:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Dz9MWYvncTLNfdAnQYnHb6whQa2FTTuLuTVw7eHdVs7Bqri"  
+}
