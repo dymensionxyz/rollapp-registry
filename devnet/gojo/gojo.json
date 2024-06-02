@@ -1,0 +1,33 @@
+{
+  "chainId": "gojo_8609116-1",
+  "chainName": "gojo_8609116-1",
+  "rpc": "http://82.165.211.15:26657",
+  "rest": "http://82.165.211.15:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "gojo",
+      "baseDenom": "ugojo",
+      "decimals": 18,
+      "logo": "/logos/gojo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/gojo.png",
+  "ibc": {
+    "hubChannel": "channel-8350",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x835d5c",
+    "rpc": "http://82.165.211.15:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
