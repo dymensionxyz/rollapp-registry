@@ -1,0 +1,33 @@
+{
+  "chainId": "meowbored_8358950-1",
+  "chainName": "meowbored_8358950-1",
+  "rpc": "http://rpc.meowbored.pro:26657",
+  "rest": "http://rpc.meowbored.pro:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "blued",
+      "baseDenom": "ublued",
+      "decimals": 18,
+      "logo": "/logos/meowbored_8358950-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "app.meowbored.pro",
+  "logo": "/logos/meowbored_8358950-1.png",
+  "ibc": {
+    "hubChannel": "channel-8157",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f8c26",
+    "rpc": "http://rpc.meowbored.pro:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "",
+  "analytics": true
+}
