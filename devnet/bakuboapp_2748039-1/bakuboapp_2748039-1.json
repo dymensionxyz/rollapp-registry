@@ -1,0 +1,35 @@
+{
+  "chainId": "bakuboapp_2748039-1",
+  "chainName": "bakuboapp_2748039-1",
+  "rpc": "http://95.217.134.196:26657",
+  "rest": "http://95.217.134.196:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BKB",
+      "baseDenom": "uBKB",
+      "decimals": 18,
+      "logo": "/logos/bakuboapp_2748039-1-logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/bakuboapp_2748039-1-logo.png",
+  "ibc": {
+    "hubChannel": "channel-9185",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x29ee87",
+    "rpc": "http://95.217.134.196:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Hello, World!",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HEtv817QwGqxcJgyaejp6UY6QrnXCLpDMEMxJg2DAJDnYdc"
+}
