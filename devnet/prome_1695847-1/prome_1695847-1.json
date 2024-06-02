@@ -1,0 +1,35 @@
+{
+  "chainId": "prome_1695847-1",
+  "chainName": "prome_1695847-1",
+  "rpc": "http://45.8.133.201:26657",
+  "rest": "http://45.8.133.201:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "pro",
+      "baseDenom": "upro",
+      "decimals": 18,
+      "logo": "/logos/prome_1695847-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/prome_1695847-1.png",
+  "ibc": {
+    "hubChannel": "channel-8570",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19e067",
+    "rpc": "http://45.8.133.201:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Rollup gamining platform!",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5D7FzsqjZEJLfs3NW1xwTkraowUbLPhbP8uv8qVQ6kpxJnjt"
+}
