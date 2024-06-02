@@ -30,5 +30,7 @@
   "da": "Avail",
   "description": "Join the decentralized revolution: user-friendly,financially fair, environmentally sound,and totally permissionless",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5GvSkAdfKXnADRFfWqatp1X1Q2kTksG2iQumTzoMFbcAzq1J"
 }
 
