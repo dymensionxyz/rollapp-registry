@@ -1,0 +1,35 @@
+{
+  "chainId": "maplesyrup_5401866-1",
+  "chainName": "maplesyrup_5401866-1",
+  "rpc": "http://135.181.227.157:26657",
+  "rest": "http://135.181.227.157:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/maplesyrup_5401866-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://maplesyrup-node.xyz",
+  "logo": "/logos/maplesyrup_5401866-1.png",
+  "ibc": {
+    "hubChannel": "channel-8950",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x526d0a",
+    "rpc": "http://135.181.227.157:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Beyond Blocks, Building Trust",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5GN66zboJk8VjQEc6UsZgzx6ZZAgLc5qPmW2uoqAeavo8AEB"
+}
