@@ -1,0 +1,33 @@
+{
+"chainId": "kakunode_5999878-1",
+"chainName": "kakunode",
+"rpc": "http://194.163.133.24:26657",
+"rest": "http://194.163.133.24:1317",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "KAKU",
+"baseDenom": "uKAKU",
+"decimals": 18,
+"logo": "/logos/kakunode_5999878-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "https://twitter.com/cryptoflame_xyz",
+"logo": "/logos/kakunode_5999878-1.png",
+"ibc": {
+"hubChannel": "channel-8694",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x5b8d06",
+"rpc": "http://194.163.133.24:8545"
+},
+"type": "RollApp",
+"da": "Avail",
+"description": "flame is a crypto OG from 2017 doing his part for decentralization",
+"analytics": true
+}
