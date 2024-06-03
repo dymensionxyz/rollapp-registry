@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/20/vourriez_7621348-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CdJe1doeBgnfwWixq5eVMGNokUzyhNrNCH2Fkve5PVHFVHB"
 }
