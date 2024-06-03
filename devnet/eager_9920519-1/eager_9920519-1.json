@@ -1,0 +1,4 @@
+RPC:"http://10.0.2.15:26657"
+REST:"http://10.0.2.15:1317"
+EVM RPC*(ONLY FOR EVM ROLLAPPS):"http://10.0.2.15:8545"
+Logo path:"logos/eager_9920519-1.png"
