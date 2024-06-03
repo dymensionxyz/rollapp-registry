@@ -32,5 +32,7 @@
   "analytics": true,
   "rewards": false,
   "active": false
+  "goldberg": true
+  "availAddress": "<avail address of your RollApp>"
 }
 
