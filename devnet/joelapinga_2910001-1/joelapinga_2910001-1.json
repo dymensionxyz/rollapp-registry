@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/19/joelapinga_2910001-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5FgmXdZE9FozPHQGnpncjCE2MQhLB7z12xnzCyj9nrmjH8Kg",
   "description": "",
   "analytics": true
 }
